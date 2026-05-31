@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Capitol Watch — Track How Congress Votes</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0a0a0b;
+      --bg-card: #141416;
+      --bg-hover: #1c1c1f;
+      --border: #252529;
+      --text: #f5f5f7;
+      --text-secondary: #86868b;
+      --text-muted: #6e6e73;
+      --accent: #5e5ce6;
+      --accent-hover: #6b69f0;
+      --blue: #0a84ff;
+      --red: #ff453a;
+      --green: #30d158;
+      --orange: #ff9f0a;
+      --purple: #bf5af2;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    a { color: var(--accent); text-decoration: none; }
+
+    /* ===== HEADER & NAV ===== */
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 14px 0;
+      background: rgba(10,10,11,0.92);
+      backdrop-filter: blur(20px);
+      position: sticky; top: 0; z-index: 100;
+    }
+    .header-inner {
+      max-width: 1200px; margin: 0 auto; padding: 0 24px;
+      display: flex; align-items: center; justify-content: space-between; gap: 16px;
+    }
+    .logo {
+      display: flex; align-items: center; gap: 10px;
+      font-weight: 700; font-size: 20px; letter-spacing: -0.5px;
+      cursor: pointer; flex-shrink: 0;
+    }
+    .logo-icon {
+      width: 32px; height: 32px;
+      background: linear-gradient(135deg, var(--accent), var(--purple));
+      border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 16px;
+    }
+    nav { display: flex; align-items: center; gap: 4px; }
+    .nav-link {
+      color: var(--text-secondary); font-size: 14px; font-weight: 500;
+      padding: 6px 12px; border-radius: 8px; cursor: pointer;
+      transition: all 0.15s; border: none; background: none; font-family: inherit;
+    }
+    .nav-link:hover { color: var(--text); background: var(--bg-hover); }
+    .nav-link.active { color: var(--text); background: var(--bg-hover); }
+
+    /* ===== LAYOUT ===== */
+    .container { max-width: 1200px; margin: 0 auto; padding: 32px 24px; }
+
+    /* ===== HERO ===== */
+    .hero { text-align: center; padding: 56px 0 40px; }
+    .hero h1 {
+      font-size: 44px; font-weight: 700; letter-spacing: -1.5px; line-height: 1.12; margin-bottom: 14px;
+      background: linear-gradient(135deg, #fff 0%, var(--accent) 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    }
+    .hero p { color: var(--text-secondary); font-size: 18px; max-width: 580px; margin: 0 auto 36px; line-height: 1.6; }
+
+    /* ===== LOOKUP AREA ===== */
+    .lookup-area {
+      display: flex; flex-direction: column; align-items: center; gap: 16px; margin-bottom: 40px;
+    }
+    .lookup-tabs {
+      display: flex; gap: 0; background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 4px; overflow: hidden;
+    }
+    .lookup-tab {
+      padding: 8px 20px; border-radius: 9px; font-size: 14px; font-weight: 500; font-family: inherit;
+      cursor: pointer; border: none; background: transparent; color: var(--text-secondary); transition: all 0.15s;
+    }
+    .lookup-tab.active { background: var(--accent); color: white; }
+    .lookup-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; width: 100%; max-width: 620px; }
+    .zip-input {
+      background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+      padding: 12px 20px; border-radius: 12px; font-size: 15px; font-family: inherit;
+      width: 200px; transition: all 0.2s; outline: none;
+    }
+    .zip-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(94,92,230,0.15); }
+    .zip-input::placeholder { color: var(--text-muted); }
+    .state-select {
+      background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+      padding: 12px 20px; border-radius: 12px; font-size: 15px; font-family: inherit;
+      min-width: 220px; cursor: pointer; transition: all 0.2s; outline: none;
+    }
+    .state-select:focus { border-color: var(--accent); }
+    .btn {
+      background: var(--accent); color: white; border: none; padding: 12px 28px;
+      border-radius: 12px; font-size: 15px; font-weight: 500; font-family: inherit;
+      cursor: pointer; transition: all 0.2s;
+    }
+    .btn:hover { background: var(--accent-hover); transform: translateY(-1px); }
+    .btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+    .btn-secondary {
+      background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+    }
+    .btn-secondary:hover { background: var(--bg-hover); transform: translateY(-1px); }
+    .zip-note { color: var(--text-muted); font-size: 12px; margin-top: 4px; }
+
+    /* ===== SEARCH BAR ===== */
+    .search-bar-wrap { margin-bottom: 20px; }
+    .search-bar {
+      width: 100%; padding: 12px 18px; border-radius: 12px;
+      background: var(--bg-card); border: 1px solid var(--border);
+      color: var(--text); font-size: 15px; font-family: inherit; outline: none; transition: all 0.2s;
+    }
+    .search-bar:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(94,92,230,0.12); }
+    .search-bar::placeholder { color: var(--text-muted); }
+
+    /* ===== LOADING ===== */
+    .loading { text-align: center; padding: 60px 0; color: var(--text-secondary); }
+    .spinner {
+      width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--accent);
+      border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ===== MEMBER CARDS ===== */
+    .section-title { font-size: 22px; font-weight: 600; margin-bottom: 16px; margin-top: 32px; }
+    .section-title:first-child { margin-top: 0; }
+    .members-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; margin-bottom: 16px; }
+
+    .member-card {
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 14px;
+      padding: 20px; cursor: pointer; transition: all 0.2s;
+      border-left: 3px solid var(--border);
+    }
+    .member-card:hover { background: var(--bg-hover); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
+    .member-card.party-R { border-left-color: var(--red); }
+    .member-card.party-D { border-left-color: var(--blue); }
+    .member-card.party-I { border-left-color: var(--purple); }
+    .member-card.hidden { display: none; }
+
+    .member-header { display: flex; align-items: center; gap: 14px; margin-bottom: 12px; }
+    .member-avatar {
+      width: 52px; height: 52px; border-radius: 50%; flex-shrink: 0; overflow: hidden;
+      background: linear-gradient(135deg, var(--accent), var(--purple));
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 600; font-size: 18px;
+    }
+    .member-avatar img {
+      width: 100%; height: 100%; object-fit: cover; border-radius: 50%; display: block;
+    }
+    .member-avatar .avatar-initial { display: none; font-weight: 600; font-size: 18px; }
+    .member-avatar.no-photo img { display: none; }
+    .member-avatar.no-photo .avatar-initial { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+
+    .member-info h3 { font-size: 15px; font-weight: 600; line-height: 1.3; }
+    .party-badge { font-size: 11px; padding: 2px 8px; border-radius: 20px; font-weight: 500; display: inline-block; margin-top: 3px; }
+    .party-D { background: rgba(10,132,255,0.15); color: var(--blue); }
+    .party-R { background: rgba(255,69,58,0.15); color: var(--red); }
+    .party-I { background: rgba(191,90,242,0.15); color: var(--purple); }
+    .member-detail { color: var(--text-secondary); font-size: 13px; line-height: 1.5; }
+    .member-stat { color: var(--text-muted); font-size: 12px; margin-top: 6px; font-style: italic; }
+
+    /* ===== DETAIL VIEW ===== */
+    .detail-view { background: var(--bg-card); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; margin-bottom: 48px; }
+    .detail-header { padding: 32px; border-bottom: 1px solid var(--border); display: flex; align-items: flex-start; gap: 20px; }
+    .detail-avatar {
+      width: 80px; height: 80px; border-radius: 50%; overflow: hidden;
+      background: linear-gradient(135deg, var(--accent), var(--purple));
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 28px; flex-shrink: 0;
+    }
+    .detail-avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+    .detail-avatar.no-photo img { display: none; }
+    .detail-info h2 { font-size: 26px; font-weight: 700; }
+    .detail-info .role { color: var(--text-secondary); font-size: 15px; margin-top: 6px; }
+    .detail-body { padding: 32px; }
+    .back-btn {
+      display: inline-flex; align-items: center; gap: 6px; color: var(--text-secondary);
+      font-size: 14px; cursor: pointer; margin-bottom: 24px; padding: 8px 12px;
+      border-radius: 8px; transition: all 0.2s; border: none; background: none; font-family: inherit;
+    }
+    .back-btn:hover { background: var(--bg-hover); color: var(--text); }
+
+    /* ===== BILL CARDS ===== */
+    .bill-card { background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; margin-bottom: 10px; transition: border-color 0.2s; }
+    .bill-card:hover { border-color: var(--text-muted); }
+    .bill-number { color: var(--accent); font-weight: 500; font-size: 13px; letter-spacing: 0.3px; }
+    .bill-title { font-size: 15px; font-weight: 500; margin: 4px 0; line-height: 1.4; }
+    .bill-meta { color: var(--text-muted); font-size: 12px; display: flex; gap: 12px; flex-wrap: wrap; }
+    .bill-summary { color: var(--text-secondary); font-size: 13px; line-height: 1.5; margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border); }
+    .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px; }
+    .pro, .con { padding: 10px 14px; border-radius: 10px; font-size: 13px; line-height: 1.5; }
+    .pro { background: rgba(48,209,88,0.08); border: 1px solid rgba(48,209,88,0.2); }
+    .pro .lbl { color: var(--green); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .con { background: rgba(255,69,58,0.08); border: 1px solid rgba(255,69,58,0.2); }
+    .con .lbl { color: var(--red); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+
+    /* ===== VOTING ===== */
+    .voting-area {
+      margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border);
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    }
+    .vote-btn {
+      padding: 6px 14px; border-radius: 8px; font-size: 13px; font-weight: 500;
+      font-family: inherit; cursor: pointer; border: 1px solid var(--border);
+      background: var(--bg); color: var(--text); transition: all 0.15s;
+    }
+    .vote-btn:hover { transform: translateY(-1px); }
+    .vote-btn.vote-approve:hover { border-color: var(--green); background: rgba(48,209,88,0.1); }
+    .vote-btn.vote-disapprove:hover { border-color: var(--red); background: rgba(255,69,58,0.1); }
+    .vote-btn:disabled { opacity: 0.4; cursor: default; transform: none; }
+    .vote-counts { color: var(--text-muted); font-size: 13px; }
+    .voter-input {
+      padding: 6px 10px; border-radius: 8px; font-size: 13px; font-family: inherit;
+      border: 1px solid var(--border); background: var(--bg-card); color: var(--text);
+      width: 140px; outline: none; transition: border-color 0.15s;
+    }
+    .voter-email { width: 190px; }
+    .voter-input:focus { border-color: var(--accent); }
+    .voter-input::placeholder { color: var(--text-muted); }
+
+    /* ===== EMPTY STATE ===== */
+    .empty-state { text-align: center; padding: 80px 0; color: var(--text-muted); }
+    .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
+    .empty-state h3 { font-size: 20px; font-weight: 600; color: var(--text-secondary); margin-bottom: 8px; }
+
+    /* ===== ALERT BANNER ===== */
+    .alert {
+      padding: 10px 16px; border-radius: 10px; font-size: 14px; margin-bottom: 16px;
+      background: rgba(255,159,10,0.1); border: 1px solid rgba(255,159,10,0.25); color: var(--orange);
+    }
+    .alert.success { background: rgba(48,209,88,0.1); border-color: rgba(48,209,88,0.25); color: var(--green); }
+    .alert.error { background: rgba(255,69,58,0.1); border-color: rgba(255,69,58,0.25); color: var(--red); }
+
+    /* ===== PARTY FILTER ===== */
+    .party-filter { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+    .filter-pill {
+      padding: 5px 14px; border-radius: 20px; font-size: 13px; font-weight: 500;
+      cursor: pointer; border: 1px solid var(--border); background: var(--bg-card);
+      color: var(--text-secondary); font-family: inherit; transition: all 0.15s;
+    }
+    .filter-pill:hover { border-color: var(--text-muted); color: var(--text); }
+    .filter-pill.active { background: var(--accent); border-color: var(--accent); color: white; }
+    .filter-pill.pill-R.active { background: var(--red); border-color: var(--red); }
+    .filter-pill.pill-D.active { background: var(--blue); border-color: var(--blue); }
+
+    /* ===== STATS ===== */
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-bottom: 32px; }
+    .stat-card {
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 14px;
+      padding: 20px; text-align: center;
+    }
+    .stat-card .stat-num { font-size: 32px; font-weight: 700; color: var(--accent); }
+    .stat-card .stat-lbl { color: var(--text-secondary); font-size: 13px; margin-top: 4px; }
+    .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: 13px; }
+    .bar-track { flex: 1; background: var(--bg-card); border-radius: 4px; height: 8px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 4px; background: var(--accent); transition: width 0.6s ease; }
+    .bar-label { color: var(--text-secondary); min-width: 120px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .bar-count { color: var(--text-muted); font-size: 12px; min-width: 24px; text-align: right; }
+
+    /* ===== LOAD MORE ===== */
+    .load-more-wrap { text-align: center; margin: 20px 0 40px; }
+
+    /* ===== FOOTER ===== */
+    footer {
+      border-top: 1px solid var(--border); padding: 24px 0;
+      text-align: center; color: var(--text-muted); font-size: 13px; margin-top: 60px;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text-secondary); }
+
+    /* ===== MOBILE ===== */
+    @media (max-width: 768px) {
+      .hero h1 { font-size: 30px; letter-spacing: -1px; }
+      .hero p { font-size: 16px; }
+      .header-inner { flex-wrap: wrap; gap: 10px; }
+      nav { gap: 2px; flex-wrap: wrap; justify-content: center; }
+      .nav-link { padding: 8px 10px; font-size: 13px; }
+      .lookup-row { flex-direction: column; align-items: stretch; }
+      .zip-input, .state-select { width: 100%; }
+      .members-grid { grid-template-columns: 1fr; }
+      .pros-cons { grid-template-columns: 1fr; }
+      .detail-header { flex-direction: column; align-items: center; text-align: center; }
+      .voting-area { flex-direction: column; align-items: stretch; }
+      .voter-input, .voter-email { width: 100%; }
+      .member-card { padding: 16px; }
+      .bill-card { padding: 14px 16px; }
+      .btn { padding: 14px 28px; font-size: 16px; }
+      .vote-btn { padding: 10px 18px; font-size: 15px; }
+      .voter-input { padding: 10px 14px; font-size: 15px; }
+      .lookup-tab { padding: 10px 16px; font-size: 15px; }
+      /* Stats page */
+      .stats-grid { grid-template-columns: 1fr 1fr; }
+      .stats-two-col { grid-template-columns: 1fr !important; }
+      .bar-label { min-width: 90px; font-size: 12px; }
+      /* Bill search row */
+      .bill-search-row { flex-direction: column !important; }
+      .bill-search-row .btn { width: 100%; }
+    }
+    @media (max-width: 480px) {
+      .container { padding: 20px 16px; }
+      .hero { padding: 36px 0 28px; }
+      .hero h1 { font-size: 26px; }
+      .header-inner { flex-direction: column; align-items: stretch; gap: 8px; }
+      .logo { justify-content: center; }
+      nav { justify-content: center; flex-wrap: wrap; }
+      .nav-link { padding: 8px 10px; font-size: 13px; }
+      .member-header { gap: 10px; }
+      .member-avatar { width: 44px; height: 44px; font-size: 16px; }
+      .search-bar { padding: 10px 14px; font-size: 15px; }
+      .stats-grid { grid-template-columns: 1fr; }
+      .stat-card .stat-num { font-size: 26px; }
+      .filter-pill { font-size: 12px; padding: 5px 11px; }
+      .lookup-tabs { width: 100%; }
+      .lookup-tab { flex: 1; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo" onclick="goHome()">
+      <div class="logo-icon">✦</div>Capitol Watch
+    </div>
+    <nav>
+      <button class="nav-link" onclick="goHome()">🏠 Home</button>
+      <button class="nav-link" onclick="showRecentBills()">📋 Recent Bills</button>
+      <button class="nav-link" onclick="showStats()">📊 Stats</button>
+      <button class="nav-link" onclick="showAbout()">ℹ️ About</button>
+    </nav>
+  </div>
+</header>
+
+<div class="container">
+  <div class="hero" id="heroSection">
+    <h1>See How Your Representatives Vote</h1>
+    <p>Look up any member of Congress. See their voting record. Get plain-language bill explanations with pros and cons.</p>
+  </div>
+
+  <!-- Lookup Area -->
+  <div class="lookup-area" id="lookupArea">
+    <div class="lookup-tabs">
+      <button class="lookup-tab active" id="tabZip" onclick="switchTab('zip')">📍 Find by Zip Code</button>
+      <button class="lookup-tab" id="tabState" onclick="switchTab('state')">🗺️ Browse by State</button>
+    </div>
+
+    <!-- Zip Code Panel -->
+    <div class="lookup-row" id="panelZip">
+      <input type="text" class="zip-input" id="zipInput" placeholder="Enter zip code (e.g. 33601)" maxlength="5" inputmode="numeric" />
+      <button class="btn" id="zipBtn" onclick="lookupByZip()">Find My Representatives</button>
+    </div>
+
+    <!-- State Panel -->
+    <div class="lookup-row" id="panelState" style="display:none">
+      <select id="stateSelect" class="state-select"><option value="">Select a state...</option></select>
+      <button class="btn" id="searchBtn" onclick="doStateSearch()">Look Up Representatives</button>
+    </div>
+  </div>
+
+  <!-- Main Content Area -->
+  <div id="content">
+    <div class="empty-state">
+      <div class="icon">🏛️</div>
+      <h3>Select a state or enter your zip code to get started</h3>
+      <p>See how your elected representatives are voting on the issues that matter to you.</p>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div style="max-width:1200px;margin:0 auto;padding:0 24px">
+    ✦ Capitol Watch &nbsp;·&nbsp; Data from <a href="https://congress.gov" target="_blank">Congress.gov</a> &nbsp;·&nbsp; Nonpartisan &amp; free
+  </div>
+</footer>
+
+<script>
+const content = document.getElementById('content');
+const stateSelect = document.getElementById('stateSelect');
+let currentState = '';
+
+// ===== HELPERS =====
+
+function parseName(name) {
+  if (!name) return { first: 'Unknown', last: 'Unknown' };
+  const parts = name.split(',');
+  let first, last;
+  if (parts.length >= 2) { last = parts[0].trim(); first = parts[1].trim(); }
+  else { first = name; last = ''; }
+  return { first, last };
+}
+
+function partyAbbrev(partyName) {
+  if (!partyName) return 'I';
+  const p = partyName.toLowerCase();
+  if (p.includes('republican')) return 'R';
+  if (p.includes('democrat')) return 'D';
+  return 'I';
+}
+
+function partyBadge(partyName) {
+  const abbr = partyAbbrev(partyName);
+  const label = abbr === 'D' ? 'Democrat' : abbr === 'R' ? 'Republican' : 'Independent';
+  return `<span class="party-badge party-${abbr}">${label}</span>`;
+}
+
+function chamberLabel(c) {
+  if (!c) return 'Congress';
+  if (c.toLowerCase().includes('house')) return 'House of Representatives';
+  if (c.toLowerCase().includes('senate')) return 'Senate';
+  return c;
+}
+
+function ordinal(n) {
+  if (n == null) return '';
+  const s = ['th','st','nd','rd'], v = n % 100;
+  return n + (s[(v-20)%10] || s[v] || s[0]);
+}
+
+function photoUrl(bioguideId) {
+  if (!bioguideId) return '';
+  return `https://bioguide.congress.gov/bioguide/photo/${bioguideId[0].toUpperCase()}/${bioguideId}.jpg`;
+}
+
+function avatarHtml(bioguideId, initial, size = 'card') {
+  const url = photoUrl(bioguideId);
+  const cls = size === 'detail' ? 'detail-avatar' : 'member-avatar';
+  return `<div class="${cls}" id="avatar-${bioguideId}">
+    <img src="${url}" alt="" onload="this.parentElement.classList.remove('no-photo')" onerror="this.parentElement.classList.add('no-photo')" />
+    <span class="avatar-initial">${initial}</span>
+  </div>`;
+}
+
+// ===== TAB SWITCHING =====
+
+function switchTab(tab) {
+  document.getElementById('tabZip').classList.toggle('active', tab === 'zip');
+  document.getElementById('tabState').classList.toggle('active', tab === 'state');
+  document.getElementById('panelZip').style.display = tab === 'zip' ? 'flex' : 'none';
+  document.getElementById('panelState').style.display = tab === 'state' ? 'flex' : 'none';
+}
+
+// ===== ZIP CODE LOOKUP =====
+
+async function lookupByZip() {
+  const zip = document.getElementById('zipInput').value.trim();
+  if (zip.length !== 5 || !/^\d+$/.test(zip)) {
+    showAlert('Please enter a valid 5-digit zip code', 'error');
+    return;
+  }
+  const btn = document.getElementById('zipBtn');
+  btn.disabled = true; btn.textContent = 'Looking up...';
+  try {
+    const res = await fetch(`/api/zip/${zip}`);
+    const data = await res.json();
+    if (!res.ok) { showAlert(data.error || 'Zip code not found', 'error'); return; }
+    const city = data.city ? `${data.city}, ` : '';
+    showAlert(`📍 Found: ${city}${data.stateCode} — showing all representatives for your state`, 'success');
+    stateSelect.value = data.stateCode;
+    currentState = data.stateCode;
+    loadState(data.stateCode);
+  } catch(e) {
+    showAlert('Could not look up that zip code — try browsing by state', 'error');
+  } finally {
+    btn.disabled = false; btn.textContent = 'Find My Representatives';
+  }
+}
+
+function showAlert(msg, type = 'info') {
+  const existing = document.getElementById('alertBanner');
+  if (existing) existing.remove();
+  const el = document.createElement('div');
+  el.id = 'alertBanner';
+  el.className = `alert ${type}`;
+  el.textContent = msg;
+  content.parentElement.insertBefore(el, content);
+  setTimeout(() => el.remove(), 6000);
+}
+
+// ===== STATE LOOKUP =====
+
+function doStateSearch() {
+  const s = stateSelect.value;
+  if (!s) return;
+  currentState = s;
+  loadState(s);
+}
+
+async function loadState(state) {
+  clearAlert();
+  content.innerHTML = `<div class="loading"><div class="spinner"></div>Loading representatives for ${state}...</div>`;
+  try {
+    const res = await fetch(`/api/state/${state}`);
+    const data = await res.json();
+    renderMembers(data);
+  } catch(e) {
+    content.innerHTML = `<div class="empty-state"><h3>Error loading representatives</h3><p>${e.message}</p></div>`;
+  }
+}
+
+function clearAlert() {
+  const el = document.getElementById('alertBanner');
+  if (el) el.remove();
+}
+
+// ===== RENDER MEMBERS =====
+
+function renderMembers(data) {
+  let html = '';
+  if (data.senate && data.senate.length > 0) {
+    html += `<div class="section-title">Senate <span style="color:var(--text-muted);font-size:14px;font-weight:400">(${data.senate.length})</span></div>`;
+    html += `<div class="party-filter" id="senateFilter">
+      <button class="filter-pill active" onclick="filterGrid('senateGrid','senateFilter','all',this)">All</button>
+      <button class="filter-pill pill-D" onclick="filterGrid('senateGrid','senateFilter','D',this)">🔵 Democrats</button>
+      <button class="filter-pill pill-R" onclick="filterGrid('senateGrid','senateFilter','R',this)">🔴 Republicans</button>
+    </div>`;
+    html += `<div class="search-bar-wrap"><input class="search-bar" placeholder="🔍 Search senators by name..." oninput="filterGridByName('senateGrid', this.value)" /></div>`;
+    html += `<div class="members-grid" id="senateGrid">`;
+    data.senate.forEach(m => html += memberCard(m));
+    html += `</div>`;
+  }
+  if (data.house && data.house.length > 0) {
+    html += `<div class="section-title">House of Representatives <span style="color:var(--text-muted);font-size:14px;font-weight:400">(${data.house.length})</span></div>`;
+    html += `<div class="party-filter" id="houseFilter">
+      <button class="filter-pill active" onclick="filterGrid('houseGrid','houseFilter','all',this)">All</button>
+      <button class="filter-pill pill-D" onclick="filterGrid('houseGrid','houseFilter','D',this)">🔵 Democrats</button>
+      <button class="filter-pill pill-R" onclick="filterGrid('houseGrid','houseFilter','R',this)">🔴 Republicans</button>
+    </div>`;
+    html += `<div class="search-bar-wrap"><input class="search-bar" placeholder="🔍 Search representatives by name..." oninput="filterGridByName('houseGrid', this.value)" /></div>`;
+    html += `<div class="members-grid" id="houseGrid">`;
+    data.house.forEach(m => html += memberCard(m));
+    html += `</div>`;
+  }
+  if ((!data.senate || !data.senate.length) && (!data.house || !data.house.length)) {
+    html = `<div class="empty-state"><div class="icon">🔍</div><h3>No members found</h3><p>Try a different state.</p></div>`;
+  }
+  content.innerHTML = html;
+  document.querySelectorAll('.member-card').forEach(card => {
+    card.addEventListener('click', () => loadMember(card.dataset.id));
+  });
+}
+
+function memberCard(m) {
+  const p = parseName(m.name || 'Unknown');
+  const party = m.partyName || '';
+  const abbr = partyAbbrev(party);
+  const dist = m.district != null ? ` – ${ordinal(m.district)} District` : '';
+  const chamber = m.terms?.item?.[m.terms.item.length-1]?.chamber || m.terms?.item?.[0]?.chamber || '';
+  const id = m.bioguideId || '';
+  const initial = (p.first[0] || '?').toUpperCase();
+  const url = photoUrl(id);
+
+  return `<div class="member-card party-${abbr}" data-id="${id}" data-name="${p.first} ${p.last}">
+    <div class="member-header">
+      <div class="member-avatar" id="av-${id}">
+        <img src="${url}" alt="${p.first} ${p.last}" onerror="this.parentElement.classList.add('no-photo')" />
+        <span class="avatar-initial">${initial}</span>
+      </div>
+      <div class="member-info">
+        <h3>${p.first} ${p.last}</h3>
+        ${partyBadge(party)}
+      </div>
+    </div>
+    <div class="member-detail">${chamberLabel(chamber)} — ${m.state}${dist}</div>
+  </div>`;
+}
+
+// ===== SEARCH / FILTER =====
+
+function filterGridByName(gridId, query) {
+  const q = query.toLowerCase().trim();
+  const grid = document.getElementById(gridId);
+  if (!grid) return;
+  grid.querySelectorAll('.member-card').forEach(card => {
+    const name = (card.dataset.name || '').toLowerCase();
+    card.classList.toggle('hidden', q.length > 0 && !name.includes(q));
+  });
+}
+
+function filterGrid(gridId, filterId, party, btn) {
+  // Update active pill
+  document.querySelectorAll(`#${filterId} .filter-pill`).forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  // Filter cards
+  const grid = document.getElementById(gridId);
+  if (!grid) return;
+  grid.querySelectorAll('.member-card').forEach(card => {
+    if (party === 'all') { card.classList.remove('hidden'); return; }
+    const hasParty = card.classList.contains(`party-${party}`);
+    card.classList.toggle('hidden', !hasParty);
+  });
+}
+
+// ===== MEMBER DETAIL =====
+
+async function loadMember(id) {
+  if (!id) return;
+  content.innerHTML = `<div class="loading"><div class="spinner"></div>Loading member details...</div>`;
+  try {
+    const res = await fetch(`/api/member/${id}`);
+    const data = await res.json();
+    renderMemberDetail(data);
+  } catch(e) {
+    content.innerHTML = `<div class="empty-state"><h3>Error</h3><p>${e.message}</p></div>`;
+  }
+}
+
+function renderMemberDetail(data) {
+  const m = data.member || {};
+  const first = m.firstName || 'Unknown';
+  const last = m.lastName || '';
+  const party = m.partyHistory?.[0]?.partyName || '';
+  const abbr = partyAbbrev(party);
+  const terms = m.terms?.item || [];
+  const lastTerm = terms[terms.length - 1] || {};
+  const chamber = lastTerm.chamber || '';
+  const state = lastTerm.state || '';
+  const dist = m.district != null ? ` – ${ordinal(m.district)} District` : '';
+  const id = m.bioguideId || '';
+  const initial = (first[0] || '?').toUpperCase();
+  const url = photoUrl(id);
+  const sponsored = data.sponsored || [];
+
+  let html = `<button class="back-btn" onclick="loadState('${currentState}')">← Back to results</button>
+    <div class="detail-view" style="border-left: 3px solid var(--${abbr === 'R' ? 'red' : abbr === 'D' ? 'blue' : 'purple'})">
+      <div class="detail-header">
+        <div class="detail-avatar" id="av-detail-${id}">
+          <img src="${url}" alt="${first} ${last}" onerror="this.parentElement.classList.add('no-photo')" />
+          <span class="avatar-initial">${initial}</span>
+        </div>
+        <div class="detail-info">
+          <h2>${first} ${last}</h2>
+          <div class="role">${partyBadge(party)} &nbsp;${chamberLabel(chamber)} — ${state}${dist}</div>
+          ${terms.length > 0 ? `<div style="color:var(--text-muted);font-size:13px;margin-top:6px">${terms.length} term${terms.length !== 1 ? 's' : ''} served</div>` : ''}
+        </div>
+      </div>
+      <div class="detail-body">
+        <h3 style="font-size:18px;font-weight:600;margin-bottom:16px">Sponsored Legislation (${sponsored.length})</h3>`;
+
+  if (sponsored.length === 0) {
+    html += `<p style="color:var(--text-muted)">No sponsored legislation found.</p>`;
+  } else {
+    sponsored.forEach(b => { html += buildBillCard(b, false); });
+  }
+
+  html += `</div></div>
+    <div class="section-title" style="margin-top:40px">🇺🇸 Recent Bills in Congress</div>
+    <div id="recentBillsSection"></div>`;
+
+  content.innerHTML = html;
+  setTimeout(() => { analyzeAllBillCards(); loadAllVoteCounts(); }, 400);
+  loadRecentBillsIntoSection();
+}
+
+// ===== BILL CARDS =====
+
+function buildBillCard(b, showAction) {
+  const billNum = b.type && b.number ? `${b.type} ${b.number}` : '';
+  const title = b.title || 'No title';
+  const date = b.updateDate || b.latestAction?.actionDate || '';
+  const chamber = b.originChamber || '';
+  const action = b.latestAction?.text || '';
+  const congress = b.congress || '119';
+  const type = b.type || 'hr';
+  const number = b.number || '0';
+  const billId = `${type.toLowerCase()}-${number}`;
+  const encodedTitle = encodeURIComponent(b.title || '');
+  const encodedAction = encodeURIComponent(action);
+
+  return `<div class="bill-card" data-congress="${congress}" data-type="${type}" data-number="${number}" data-title="${encodedTitle}" data-summary="${encodedAction}" data-billid="${billId}">
+    <div class="bill-number">${billNum}</div>
+    <div class="bill-title">${title}</div>
+    <div class="bill-meta">${date ? `<span>📅 ${date}</span>` : ''}${chamber ? `<span>🏛️ ${chamber}</span>` : ''}</div>
+    ${showAction && action ? `<div class="bill-summary">${action}</div>` : ''}
+    <div class="pros-cons">
+      <div class="pro"><div class="lbl">👍 Supporters say</div><span class="pro-text">Analysis will appear after next refresh cycle</span></div>
+      <div class="con"><div class="lbl">👎 Opponents say</div><span class="con-text">Analysis will appear after next refresh cycle</span></div>
+    </div>
+    <div class="voting-area" data-billid="${billId}">
+      <input class="voter-input" id="voter-${billId}" type="text" placeholder="Your name..." maxlength="50" />
+      <input class="voter-input voter-email" id="email-${billId}" type="email" placeholder="Email..." maxlength="100" />
+      <button class="vote-btn vote-approve" onclick="castVote('${billId}','approve')">✅ Approve</button>
+      <button class="vote-btn vote-disapprove" onclick="castVote('${billId}','disapprove')">❌ Disapprove</button>
+      <span class="vote-counts">✅ <span id="vote-yes-${billId}">0</span> &nbsp;|&nbsp; ❌ <span id="vote-no-${billId}">0</span></span>
+    </div>
+  </div>`;
+}
+
+async function analyzeBillCard(card) {
+  const congress = card.dataset.congress || '119';
+  const type = card.dataset.type;
+  const number = card.dataset.number;
+  const title = decodeURIComponent(card.dataset.title || '');
+  const summary = decodeURIComponent(card.dataset.summary || '');
+  if (!type || !number) return;
+  try {
+    const res = await fetch(`/api/analyze-bill?congress=${congress}&type=${type}&number=${number}&title=${encodeURIComponent(title)}&summary=${encodeURIComponent(summary)}`);
+    const data = await res.json();
+    const proEl = card.querySelector('.pro-text');
+    const conEl = card.querySelector('.con-text');
+    if (proEl) {
+      const pros = Array.isArray(data.pros) ? data.pros : ['Analysis pending'];
+      proEl.innerHTML = pros.map(p => `<div style="margin-bottom:4px">• ${p}</div>`).join('');
+    }
+    if (conEl) {
+      const cons = Array.isArray(data.cons) ? data.cons : ['Analysis pending'];
+      conEl.innerHTML = cons.map(c => `<div style="margin-bottom:4px">• ${c}</div>`).join('');
+    }
+  } catch(e) {
+    const proEl = card.querySelector('.pro-text');
+    const conEl = card.querySelector('.con-text');
+    if (proEl) proEl.textContent = 'Analysis unavailable';
+    if (conEl) conEl.textContent = 'Analysis unavailable';
+  }
+}
+
+function analyzeAllBillCards() {
+  document.querySelectorAll('.bill-card').forEach(card => analyzeBillCard(card));
+}
+
+// ===== VOTING =====
+
+async function castVote(billId, vote) {
+  const voterInput = document.getElementById(`voter-${billId}`);
+  const emailInput = document.getElementById(`email-${billId}`);
+  const voter = voterInput ? voterInput.value.trim() : '';
+  const email = emailInput ? emailInput.value.trim() : '';
+  if (!voter) { alert('Please enter your name before voting.'); voterInput?.focus(); return; }
+  if (!email) { alert('Please enter your email address before voting.'); emailInput?.focus(); return; }
+  const btn = document.querySelector(`.vote-btn[onclick*="'${billId}'"][onclick*="'${vote}'"]`);
+  if (!btn) return;
+  btn.disabled = true; btn.textContent = '⏳ Voting...';
+  try {
+    const res = await fetch('/api/vote', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ billId, vote, voter, email })
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      alert(data.error || 'Vote failed');
+      btn.textContent = vote === 'approve' ? '✅ Approve' : '❌ Disapprove';
+      btn.disabled = false; return;
+    }
+    document.getElementById(`vote-yes-${billId}`).textContent = data.approve;
+    document.getElementById(`vote-no-${billId}`).textContent = data.disapprove;
+    document.querySelectorAll(`.vote-btn[onclick*="'${billId}'"]`).forEach(b => { b.disabled = true; b.style.opacity = '0.4'; });
+    if (voterInput) { voterInput.disabled = true; voterInput.style.opacity = '0.4'; }
+    if (emailInput) { emailInput.disabled = true; emailInput.style.opacity = '0.4'; }
+    // Show inline success feedback
+    const votingArea = document.querySelector(`.voting-area[data-billid="${billId}"]`);
+    if (votingArea) {
+      const feedback = document.createElement('span');
+      feedback.style.cssText = 'color:var(--green);font-size:13px;font-weight:500;';
+      feedback.textContent = vote === 'approve' ? '✅ Vote recorded!' : '❌ Vote recorded!';
+      votingArea.appendChild(feedback);
+    }
+  } catch(e) {
+    alert('Vote failed — try again');
+    btn.textContent = vote === 'approve' ? '✅ Approve' : '❌ Disapprove';
+    btn.disabled = false;
+  }
+}
+
+async function loadAllVoteCounts() {
+  try {
+    const res = await fetch('/api/votes');
+    const data = await res.json();
+    Object.entries(data).forEach(([billId, counts]) => {
+      const yesEl = document.getElementById(`vote-yes-${billId}`);
+      const noEl = document.getElementById(`vote-no-${billId}`);
+      if (yesEl) yesEl.textContent = counts.approve || 0;
+      if (noEl) noEl.textContent = counts.disapprove || 0;
+    });
+  } catch(e) { /* silent */ }
+}
+
+// ===== RECENT BILLS =====
+
+async function loadRecentBillsIntoSection() {
+  const section = document.getElementById('recentBillsSection');
+  if (!section) return;
+  section.innerHTML = `<div class="loading"><div class="spinner"></div></div>`;
+  try {
+    const res = await fetch('/api/recent-bills');
+    const data = await res.json();
+    const bills = data.bills || [];
+    let html = '';
+    bills.slice(0, 10).forEach(b => { html += buildBillCard(b, false); });
+    section.innerHTML = html;
+    setTimeout(() => { analyzeAllBillCards(); loadAllVoteCounts(); }, 400);
+  } catch(e) {
+    section.innerHTML = `<p style="color:var(--text-muted)">Could not load bills.</p>`;
+  }
+}
+
+function showRecentBills() {
+  content.innerHTML = `<div class="loading"><div class="spinner"></div>Loading recent bills...</div>`;
+  loadRecentBillsIntoSingleView();
+}
+
+let billsOffset = 0;
+const BILLS_PAGE_SIZE = 20;
+
+async function loadRecentBillsIntoSingleView() {
+  billsOffset = 0;
+  try {
+    const res = await fetch(`/api/bills/recent?limit=${BILLS_PAGE_SIZE}&offset=0`);
+    const data = await res.json();
+    const bills = data.bills || [];
+    let html = `<button class="back-btn" onclick="goHome()">← Home</button>
+      <div class="section-title">🇺🇸 Recent Bills in Congress</div>
+      <div class="search-bar-wrap bill-search-row" style="margin-bottom:20px;display:flex;gap:10px">
+        <input class="search-bar" id="billSearchInput" placeholder="🔍 Search bills by keyword..." style="flex:1" onkeydown="if(event.key==='Enter')searchBills()" />
+        <button class="btn" onclick="searchBills()" style="white-space:nowrap">Search</button>
+      </div>
+      <div id="billResults">`;
+    bills.forEach(b => { html += buildBillCard(b, true); });
+    html += `</div>
+    <div class="load-more-wrap" id="loadMoreWrap">
+      <button class="btn btn-secondary" onclick="loadMoreBills()">Load More Bills</button>
+    </div>`;
+    content.innerHTML = html;
+    billsOffset = bills.length;
+    setTimeout(() => { analyzeAllBillCards(); loadAllVoteCounts(); }, 400);
+  } catch(e) {
+    content.innerHTML = `<div class="empty-state"><h3>Error loading bills</h3><p>${e.message}</p></div>`;
+  }
+}
+
+async function loadMoreBills() {
+  const btn = document.querySelector('#loadMoreWrap .btn');
+  if (btn) { btn.disabled = true; btn.textContent = 'Loading...'; }
+  try {
+    const res = await fetch(`/api/bills/recent?limit=${BILLS_PAGE_SIZE}&offset=${billsOffset}`);
+    const data = await res.json();
+    const bills = data.bills || [];
+    const resultsEl = document.getElementById('billResults');
+    if (bills.length === 0) {
+      const wrap = document.getElementById('loadMoreWrap');
+      if (wrap) wrap.innerHTML = `<p style="color:var(--text-muted);font-size:14px">No more bills to load.</p>`;
+      return;
+    }
+    bills.forEach(b => { resultsEl.insertAdjacentHTML('beforeend', buildBillCard(b, true)); });
+    billsOffset += bills.length;
+    setTimeout(() => { analyzeAllBillCards(); loadAllVoteCounts(); }, 400);
+    if (btn) { btn.disabled = false; btn.textContent = 'Load More Bills'; }
+  } catch(e) {
+    if (btn) { btn.disabled = false; btn.textContent = 'Load More Bills'; }
+  }
+}
+
+async function searchBills() {
+  const q = document.getElementById('billSearchInput')?.value.trim();
+  if (!q) { loadRecentBillsIntoSingleView(); return; }
+  const resultsEl = document.getElementById('billResults');
+  if (!resultsEl) return;
+  resultsEl.innerHTML = `<div class="loading"><div class="spinner"></div>Searching bills...</div>`;
+  try {
+    const res = await fetch(`/api/bills/search?q=${encodeURIComponent(q)}`);
+    const data = await res.json();
+    const bills = data.bills || [];
+    if (bills.length === 0) {
+      resultsEl.innerHTML = `<div class="empty-state"><div class="icon">🔍</div><h3>No bills found for "${q}"</h3></div>`;
+      return;
+    }
+    let html = `<p style="color:var(--text-secondary);margin-bottom:16px;font-size:14px">${bills.length} results for "${q}"</p>`;
+    bills.slice(0, 20).forEach(b => { html += buildBillCard(b, true); });
+    resultsEl.innerHTML = html;
+    setTimeout(() => { analyzeAllBillCards(); loadAllVoteCounts(); }, 400);
+  } catch(e) {
+    resultsEl.innerHTML = `<p style="color:var(--text-muted)">Search failed — try again</p>`;
+  }
+}
+
+// ===== NAVIGATION =====
+
+function goHome() {
+  clearAlert();
+  content.innerHTML = `<div class="empty-state">
+    <div class="icon">🏛️</div>
+    <h3>Select a state or enter your zip code to get started</h3>
+    <p>See how your elected representatives are voting on the issues that matter to you.</p>
+  </div>`;
+}
+
+async function showStats() {
+  content.innerHTML = `<div class="loading"><div class="spinner"></div>Loading national statistics...</div>`;
+  try {
+    const res = await fetch('/api/national/stats');
+    const d = await res.json();
+    const statusColors = { Enacted: 'var(--green)', 'Passed House': 'var(--blue)', 'Passed Senate': 'var(--purple)', Introduced: 'var(--text-muted)', Vetoed: 'var(--red)', Other: 'var(--orange)' };
+    const statusIcons = { Enacted: '✅', 'Passed House': '🏛️', 'Passed Senate': '🏛️', Introduced: '📝', Vetoed: '🚫', Other: '🔄' };
+    const totalBills = Object.values(d.byStatus || {}).reduce((a,b) => a+b, 0) || 1;
+    const maxTopic = d.hotTopics?.[0]?.count || 1;
+
+    let statusBars = Object.entries(d.byStatus || {}).map(([k, v]) => `
+      <div class="bar-row">
+        <span class="bar-label">${statusIcons[k] || '•'} ${k}</span>
+        <div class="bar-track"><div class="bar-fill" style="width:${Math.round(v/totalBills*100)}%;background:${statusColors[k]||'var(--accent)'}"></div></div>
+        <span class="bar-count">${v}</span>
+      </div>`).join('');
+
+    let topicBars = (d.hotTopics || []).map(t => `
+      <div class="bar-row">
+        <span class="bar-label">${t.term}</span>
+        <div class="bar-track"><div class="bar-fill" style="width:${Math.round(t.count/maxTopic*100)}%"></div></div>
+        <span class="bar-count">${t.count}</span>
+      </div>`).join('');
+
+    content.innerHTML = `
+      <button class="back-btn" onclick="goHome()">← Home</button>
+      <div class="section-title">📊 119th Congress — National Statistics</div>
+      <div class="stats-grid">
+        <div class="stat-card"><div class="stat-num">${d.total || 0}</div><div class="stat-lbl">Bills Tracked</div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--green)">${d.byStatus?.Enacted || 0}</div><div class="stat-lbl">Bills Enacted into Law</div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--blue)">${(d.byStatus?.['Passed House']||0) + (d.byStatus?.['Passed Senate']||0)}</div><div class="stat-lbl">Passed at Least One Chamber</div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--red)">${d.byStatus?.Vetoed || 0}</div><div class="stat-lbl">Bills Vetoed</div></div>
+      </div>
+      <div class="stats-two-col" style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:40px">
+        <div>
+          <div class="section-title" style="font-size:17px;margin-top:0">Bill Status Breakdown</div>
+          ${statusBars}
+        </div>
+        <div>
+          <div class="section-title" style="font-size:17px;margin-top:0">🔥 Hot Topics in Legislation</div>
+          ${topicBars || '<p style="color:var(--text-muted);font-size:14px">No topic data available.</p>'}
+        </div>
+      </div>`;
+  } catch(e) {
+    content.innerHTML = `<div class="empty-state"><h3>Error loading stats</h3><p>${e.message}</p></div>`;
+  }
+}
+
+function showAbout() {
+  content.innerHTML = `<button class="back-btn" onclick="goHome()">← Home</button>
+    <div class="detail-view">
+      <div class="detail-body">
+        <h2 style="font-size:26px;font-weight:700;margin-bottom:16px">✦ About Capitol Watch</h2>
+        <p style="color:var(--text-secondary);font-size:16px;line-height:1.7;margin-bottom:16px">
+          Capitol Watch is a free, nonpartisan tool that makes it easy for everyday Americans to see exactly what their elected representatives are doing in Congress.
+        </p>
+        <p style="color:var(--text-secondary);font-size:16px;line-height:1.7;margin-bottom:16px">
+          We pull live data directly from <strong style="color:var(--text)">Congress.gov</strong> — the official source of U.S. legislative information — so you always see the most current bills, votes, and actions.
+        </p>
+        <p style="color:var(--text-secondary);font-size:16px;line-height:1.7;margin-bottom:24px">
+          Our AI analysis breaks down complex legislation into plain English — showing you both sides of every bill so you can form your own opinion.
+        </p>
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
+            <div style="font-size:28px;margin-bottom:8px">🏛️</div>
+            <div style="font-weight:600;margin-bottom:4px">535 Members</div>
+            <div style="color:var(--text-muted);font-size:13px">All of Congress tracked</div>
+          </div>
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
+            <div style="font-size:28px;margin-bottom:8px">📋</div>
+            <div style="font-weight:600;margin-bottom:4px">Live Data</div>
+            <div style="color:var(--text-muted);font-size:13px">Updated in real time</div>
+          </div>
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
+            <div style="font-size:28px;margin-bottom:8px">🤖</div>
+            <div style="font-weight:600;margin-bottom:4px">AI Analysis</div>
+            <div style="color:var(--text-muted);font-size:13px">Plain-language bill summaries</div>
+          </div>
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
+            <div style="font-size:28px;margin-bottom:8px">⚖️</div>
+            <div style="font-weight:600;margin-bottom:4px">Nonpartisan</div>
+            <div style="color:var(--text-muted);font-size:13px">No agenda — just facts</div>
+          </div>
+        </div>
+      </div>
+    </div>`;
+}
+
+// ===== INIT =====
+
+// Load states into dropdown
+fetch('/api/states').then(r => r.json()).then(states => {
+  states.forEach(s => {
+    const opt = document.createElement('option');
+    opt.value = s.code;
+    opt.textContent = `${s.name} (${s.code})`;
+    stateSelect.appendChild(opt);
+  });
+});
+
+// Allow Enter key on zip input
+document.getElementById('zipInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') lookupByZip();
+});
+</script>
+</body>
+</html>
