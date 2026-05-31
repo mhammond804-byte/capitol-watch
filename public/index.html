@@ -91,15 +91,15 @@
     /* ── HERO ── */
     .hero {
       text-align: center;
-      padding: 72px 0 52px;
+      padding: 64px 0 56px;
       position: relative;
     }
     .hero::before {
       content: '';
       position: absolute;
       top: 0; left: 50%; transform: translateX(-50%);
-      width: 600px; height: 300px;
-      background: radial-gradient(ellipse at 50% 0%, rgba(79,110,247,0.12) 0%, transparent 70%);
+      width: 700px; height: 360px;
+      background: radial-gradient(ellipse at 50% 0%, rgba(79,110,247,0.13) 0%, transparent 70%);
       pointer-events: none;
     }
     .hero-eyebrow {
@@ -116,38 +116,70 @@
     }
     .hero p {
       color: var(--text-secondary); font-size: 17px; max-width: 520px;
-      margin: 0 auto 44px; line-height: 1.65;
+      margin: 0 auto 40px; line-height: 1.65;
     }
 
-    /* ── LOOKUP ── */
-    .lookup-area { display: flex; flex-direction: column; align-items: center; gap: 16px; margin-bottom: 56px; }
-    .lookup-tabs {
-      display: flex; gap: 0;
-      background: var(--bg-card); border: 1px solid var(--border);
-      border-radius: 12px; padding: 4px;
+    /* ── BIG SEARCH BOX ── */
+    .search-hero {
+      max-width: 600px; margin: 0 auto 16px;
+      position: relative;
     }
-    .lookup-tab {
-      padding: 8px 22px; border-radius: 8px; font-size: 13px; font-weight: 600;
-      font-family: inherit; cursor: pointer; border: none; background: transparent;
-      color: var(--text-muted); transition: all 0.15s ease; letter-spacing: 0.1px;
+    .search-hero-label {
+      font-size: 13px; font-weight: 600; color: var(--text-muted);
+      text-transform: uppercase; letter-spacing: 0.8px;
+      margin-bottom: 12px; display: block;
     }
-    .lookup-tab.active {
-      background: var(--accent); color: white;
-      box-shadow: 0 1px 6px rgba(79,110,247,0.4);
+    .search-hero-input-wrap {
+      display: flex; align-items: center;
+      background: var(--bg-card);
+      border: 2px solid var(--border);
+      border-radius: 18px;
+      padding: 6px 6px 6px 24px;
+      transition: all 0.2s ease;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.4);
     }
-    .lookup-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; width: 100%; max-width: 580px; }
+    .search-hero-input-wrap:focus-within {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 4px var(--accent-glow), 0 4px 24px rgba(0,0,0,0.4);
+    }
+    .search-hero-icon {
+      font-size: 20px; margin-right: 4px; flex-shrink: 0; opacity: 0.5;
+    }
     .zip-input {
-      background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
-      padding: 12px 18px; border-radius: var(--radius-md); font-size: 15px;
-      font-family: inherit; width: 200px; transition: all 0.2s ease; outline: none;
+      background: transparent; border: none; color: var(--text);
+      padding: 10px 12px; font-size: 20px; font-weight: 500;
+      font-family: inherit; flex: 1; outline: none; min-width: 0;
+      letter-spacing: 0.5px;
     }
-    .zip-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-glow); }
-    .zip-input::placeholder { color: var(--text-muted); }
+    .zip-input::placeholder { color: var(--text-muted); font-weight: 400; font-size: 18px; }
+    .zip-go-btn {
+      background: var(--accent); color: white; border: none;
+      padding: 12px 28px; border-radius: 13px; font-size: 15px;
+      font-weight: 700; font-family: inherit; cursor: pointer;
+      transition: all 0.2s ease; flex-shrink: 0; white-space: nowrap;
+    }
+    .zip-go-btn:hover { background: var(--accent-hover); box-shadow: 0 4px 16px rgba(79,110,247,0.4); }
+    .zip-go-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+    .search-hero-or {
+      display: flex; align-items: center; gap: 14px;
+      max-width: 600px; margin: 20px auto;
+      color: var(--text-muted); font-size: 13px; font-weight: 500;
+    }
+    .search-hero-or::before, .search-hero-or::after {
+      content: ''; flex: 1; height: 1px; background: var(--border);
+    }
+
+    .state-row {
+      display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;
+      max-width: 600px; margin: 0 auto;
+    }
     .state-select {
       background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
       padding: 12px 18px; border-radius: var(--radius-md); font-size: 15px;
-      font-family: inherit; min-width: 230px; cursor: pointer; transition: all 0.2s ease;
-      outline: none; -webkit-appearance: none; appearance: none;
+      font-family: inherit; flex: 1; min-width: 200px; cursor: pointer;
+      transition: all 0.2s ease; outline: none;
+      -webkit-appearance: none; appearance: none;
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%234e5a78' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
       background-repeat: no-repeat; background-position: right 14px center; padding-right: 40px;
     }
@@ -386,8 +418,11 @@
       .header-inner { flex-wrap: wrap; gap: 8px; }
       nav { gap: 0; flex-wrap: wrap; justify-content: center; }
       .nav-link { padding: 7px 10px; font-size: 12px; }
-      .lookup-row { flex-direction: column; align-items: stretch; }
-      .zip-input, .state-select { width: 100%; }
+      .search-hero-input-wrap { padding: 5px 5px 5px 16px; border-radius: 14px; }
+      .zip-input { font-size: 17px; }
+      .zip-go-btn { padding: 11px 18px; font-size: 14px; }
+      .state-row { flex-direction: column; }
+      .state-select { width: 100%; }
       .members-grid { grid-template-columns: 1fr; }
       .pros-cons { grid-template-columns: 1fr; }
       .detail-header { flex-direction: column; align-items: center; text-align: center; }
@@ -442,22 +477,21 @@
     <div class="hero-eyebrow">🇺🇸 Nonpartisan &nbsp;·&nbsp; Free &nbsp;·&nbsp; Live Data</div>
     <h1>See How Your<br>Representatives Vote</h1>
     <p>Look up any member of Congress. Track their voting record. Get plain-language bill breakdowns — both sides, no spin.</p>
-  </div>
 
-  <div class="lookup-area" id="lookupArea">
-    <div class="lookup-tabs">
-      <button class="lookup-tab active" id="tabZip" onclick="switchTab('zip')">📍 Find by Zip Code</button>
-      <button class="lookup-tab" id="tabState" onclick="switchTab('state')">🗺️ Browse by State</button>
+    <span class="search-hero-label">Enter your zip code to get started</span>
+    <div class="search-hero">
+      <div class="search-hero-input-wrap">
+        <span class="search-hero-icon">📍</span>
+        <input type="text" class="zip-input" id="zipInput" placeholder="e.g. 33601" maxlength="5" inputmode="numeric" />
+        <button class="zip-go-btn" id="zipBtn" onclick="lookupByZip()">Find My Reps →</button>
+      </div>
     </div>
 
-    <div class="lookup-row" id="panelZip">
-      <input type="text" class="zip-input" id="zipInput" placeholder="Enter zip code (e.g. 33601)" maxlength="5" inputmode="numeric" />
-      <button class="btn" id="zipBtn" onclick="lookupByZip()">Find My Representatives</button>
-    </div>
+    <div class="search-hero-or">or browse by state</div>
 
-    <div class="lookup-row" id="panelState" style="display:none">
+    <div class="state-row">
       <select id="stateSelect" class="state-select"><option value="">Select a state...</option></select>
-      <button class="btn" id="searchBtn" onclick="doStateSearch()">Look Up Representatives</button>
+      <button class="btn" id="searchBtn" onclick="doStateSearch()">Look Up</button>
     </div>
   </div>
 
@@ -528,15 +562,6 @@ function photoUrl(bioguideId) {
   return `https://bioguide.congress.gov/bioguide/photo/${bioguideId[0].toUpperCase()}/${bioguideId}.jpg`;
 }
 
-// ===== TAB SWITCHING =====
-
-function switchTab(tab) {
-  document.getElementById('tabZip').classList.toggle('active', tab === 'zip');
-  document.getElementById('tabState').classList.toggle('active', tab === 'state');
-  document.getElementById('panelZip').style.display = tab === 'zip' ? 'flex' : 'none';
-  document.getElementById('panelState').style.display = tab === 'state' ? 'flex' : 'none';
-}
-
 // ===== ZIP CODE LOOKUP =====
 
 async function lookupByZip() {
@@ -559,7 +584,7 @@ async function lookupByZip() {
   } catch(e) {
     showAlert('Could not look up that zip code — try browsing by state', 'error');
   } finally {
-    btn.disabled = false; btn.textContent = 'Find My Representatives';
+    btn.disabled = false; btn.textContent = 'Find My Reps →';
   }
 }
 
