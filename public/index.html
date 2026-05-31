@@ -4,318 +4,417 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Capitol Watch — Track How Congress Votes</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0a0a0b;
-      --bg-card: #141416;
-      --bg-hover: #1c1c1f;
-      --border: #252529;
-      --text: #f5f5f7;
-      --text-secondary: #86868b;
-      --text-muted: #6e6e73;
-      --accent: #5e5ce6;
-      --accent-hover: #6b69f0;
-      --blue: #0a84ff;
-      --red: #ff453a;
-      --green: #30d158;
-      --orange: #ff9f0a;
-      --purple: #bf5af2;
+      --bg: #07090f;
+      --bg-card: #0d1120;
+      --bg-hover: #121828;
+      --bg-elevated: #0f1522;
+      --border: #1c2540;
+      --border-light: #263050;
+      --text: #eef0f8;
+      --text-secondary: #8a97b8;
+      --text-muted: #4e5a78;
+      --accent: #4f6ef7;
+      --accent-glow: rgba(79,110,247,0.18);
+      --accent-hover: #6b85ff;
+      --red: #e84c4c;
+      --blue: #4da6ff;
+      --green: #3ecf73;
+      --orange: #f59e0b;
+      --purple: #a78bfa;
+      --gold: #c9a535;
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 24px;
+      --shadow-card: 0 4px 16px rgba(0,0,0,0.4);
+      --shadow-hover: 0 12px 40px rgba(0,0,0,0.6);
+      --shadow-glow: 0 0 0 1px var(--border), 0 4px 20px rgba(0,0,0,0.5);
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
     a { color: var(--accent); text-decoration: none; }
+    a:hover { color: var(--accent-hover); }
 
-    /* ===== HEADER & NAV ===== */
+    /* ── HEADER ── */
     header {
       border-bottom: 1px solid var(--border);
-      padding: 14px 0;
-      background: rgba(10,10,11,0.92);
-      backdrop-filter: blur(20px);
+      background: rgba(7,9,15,0.92);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
       position: sticky; top: 0; z-index: 100;
+      height: 64px;
     }
     .header-inner {
-      max-width: 1200px; margin: 0 auto; padding: 0 24px;
-      display: flex; align-items: center; justify-content: space-between; gap: 16px;
+      max-width: 1280px; margin: 0 auto; padding: 0 28px;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 100%;
     }
     .logo {
-      display: flex; align-items: center; gap: 10px;
-      font-weight: 700; font-size: 20px; letter-spacing: -0.5px;
-      cursor: pointer; flex-shrink: 0;
+      display: flex; align-items: center; gap: 12px;
+      font-weight: 800; font-size: 18px; letter-spacing: -0.4px;
+      cursor: pointer; flex-shrink: 0; color: var(--text); user-select: none;
     }
     .logo-icon {
-      width: 32px; height: 32px;
-      background: linear-gradient(135deg, var(--accent), var(--purple));
-      border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 16px;
+      width: 34px; height: 34px;
+      background: linear-gradient(135deg, #3a5bd9, #6366f1);
+      border-radius: 9px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 17px;
+      box-shadow: 0 2px 12px rgba(79,110,247,0.4);
     }
-    nav { display: flex; align-items: center; gap: 4px; }
+    .logo-text { letter-spacing: -0.5px; }
+    .logo-text span { color: var(--accent); }
+    nav { display: flex; align-items: center; gap: 2px; }
     .nav-link {
-      color: var(--text-secondary); font-size: 14px; font-weight: 500;
-      padding: 6px 12px; border-radius: 8px; cursor: pointer;
-      transition: all 0.15s; border: none; background: none; font-family: inherit;
+      color: var(--text-muted); font-size: 13px; font-weight: 500;
+      padding: 8px 14px; border-radius: var(--radius-sm);
+      cursor: pointer; transition: all 0.15s ease;
+      border: none; background: none; font-family: inherit;
+      letter-spacing: 0.1px;
     }
-    .nav-link:hover { color: var(--text); background: var(--bg-hover); }
-    .nav-link.active { color: var(--text); background: var(--bg-hover); }
+    .nav-link:hover { color: var(--text-secondary); background: var(--bg-hover); }
+    .nav-link.active { color: var(--text); background: rgba(79,110,247,0.12); }
 
-    /* ===== LAYOUT ===== */
-    .container { max-width: 1200px; margin: 0 auto; padding: 32px 24px; }
+    /* ── LAYOUT ── */
+    .container { max-width: 1280px; margin: 0 auto; padding: 36px 28px 80px; }
 
-    /* ===== HERO ===== */
-    .hero { text-align: center; padding: 56px 0 40px; }
+    /* ── HERO ── */
+    .hero {
+      text-align: center;
+      padding: 72px 0 52px;
+      position: relative;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 50%; transform: translateX(-50%);
+      width: 600px; height: 300px;
+      background: radial-gradient(ellipse at 50% 0%, rgba(79,110,247,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-eyebrow {
+      display: inline-flex; align-items: center; gap: 7px;
+      background: rgba(79,110,247,0.1); border: 1px solid rgba(79,110,247,0.25);
+      color: #7da4ff; font-size: 12px; font-weight: 600; letter-spacing: 0.6px;
+      text-transform: uppercase; padding: 5px 14px; border-radius: 20px;
+      margin-bottom: 22px;
+    }
     .hero h1 {
-      font-size: 44px; font-weight: 700; letter-spacing: -1.5px; line-height: 1.12; margin-bottom: 14px;
-      background: linear-gradient(135deg, #fff 0%, var(--accent) 100%);
+      font-size: 52px; font-weight: 800; letter-spacing: -2px; line-height: 1.1; margin-bottom: 18px;
+      background: linear-gradient(160deg, #ffffff 30%, #8aa4f0 100%);
       -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
     }
-    .hero p { color: var(--text-secondary); font-size: 18px; max-width: 580px; margin: 0 auto 36px; line-height: 1.6; }
-
-    /* ===== LOOKUP AREA ===== */
-    .lookup-area {
-      display: flex; flex-direction: column; align-items: center; gap: 16px; margin-bottom: 40px;
+    .hero p {
+      color: var(--text-secondary); font-size: 17px; max-width: 520px;
+      margin: 0 auto 44px; line-height: 1.65;
     }
+
+    /* ── LOOKUP ── */
+    .lookup-area { display: flex; flex-direction: column; align-items: center; gap: 16px; margin-bottom: 56px; }
     .lookup-tabs {
-      display: flex; gap: 0; background: var(--bg-card); border: 1px solid var(--border);
-      border-radius: 12px; padding: 4px; overflow: hidden;
+      display: flex; gap: 0;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 4px;
     }
     .lookup-tab {
-      padding: 8px 20px; border-radius: 9px; font-size: 14px; font-weight: 500; font-family: inherit;
-      cursor: pointer; border: none; background: transparent; color: var(--text-secondary); transition: all 0.15s;
+      padding: 8px 22px; border-radius: 8px; font-size: 13px; font-weight: 600;
+      font-family: inherit; cursor: pointer; border: none; background: transparent;
+      color: var(--text-muted); transition: all 0.15s ease; letter-spacing: 0.1px;
     }
-    .lookup-tab.active { background: var(--accent); color: white; }
-    .lookup-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; width: 100%; max-width: 620px; }
+    .lookup-tab.active {
+      background: var(--accent); color: white;
+      box-shadow: 0 1px 6px rgba(79,110,247,0.4);
+    }
+    .lookup-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; width: 100%; max-width: 580px; }
     .zip-input {
       background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
-      padding: 12px 20px; border-radius: 12px; font-size: 15px; font-family: inherit;
-      width: 200px; transition: all 0.2s; outline: none;
+      padding: 12px 18px; border-radius: var(--radius-md); font-size: 15px;
+      font-family: inherit; width: 200px; transition: all 0.2s ease; outline: none;
     }
-    .zip-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(94,92,230,0.15); }
+    .zip-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-glow); }
     .zip-input::placeholder { color: var(--text-muted); }
     .state-select {
       background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
-      padding: 12px 20px; border-radius: 12px; font-size: 15px; font-family: inherit;
-      min-width: 220px; cursor: pointer; transition: all 0.2s; outline: none;
+      padding: 12px 18px; border-radius: var(--radius-md); font-size: 15px;
+      font-family: inherit; min-width: 230px; cursor: pointer; transition: all 0.2s ease;
+      outline: none; -webkit-appearance: none; appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%234e5a78' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+      background-repeat: no-repeat; background-position: right 14px center; padding-right: 40px;
     }
-    .state-select:focus { border-color: var(--accent); }
+    .state-select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-glow); }
     .btn {
-      background: var(--accent); color: white; border: none; padding: 12px 28px;
-      border-radius: 12px; font-size: 15px; font-weight: 500; font-family: inherit;
-      cursor: pointer; transition: all 0.2s;
+      background: var(--accent); color: white; border: none;
+      padding: 12px 26px; border-radius: var(--radius-md); font-size: 14px;
+      font-weight: 600; font-family: inherit; cursor: pointer; transition: all 0.2s ease;
+      letter-spacing: 0.1px;
     }
-    .btn:hover { background: var(--accent-hover); transform: translateY(-1px); }
-    .btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+    .btn:hover { background: var(--accent-hover); transform: translateY(-1px); box-shadow: 0 6px 20px rgba(79,110,247,0.35); }
+    .btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none; box-shadow: none; }
     .btn-secondary {
-      background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+      background: var(--bg-card); border: 1px solid var(--border); color: var(--text-secondary);
     }
-    .btn-secondary:hover { background: var(--bg-hover); transform: translateY(-1px); }
-    .zip-note { color: var(--text-muted); font-size: 12px; margin-top: 4px; }
+    .btn-secondary:hover { background: var(--bg-hover); border-color: var(--border-light); box-shadow: var(--shadow-card); }
 
-    /* ===== SEARCH BAR ===== */
-    .search-bar-wrap { margin-bottom: 20px; }
+    /* ── SEARCH / FILTER ── */
+    .search-bar-wrap { margin-bottom: 18px; }
     .search-bar {
-      width: 100%; padding: 12px 18px; border-radius: 12px;
+      width: 100%; padding: 11px 16px; border-radius: var(--radius-md);
       background: var(--bg-card); border: 1px solid var(--border);
-      color: var(--text); font-size: 15px; font-family: inherit; outline: none; transition: all 0.2s;
+      color: var(--text); font-size: 14px; font-family: inherit; outline: none; transition: all 0.2s ease;
     }
-    .search-bar:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(94,92,230,0.12); }
+    .search-bar:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-glow); }
     .search-bar::placeholder { color: var(--text-muted); }
 
-    /* ===== LOADING ===== */
-    .loading { text-align: center; padding: 60px 0; color: var(--text-secondary); }
+    /* ── LOADING ── */
+    .loading { text-align: center; padding: 80px 0; color: var(--text-secondary); font-size: 14px; }
     .spinner {
-      width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--accent);
-      border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 16px;
+      width: 30px; height: 30px; border: 2.5px solid var(--border);
+      border-top-color: var(--accent); border-radius: 50%;
+      animation: spin 0.7s linear infinite; margin: 0 auto 16px;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    /* ===== MEMBER CARDS ===== */
-    .section-title { font-size: 22px; font-weight: 600; margin-bottom: 16px; margin-top: 32px; }
+    /* ── SECTION TITLE ── */
+    .section-title {
+      font-size: 20px; font-weight: 700; margin-bottom: 16px; margin-top: 40px;
+      letter-spacing: -0.4px; color: var(--text);
+      display: flex; align-items: center; gap: 10px;
+    }
     .section-title:first-child { margin-top: 0; }
-    .members-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; margin-bottom: 16px; }
-
-    .member-card {
-      background: var(--bg-card); border: 1px solid var(--border); border-radius: 14px;
-      padding: 20px; cursor: pointer; transition: all 0.2s;
-      border-left: 3px solid var(--border);
+    .section-title .count {
+      color: var(--text-muted); font-size: 14px; font-weight: 400;
     }
-    .member-card:hover { background: var(--bg-hover); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
-    .member-card.party-R { border-left-color: var(--red); }
-    .member-card.party-D { border-left-color: var(--blue); }
-    .member-card.party-I { border-left-color: var(--purple); }
-    .member-card.hidden { display: none; }
 
-    .member-header { display: flex; align-items: center; gap: 14px; margin-bottom: 12px; }
-    .member-avatar {
-      width: 52px; height: 52px; border-radius: 50%; flex-shrink: 0; overflow: hidden;
-      background: linear-gradient(135deg, var(--accent), var(--purple));
-      display: flex; align-items: center; justify-content: center;
-      font-weight: 600; font-size: 18px;
-    }
-    .member-avatar img {
-      width: 100%; height: 100%; object-fit: cover; border-radius: 50%; display: block;
-    }
-    .member-avatar .avatar-initial { display: none; font-weight: 600; font-size: 18px; }
-    .member-avatar.no-photo img { display: none; }
-    .member-avatar.no-photo .avatar-initial { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
-
-    .member-info h3 { font-size: 15px; font-weight: 600; line-height: 1.3; }
-    .party-badge { font-size: 11px; padding: 2px 8px; border-radius: 20px; font-weight: 500; display: inline-block; margin-top: 3px; }
-    .party-D { background: rgba(10,132,255,0.15); color: var(--blue); }
-    .party-R { background: rgba(255,69,58,0.15); color: var(--red); }
-    .party-I { background: rgba(191,90,242,0.15); color: var(--purple); }
-    .member-detail { color: var(--text-secondary); font-size: 13px; line-height: 1.5; }
-    .member-stat { color: var(--text-muted); font-size: 12px; margin-top: 6px; font-style: italic; }
-
-    /* ===== DETAIL VIEW ===== */
-    .detail-view { background: var(--bg-card); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; margin-bottom: 48px; }
-    .detail-header { padding: 32px; border-bottom: 1px solid var(--border); display: flex; align-items: flex-start; gap: 20px; }
-    .detail-avatar {
-      width: 80px; height: 80px; border-radius: 50%; overflow: hidden;
-      background: linear-gradient(135deg, var(--accent), var(--purple));
-      display: flex; align-items: center; justify-content: center;
-      font-weight: 700; font-size: 28px; flex-shrink: 0;
-    }
-    .detail-avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
-    .detail-avatar.no-photo img { display: none; }
-    .detail-info h2 { font-size: 26px; font-weight: 700; }
-    .detail-info .role { color: var(--text-secondary); font-size: 15px; margin-top: 6px; }
-    .detail-body { padding: 32px; }
-    .back-btn {
-      display: inline-flex; align-items: center; gap: 6px; color: var(--text-secondary);
-      font-size: 14px; cursor: pointer; margin-bottom: 24px; padding: 8px 12px;
-      border-radius: 8px; transition: all 0.2s; border: none; background: none; font-family: inherit;
-    }
-    .back-btn:hover { background: var(--bg-hover); color: var(--text); }
-
-    /* ===== BILL CARDS ===== */
-    .bill-card { background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; margin-bottom: 10px; transition: border-color 0.2s; }
-    .bill-card:hover { border-color: var(--text-muted); }
-    .bill-number { color: var(--accent); font-weight: 500; font-size: 13px; letter-spacing: 0.3px; }
-    .bill-title { font-size: 15px; font-weight: 500; margin: 4px 0; line-height: 1.4; }
-    .bill-meta { color: var(--text-muted); font-size: 12px; display: flex; gap: 12px; flex-wrap: wrap; }
-    .bill-summary { color: var(--text-secondary); font-size: 13px; line-height: 1.5; margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border); }
-    .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px; }
-    .pro, .con { padding: 10px 14px; border-radius: 10px; font-size: 13px; line-height: 1.5; }
-    .pro { background: rgba(48,209,88,0.08); border: 1px solid rgba(48,209,88,0.2); }
-    .pro .lbl { color: var(--green); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
-    .con { background: rgba(255,69,58,0.08); border: 1px solid rgba(255,69,58,0.2); }
-    .con .lbl { color: var(--red); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
-
-    /* ===== VOTING ===== */
-    .voting-area {
-      margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border);
-      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
-    }
-    .vote-btn {
-      padding: 6px 14px; border-radius: 8px; font-size: 13px; font-weight: 500;
-      font-family: inherit; cursor: pointer; border: 1px solid var(--border);
-      background: var(--bg); color: var(--text); transition: all 0.15s;
-    }
-    .vote-btn:hover { transform: translateY(-1px); }
-    .vote-btn.vote-approve:hover { border-color: var(--green); background: rgba(48,209,88,0.1); }
-    .vote-btn.vote-disapprove:hover { border-color: var(--red); background: rgba(255,69,58,0.1); }
-    .vote-btn:disabled { opacity: 0.4; cursor: default; transform: none; }
-    .vote-counts { color: var(--text-muted); font-size: 13px; }
-    .voter-input {
-      padding: 6px 10px; border-radius: 8px; font-size: 13px; font-family: inherit;
-      border: 1px solid var(--border); background: var(--bg-card); color: var(--text);
-      width: 140px; outline: none; transition: border-color 0.15s;
-    }
-    .voter-email { width: 190px; }
-    .voter-input:focus { border-color: var(--accent); }
-    .voter-input::placeholder { color: var(--text-muted); }
-
-    /* ===== EMPTY STATE ===== */
-    .empty-state { text-align: center; padding: 80px 0; color: var(--text-muted); }
-    .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
-    .empty-state h3 { font-size: 20px; font-weight: 600; color: var(--text-secondary); margin-bottom: 8px; }
-
-    /* ===== ALERT BANNER ===== */
-    .alert {
-      padding: 10px 16px; border-radius: 10px; font-size: 14px; margin-bottom: 16px;
-      background: rgba(255,159,10,0.1); border: 1px solid rgba(255,159,10,0.25); color: var(--orange);
-    }
-    .alert.success { background: rgba(48,209,88,0.1); border-color: rgba(48,209,88,0.25); color: var(--green); }
-    .alert.error { background: rgba(255,69,58,0.1); border-color: rgba(255,69,58,0.25); color: var(--red); }
-
-    /* ===== PARTY FILTER ===== */
-    .party-filter { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+    /* ── PARTY FILTER ── */
+    .party-filter { display: flex; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; }
     .filter-pill {
       padding: 5px 14px; border-radius: 20px; font-size: 13px; font-weight: 500;
       cursor: pointer; border: 1px solid var(--border); background: var(--bg-card);
-      color: var(--text-secondary); font-family: inherit; transition: all 0.15s;
+      color: var(--text-muted); font-family: inherit; transition: all 0.15s ease;
     }
-    .filter-pill:hover { border-color: var(--text-muted); color: var(--text); }
-    .filter-pill.active { background: var(--accent); border-color: var(--accent); color: white; }
-    .filter-pill.pill-R.active { background: var(--red); border-color: var(--red); }
-    .filter-pill.pill-D.active { background: var(--blue); border-color: var(--blue); }
+    .filter-pill:hover { border-color: var(--border-light); color: var(--text-secondary); }
+    .filter-pill.active { background: var(--accent); border-color: var(--accent); color: white; box-shadow: 0 1px 6px rgba(79,110,247,0.35); }
+    .filter-pill.pill-R.active { background: var(--red); border-color: var(--red); box-shadow: 0 1px 6px rgba(232,76,76,0.35); }
+    .filter-pill.pill-D.active { background: var(--blue); border-color: var(--blue); box-shadow: 0 1px 6px rgba(77,166,255,0.35); }
 
-    /* ===== STATS ===== */
-    .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-bottom: 32px; }
+    /* ── MEMBER CARDS ── */
+    .members-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 12px; margin-bottom: 24px;
+    }
+    .member-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--radius-lg); padding: 20px; cursor: pointer;
+      transition: all 0.22s ease; position: relative; overflow: hidden;
+    }
+    .member-card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0;
+      width: 3px; border-radius: 0; background: var(--border);
+      transition: background 0.2s;
+    }
+    .member-card.party-R::before { background: var(--red); }
+    .member-card.party-D::before { background: var(--blue); }
+    .member-card.party-I::before { background: var(--purple); }
+    .member-card:hover {
+      background: var(--bg-hover); transform: translateY(-3px);
+      box-shadow: var(--shadow-hover); border-color: var(--border-light);
+    }
+    .member-card.hidden { display: none; }
+    .member-header { display: flex; align-items: center; gap: 16px; margin-bottom: 12px; }
+
+    /* ── AVATAR ── */
+    .member-avatar {
+      width: 60px; height: 60px; border-radius: 50%; flex-shrink: 0;
+      overflow: hidden; background: linear-gradient(135deg, #2d3a7c, #5b3fa8);
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 20px;
+      border: 2px solid var(--border);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+    }
+    .member-avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; display: block; }
+    .member-avatar .avatar-initial { display: none; font-weight: 700; font-size: 20px; color: rgba(255,255,255,0.85); }
+    .member-avatar.no-photo img { display: none; }
+    .member-avatar.no-photo .avatar-initial { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+
+    .member-info h3 { font-size: 15px; font-weight: 700; line-height: 1.3; letter-spacing: -0.2px; }
+    .member-detail { color: var(--text-secondary); font-size: 13px; line-height: 1.5; margin-top: 6px; }
+
+    /* ── PARTY BADGE ── */
+    .party-badge {
+      font-size: 11px; padding: 3px 9px; border-radius: 20px;
+      font-weight: 600; display: inline-block; margin-top: 4px; letter-spacing: 0.2px;
+    }
+    .badge-D { background: rgba(77,166,255,0.12); color: #66b3ff; border: 1px solid rgba(77,166,255,0.2); }
+    .badge-R { background: rgba(232,76,76,0.12); color: #ff7070; border: 1px solid rgba(232,76,76,0.2); }
+    .badge-I { background: rgba(167,139,250,0.12); color: #b8a0ff; border: 1px solid rgba(167,139,250,0.2); }
+
+    /* ── DETAIL VIEW ── */
+    .detail-view {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--radius-xl); overflow: hidden; margin-bottom: 40px;
+    }
+    .detail-header {
+      padding: 36px; border-bottom: 1px solid var(--border);
+      display: flex; align-items: flex-start; gap: 24px;
+      background: linear-gradient(135deg, var(--bg-card) 0%, rgba(79,110,247,0.04) 100%);
+    }
+    .detail-avatar {
+      width: 88px; height: 88px; border-radius: 50%; overflow: hidden;
+      background: linear-gradient(135deg, #2d3a7c, #5b3fa8);
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 800; font-size: 32px; flex-shrink: 0;
+      border: 3px solid var(--border); box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    }
+    .detail-avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+    .detail-avatar .avatar-initial { display: none; font-weight: 700; font-size: 32px; color: rgba(255,255,255,0.85); }
+    .detail-avatar.no-photo img { display: none; }
+    .detail-avatar.no-photo .avatar-initial { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+    .detail-info h2 { font-size: 28px; font-weight: 800; letter-spacing: -0.8px; }
+    .detail-info .role { color: var(--text-secondary); font-size: 14px; margin-top: 8px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .detail-info .terms-served { color: var(--text-muted); font-size: 13px; margin-top: 6px; }
+    .detail-body { padding: 32px; }
+
+    /* ── BACK BUTTON ── */
+    .back-btn {
+      display: inline-flex; align-items: center; gap: 7px; color: var(--text-muted);
+      font-size: 13px; cursor: pointer; margin-bottom: 24px; padding: 8px 14px;
+      border-radius: var(--radius-sm); transition: all 0.15s ease;
+      border: 1px solid transparent; background: none; font-family: inherit; font-weight: 500;
+    }
+    .back-btn:hover { background: var(--bg-hover); color: var(--text-secondary); border-color: var(--border); }
+
+    /* ── BILL CARDS ── */
+    .bill-card {
+      background: var(--bg-elevated); border: 1px solid var(--border);
+      border-radius: var(--radius-md); padding: 20px 22px; margin-bottom: 12px;
+      transition: border-color 0.2s ease;
+    }
+    .bill-card:hover { border-color: var(--border-light); }
+    .bill-number {
+      color: var(--accent); font-weight: 700; font-size: 11px;
+      letter-spacing: 0.8px; text-transform: uppercase; margin-bottom: 6px;
+    }
+    .bill-title { font-size: 15px; font-weight: 600; margin: 0 0 8px; line-height: 1.45; letter-spacing: -0.1px; }
+    .bill-meta { color: var(--text-muted); font-size: 12px; display: flex; gap: 14px; flex-wrap: wrap; }
+    .bill-summary { color: var(--text-secondary); font-size: 13px; line-height: 1.6; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); }
+    .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
+    .pro, .con { padding: 13px 15px; border-radius: var(--radius-sm); font-size: 13px; line-height: 1.55; }
+    .pro { background: rgba(62,207,115,0.05); border: 1px solid rgba(62,207,115,0.15); }
+    .pro .lbl { color: var(--green); font-weight: 700; font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px; display: block; }
+    .con { background: rgba(232,76,76,0.05); border: 1px solid rgba(232,76,76,0.15); }
+    .con .lbl { color: var(--red); font-weight: 700; font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px; display: block; }
+
+    /* ── VOTING ── */
+    .voting-area {
+      margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border);
+      display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    }
+    .vote-btn {
+      padding: 7px 16px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 600;
+      font-family: inherit; cursor: pointer; border: 1px solid var(--border);
+      background: var(--bg-card); color: var(--text-secondary); transition: all 0.15s ease;
+    }
+    .vote-btn:hover { transform: translateY(-1px); }
+    .vote-btn.vote-approve:hover { border-color: var(--green); background: rgba(62,207,115,0.08); color: var(--green); }
+    .vote-btn.vote-disapprove:hover { border-color: var(--red); background: rgba(232,76,76,0.08); color: var(--red); }
+    .vote-btn:disabled { opacity: 0.35; cursor: default; transform: none; }
+    .vote-counts { color: var(--text-muted); font-size: 13px; }
+    .voter-input {
+      padding: 7px 11px; border-radius: var(--radius-sm); font-size: 13px;
+      font-family: inherit; border: 1px solid var(--border); background: var(--bg-card);
+      color: var(--text); width: 130px; outline: none; transition: border-color 0.15s ease;
+    }
+    .voter-email { width: 190px; }
+    .voter-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-glow); }
+    .voter-input::placeholder { color: var(--text-muted); }
+
+    /* ── EMPTY STATE ── */
+    .empty-state { text-align: center; padding: 100px 0; color: var(--text-muted); }
+    .empty-state .icon { font-size: 52px; margin-bottom: 16px; opacity: 0.7; }
+    .empty-state h3 { font-size: 20px; font-weight: 700; color: var(--text-secondary); margin-bottom: 10px; letter-spacing: -0.3px; }
+    .empty-state p { font-size: 15px; max-width: 360px; margin: 0 auto; line-height: 1.6; }
+
+    /* ── ALERTS ── */
+    .alert {
+      padding: 12px 18px; border-radius: var(--radius-sm); font-size: 14px;
+      margin-bottom: 16px; background: rgba(245,158,11,0.08);
+      border: 1px solid rgba(245,158,11,0.2); color: var(--orange); font-weight: 500;
+    }
+    .alert.success { background: rgba(62,207,115,0.08); border-color: rgba(62,207,115,0.2); color: var(--green); }
+    .alert.error { background: rgba(232,76,76,0.08); border-color: rgba(232,76,76,0.2); color: var(--red); }
+
+    /* ── STATS ── */
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; margin-bottom: 32px; }
     .stat-card {
-      background: var(--bg-card); border: 1px solid var(--border); border-radius: 14px;
-      padding: 20px; text-align: center;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--radius-md); padding: 24px; text-align: center;
     }
-    .stat-card .stat-num { font-size: 32px; font-weight: 700; color: var(--accent); }
-    .stat-card .stat-lbl { color: var(--text-secondary); font-size: 13px; margin-top: 4px; }
-    .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: 13px; }
-    .bar-track { flex: 1; background: var(--bg-card); border-radius: 4px; height: 8px; overflow: hidden; }
-    .bar-fill { height: 100%; border-radius: 4px; background: var(--accent); transition: width 0.6s ease; }
-    .bar-label { color: var(--text-secondary); min-width: 120px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .bar-count { color: var(--text-muted); font-size: 12px; min-width: 24px; text-align: right; }
+    .stat-card .stat-num { font-size: 34px; font-weight: 800; color: var(--accent); letter-spacing: -1px; }
+    .stat-card .stat-lbl { color: var(--text-secondary); font-size: 13px; margin-top: 6px; }
+    .bar-row { display: flex; align-items: center; gap: 12px; margin-bottom: 9px; font-size: 13px; }
+    .bar-track { flex: 1; background: var(--bg); border-radius: 4px; height: 8px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 4px; background: var(--accent); transition: width 0.7s ease; }
+    .bar-label { color: var(--text-secondary); min-width: 130px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .bar-count { color: var(--text-muted); font-size: 12px; min-width: 28px; text-align: right; }
+    .load-more-wrap { text-align: center; margin: 24px 0 48px; }
 
-    /* ===== LOAD MORE ===== */
-    .load-more-wrap { text-align: center; margin: 20px 0 40px; }
-
-    /* ===== FOOTER ===== */
+    /* ── FOOTER ── */
     footer {
-      border-top: 1px solid var(--border); padding: 24px 0;
-      text-align: center; color: var(--text-muted); font-size: 13px; margin-top: 60px;
+      border-top: 1px solid var(--border); padding: 28px 0;
+      text-align: center; color: var(--text-muted); font-size: 13px;
     }
-    footer a { color: var(--text-muted); }
+    footer a { color: var(--text-muted); transition: color 0.15s; }
     footer a:hover { color: var(--text-secondary); }
+    .footer-inner { max-width: 1280px; margin: 0 auto; padding: 0 28px; }
+    .footer-dots { margin: 0 10px; opacity: 0.3; }
 
-    /* ===== MOBILE ===== */
+    /* ── RESPONSIVE ── */
     @media (max-width: 768px) {
-      .hero h1 { font-size: 30px; letter-spacing: -1px; }
+      .hero h1 { font-size: 34px; letter-spacing: -1px; }
       .hero p { font-size: 16px; }
-      .header-inner { flex-wrap: wrap; gap: 10px; }
-      nav { gap: 2px; flex-wrap: wrap; justify-content: center; }
-      .nav-link { padding: 8px 10px; font-size: 13px; }
+      .header-inner { flex-wrap: wrap; gap: 8px; }
+      nav { gap: 0; flex-wrap: wrap; justify-content: center; }
+      .nav-link { padding: 7px 10px; font-size: 12px; }
       .lookup-row { flex-direction: column; align-items: stretch; }
       .zip-input, .state-select { width: 100%; }
       .members-grid { grid-template-columns: 1fr; }
       .pros-cons { grid-template-columns: 1fr; }
       .detail-header { flex-direction: column; align-items: center; text-align: center; }
+      .detail-info .role { justify-content: center; }
       .voting-area { flex-direction: column; align-items: stretch; }
       .voter-input, .voter-email { width: 100%; }
-      .member-card { padding: 16px; }
-      .bill-card { padding: 14px 16px; }
-      .btn { padding: 14px 28px; font-size: 16px; }
-      .vote-btn { padding: 10px 18px; font-size: 15px; }
-      .voter-input { padding: 10px 14px; font-size: 15px; }
-      .lookup-tab { padding: 10px 16px; font-size: 15px; }
-      /* Stats page */
+      .btn { padding: 13px 24px; font-size: 15px; }
+      .vote-btn { padding: 10px 16px; font-size: 14px; }
       .stats-grid { grid-template-columns: 1fr 1fr; }
       .stats-two-col { grid-template-columns: 1fr !important; }
       .bar-label { min-width: 90px; font-size: 12px; }
-      /* Bill search row */
       .bill-search-row { flex-direction: column !important; }
       .bill-search-row .btn { width: 100%; }
     }
     @media (max-width: 480px) {
       .container { padding: 20px 16px; }
-      .hero { padding: 36px 0 28px; }
-      .hero h1 { font-size: 26px; }
-      .header-inner { flex-direction: column; align-items: stretch; gap: 8px; }
+      .hero { padding: 44px 0 32px; }
+      .hero h1 { font-size: 28px; }
+      .header-inner { flex-direction: column; align-items: stretch; gap: 6px; }
+      header { height: auto; padding: 12px 0; }
       .logo { justify-content: center; }
       nav { justify-content: center; flex-wrap: wrap; }
-      .nav-link { padding: 8px 10px; font-size: 13px; }
-      .member-header { gap: 10px; }
-      .member-avatar { width: 44px; height: 44px; font-size: 16px; }
-      .search-bar { padding: 10px 14px; font-size: 15px; }
+      .nav-link { padding: 6px 9px; font-size: 12px; }
+      .member-avatar { width: 52px; height: 52px; font-size: 17px; }
       .stats-grid { grid-template-columns: 1fr; }
-      .stat-card .stat-num { font-size: 26px; }
-      .filter-pill { font-size: 12px; padding: 5px 11px; }
+      .stat-card .stat-num { font-size: 28px; }
+      .filter-pill { font-size: 12px; padding: 4px 10px; }
       .lookup-tabs { width: 100%; }
       .lookup-tab { flex: 1; text-align: center; }
     }
@@ -326,56 +425,58 @@
 <header>
   <div class="header-inner">
     <div class="logo" onclick="goHome()">
-      <div class="logo-icon">✦</div>Capitol Watch
+      <div class="logo-icon">🏛️</div>
+      <span class="logo-text">Capitol<span>Watch</span></span>
     </div>
     <nav>
-      <button class="nav-link" onclick="goHome()">🏠 Home</button>
-      <button class="nav-link" onclick="showRecentBills()">📋 Recent Bills</button>
-      <button class="nav-link" onclick="showStats()">📊 Stats</button>
-      <button class="nav-link" onclick="showAbout()">ℹ️ About</button>
+      <button class="nav-link" onclick="goHome()">Home</button>
+      <button class="nav-link" onclick="showRecentBills()">Recent Bills</button>
+      <button class="nav-link" onclick="showStats()">Stats</button>
+      <button class="nav-link" onclick="showAbout()">About</button>
     </nav>
   </div>
 </header>
 
 <div class="container">
   <div class="hero" id="heroSection">
-    <h1>See How Your Representatives Vote</h1>
-    <p>Look up any member of Congress. See their voting record. Get plain-language bill explanations with pros and cons.</p>
+    <div class="hero-eyebrow">🇺🇸 Nonpartisan &nbsp;·&nbsp; Free &nbsp;·&nbsp; Live Data</div>
+    <h1>See How Your<br>Representatives Vote</h1>
+    <p>Look up any member of Congress. Track their voting record. Get plain-language bill breakdowns — both sides, no spin.</p>
   </div>
 
-  <!-- Lookup Area -->
   <div class="lookup-area" id="lookupArea">
     <div class="lookup-tabs">
       <button class="lookup-tab active" id="tabZip" onclick="switchTab('zip')">📍 Find by Zip Code</button>
       <button class="lookup-tab" id="tabState" onclick="switchTab('state')">🗺️ Browse by State</button>
     </div>
 
-    <!-- Zip Code Panel -->
     <div class="lookup-row" id="panelZip">
       <input type="text" class="zip-input" id="zipInput" placeholder="Enter zip code (e.g. 33601)" maxlength="5" inputmode="numeric" />
       <button class="btn" id="zipBtn" onclick="lookupByZip()">Find My Representatives</button>
     </div>
 
-    <!-- State Panel -->
     <div class="lookup-row" id="panelState" style="display:none">
       <select id="stateSelect" class="state-select"><option value="">Select a state...</option></select>
       <button class="btn" id="searchBtn" onclick="doStateSearch()">Look Up Representatives</button>
     </div>
   </div>
 
-  <!-- Main Content Area -->
   <div id="content">
     <div class="empty-state">
       <div class="icon">🏛️</div>
-      <h3>Select a state or enter your zip code to get started</h3>
+      <h3>Select a state or enter your zip code</h3>
       <p>See how your elected representatives are voting on the issues that matter to you.</p>
     </div>
   </div>
 </div>
 
 <footer>
-  <div style="max-width:1200px;margin:0 auto;padding:0 24px">
-    ✦ Capitol Watch &nbsp;·&nbsp; Data from <a href="https://congress.gov" target="_blank">Congress.gov</a> &nbsp;·&nbsp; Nonpartisan &amp; free
+  <div class="footer-inner">
+    🏛️ Capitol Watch
+    <span class="footer-dots">·</span>
+    Data from <a href="https://congress.gov" target="_blank">Congress.gov</a>
+    <span class="footer-dots">·</span>
+    Nonpartisan &amp; free
   </div>
 </footer>
 
@@ -406,12 +507,12 @@ function partyAbbrev(partyName) {
 function partyBadge(partyName) {
   const abbr = partyAbbrev(partyName);
   const label = abbr === 'D' ? 'Democrat' : abbr === 'R' ? 'Republican' : 'Independent';
-  return `<span class="party-badge party-${abbr}">${label}</span>`;
+  return `<span class="party-badge badge-${abbr}">${label}</span>`;
 }
 
 function chamberLabel(c) {
   if (!c) return 'Congress';
-  if (c.toLowerCase().includes('house')) return 'House of Representatives';
+  if (c.toLowerCase().includes('house')) return 'House';
   if (c.toLowerCase().includes('senate')) return 'Senate';
   return c;
 }
@@ -425,15 +526,6 @@ function ordinal(n) {
 function photoUrl(bioguideId) {
   if (!bioguideId) return '';
   return `https://bioguide.congress.gov/bioguide/photo/${bioguideId[0].toUpperCase()}/${bioguideId}.jpg`;
-}
-
-function avatarHtml(bioguideId, initial, size = 'card') {
-  const url = photoUrl(bioguideId);
-  const cls = size === 'detail' ? 'detail-avatar' : 'member-avatar';
-  return `<div class="${cls}" id="avatar-${bioguideId}">
-    <img src="${url}" alt="" onload="this.parentElement.classList.remove('no-photo')" onerror="this.parentElement.classList.add('no-photo')" />
-    <span class="avatar-initial">${initial}</span>
-  </div>`;
 }
 
 // ===== TAB SWITCHING =====
@@ -460,7 +552,7 @@ async function lookupByZip() {
     const data = await res.json();
     if (!res.ok) { showAlert(data.error || 'Zip code not found', 'error'); return; }
     const city = data.city ? `${data.city}, ` : '';
-    showAlert(`📍 Found: ${city}${data.stateCode} — showing all representatives for your state`, 'success');
+    showAlert(`📍 Found: ${city}${data.stateCode} — showing representatives for your state`, 'success');
     stateSelect.value = data.stateCode;
     currentState = data.stateCode;
     loadState(data.stateCode);
@@ -513,25 +605,25 @@ function clearAlert() {
 function renderMembers(data) {
   let html = '';
   if (data.senate && data.senate.length > 0) {
-    html += `<div class="section-title">Senate <span style="color:var(--text-muted);font-size:14px;font-weight:400">(${data.senate.length})</span></div>`;
+    html += `<div class="section-title">Senate <span class="count">(${data.senate.length})</span></div>`;
     html += `<div class="party-filter" id="senateFilter">
       <button class="filter-pill active" onclick="filterGrid('senateGrid','senateFilter','all',this)">All</button>
-      <button class="filter-pill pill-D" onclick="filterGrid('senateGrid','senateFilter','D',this)">🔵 Democrats</button>
-      <button class="filter-pill pill-R" onclick="filterGrid('senateGrid','senateFilter','R',this)">🔴 Republicans</button>
+      <button class="filter-pill pill-D" onclick="filterGrid('senateGrid','senateFilter','D',this)">Democrat</button>
+      <button class="filter-pill pill-R" onclick="filterGrid('senateGrid','senateFilter','R',this)">Republican</button>
     </div>`;
-    html += `<div class="search-bar-wrap"><input class="search-bar" placeholder="🔍 Search senators by name..." oninput="filterGridByName('senateGrid', this.value)" /></div>`;
+    html += `<div class="search-bar-wrap"><input class="search-bar" placeholder="Search senators by name..." oninput="filterGridByName('senateGrid', this.value)" /></div>`;
     html += `<div class="members-grid" id="senateGrid">`;
     data.senate.forEach(m => html += memberCard(m));
     html += `</div>`;
   }
   if (data.house && data.house.length > 0) {
-    html += `<div class="section-title">House of Representatives <span style="color:var(--text-muted);font-size:14px;font-weight:400">(${data.house.length})</span></div>`;
+    html += `<div class="section-title">House of Representatives <span class="count">(${data.house.length})</span></div>`;
     html += `<div class="party-filter" id="houseFilter">
       <button class="filter-pill active" onclick="filterGrid('houseGrid','houseFilter','all',this)">All</button>
-      <button class="filter-pill pill-D" onclick="filterGrid('houseGrid','houseFilter','D',this)">🔵 Democrats</button>
-      <button class="filter-pill pill-R" onclick="filterGrid('houseGrid','houseFilter','R',this)">🔴 Republicans</button>
+      <button class="filter-pill pill-D" onclick="filterGrid('houseGrid','houseFilter','D',this)">Democrat</button>
+      <button class="filter-pill pill-R" onclick="filterGrid('houseGrid','houseFilter','R',this)">Republican</button>
     </div>`;
-    html += `<div class="search-bar-wrap"><input class="search-bar" placeholder="🔍 Search representatives by name..." oninput="filterGridByName('houseGrid', this.value)" /></div>`;
+    html += `<div class="search-bar-wrap"><input class="search-bar" placeholder="Search representatives by name..." oninput="filterGridByName('houseGrid', this.value)" /></div>`;
     html += `<div class="members-grid" id="houseGrid">`;
     data.house.forEach(m => html += memberCard(m));
     html += `</div>`;
@@ -549,16 +641,20 @@ function memberCard(m) {
   const p = parseName(m.name || 'Unknown');
   const party = m.partyName || '';
   const abbr = partyAbbrev(party);
-  const dist = m.district != null ? ` – ${ordinal(m.district)} District` : '';
+  const dist = m.district != null ? `${ordinal(m.district)} District` : '';
   const chamber = m.terms?.item?.[m.terms.item.length-1]?.chamber || m.terms?.item?.[0]?.chamber || '';
   const id = m.bioguideId || '';
   const initial = (p.first[0] || '?').toUpperCase();
   const url = photoUrl(id);
+  const chamberShort = chamberLabel(chamber);
+  const location = [chamberShort, m.state, dist].filter(Boolean).join(' · ');
 
   return `<div class="member-card party-${abbr}" data-id="${id}" data-name="${p.first} ${p.last}">
     <div class="member-header">
       <div class="member-avatar" id="av-${id}">
-        <img src="${url}" alt="${p.first} ${p.last}" onerror="this.parentElement.classList.add('no-photo')" />
+        <img src="${url}" alt="${p.first} ${p.last}" referrerpolicy="no-referrer" crossorigin="anonymous"
+          onload="this.parentElement.classList.remove('no-photo')"
+          onerror="this.parentElement.classList.add('no-photo')" />
         <span class="avatar-initial">${initial}</span>
       </div>
       <div class="member-info">
@@ -566,7 +662,7 @@ function memberCard(m) {
         ${partyBadge(party)}
       </div>
     </div>
-    <div class="member-detail">${chamberLabel(chamber)} — ${m.state}${dist}</div>
+    <div class="member-detail">${location}</div>
   </div>`;
 }
 
@@ -583,10 +679,8 @@ function filterGridByName(gridId, query) {
 }
 
 function filterGrid(gridId, filterId, party, btn) {
-  // Update active pill
   document.querySelectorAll(`#${filterId} .filter-pill`).forEach(p => p.classList.remove('active'));
   btn.classList.add('active');
-  // Filter cards
   const grid = document.getElementById(gridId);
   if (!grid) return;
   grid.querySelectorAll('.member-card').forEach(card => {
@@ -620,36 +714,41 @@ function renderMemberDetail(data) {
   const lastTerm = terms[terms.length - 1] || {};
   const chamber = lastTerm.chamber || '';
   const state = lastTerm.state || '';
-  const dist = m.district != null ? ` – ${ordinal(m.district)} District` : '';
+  const dist = m.district != null ? ` · ${ordinal(m.district)} District` : '';
   const id = m.bioguideId || '';
   const initial = (first[0] || '?').toUpperCase();
   const url = photoUrl(id);
   const sponsored = data.sponsored || [];
 
   let html = `<button class="back-btn" onclick="loadState('${currentState}')">← Back to results</button>
-    <div class="detail-view" style="border-left: 3px solid var(--${abbr === 'R' ? 'red' : abbr === 'D' ? 'blue' : 'purple'})">
+    <div class="detail-view" style="border-top: 3px solid var(--${abbr === 'R' ? 'red' : abbr === 'D' ? 'blue' : 'purple'})">
       <div class="detail-header">
-        <div class="detail-avatar" id="av-detail-${id}">
-          <img src="${url}" alt="${first} ${last}" onerror="this.parentElement.classList.add('no-photo')" />
+        <div class="detail-avatar no-photo" id="av-detail-${id}">
+          <img src="${url}" alt="${first} ${last}" referrerpolicy="no-referrer" crossorigin="anonymous"
+            onload="this.parentElement.classList.remove('no-photo')"
+            onerror="this.parentElement.classList.add('no-photo')" />
           <span class="avatar-initial">${initial}</span>
         </div>
         <div class="detail-info">
           <h2>${first} ${last}</h2>
-          <div class="role">${partyBadge(party)} &nbsp;${chamberLabel(chamber)} — ${state}${dist}</div>
-          ${terms.length > 0 ? `<div style="color:var(--text-muted);font-size:13px;margin-top:6px">${terms.length} term${terms.length !== 1 ? 's' : ''} served</div>` : ''}
+          <div class="role">
+            ${partyBadge(party)}
+            <span style="color:var(--text-secondary)">${chamberLabel(chamber)} &nbsp;·&nbsp; ${state}${dist}</span>
+          </div>
+          ${terms.length > 0 ? `<div class="terms-served">${terms.length} term${terms.length !== 1 ? 's' : ''} served</div>` : ''}
         </div>
       </div>
       <div class="detail-body">
-        <h3 style="font-size:18px;font-weight:600;margin-bottom:16px">Sponsored Legislation (${sponsored.length})</h3>`;
+        <div class="section-title" style="margin-top:0">Sponsored Legislation <span class="count">(${sponsored.length})</span></div>`;
 
   if (sponsored.length === 0) {
-    html += `<p style="color:var(--text-muted)">No sponsored legislation found.</p>`;
+    html += `<p style="color:var(--text-muted);font-size:14px">No sponsored legislation found.</p>`;
   } else {
     sponsored.forEach(b => { html += buildBillCard(b, false); });
   }
 
   html += `</div></div>
-    <div class="section-title" style="margin-top:40px">🇺🇸 Recent Bills in Congress</div>
+    <div class="section-title" style="margin-top:48px">🇺🇸 Recent Bills in Congress</div>
     <div id="recentBillsSection"></div>`;
 
   content.innerHTML = html;
@@ -678,8 +777,8 @@ function buildBillCard(b, showAction) {
     <div class="bill-meta">${date ? `<span>📅 ${date}</span>` : ''}${chamber ? `<span>🏛️ ${chamber}</span>` : ''}</div>
     ${showAction && action ? `<div class="bill-summary">${action}</div>` : ''}
     <div class="pros-cons">
-      <div class="pro"><div class="lbl">👍 Supporters say</div><span class="pro-text">Analysis will appear after next refresh cycle</span></div>
-      <div class="con"><div class="lbl">👎 Opponents say</div><span class="con-text">Analysis will appear after next refresh cycle</span></div>
+      <div class="pro"><div class="lbl">👍 Supporters say</div><span class="pro-text">Loading analysis...</span></div>
+      <div class="con"><div class="lbl">👎 Opponents say</div><span class="con-text">Loading analysis...</span></div>
     </div>
     <div class="voting-area" data-billid="${billId}">
       <input class="voter-input" id="voter-${billId}" type="text" placeholder="Your name..." maxlength="50" />
@@ -751,12 +850,11 @@ async function castVote(billId, vote) {
     document.querySelectorAll(`.vote-btn[onclick*="'${billId}'"]`).forEach(b => { b.disabled = true; b.style.opacity = '0.4'; });
     if (voterInput) { voterInput.disabled = true; voterInput.style.opacity = '0.4'; }
     if (emailInput) { emailInput.disabled = true; emailInput.style.opacity = '0.4'; }
-    // Show inline success feedback
     const votingArea = document.querySelector(`.voting-area[data-billid="${billId}"]`);
     if (votingArea) {
       const feedback = document.createElement('span');
-      feedback.style.cssText = 'color:var(--green);font-size:13px;font-weight:500;';
-      feedback.textContent = vote === 'approve' ? '✅ Vote recorded!' : '❌ Vote recorded!';
+      feedback.style.cssText = 'color:var(--green);font-size:13px;font-weight:600;';
+      feedback.textContent = '✅ Vote recorded!';
       votingArea.appendChild(feedback);
     }
   } catch(e) {
@@ -813,9 +911,9 @@ async function loadRecentBillsIntoSingleView() {
     const data = await res.json();
     const bills = data.bills || [];
     let html = `<button class="back-btn" onclick="goHome()">← Home</button>
-      <div class="section-title">🇺🇸 Recent Bills in Congress</div>
+      <div class="section-title" style="margin-top:0">🇺🇸 Recent Bills in Congress</div>
       <div class="search-bar-wrap bill-search-row" style="margin-bottom:20px;display:flex;gap:10px">
-        <input class="search-bar" id="billSearchInput" placeholder="🔍 Search bills by keyword..." style="flex:1" onkeydown="if(event.key==='Enter')searchBills()" />
+        <input class="search-bar" id="billSearchInput" placeholder="Search bills by keyword..." style="flex:1" onkeydown="if(event.key==='Enter')searchBills()" />
         <button class="btn" onclick="searchBills()" style="white-space:nowrap">Search</button>
       </div>
       <div id="billResults">`;
@@ -883,7 +981,7 @@ function goHome() {
   clearAlert();
   content.innerHTML = `<div class="empty-state">
     <div class="icon">🏛️</div>
-    <h3>Select a state or enter your zip code to get started</h3>
+    <h3>Select a state or enter your zip code</h3>
     <p>See how your elected representatives are voting on the issues that matter to you.</p>
   </div>`;
 }
@@ -914,14 +1012,14 @@ async function showStats() {
 
     content.innerHTML = `
       <button class="back-btn" onclick="goHome()">← Home</button>
-      <div class="section-title">📊 119th Congress — National Statistics</div>
+      <div class="section-title" style="margin-top:0">📊 119th Congress — National Statistics</div>
       <div class="stats-grid">
         <div class="stat-card"><div class="stat-num">${d.total || 0}</div><div class="stat-lbl">Bills Tracked</div></div>
         <div class="stat-card"><div class="stat-num" style="color:var(--green)">${d.byStatus?.Enacted || 0}</div><div class="stat-lbl">Bills Enacted into Law</div></div>
         <div class="stat-card"><div class="stat-num" style="color:var(--blue)">${(d.byStatus?.['Passed House']||0) + (d.byStatus?.['Passed Senate']||0)}</div><div class="stat-lbl">Passed at Least One Chamber</div></div>
         <div class="stat-card"><div class="stat-num" style="color:var(--red)">${d.byStatus?.Vetoed || 0}</div><div class="stat-lbl">Bills Vetoed</div></div>
       </div>
-      <div class="stats-two-col" style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:40px">
+      <div class="stats-two-col" style="display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-bottom:48px">
         <div>
           <div class="section-title" style="font-size:17px;margin-top:0">Bill Status Breakdown</div>
           ${statusBars}
@@ -939,36 +1037,39 @@ async function showStats() {
 function showAbout() {
   content.innerHTML = `<button class="back-btn" onclick="goHome()">← Home</button>
     <div class="detail-view">
+      <div class="detail-header" style="flex-direction:column;align-items:flex-start">
+        <h2 style="font-size:30px;font-weight:800;letter-spacing:-0.8px;margin-bottom:4px">About Capitol Watch</h2>
+        <p style="color:var(--text-secondary);font-size:15px">Transparency tools for American democracy</p>
+      </div>
       <div class="detail-body">
-        <h2 style="font-size:26px;font-weight:700;margin-bottom:16px">✦ About Capitol Watch</h2>
-        <p style="color:var(--text-secondary);font-size:16px;line-height:1.7;margin-bottom:16px">
+        <p style="color:var(--text-secondary);font-size:16px;line-height:1.75;margin-bottom:18px">
           Capitol Watch is a free, nonpartisan tool that makes it easy for everyday Americans to see exactly what their elected representatives are doing in Congress.
         </p>
-        <p style="color:var(--text-secondary);font-size:16px;line-height:1.7;margin-bottom:16px">
+        <p style="color:var(--text-secondary);font-size:16px;line-height:1.75;margin-bottom:18px">
           We pull live data directly from <strong style="color:var(--text)">Congress.gov</strong> — the official source of U.S. legislative information — so you always see the most current bills, votes, and actions.
         </p>
-        <p style="color:var(--text-secondary);font-size:16px;line-height:1.7;margin-bottom:24px">
+        <p style="color:var(--text-secondary);font-size:16px;line-height:1.75;margin-bottom:32px">
           Our AI analysis breaks down complex legislation into plain English — showing you both sides of every bill so you can form your own opinion.
         </p>
-        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px">
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
-            <div style="font-size:28px;margin-bottom:8px">🏛️</div>
-            <div style="font-weight:600;margin-bottom:4px">535 Members</div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:14px;padding:20px;text-align:center">
+            <div style="font-size:30px;margin-bottom:10px">🏛️</div>
+            <div style="font-weight:700;font-size:15px;margin-bottom:4px">535 Members</div>
             <div style="color:var(--text-muted);font-size:13px">All of Congress tracked</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
-            <div style="font-size:28px;margin-bottom:8px">📋</div>
-            <div style="font-weight:600;margin-bottom:4px">Live Data</div>
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:14px;padding:20px;text-align:center">
+            <div style="font-size:30px;margin-bottom:10px">📡</div>
+            <div style="font-weight:700;font-size:15px;margin-bottom:4px">Live Data</div>
             <div style="color:var(--text-muted);font-size:13px">Updated in real time</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
-            <div style="font-size:28px;margin-bottom:8px">🤖</div>
-            <div style="font-weight:600;margin-bottom:4px">AI Analysis</div>
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:14px;padding:20px;text-align:center">
+            <div style="font-size:30px;margin-bottom:10px">🤖</div>
+            <div style="font-weight:700;font-size:15px;margin-bottom:4px">AI Analysis</div>
             <div style="color:var(--text-muted);font-size:13px">Plain-language bill summaries</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:16px;text-align:center">
-            <div style="font-size:28px;margin-bottom:8px">⚖️</div>
-            <div style="font-weight:600;margin-bottom:4px">Nonpartisan</div>
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:14px;padding:20px;text-align:center">
+            <div style="font-size:30px;margin-bottom:10px">⚖️</div>
+            <div style="font-weight:700;font-size:15px;margin-bottom:4px">Nonpartisan</div>
             <div style="color:var(--text-muted);font-size:13px">No agenda — just facts</div>
           </div>
         </div>
@@ -978,7 +1079,6 @@ function showAbout() {
 
 // ===== INIT =====
 
-// Load states into dropdown
 fetch('/api/states').then(r => r.json()).then(states => {
   states.forEach(s => {
     const opt = document.createElement('option');
@@ -988,7 +1088,6 @@ fetch('/api/states').then(r => r.json()).then(states => {
   });
 });
 
-// Allow Enter key on zip input
 document.getElementById('zipInput').addEventListener('keydown', e => {
   if (e.key === 'Enter') lookupByZip();
 });
