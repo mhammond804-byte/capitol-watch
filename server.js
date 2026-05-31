@@ -122,7 +122,6 @@ app.get('/api/states', apiLimiter, (req, res) => {
 // GET /api/state/:code — House + Senate members for a state (current members only)
 app.get('/api/state/:code', apiLimiter, async (req, res) => {
   const code = req.params.code.toUpperCase();
-  const currentYear = new Date().getFullYear();
   try {
     const [houseData, senateData] = await Promise.all([
       congressFetch(`/member/${code}?congress=119&chamber=House&limit=60`),
@@ -134,9 +133,10 @@ app.get('/api/state/:code', apiLimiter, async (req, res) => {
         const terms = m.terms?.item;
         if (!terms || terms.length === 0) return false;
         const lastTerm = terms[terms.length - 1];
-        const isCurrentTerm = !lastTerm.endYear || lastTerm.endYear >= currentYear;
+        // Already queried congress=119 so any returned member is current;
+        // endYear from congress.gov lags behind for active congresses
         const matchesChamber = lastTerm.chamber && lastTerm.chamber.toLowerCase().includes(targetChamber.toLowerCase());
-        return isCurrentTerm && matchesChamber;
+        return matchesChamber;
       });
     }
 
