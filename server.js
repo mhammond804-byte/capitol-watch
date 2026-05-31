@@ -391,6 +391,26 @@ app.get('/api/votes/:billId', apiLimiter, (req, res) => {
   res.json({ billId, approve: v.approve, disapprove: v.disapprove, total: v.approve + v.disapprove });
 });
 
+// GET /api/photo/:bioguideId — Proxy member photos from bioguide.congress.gov
+// (direct browser access is blocked by Cloudflare hotlink protection)
+app.get('/api/photo/:bioguideId', (req, res) => {
+  const id = req.params.bioguideId.replace(/[^A-Za-z0-9]/, '').substring(0, 10);
+  if (!id) return res.status(400).end();
+  const url = `https://bioguide.congress.gov/bioguide/photo/${id[0].toUpperCase()}/${id}.jpg`;
+  https.get(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Referer': 'https://bioguide.congress.gov/',
+      'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8'
+    }
+  }, (r) => {
+    if (r.statusCode !== 200) return res.status(404).end();
+    res.setHeader('Content-Type', 'image/jpeg');
+    res.setHeader('Cache-Control', 'public, max-age=86400');
+    r.pipe(res);
+  }).on('error', () => res.status(404).end());
+});
+
 // GET /api/zip/:zip — Look up state by zip code (uses zippopotam.us, free, no key)
 app.get('/api/zip/:zip', zipLimiter, (req, res) => {
   const zip = req.params.zip.replace(/\D/g, '').substring(0, 5);

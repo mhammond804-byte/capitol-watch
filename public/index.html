@@ -559,7 +559,7 @@ function ordinal(n) {
 
 function photoUrl(bioguideId) {
   if (!bioguideId) return '';
-  return `https://bioguide.congress.gov/bioguide/photo/${bioguideId[0].toUpperCase()}/${bioguideId}.jpg`;
+  return `/api/photo/${bioguideId}`;
 }
 
 // ===== ZIP CODE LOOKUP =====
