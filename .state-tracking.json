@@ -1,6 +1,17 @@
 {
-  "states_done": ["FL", "GA", "AL"],
-  "last_run": "2026-06-01 - FL, GA, AL",
-  "bills_added": 24,
-  "bills_regenerated": 0
+  "states_done": [
+    "AK",
+    "AL",
+    "AR",
+    "AZ",
+    "CO",
+    "CT",
+    "DE",
+    "FL",
+    "GA"
+  ],
+  "last_run": "2026-06-01 - AZ, CO, CT (+ 278 new bills)",
+  "bills_added": 391,
+  "bills_regenerated": 0,
+  "total_cache": 1891
 }
