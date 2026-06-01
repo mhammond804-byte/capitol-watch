@@ -90,6 +90,22 @@
     @media (max-width: 768px) {
     .nav-link.active { color: var(--text); background: rgba(79,110,247,0.12); }
 
+    /* ── CRE WATCH ── */
+    .cre-section { margin-bottom: 28px; }
+    .cre-section h3 { font-size: 16px; font-weight: 600; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
+    .cre-section p { color: var(--text-secondary); font-size: 13px; line-height: 1.5; margin-bottom: 10px; }
+    .cre-badge { font-size: 11px; padding: 2px 8px; border-radius: 12px; font-weight: 600; display: inline-block; }
+    .cre-badge.high { background: rgba(232,76,76,0.15); color: var(--red); }
+    .cre-badge.medium { background: rgba(245,158,11,0.15); color: var(--orange); }
+    .cre-badge.low { background: rgba(62,207,115,0.15); color: var(--green); }
+    .cre-badge.info { background: rgba(79,110,247,0.15); color: var(--accent); }
+    .cre-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-md); padding: 16px 18px; margin-bottom: 10px; }
+    .cre-card h4 { font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+    .cre-card .meta { color: var(--text-muted); font-size: 12px; margin-bottom: 6px; display: flex; gap: 10px; flex-wrap: wrap; }
+    .cre-card .desc { color: var(--text-secondary); font-size: 13px; line-height: 1.5; }
+    .cre-card .impact { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border); font-size: 12px; }
+    .cre-card .impact strong { color: var(--text); }
+
     /* ── LAYOUT ── */
     .container { max-width: 1280px; margin: 0 auto; padding: 36px 28px 80px; }
 
@@ -498,6 +514,7 @@
       <button class="nav-link" onclick="showRecentBills()">Recent Bills</button>
       <button class="nav-link" onclick="showStats()">Stats</button>
       <button class="nav-link" onclick="showAbout()">About</button>
+      <button class="nav-link" onclick="showCREWatch()" style="color:var(--gold)">🏗️ CRE Watch</button>
       <div class="nav-search">
         <input type="text" id="navSearchInput" placeholder="Search bills..." maxlength="100" onkeydown="if(event.key==='Enter')navSearch()" />
         <button class="nav-search-btn" onclick="navSearch()">🔍</button>
@@ -1305,6 +1322,87 @@ function showAbout() {
         </div>
       </div>
     </div>`;
+}
+
+// ===== CRE WATCH =====
+
+function showCREWatch() {
+  content.innerHTML = `<button class="back-btn" onclick="goHome()">← Home</button>
+    <div class="section-title" style="margin-top:0">🏗️ Florida CRE Watch</div>
+    <p style="color:var(--text-secondary);font-size:14px;margin-bottom:24px;line-height:1.6">
+      Bills and policies that affect commercial real estate in Florida — tracked for Michael Hammond.
+      <span style="color:var(--text-muted);font-size:13px">Data from Congress.gov, updated daily.</span>
+    </p>
+
+    <div class="cre-section">
+      <h3>🔴 High Priority <span class="cre-badge high">Immediate Impact</span></h3>
+      <div class="cre-card">
+        <h4>NFIP Reauthorization — Expiring Mid-2026</h4>
+        <div class="meta"><span class="cre-badge high">CRITICAL</span> <span>1.7M Florida policies</span> <span>Risk Rating 2.0 active</span></div>
+        <div class="desc">The National Flood Insurance Program's current authorization expires mid-2026. Florida has more NFIP policies than any other state. Risk Rating 2.0 has already doubled or tripled premiums for many coastal properties. Any reform could further increase costs and directly hit NOI on coastal multifamily, retail, and office.</div>
+        <div class="impact"><strong>Your move:</strong> Factor elevated flood insurance into all coastal underwriting. Don't use 2020-era insurance costs.</div>
+      </div>
+      <div class="cre-card">
+        <h4>Fed Rate Path — Cuts Expected H2 2026</h4>
+        <div class="meta"><span class="cre-badge high">MARKET MOVER</span> <span>Rate 5.25-5.50%</span></div>
+        <div class="desc">Markets pricing 2-3 rate cuts in late 2026. $1.5T in CRE loan maturities 2025-2027 face 300-400bps rate increases. When cuts come, transaction volume should unlock significantly.</div>
+        <div class="impact"><strong>Your move:</strong> Position deals now for a Q3-Q4 2026 closings when rates start coming down.</div>
+      </div>
+      <div class="cre-card">
+        <h4>Opportunity Zone Deadline — Dec 31, 2026</h4>
+        <div class="meta"><span class="cre-badge high">CLOSING WINDOW</span> <span>426 OZs in Florida</span></div>
+        <div class="desc">The original OZ program investment window closes at year-end. Florida has 426 designated zones including Miami-Dade, Broward, Orange, Hillsborough. Extension bills introduced but no floor action. If no extension passes, new OZ investments must close by Dec 31.</div>
+        <div class="impact"><strong>Your move:</strong> Communicate urgency to any clients considering OZ investments. Window closes this year.</div>
+      </div>
+    </div>
+
+    <div class="cre-section">
+      <h3>🟡 Medium Priority <span class="cre-badge medium">Watch List</span></h3>
+      <div class="cre-card">
+        <h4>HR 173 — High Rise Fire Sprinkler Incentive Act</h4>
+        <div class="meta"><span class="cre-badge info">House Bill</span> <span>Ways & Means</span> <span>8 cosponsors</span></div>
+        <div class="desc">Would reclassify fire sprinkler retrofits in high-rises as 15-year property for depreciation (currently 39-year commercial). Affects Florida high-rises in Miami, Tampa, Orlando. Stalled in committee since Jan 2025.</div>
+        <div class="impact"><strong>Your move:</strong> Low odds of passing. Monitor but don't count on it.</div>
+      </div>
+      <div class="cre-card">
+        <h4>HR 189 — SEC Real Estate Leasing Authority Revocation Act</h4>
+        <div class="meta"><span class="cre-badge info">Passed House</span> <span>Senate Banking</span></div>
+        <div class="desc">Passed the House (voice vote). Would strip SEC's independent leasing authority and centralize under GSA. Signals Congressional interest in federal leasing reform. Minor direct impact on Florida CRE.</div>
+        <div class="impact"><strong>Your move:</strong> Monitor Senate action. Trend toward federal leasing consolidation.</div>
+      </div>
+      <div class="cre-card">
+        <h4>HR 140 — Hurricane Helene & Milton Tax Relief Act</h4>
+        <div class="meta"><span class="cre-badge info">House Bill</span> <span>Ways & Means</span></div>
+        <div class="desc">Increases charitable deductions for hurricane relief, provides retirement plan relief, expanded EITC for storm victims. Directly relevant to Florida after recent hurricane seasons.</div>
+        <div class="impact"><strong>Your move:</strong> Relevant for Florida clients affected by recent storms.</div>
+      </div>
+    </div>
+
+    <div class="cre-section">
+      <h3>🟢 Low Priority <span class="cre-badge low">Monitor Only</span></h3>
+      <div class="cre-card">
+        <h4>1031 Exchange Risk — 2027+</h4>
+        <div class="meta"><span class="cre-badge low">Long-term</span></div>
+        <div class="desc">No active repeal bill in the 119th Congress. Perennial target for deficit reduction. Florida CRE relies heavily on 1031 exchanges for property turnover. Real risk window is 2027+ if reconciliation talks target it as a pay-for.</div>
+        <div class="impact"><strong>Your move:</strong> Safe through 2026. Educate investors that 1031 is secure for now.</div>
+      </div>
+      <div class="cre-card">
+        <h4>Bonus Depreciation — Phasing Down</h4>
+        <div class="meta"><span class="cre-badge low">Ongoing</span> <span>40% in 2026</span></div>
+        <div class="desc">Was 100% in 2023. Now at 40% for 2026. Accelerate cost segregation studies while the benefit still exists.</div>
+        <div class="impact"><strong>Your move:</strong> Encourage cost segregation on new acquisitions this year.</div>
+      </div>
+    </div>
+
+    <div class="cre-section" style="margin-top:32px;padding-top:20px;border-top:1px solid var(--border)">
+      <h3>📬 Get Alerts</h3>
+      <p>Get notified when CRE-relevant bills move or NFIP status changes.</p>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <input type="email" id="cre-sub-email" placeholder="Your email" class="zip-input" style="width:220px" />
+        <button class="btn btn-sm" onclick="subscribe('tracking')">🔔 Track CRE Bills</button>
+      </div>
+    </div>
+  `;
 }
 
 // ===== INIT =====
