@@ -332,6 +332,119 @@ app.get('/api/analyze-bill', apiLimiter, async (req, res) => {
   });
 });
 
+// ===== DEEP DIVE ANALYSIS =====
+// Cache for deep dive analyses
+let deepDiveCache = {};
+const DEEP_DIVE_FILE = path.join(__dirname, 'deep-analysis.json');
+try {
+  if (fs.existsSync(DEEP_DIVE_FILE)) {
+    deepDiveCache = JSON.parse(fs.readFileSync(DEEP_DIVE_FILE, 'utf-8'));
+    console.log(`Loaded ${Object.keys(deepDiveCache).length} deep dive analyses`);
+  }
+} catch(e) {
+  console.error('Could not load deep analysis cache:', e.message);
+}
+setInterval(() => {
+  try {
+    if (fs.existsSync(DEEP_DIVE_FILE)) {
+      deepDiveCache = JSON.parse(fs.readFileSync(DEEP_DIVE_FILE, 'utf-8'));
+    }
+  } catch(e) { /* silent */ }
+}, 300000);
+
+function saveDeepDives() {
+  try {
+    fs.writeFileSync(DEEP_DIVE_FILE, JSON.stringify(deepDiveCache, null, 2));
+  } catch(e) {
+    console.error('Could not save deep analysis:', e.message);
+  }
+}
+
+// GET /api/deep-analysis?congress=X&type=X&number=X — Full in-depth analysis of a bill
+app.get('/api/deep-analysis', apiLimiter, async (req, res) => {
+  const { congress, type, number } = req.query;
+  if (!congress || !type || !number) {
+    return res.status(400).json({ error: 'Missing bill identifier' });
+  }
+
+  const cacheKey = `${congress}/${type}/${number}`.toLowerCase();
+
+  // Return cached if available
+  if (deepDiveCache[cacheKey]) {
+    return res.json({ ...deepDiveCache[cacheKey], cached: true });
+  }
+
+  // Generate deep analysis in real-time
+  try {
+    // Fetch bill details + full text from Congress.gov
+    const [billData, summariesData, textData] = await Promise.all([
+      congressFetch(`/bill/${congress}/${type}/${number}`),
+      congressFetch(`/bill/${congress}/${type}/${number}/summaries`),
+      congressFetch(`/bill/${congress}/${type}/${number}/text`)
+    ]);
+
+    const bill = billData?.bill || {};
+    const title = bill.title || 'No title';
+    const sponsorName = bill.sponsors?.[0]?.fullName || 'Unknown';
+    const sponsorParty = bill.sponsors?.[0]?.partyName || 'Unknown';
+    const policyArea = bill.policyArea?.name || 'General';
+    
+    // Get summary text
+    let summaryText = '';
+    const summaries = summariesData?.summaries || [];
+    if (summaries.length > 0) {
+      const text = summaries[0].text || '';
+      summaryText = text.replace(/<[^>]+>/g, '').substring(0, 2000);
+    }
+
+    // Try to get full bill text (latest version)
+    let billText = '';
+    const texts = textData?.billTextVersions?.billTextVersion || [];
+    if (texts.length > 0) {
+      const formats = texts[texts.length - 1]?.formats?.format || [];
+      const txtUrl = Array.isArray(formats) ? formats.find(f => f.type === 'Formatted Text' || f.type === 'PDF') : null;
+      if (txtUrl?.url) {
+        billText = txtUrl.url;
+      }
+    }
+
+    // Get latest action for status context
+    const latestAction = bill.latestAction?.text || '';
+    const latestActionDate = bill.latestAction?.actionDate || '';
+
+    // Get constitutional authority statement (often has plain-English context)
+    const constAuth = bill.constitutionalAuthorityStatementText || '';
+
+    // Get cosponsor count
+    const cosponsorCount = bill.cosponsors?.count || 0;
+
+    // Build a structured response with what we have
+    const analysis = {
+      title,
+      sponsor: sponsorName,
+      sponsorParty,
+      policyArea,
+      summary: summaryText,
+      latestAction: latestAction,
+      latestActionDate: latestActionDate,
+      cosponsorCount,
+      billTextUrl: billText,
+      constitutionalAuthority: constAuth,
+      generatedAt: new Date().toISOString(),
+      quick: analysisCache[cacheKey] || { pros: ['Quick analysis pending'], cons: ['Quick analysis pending'] }
+    };
+
+    // Cache and return
+    deepDiveCache[cacheKey] = analysis;
+    saveDeepDives();
+
+    res.json({ ...analysis, cached: false });
+  } catch (e) {
+    console.error(`Error generating deep analysis for ${cacheKey}:`, e.message);
+    res.json({ error: 'Could not generate deep analysis at this time', cached: false });
+  }
+});
+
 // --- Voting System ---
 const VOTES_FILE = path.join(__dirname, 'votes.json');
 let votesCache = {};

@@ -341,6 +341,19 @@
     .bill-meta { color: var(--text-muted); font-size: 12px; display: flex; gap: 14px; flex-wrap: wrap; }
     .bill-summary { color: var(--text-secondary); font-size: 13px; line-height: 1.6; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); }
     .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
+    .deep-dive-wrap { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border); }
+    .deep-dive-btn { padding: 8px 16px; border-radius: var(--radius-sm); font-size: 12px; font-weight: 500; font-family: inherit; cursor: pointer; border: 1px solid var(--accent); background: transparent; color: var(--accent); transition: all 0.2s ease; display: inline-flex; align-items: center; gap: 6px; }
+    .deep-dive-btn:hover { background: var(--accent-glow); transform: translateY(-1px); }
+    .deep-dive-btn:disabled { opacity: 0.5; cursor: wait; transform: none; }
+    .deep-dive-content { margin-top: 10px; padding: 14px 16px; background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius-md); font-size: 13px; line-height: 1.6; display: none; }
+    .deep-dive-content.open { display: block; }
+    .deep-dive-content h4 { font-size: 14px; font-weight: 600; margin-bottom: 6px; color: var(--accent); }
+    .deep-dive-content .dd-section { margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid var(--border-light); }
+    .deep-dive-content .dd-section:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+    .deep-dive-content .dd-label { color: var(--text-muted); font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px; }
+    .deep-dive-content .dd-value { color: var(--text-secondary); }
+    .deep-dive-content .dd-link { color: var(--accent); text-decoration: underline; cursor: pointer; }
+    .deep-dive-error { color: var(--red); font-size: 12px; margin-top: 6px; }
     .pro, .con { padding: 13px 15px; border-radius: var(--radius-sm); font-size: 13px; line-height: 1.55; }
     .pro { background: rgba(62,207,115,0.05); border: 1px solid rgba(62,207,115,0.15); }
     .pro .lbl { color: var(--green); font-weight: 700; font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px; display: block; }
@@ -807,6 +820,10 @@ function buildBillCard(b, showAction) {
       <div class="pro"><div class="lbl">👍 Supporters say</div><span class="pro-text">Loading analysis...</span></div>
       <div class="con"><div class="lbl">👎 Opponents say</div><span class="con-text">Loading analysis...</span></div>
     </div>
+    <div class="deep-dive-wrap">
+      <button class="deep-dive-btn" onclick="toggleDeepDive(this, event)" data-congress="${congress}" data-type="${type.toLowerCase()}" data-number="${number}">📊 Deep Dive</button>
+      <div class="deep-dive-content" id="dd-${billId}"></div>
+    </div>
     <div class="voting-area" data-billid="${billId}">
       <input class="voter-input" id="voter-${billId}" type="text" placeholder="Your name..." maxlength="50" />
       <input class="voter-input voter-email" id="email-${billId}" type="email" placeholder="Email..." maxlength="100" />
@@ -847,6 +864,110 @@ async function analyzeBillCard(card) {
 
 function analyzeAllBillCards() {
   document.querySelectorAll('.bill-card').forEach(card => analyzeBillCard(card));
+}
+
+// ===== DEEP DIVE =====
+
+async function toggleDeepDive(btn, event) {
+  event.stopPropagation();
+  const container = btn.parentElement;
+  const content = container.querySelector('.deep-dive-content');
+  if (!content) return;
+  
+  // Toggle close if already open
+  if (content.classList.contains('open')) {
+    content.classList.remove('open');
+    btn.textContent = '📊 Deep Dive';
+    return;
+  }
+  
+  // Already loaded? Just open
+  if (content.dataset.loaded === 'true') {
+    content.classList.add('open');
+    btn.textContent = '📊 Hide Deep Dive';
+    return;
+  }
+  
+  // Fetch deep analysis
+  btn.disabled = true;
+  btn.textContent = '⏳ Loading...';
+  
+  const congress = btn.dataset.congress || '119';
+  const type = btn.dataset.type || 'hr';
+  const number = btn.dataset.number || '0';
+  
+  try {
+    const res = await fetch(`/api/deep-analysis?congress=${congress}&type=${type}&number=${number}`);
+    const data = await res.json();
+    
+    if (data.error) {
+      content.innerHTML = `<div class="deep-dive-error">${data.error}</div>`;
+      content.classList.add('open');
+      btn.textContent = '📊 Deep Dive';
+      btn.disabled = false;
+      return;
+    }
+    
+    // Build the deep dive display
+    let html = '<h4>📊 In-Depth Analysis</h4>';
+    
+    html += '<div class="dd-section">';
+    html += `<div class="dd-label">Sponsor</div><div class="dd-value">${escHtml(data.sponsor || 'Unknown')} (${escHtml(data.sponsorParty || '')})</div>`;
+    html += '</div>';
+    
+    html += '<div class="dd-section">';
+    html += `<div class="dd-label">Policy Area</div><div class="dd-value">${escHtml(data.policyArea || 'General')}</div>`;
+    html += '</div>';
+    
+    html += '<div class="dd-section">';
+    html += `<div class="dd-label">Co-sponsors</div><div class="dd-value">${data.cosponsorCount || 0}</div>`;
+    html += '</div>';
+    
+    if (data.summary) {
+      html += '<div class="dd-section">';
+      html += `<div class="dd-label">Summary</div><div class="dd-value">${escHtml(data.summary)}</div>`;
+      html += '</div>';
+    }
+    
+    if (data.latestAction) {
+      html += '<div class="dd-section">';
+      html += `<div class="dd-label">Latest Action${data.latestActionDate ? ' (' + data.latestActionDate + ')' : ''}</div><div class="dd-value">${escHtml(data.latestAction)}</div>`;
+      html += '</div>';
+    }
+    
+    if (data.constitutionalAuthority) {
+      html += '<div class="dd-section">';
+      html += `<div class="dd-label">Constitutional Authority</div><div class="dd-value">${escHtml(data.constitutionalAuthority.substring(0, 500))}</div>`;
+      html += '</div>';
+    }
+    
+    if (data.billTextUrl) {
+      html += '<div class="dd-section">';
+      html += `<div class="dd-label">Full Text</div><div class="dd-value"><a class="dd-link" href="${escHtml(data.billTextUrl)}" target="_blank" rel="noopener">Read the full bill text →</a></div>`;
+      html += '</div>';
+    }
+    
+    html += '<div class="dd-section" style="border-bottom:none;margin-bottom:0;padding-bottom:0">';
+    html += `<div class="dd-label">Generated</div><div class="dd-value">${new Date(data.generatedAt).toLocaleString()}</div>`;
+    html += '</div>';
+    
+    content.innerHTML = html;
+    content.dataset.loaded = 'true';
+    content.classList.add('open');
+    btn.textContent = '📊 Hide Deep Dive';
+    btn.disabled = false;
+  } catch(e) {
+    content.innerHTML = `<div class="deep-dive-error">Could not load deep analysis. Please try again.</div>`;
+    content.classList.add('open');
+    btn.textContent = '📊 Deep Dive';
+    btn.disabled = false;
+  }
+}
+
+function escHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
 }
 
 // ===== VOTING =====
