@@ -11801,5 +11801,605 @@
       "\u2022 Raises privacy concerns about continuous surveillance of airport public spaces.",
       "\u2022 High deployment costs may strain TSA's already tight budget."
     ]
+  },
+  "119/hconres/65": {
+    "pros": [
+      "\u2022 Supports state and local autonomy on reproductive rights.",
+      "\u2022 Reinforces the principle of reproductive rights as human rights."
+    ],
+    "cons": [
+      "\u2022 Does not advance any binding federal protections for reproductive rights.",
+      "\u2022 May deepen political divides on a sensitive issue."
+    ]
+  },
+  "119/hjres/158": {
+    "pros": [
+      "\u2022 Provides direct financial relief to veterans through tax-free weekends.",
+      "\u2022 Aligns tax relief with existing national holidays honoring service."
+    ],
+    "cons": [
+      "\u2022 Shifts tax revenue burden to states without federal compensation.",
+      "\u2022 May benefit higher-income veterans more than those in need."
+    ]
+  },
+  "119/hjres/171": {
+    "pros": [
+      "\u2022 Prevents a rule that targets bank fees on returned deposited items.",
+      "\u2022 Reduces regulatory burden on financial institutions."
+    ],
+    "cons": [
+      "\u2022 Allows banks to continue charging potentially unfair overdraft fees.",
+      "\u2022 Eliminates consumer protections against excessive returned item fees."
+    ]
+  },
+  "119/hjres/172": {
+    "pros": [
+      "\u2022 Clarifies the definition of United States citizenship in the Constitution.",
+      "\u2022 Addresses concerns about birthright citizenship policies."
+    ],
+    "cons": [
+      "\u2022 Could deny citizenship to children born in the U.S. to non-citizens.",
+      "\u2022 May create a permanent underclass of stateless individuals."
+    ]
+  },
+  "119/hjres/41": {
+    "pros": [
+      "\u2022 Blocks a federal rule that may impose unfunded mandates on states.",
+      "\u2022 Preserves local control over postsecondary student success programs."
+    ],
+    "cons": [
+      "\u2022 Eliminates federal support for improving college completion rates.",
+      "\u2022 Reduces accountability and data collection on student outcomes."
+    ]
+  },
+  "119/hjres/49": {
+    "pros": [
+      "\u2022 Reduces regulatory compliance costs for banks and appraisers.",
+      "\u2022 Prevents overly prescriptive federal standards for valuation models."
+    ],
+    "cons": [
+      "\u2022 May weaken safeguards against inflated or inaccurate property appraisals.",
+      "\u2022 Increases risk of mortgage fraud without uniform quality standards."
+    ]
+  },
+  "119/hjres/55": {
+    "pros": [
+      "\u2022 Reduces paperwork burdens on real estate transactions.",
+      "\u2022 Protects privacy of parties involved in residential property transfers."
+    ],
+    "cons": [
+      "\u2022 Creates loopholes for money laundering through real estate purchases.",
+      "\u2022 Undermines efforts to track illicit financial flows in housing."
+    ]
+  },
+  "119/hr/1057": {
+    "pros": [
+      "\u2022 Enhances safety measures on interstate highways for all drivers.",
+      "\u2022 Provides federal coordination for safer interstate travel."
+    ],
+    "cons": [
+      "\u2022 May impose costly infrastructure requirements on states.",
+      "\u2022 Could expand federal authority over interstate traffic regulation."
+    ]
+  },
+  "119/hr/1078": {
+    "pros": [
+      "\u2022 Preserves state and local authority over housing regulations.",
+      "\u2022 Prevents federal overreach into local zoning and land use."
+    ],
+    "cons": [
+      "\u2022 May block federal efforts to address the national housing shortage.",
+      "\u2022 Could perpetuate exclusionary zoning practices at the state level."
+    ]
+  },
+  "119/hr/1132": {
+    "pros": [
+      "\u2022 Invests federal funds directly into community college workforce programs.",
+      "\u2022 Helps close the skills gap by aligning training with labor demand."
+    ],
+    "cons": [
+      "\u2022 Creates new federal grant programs that may duplicate existing efforts.",
+      "\u2022 Risks funding programs that do not lead to actual job placements."
+    ]
+  },
+  "119/hr/1241": {
+    "pros": [
+      "\u2022 Strengthens border security and immigration enforcement measures.",
+      "\u2022 Aims to protect national security from unauthorized entry."
+    ],
+    "cons": [
+      "\u2022 May lead to family separations and humanitarian concerns at the border.",
+      "\u2022 Could strain resources without addressing root causes of migration."
+    ]
+  },
+  "119/hr/1369": {
+    "pros": [
+      "\u2022 Honors a former president and humanitarian with a Congressional Gold Medal.",
+      "\u2022 Recognizes President Carter's decades of public service and philanthropy."
+    ],
+    "cons": [
+      "\u2022 Adds to an already large backlog of Congressional Gold Medal awards.",
+      "\u2022 May be seen as a symbolic gesture with no substantive policy impact."
+    ]
+  },
+  "119/hr/1446": {
+    "pros": [
+      "\u2022 Helps workers gain credit for prior learning and experience.",
+      "\u2022 Accelerates employment for skilled workers without traditional degrees."
+    ],
+    "cons": [
+      "\u2022 May undermine the value of traditional degree programs.",
+      "\u2022 Risks inconsistent validation standards across different institutions."
+    ]
+  },
+  "119/hr/1483": {
+    "pros": [
+      "\u2022 Protects investors' sensitive personal information from disclosure.",
+      "\u2022 Reduces risk of identity theft and financial data breaches."
+    ],
+    "cons": [
+      "\u2022 May limit transparency and public oversight of financial holdings.",
+      "\u2022 Could hinder law enforcement investigations into financial misconduct."
+    ]
+  },
+  "119/hr/1649": {
+    "pros": [
+      "\u2022 Expands access to mental health services for students in need.",
+      "\u2022 Addresses the growing youth mental health crisis in schools."
+    ],
+    "cons": [
+      "\u2022 Creates new federal spending without guaranteed funding sources.",
+      "\u2022 May impose federal mandates on local school districts' budgets."
+    ]
+  },
+  "119/hr/1774": {
+    "pros": [
+      "\u2022 Withholds federal funds unless the Mayor removes Black Lives Matter Plaza.",
+      "\u2022 Reasserts federal authority over highway funding conditions."
+    ],
+    "cons": [
+      "\u2022 Politicizes transportation funding over a symbolic street designation.",
+      "\u2022 Punishes District of Columbia residents for local government decisions."
+    ]
+  },
+  "119/hr/1799": {
+    "pros": [
+      "\u2022 Reduces compliance burdens for businesses filing financial reports.",
+      "\u2022 Updates reporting thresholds to account for inflation and economic growth."
+    ],
+    "cons": [
+      "\u2022 Decreases transparency for investors and the public.",
+      "\u2022 May allow smaller companies to avoid important financial disclosures."
+    ]
+  },
+  "119/hr/1818": {
+    "pros": [
+      "\u2022 Invests in training the next generation of aviation professionals.",
+      "\u2022 Addresses the growing pilot and maintenance technician shortage."
+    ],
+    "cons": [
+      "\u2022 Creates new tax expenditures that may reduce federal revenue.",
+      "\u2022 Could duplicate existing workforce development programs in aviation."
+    ]
+  },
+  "119/hr/1929": {
+    "pros": [
+      "\u2022 Addresses judicial vacancies to reduce court case backlogs.",
+      "\u2022 Supports a more efficient federal judiciary system."
+    ],
+    "cons": [
+      "\u2022 May lead to politically motivated appointments of federal judges.",
+      "\u2022 Adds to the long-term expansion of the federal judiciary."
+    ]
+  },
+  "119/hr/1975": {
+    "pros": [
+      "\u2022 Imposes fees on BEAD program participants to fund oversight.",
+      "\u2022 Helps ensure accountability in broadband deployment spending."
+    ],
+    "cons": [
+      "\u2022 Adds financial burden on internet service providers expanding rural access.",
+      "\u2022 May slow down broadband buildout in underserved communities."
+    ]
+  },
+  "119/hr/2099": {
+    "pros": [
+      "\u2022 Helps evaluate if entrepreneurial training programs are effective.",
+      "\u2022 Provides data-driven insights for workforce development funding."
+    ],
+    "cons": [
+      "\u2022 Government-funded studies can be costly and slow to produce.",
+      "\u2022 May duplicate existing research by private organizations."
+    ]
+  },
+  "119/hr/2241": {
+    "pros": [
+      "\u2022 Protects workers' right to vote privately on unionization.",
+      "\u2022 Prevents intimidation in union organizing elections."
+    ],
+    "cons": [
+      "\u2022 Could slow down the union certification process.",
+      "\u2022 May reduce worker access to collective bargaining."
+    ]
+  },
+  "119/hr/2331": {
+    "pros": [
+      "\u2022 Increases accountability of CFPB rulemaking decisions.",
+      "\u2022 Ensures regulations are justified by rigorous economic analysis."
+    ],
+    "cons": [
+      "\u2022 Could delay consumer protection rules from taking effect.",
+      "\u2022 Additional analysis requirements may strain agency resources."
+    ]
+  },
+  "119/hr/2345": {
+    "pros": [
+      "\u2022 Preserves culturally significant Native American heritage sites.",
+      "\u2022 Boosts tourism and local economy in central Georgia."
+    ],
+    "cons": [
+      "\u2022 Federal land designation restricts local development options.",
+      "\u2022 Ongoing maintenance costs fall on taxpayers."
+    ]
+  },
+  "119/hr/2395": {
+    "pros": [
+      "\u2022 Simplifies tax filing for small businesses and individuals.",
+      "\u2022 Reduces compliance burden with shorter tax forms."
+    ],
+    "cons": [
+      "\u2022 May reduce tax revenues needed for federal programs.",
+      "\u2022 Could create loopholes if simplification is too broad."
+    ]
+  },
+  "119/hr/2403": {
+    "pros": [
+      "\u2022 Increases transparency in commercial transaction reporting.",
+      "\u2022 Helps regulators detect fraud and market manipulation."
+    ],
+    "cons": [
+      "\u2022 Adds paperwork burden on businesses of all sizes.",
+      "\u2022 Compliance costs may be passed on to consumers."
+    ]
+  },
+  "119/hr/2662": {
+    "pros": [
+      "\u2022 Deters fraudulent insurance claims from staged accidents.",
+      "\u2022 Helps lower auto insurance premiums for honest drivers."
+    ],
+    "cons": [
+      "\u2022 May create hurdles for legitimate accident victims.",
+      "\u2022 Enforcement could increase bureaucratic red tape."
+    ]
+  },
+  "119/hr/2789": {
+    "pros": [
+      "\u2022 Expands job training opportunities for adult learners.",
+      "\u2022 Helps fill skilled labor shortages in the workforce."
+    ],
+    "cons": [
+      "\u2022 Federal funding for new programs increases spending.",
+      "\u2022 Existing programs may overlap with new initiatives."
+    ]
+  },
+  "119/hr/2790": {
+    "pros": [
+      "\u2022 Provides grants to improve gun safety and storage.",
+      "\u2022 Funds community programs aimed at reducing gun violence."
+    ],
+    "cons": [
+      "\u2022 May infringe on Second Amendment rights.",
+      "\u2022 Creates another federal grant program with oversight costs."
+    ]
+  },
+  "119/hr/2807": {
+    "pros": [
+      "\u2022 Increases accountability of U.S. Postal Service operations.",
+      "\u2022 Helps identify inefficiencies and cost-saving opportunities."
+    ],
+    "cons": [
+      "\u2022 Additional reporting requirements may slow postal operations.",
+      "\u2022 Could lead to politically motivated service cuts."
+    ]
+  },
+  "119/hr/2988": {
+    "pros": [
+      "\u2022 Protects retirement savings from risky investment strategies.",
+      "\u2022 Ensures fiduciaries prioritize retirees' financial security."
+    ],
+    "cons": [
+      "\u2022 Limits investment options that could yield higher returns.",
+      "\u2022 Government mandates may reduce personal investment freedom."
+    ]
+  },
+  "119/hr/3114": {
+    "pros": [
+      "\u2022 Automatically seals records for nonviolent offenders.",
+      "\u2022 Helps formerly incarcerated individuals find jobs and housing."
+    ],
+    "cons": [
+      "\u2022 Could seal records for offenders who reoffend.",
+      "\u2022 Employers may lose access to relevant background information."
+    ]
+  },
+  "119/hr/3115": {
+    "pros": [
+      "\u2022 Reduces availability of military-style semi-automatic weapons.",
+      "\u2022 Could decrease mass shooting casualties and fatalities."
+    ],
+    "cons": [
+      "\u2022 Restricts Second Amendment rights for law-abiding citizens.",
+      "\u2022 Existing weapons may be grandfathered, limiting effectiveness."
+    ]
+  },
+  "119/hr/3148": {
+    "pros": [
+      "\u2022 Supports military families with enhanced benefits.",
+      "\u2022 Improves quality of life for active-duty service members."
+    ],
+    "cons": [
+      "\u2022 Increases defense spending and the federal deficit.",
+      "\u2022 May not address systemic issues in military support systems."
+    ]
+  },
+  "119/hr/3150": {
+    "pros": [
+      "\u2022 Ensures congressional approval before major trust fund changes.",
+      "\u2022 Protects Social Security and Medicare from executive action."
+    ],
+    "cons": [
+      "\u2022 Could delay necessary reforms to insolvent trust funds.",
+      "\u2022 Partisan gridlock may prevent timely adjustments."
+    ]
+  },
+  "119/hr/3228": {
+    "pros": [
+      "\u2022 Protects taxpayers from excessive government fines and fees.",
+      "\u2022 Ensures penalties do not violate constitutional protections."
+    ],
+    "cons": [
+      "\u2022 May reduce deterrence for tax law violations.",
+      "\u2022 Could complicate IRS enforcement and collection efforts."
+    ]
+  },
+  "119/hr/3354": {
+    "pros": [
+      "\u2022 Upholds state authority over insurance industry regulation.",
+      "\u2022 Prevents federal overreach into state insurance markets."
+    ],
+    "cons": [
+      "\u2022 Regulatory fragmentation may harm interstate insurance sales.",
+      "\u2022 State-by-state rules can be less efficient than federal standards."
+    ]
+  },
+  "119/hr/3355": {
+    "pros": [
+      "\u2022 Preserves U.S. control over domestic banking regulations.",
+      "\u2022 Protects American financial institutions from foreign influence."
+    ],
+    "cons": [
+      "\u2022 May limit international banking cooperation and trade.",
+      "\u2022 Could create conflicts with global financial standards."
+    ]
+  },
+  "119/hr/3380": {
+    "pros": [
+      "\u2022 Tailors financial regulations to fit community bank sizes.",
+      "\u2022 Reduces compliance burden on smaller financial institutions."
+    ],
+    "cons": [
+      "\u2022 Weaker rules for small banks may increase systemic risk.",
+      "\u2022 Creates an uneven regulatory playing field in banking."
+    ]
+  },
+  "119/hr/3402": {
+    "pros": [
+      "\u2022 Increases transparency in institutional investment voting.",
+      "\u2022 Helps shareholders understand proxy advisor influence."
+    ],
+    "cons": [
+      "\u2022 Additional disclosure requirements raise compliance costs.",
+      "\u2022 Could reduce engagement between firms and proxy advisors."
+    ]
+  },
+  "119/hr/3449": {
+    "pros": [
+      "\u2022 Expands public transit options for underserved communities nationwide.",
+      "\u2022 Reduces traffic congestion and lowers transportation emissions."
+    ],
+    "cons": [
+      "\u2022 Massive federal spending increases the national deficit.",
+      "\u2022 Local governments may struggle to maintain new transit systems."
+    ]
+  },
+  "119/hr/3513": {
+    "pros": [
+      "\u2022 Mandates binding ethics rules for Supreme Court justices.",
+      "\u2022 Increases public trust through transparency requirements."
+    ],
+    "cons": [
+      "\u2022 May undermine judicial independence and separation of powers.",
+      "\u2022 Could be weaponized for partisan political pressure on justices."
+    ]
+  },
+  "119/hr/3544": {
+    "pros": [
+      "\u2022 Sets term limits to reduce politicization of Court appointments.",
+      "\u2022 Ensures regular turnover of justices and fresh perspectives."
+    ],
+    "cons": [
+      "\u2022 Requires a constitutional amendment to implement legally.",
+      "\u2022 Risks destabilizing the Court's institutional knowledge and continuity."
+    ]
+  },
+  "119/hr/3679": {
+    "pros": [
+      "\u2022 Provides AI resources and grants to help small businesses compete.",
+      "\u2022 Boosts innovation and productivity in the small business sector."
+    ],
+    "cons": [
+      "\u2022 Small businesses may lack expertise to adopt AI tools effectively.",
+      "\u2022 Government subsidies could distort the AI consulting market."
+    ]
+  },
+  "119/hr/3898": {
+    "pros": [
+      "\u2022 Streamlines permitting for infrastructure and energy projects.",
+      "\u2022 Reduces project delays and lowers compliance costs."
+    ],
+    "cons": [
+      "\u2022 Weakens environmental review requirements and public input.",
+      "\u2022 Could lead to rushed approvals that harm local ecosystems."
+    ]
+  },
+  "119/hr/3899": {
+    "pros": [
+      "\u2022 Provides clearer guidelines for federal permit applicants.",
+      "\u2022 Reduces bureaucratic confusion and legal challenges."
+    ],
+    "cons": [
+      "\u2022 May limit agency discretion to protect sensitive environments.",
+      "\u2022 Could weaken existing water and wetlands protections."
+    ]
+  },
+  "119/hr/3900": {
+    "pros": [
+      "\u2022 Promotes adoption of new water purification technologies.",
+      "\u2022 Lowers costs for communities upgrading water treatment plants."
+    ],
+    "cons": [
+      "\u2022 Unproven technologies may not meet safety standards.",
+      "\u2022 Reduces incentives for traditional pollution prevention methods."
+    ]
+  },
+  "119/hr/3985": {
+    "pros": [
+      "\u2022 Provides childcare support for student parents in college.",
+      "\u2022 Increases graduation rates among parenting students."
+    ],
+    "cons": [
+      "\u2022 Expands federal spending on education without proven outcomes.",
+      "\u2022 May duplicate existing campus childcare assistance programs."
+    ]
+  },
+  "119/hr/4042": {
+    "pros": [
+      "\u2022 Strengthens state authority in national guard deployments.",
+      "\u2022 Clarifies roles between federal and state military commands."
+    ],
+    "cons": [
+      "\u2022 Could complicate rapid federal response to national emergencies.",
+      "\u2022 Creates overlapping command structures that slow decision-making."
+    ]
+  },
+  "119/hr/4068": {
+    "pros": [
+      "\u2022 Accelerates coal mining permits and reduces project delays.",
+      "\u2022 Supports domestic energy jobs and coal communities."
+    ],
+    "cons": [
+      "\u2022 Weakens environmental impact reviews for mining operations.",
+      "\u2022 Contradicts climate goals by expanding coal production."
+    ]
+  },
+  "119/hr/4122": {
+    "pros": [
+      "\u2022 Provides health coverage for energy sector workers exposed to hazards.",
+      "\u2022 Addresses healthcare gaps in mining and energy communities."
+    ],
+    "cons": [
+      "\u2022 Creates a special program that fragments the healthcare system.",
+      "\u2022 Sets a precedent for industry-specific federal health plans."
+    ]
+  },
+  "119/hr/4154": {
+    "pros": [
+      "\u2022 Strengthens worker protections against employer retaliation.",
+      "\u2022 Ensures employees can organize without intimidation."
+    ],
+    "cons": [
+      "\u2022 Adds compliance burdens that may hurt small businesses.",
+      "\u2022 Could increase litigation costs for employers."
+    ]
+  },
+  "119/hr/4214": {
+    "pros": [
+      "\u2022 Funds upgrades to reduce building emissions and improve air quality.",
+      "\u2022 Creates construction jobs through green infrastructure projects."
+    ],
+    "cons": [
+      "\u2022 High upfront costs for retrofitting existing buildings.",
+      "\u2022 May raise rents as landlords pass compliance costs to tenants."
+    ]
+  },
+  "119/hr/4432": {
+    "pros": [
+      "\u2022 Improves public access to recreational areas around Lake Lanier.",
+      "\u2022 Supports local tourism and small businesses near the park."
+    ],
+    "cons": [
+      "\u2022 Federal land-use changes may conflict with state water rights.",
+      "\u2022 Increased visitor traffic could strain local infrastructure."
+    ]
+  },
+  "119/hr/4602": {
+    "pros": [
+      "\u2022 Enhances security protections for federal judges and their families.",
+      "\u2022 Criminalizes doxxing and threats against judicial officers."
+    ],
+    "cons": [
+      "\u2022 Expands federal law enforcement powers and surveillance.",
+      "\u2022 May chill legitimate criticism of judicial rulings."
+    ]
+  },
+  "119/hr/4624": {
+    "pros": [
+      "\u2022 Provides funding to revive amateur boxing programs nationwide.",
+      "\u2022 Honors Muhammad Ali's legacy by promoting the sport."
+    ],
+    "cons": [
+      "\u2022 Federal involvement in professional sports is unnecessary.",
+      "\u2022 Boxing safety concerns may increase taxpayer liability."
+    ]
+  },
+  "119/hr/4626": {
+    "pros": [
+      "\u2022 Prevents costly efficiency mandates that raise appliance prices.",
+      "\u2022 Protects consumer choice and keeps appliances affordable."
+    ],
+    "cons": [
+      "\u2022 Rolls back energy efficiency standards that save consumers money.",
+      "\u2022 Increases long-term energy costs for households."
+    ]
+  },
+  "119/hr/4678": {
+    "pros": [
+      "\u2022 Limits use of rap lyrics as evidence in criminal trials.",
+      "\u2022 Protects artistic expression and free speech rights."
+    ],
+    "cons": [
+      "\u2022 Could restrict prosecutors from using relevant contextual evidence.",
+      "\u2022 May create a special legal carve-out not given to other art forms."
+    ]
+  },
+  "119/hr/4701": {
+    "pros": [
+      "\u2022 Provides personalized career and academic planning for students.",
+      "\u2022 Helps high schoolers explore trade and college pathways."
+    ],
+    "cons": [
+      "\u2022 Adds administrative burdens on already understaffed schools.",
+      "\u2022 Federal mandates may not fit local community needs."
+    ]
+  },
+  "119/hr/4704": {
+    "pros": [
+      "\u2022 Modernizes helicopter rotor maintenance and supply chains.",
+      "\u2022 Improves military readiness and aircraft availability rates."
+    ],
+    "cons": [
+      "\u2022 Expands defense spending without competitive bidding requirements.",
+      "\u2022 May prioritize a specific rotor system over alternative platforms."
+    ]
   }
 }
