@@ -1540,7 +1540,8 @@ fetch('/api/state/FL').then(r => r.json()).then(data => {
     
     return `<div class="member-card party-${abbr}" onclick="loadMember('${bioguide}')">
       <div class="member-header">
-        <div class="member-avatar no-photo">
+        <div class="member-avatar no-photo" id="hp-av-${bioguide}">
+          <img src="/api/photo/${bioguide}" alt="${name}" onload="this.parentElement.classList.remove('no-photo')" onerror="this.parentElement.classList.add('no-photo')" />
           <span class="avatar-initial">${initial}</span>
         </div>
         <div class="member-info">
