@@ -5101,5 +5101,1705 @@
       "\u2022 Eliminating the committee vote requirement for remote testimony reduces the deliberative check on when witnesses can appear remotely, potentially allowing chairs to bypass objections from ranking members.",
       "\u2022 Remote testimony may reduce the effectiveness of committee oversight by making it harder for members to engage with witnesses and assess their credibility in person."
     ]
+  },
+  "119/hr/223": {
+    "pros": [
+      "\u2022 Protects Second Amendment rights by preventing the federal government from funding state red flag laws that critics argue allow gun confiscation without due process.",
+      "\u2022 Preserves state autonomy by letting states decide for themselves whether to enact red flag laws without federal financial influence."
+    ],
+    "cons": [
+      "\u2022 Could undermine public safety by limiting resources for laws designed to temporarily remove firearms from individuals deemed a risk to themselves or others.",
+      "\u2022 Does not prevent states from using their own funds for red flag laws, so its practical impact on reducing gun violence may be limited."
+    ]
+  },
+  "119/hr/218": {
+    "pros": [
+      "\u2022 Empowers state and local governments to enforce federal immigration laws, potentially increasing overall immigration enforcement.",
+      "\u2022 Repeals federal preemption that currently blocks states from imposing their own penalties on employers who hire unauthorized workers."
+    ],
+    "cons": [
+      "\u2022 Could create a patchwork of different immigration laws across states, making compliance complex for businesses operating in multiple states.",
+      "\u2022 May lead to inconsistent enforcement of immigration law and potential conflicts between state and federal priorities."
+    ]
+  },
+  "119/hr/228": {
+    "pros": [
+      "\u2022 Helps teachers cover out-of-pocket classroom supply costs by increasing the above-the-line tax deduction and adjusting it for inflation.",
+      "\u2022 Above-the-line deductions benefit all teachers regardless of whether they itemize their taxes, making the relief accessible to more educators."
+    ],
+    "cons": [
+      "\u2022 The deduction increases may reduce federal tax revenue without a corresponding spending cut, potentially adding to the deficit.",
+      "\u2022 A tax deduction provides less benefit to lower-income teachers who may not owe enough taxes to fully use it, compared to a refundable credit."
+    ]
+  },
+  "119/sjres/1": {
+    "pros": [
+      "\u2022 Limits Members of Congress to 12 years total in each chamber, reducing career politicians and bringing fresh perspectives to Washington.",
+      "\u2022 Could reduce the influence of special interests and lobbyists by limiting the time lawmakers can build relationships and accumulate power."
+    ],
+    "cons": [
+      "\u2022 Constitutional amendments require two-thirds of both chambers and three-fourths of states to ratify, making this a lengthy and uncertain process.",
+      "\u2022 Term limits could weaken congressional expertise in complex policy areas and shift power to unelected staff, lobbyists, and executive branch officials."
+    ]
+  },
+  "119/sres/17": {
+    "pros": [
+      "\u2022 Organizes the minority party's committee assignments for the 119th Congress, enabling committees to function and conduct oversight.",
+      "\u2022 Provides procedural clarity by formally establishing which senators serve on which committees from the minority party."
+    ],
+    "cons": [
+      "\u2022 This is an internal organizational resolution with no direct impact on legislation or policy for the general public.",
+      "\u2022 Committee assignments are typically negotiated between party leaders, and this resolution formalizes those arrangements without broader input."
+    ]
+  },
+  "119/sres/16": {
+    "pros": [
+      "\u2022 Establishes the majority party's committee membership and chairs, allowing Senate committees to begin their work for the 119th Congress.",
+      "\u2022 Provides transparency by publicly recording which senators hold leadership positions on each committee."
+    ],
+    "cons": [
+      "\u2022 This is a routine procedural resolution that formalizes internal party decisions without directly affecting legislation or public policy.",
+      "\u2022 Committee chair assignments concentrate significant power in the majority party, which may limit bipartisan input on key legislation."
+    ]
+  },
+  "119/s/27": {
+    "pros": [
+      "\u2022 Encourages federal employees to return to in-person work by restricting pay increases for those who telework, potentially boosting productivity and collaboration.",
+      "\u2022 Could revitalize downtown business districts that depend on federal worker spending at local restaurants, retail, and services."
+    ],
+    "cons": [
+      "\u2022 Penalizes teleworking federal employees regardless of their performance or the nature of their work, ignoring proven productivity gains from remote work.",
+      "\u2022 Could make it harder for the federal government to compete with the private sector for talent, especially in fields where remote work is now standard."
+    ]
+  },
+  "119/s/26": {
+    "pros": [
+      "\u2022 Reduces future federal pension costs by excluding locality pay adjustments from retirement benefit calculations for new federal employees.",
+      "\u2022 Creates a simpler, more predictable formula for calculating federal retirement annuities without geographic pay variations."
+    ],
+    "cons": [
+      "\u2022 Lowers the retirement benefits of new federal employees hired in high-cost areas like Washington, D.C., San Francisco, or New York.",
+      "\u2022 May make it harder for federal agencies to recruit talent in expensive urban areas where locality pay is a key compensation incentive."
+    ]
+  },
+  "119/s/29": {
+    "pros": [
+      "\u2022 Ends the twice-yearly clock change, which studies show disrupts sleep patterns, increases heart attacks and car accidents, and reduces productivity.",
+      "\u2022 Makes daylight saving time permanent, providing more daylight in the evening year-round, which benefits retail, tourism, and outdoor recreation."
+    ],
+    "cons": [
+      "\u2022 Permanent daylight saving time would mean darker mornings in winter, which could be dangerous for school children walking to school and for morning commuters.",
+      "\u2022 The bill allows states currently exempt from DST (Hawaii and most of Arizona) to choose their own standard time, creating a patchwork of time zones."
+    ]
+  },
+  "119/s/9": {
+    "pros": [
+      "\u2022 Ensures that women's and girls' athletic programs are reserved for individuals whose biological sex at birth was female, preserving competitive fairness.",
+      "\u2022 Provides clear, uniform rules for schools receiving federal funding, preventing confusion over transgender athlete participation policies."
+    ],
+    "cons": [
+      "\u2022 Discriminates against transgender girls and women by excluding them from sports teams that align with their gender identity, potentially violating Title IX principles.",
+      "\u2022 May lead to federal funding cuts for schools that choose to adopt inclusive athletic policies, penalizing local decision-making."
+    ]
+  },
+  "119/hr/297": {
+    "pros": [
+      "\u2022 Stops federal funding to colleges and universities that conduct or fund painful experiments on dogs and cats, promoting animal welfare.",
+      "\u2022 Targets a specific type of animal research that many consider ethically problematic, while not banning all animal research."
+    ],
+    "cons": [
+      "\u2022 Could disrupt legitimate biomedical research that requires animal testing to develop treatments and cures for both human and animal diseases.",
+      "\u2022 The loss of federal funding could harm the broader research missions of institutions, affecting students and researchers not involved in animal studies."
+    ]
+  },
+  "119/hres/24": {
+    "pros": [
+      "\u2022 Formally removes the 2019 impeachment of President Trump from the historical record, reflecting the view that the impeachment was politically motivated.",
+      "\u2022 Provides closure on a divisive chapter in American politics by expunging a proceeding that the House voted to dismiss."
+    ],
+    "cons": [
+      "\u2022 Expunging an impeachment has no binding legal effect and is largely symbolic, as the Senate acquitted Trump and the impeachment is already resolved.",
+      "\u2022 Sets a precedent that a future House majority could expunge any previous impeachment, potentially politicizing the historical record."
+    ]
+  },
+  "119/hr/286": {
+    "pros": [
+      "\u2022 Creates a federal criminal penalty specifically for swatting \u2014 falsely reporting an emergency to trigger a police SWAT response \u2014 deterring a dangerous and costly hoax.",
+      "\u2022 Protects public safety by reducing the risk of armed police responding to false emergencies, which can lead to accidental injuries or deaths."
+    ],
+    "cons": [
+      "\u2022 Federal penalties for swatting may overlap with existing state laws, potentially leading to double prosecution for the same offense.",
+      "\u2022 The bill does not address the underlying causes of swatting, such as online harassment and doxxing, which may require broader policy solutions."
+    ]
+  },
+  "119/hr/296": {
+    "pros": [
+      "\u2022 Ensures that plea agreements for 9/11 conspirators do not prevent them from being tried for additional charges, including capital offenses.",
+      "\u2022 Keeps the death penalty available as a possible sentence for those involved in the deadliest terrorist attack on American soil."
+    ],
+    "cons": [
+      "\u2022 Could undermine ongoing plea negotiations with Guantanamo Bay detainees, potentially delaying justice for 9/11 victims' families for years.",
+      "\u2022 The bill specifically targets individual defendants, raising concerns about Congress intervening in ongoing criminal proceedings."
+    ]
+  },
+  "119/hr/266": {
+    "pros": [
+      "\u2022 Reauthorizes TRIO programs that provide academic support, tutoring, and college preparation services to students from disadvantaged backgrounds through 2030.",
+      "\u2022 Streamlines grant applications by prohibiting the Department of Education from rejecting applications based on minor technical errors."
+    ],
+    "cons": [
+      "\u2022 Authorizing funding does not guarantee actual appropriations, so the programs may not receive the full level of support contemplated by the bill.",
+      "\u2022 The bill does not significantly reform or expand TRIO programs beyond their current structure, missing an opportunity to update them for modern educational challenges."
+    ]
+  },
+  "119/hres/26": {
+    "pros": [
+      "\u2022 Labels antifa as a domestic terrorist organization, providing law enforcement with clear authority to investigate and prosecute violent protest activities.",
+      "\u2022 Calls on the Department of Justice to prioritize prosecutions of antifa-related crimes, potentially deterring violent protests."
+    ],
+    "cons": [
+      "\u2022 Designating a loosely organized political movement as a terrorist organization could infringe on free speech and assembly rights protected by the First Amendment.",
+      "\u2022 The resolution is symbolic and non-binding, as only the Department of Justice can designate domestic terrorist organizations under existing law."
+    ]
+  },
+  "119/hr/277": {
+    "pros": [
+      "\u2022 Limits federal prosecution of non-violent protest activities, protecting the right to peaceful protest from over-criminalization by the federal government.",
+      "\u2022 Restricts certain investigative and prosecutorial tools when applied to political protest offenses that do not involve violence."
+    ],
+    "cons": [
+      "\u2022 Could hamper federal law enforcement's ability to investigate and prosecute serious offenses that occur alongside protests, such as property destruction or intimidation.",
+      "\u2022 The definition of 'political protest offense' could be difficult to apply in practice, potentially creating loopholes for prosecuting violent actors."
+    ]
+  },
+  "119/hr/287": {
+    "pros": [
+      "\u2022 Ensures that communities continue to have access to postal services when their local post office is temporarily closed.",
+      "\u2022 Requires the Postal Service to deploy mobile or vehicle-based facilities as a backup, providing a practical solution for rural and small-town residents."
+    ],
+    "cons": [
+      "\u2022 Mobile post offices may offer limited services and hours compared to a permanent facility, providing only a partial solution.",
+      "\u2022 Does not address the broader challenges facing the Postal Service, such as declining mail volume and financial sustainability."
+    ]
+  },
+  "119/hjres/13": {
+    "pros": [
+      "\u2022 Prevents a President from pardoning themselves, family members, administration officials, or campaign staff, closing a significant gap in constitutional accountability.",
+      "\u2022 Addresses concerns about self-dealing and corruption by prohibiting pardons for offenses motivated by the President's personal interest."
+    ],
+    "cons": [
+      "\u2022 Amending the Constitution requires a two-thirds vote in both chambers and ratification by three-fourths of states, making this a lengthy and uncertain process.",
+      "\u2022 The broad categories of restricted individuals (relatives, campaign employees) could be difficult to define precisely and might be challenged in court."
+    ]
+  },
+  "119/hr/268": {
+    "pros": [
+      "\u2022 Authorizes rewards up to $100 million for information leading to the arrest and conviction of Nicolas Maduro, increasing pressure on the Venezuelan regime.",
+      "\u2022 Uses financial incentives to encourage insiders and associates to provide actionable intelligence against a regime accused of human rights abuses and drug trafficking."
+    ],
+    "cons": [
+      "\u2022 A $100 million reward is exceptionally large and may set a precedent for other countries to demand similar payouts for high-profile fugitives.",
+      "\u2022 The bill does not address the humanitarian crisis in Venezuela or provide a comprehensive strategy for restoring democracy in the country."
+    ]
+  },
+  "119/hr/247": {
+    "pros": [
+      "\u2022 Makes permanent the expanded premium tax credits for health insurance under the Affordable Care Act, preventing millions of Americans from losing affordable coverage.",
+      "\u2022 Provides stability to health insurance markets by ensuring that enhanced subsidies do not expire, which would cause premium spikes for many middle-class families."
+    ],
+    "cons": [
+      "\u2022 Making the enhanced credits permanent adds significantly to federal spending without a corresponding funding source, increasing the national deficit.",
+      "\u2022 Premium tax credits subsidize private insurance rather than addressing the underlying drivers of high healthcare costs in the United States."
+    ]
+  },
+  "119/hr/305": {
+    "pros": [
+      "\u2022 Provides federal grants to help schools hire and retain nurses, improving student health outcomes and reducing absenteeism due to illness.",
+      "\u2022 Directs the Department of Education to establish recommended nurse-to-student ratios, creating a national standard for school health services."
+    ],
+    "cons": [
+      "\u2022 Competitive grants do not guarantee funding for all schools in need, potentially leaving the most under-resourced districts without help.",
+      "\u2022 Does not address the broader shortage of nurses nationwide, which may make it difficult for schools to fill new positions even with grant funding."
+    ]
+  },
+  "119/hr/315": {
+    "pros": [
+      "\u2022 Waives Buy American requirements for disaster recovery in Puerto Rico, D.C., American Samoa, and the U.S. Virgin Islands, allowing faster recovery at lower cost.",
+      "\u2022 Recognizes that these territories and districts may not have domestic manufacturing capacity for goods needed in emergency response."
+    ],
+    "cons": [
+      "\u2022 Waiving Buy American rules could send taxpayer dollars to foreign manufacturers rather than supporting American workers and businesses.",
+      "\u2022 Applies only to specific territories and districts, not to states, creating an uneven application of procurement rules during emergencies."
+    ]
+  },
+  "119/hr/294": {
+    "pros": [
+      "\u2022 Updates the Dairy Margin Coverage program to provide better financial protection for dairy farmers against fluctuating milk prices and feed costs.",
+      "\u2022 Supports small and medium-sized dairy operations that are vulnerable to market volatility and rising input costs."
+    ],
+    "cons": [
+      "\u2022 Dairy subsidy programs can distort markets and encourage overproduction, potentially depressing prices for all dairy producers.",
+      "\u2022 The bill does not address long-term structural challenges facing the dairy industry, such as declining milk consumption and consolidation."
+    ]
+  },
+  "119/hjres/14": {
+    "pros": [
+      "\u2022 Repealing the Sixteenth Amendment would eliminate the federal income tax, replacing it with alternative revenue sources such as tariffs or a national sales tax.",
+      "\u2022 Could simplify the tax code dramatically, eliminating the need for the IRS and reducing compliance costs for individuals and businesses."
+    ],
+    "cons": [
+      "\u2022 Eliminating the income tax would eliminate the primary source of federal revenue (about 50% of all federal collections), requiring massive spending cuts or new taxes.",
+      "\u2022 Constitutional amendments are extremely difficult to pass, requiring two-thirds of both chambers and three-fourths of states, making this a symbolic gesture with no practical effect."
+    ]
+  },
+  "119/hr/276": {
+    "pros": [
+      "\u2022 Renames the Gulf of Mexico to the Gulf of America, asserting national pride and recognizing the economic and strategic importance of the gulf to the United States.",
+      "\u2022 Directs federal agencies to update maps and documents, ensuring consistent use of the new name across the federal government."
+    ],
+    "cons": [
+      "\u2022 Renaming a major geographical feature is a symbolic gesture that does not address any substantive policy issue facing the country.",
+      "\u2022 The renaming is not recognized internationally, so foreign maps, international treaties, and global shipping charts will continue to use the traditional name."
+    ]
+  },
+  "119/hr/252": {
+    "pros": [
+      "\u2022 Prohibits U.S. port facilities from contracting with companies owned by China, Iran, North Korea, or Russia, protecting critical maritime infrastructure from foreign influence.",
+      "\u2022 Addresses national security concerns about foreign ownership and control of sensitive port operations near major U.S. cities."
+    ],
+    "cons": [
+      "\u2022 Could disrupt existing port operations and supply chains that rely on international partnerships and equipment manufacturers.",
+      "\u2022 Does not address the many other ways foreign governments could influence U.S. infrastructure beyond direct facility ownership."
+    ]
+  },
+  "119/hr/248": {
+    "pros": [
+      "\u2022 Requires baby changing tables in at least one restroom per Amtrak car, making train travel more accessible and convenient for families with infants.",
+      "\u2022 Mandates ADA-compliant changing tables, ensuring accessibility for passengers with disabilities who travel with infants."
+    ],
+    "cons": [
+      "\u2022 Adds to Amtrak's equipment costs for new trains, which may increase fares or require additional federal subsidies.",
+      "\u2022 Only applies to trains purchased after the bill's enactment, meaning existing Amtrak fleet may not be retrofitted for years or decades."
+    ]
+  },
+  "119/hr/280": {
+    "pros": [
+      "\u2022 Requires the Bureau of Land Management to process pending applications for federal coal leasing, supporting domestic energy production and mining jobs.",
+      "\u2022 Streamlines environmental reviews for coal leasing applications that have already begun the review process."
+    ],
+    "cons": [
+      "\u2022 Accelerating coal leasing conflicts with federal efforts to reduce greenhouse gas emissions and transition to cleaner energy sources.",
+      "\u2022 Mandating lease processing could bypass thorough environmental reviews and limit public input on coal development on public lands."
+    ]
+  },
+  "119/hr/281": {
+    "pros": [
+      "\u2022 Removes grizzly bears in the Greater Yellowstone Ecosystem from the endangered species list and returns management to state wildlife agencies.",
+      "\u2022 Addresses conflicts between bear recovery and ranching, hunting, and recreation in the region by allowing state-level management."
+    ],
+    "cons": [
+      "\u2022 Exempting the delisting rule from judicial review removes a key check on executive agency decisions, potentially allowing scientifically questionable decisions.",
+      "\u2022 State management may not have the resources or expertise to sustainably manage a recovering grizzly bear population."
+    ]
+  },
+  "119/hr/279": {
+    "pros": [
+      "\u2022 Provides Fairlawn, Virginia with a unique ZIP Code, improving mail delivery accuracy and simplifying addressing for residents and businesses.",
+      "\u2022 Addresses a specific local issue that affects the community's ability to receive mail reliably."
+    ],
+    "cons": [
+      "\u2022 This is a highly localized bill that benefits a single small community, raising questions about whether Congress should spend time on such narrow issues.",
+      "\u2022 ZIP Code designations are typically handled administratively by the Postal Service without requiring an act of Congress."
+    ]
+  },
+  "119/hr/322": {
+    "pros": [
+      "\u2022 Aims to strengthen import security measures, potentially protecting U.S. consumers and businesses from unsafe or counterfeit foreign goods.",
+      "\u2022 Promotes fairness in trade by ensuring imports meet the same standards as domestically produced goods."
+    ],
+    "cons": [
+      "\u2022 Increased import scrutiny could slow trade and raise costs for businesses that rely on imported materials and products.",
+      "\u2022 The bill's specific provisions are unclear without a published summary, making its full impact difficult to assess."
+    ]
+  },
+  "119/hr/274": {
+    "pros": [
+      "\u2022 Requires the Government Accountability Office to compile a list of federal rules upheld under the now-overturned Chevron doctrine, providing transparency about regulations that may need reexamination.",
+      "\u2022 Helps agencies and courts identify which regulations should be reviewed following the Supreme Court's decision in Loper Bright Enterprises v. Raimondo."
+    ],
+    "cons": [
+      "\u2022 Creating and maintaining the list could be a significant administrative burden for the GAO with no guarantee that it leads to actionable regulatory changes.",
+      "\u2022 The bill does not automatically sunset or require revision of the identified rules, making it primarily an information-gathering exercise."
+    ]
+  },
+  "119/hr/271": {
+    "pros": [
+      "\u2022 Blocks federal funding to Planned Parenthood unless the organization certifies it will not perform abortions during the funding year, redirecting taxpayer dollars away from abortion services.",
+      "\u2022 Still allows Planned Parenthood to receive federal funds for non-abortion services like cancer screenings and contraception if they comply with the certification requirement."
+    ],
+    "cons": [
+      "\u2022 Could reduce access to reproductive healthcare, including cancer screenings, contraception, and STI testing, for millions of patients who rely on Planned Parenthood clinics.",
+      "\u2022 May violate the Hyde Amendment's framework by singling out a specific healthcare provider for funding restrictions beyond existing abortion funding prohibitions."
+    ]
+  },
+  "119/hr/259": {
+    "pros": [
+      "\u2022 Prevents taxpayer dollars from being used to advertise the Office of the Immigration Detention Ombudsman services to the general public, saving government funds.",
+      "\u2022 Reflects a policy view that federal resources should not be spent promoting services for individuals in immigration detention."
+    ],
+    "cons": [
+      "\u2022 Limits awareness of the immigration detention ombudsman's services, potentially leaving detained individuals unaware of their rights and how to report mistreatment.",
+      "\u2022 May reduce oversight and accountability in immigration detention facilities if detainees cannot easily learn about complaint mechanisms."
+    ]
+  },
+  "119/hr/282": {
+    "pros": [
+      "\u2022 Honors Chief Zeb Smith, a local community figure, by naming a post office in Fritch, Texas, after him, preserving his legacy for future generations.",
+      "\u2022 Provides a sense of community pride and recognition for local history."
+    ],
+    "cons": [
+      "\u2022 This is a ceremonial naming bill with no substantive policy impact or effect on postal operations.",
+      "\u2022 Naming individual post offices requires congressional action, which takes up legislative time that could be spent on broader policy issues."
+    ]
+  },
+  "119/hr/258": {
+    "pros": [
+      "\u2022 Blocks proposed changes to Fannie Mae and Freddie Mac's loan pricing that would increase upfront fees for certain homebuyers, making homeownership more affordable.",
+      "\u2022 Protects borrowers with lower credit scores from bearing a disproportionate share of mortgage pricing adjustments."
+    ],
+    "cons": [
+      "\u2022 Preventing fee adjustments may shift mortgage risks onto taxpayers who back Fannie Mae and Freddie Mac through the federal housing finance system.",
+      "\u2022 Limits the ability of the Federal Housing Finance Agency to adjust pricing to reflect actual borrower risk, potentially increasing losses during a housing downturn."
+    ]
+  },
+  "119/hr/284": {
+    "pros": [
+      "\u2022 Reauthorizes the Great Lakes Restoration Initiative through 2031, continuing federal investment in protecting and restoring the largest freshwater system in North America.",
+      "\u2022 Supports programs that address toxic pollution, invasive species, harmful algal blooms, and habitat restoration across the Great Lakes region."
+    ],
+    "cons": [
+      "\u2022 Reauthorization does not guarantee actual funding, as annual appropriations are still subject to the budget process.",
+      "\u2022 The bill maintains the current program structure without major reforms, potentially missing opportunities to address emerging threats like climate change impacts on the lakes."
+    ]
+  },
+  "119/hr/244": {
+    "pros": [
+      "\u2022 Expands TRICARE Select health coverage to more veterans, including those with service-connected disabilities, Purple Heart recipients, and former POWs.",
+      "\u2022 Provides veterans with more healthcare choices by allowing them to use DOD's TRICARE program in addition to VA healthcare services."
+    ],
+    "cons": [
+      "\u2022 Adding veterans to TRICARE could increase costs for the Department of Defense's healthcare system without additional funding.",
+      "\u2022 The bill requires the VA to reimburse DOD for the costs, creating a complex inter-agency payment structure that could lead to administrative delays."
+    ]
+  },
+  "119/hr/292": {
+    "pros": [
+      "\u2022 Directs the Federal Crop Insurance Corporation to develop an insurance policy for grape growers against freeze losses, protecting a key agricultural sector.",
+      "\u2022 Addresses a specific gap in crop insurance coverage, as freeze damage to grapes is not adequately covered under existing policies."
+    ],
+    "cons": [
+      "\u2022 Adding new crop insurance policies increases federal subsidy costs, as the government covers a portion of farmers' insurance premiums.",
+      "\u2022 Developing specialized insurance for individual crops creates a precedent for other commodity groups to demand similar tailored policies."
+    ]
+  },
+  "119/hres/21": {
+    "pros": [
+      "\u2022 Elects members to key House committees including Appropriations, Energy and Commerce, Financial Services, and Ways and Means, enabling these committees to function.",
+      "\u2022 Provides procedural clarity by formally recording committee assignments in the House record."
+    ],
+    "cons": [
+      "\u2022 This is an internal organizational resolution with no direct impact on legislation or public policy.",
+      "\u2022 Committee assignments are the result of internal party negotiations and do not involve any democratic input from the general public."
+    ]
+  },
+  "119/hr/304": {
+    "pros": [
+      "\u2022 Honors Trooper Zachary Fink, a fallen law enforcement officer, by naming a post office in Port St. Lucie, Florida, after him.",
+      "\u2022 Provides a lasting tribute that recognizes the sacrifice of a public safety officer."
+    ],
+    "cons": [
+      "\u2022 This is a ceremonial naming bill with no substantive policy impact on postal services or the broader public.",
+      "\u2022 Naming individual post offices requires congressional action, which some argue is an inefficient use of federal legislative time."
+    ]
+  },
+  "119/hr/267": {
+    "pros": [
+      "\u2022 Provides statutory backing for hospital and insurance price transparency rules, requiring them to publish negotiated rates, cash prices, and billing codes.",
+      "\u2022 Helps patients comparison-shop for healthcare services by making actual prices publicly available, potentially driving down costs."
+    ],
+    "cons": [
+      "\u2022 The price transparency data can be complex and difficult for average consumers to interpret and use when making healthcare decisions.",
+      "\u2022 Publishing negotiated rates could discourage hospitals from offering discounts to insurers, potentially increasing overall healthcare costs."
+    ]
+  },
+  "119/hr/311": {
+    "pros": [
+      "\u2022 Repeals multiple federal tax credits for clean fuel production and biofuels, simplifying the tax code and eliminating what critics view as costly subsidies.",
+      "\u2022 Eliminates federal excise tax refunds for certain nontaxable fuel uses, ensuring that fuel taxes are collected broadly."
+    ],
+    "cons": [
+      "\u2022 Repealing clean fuel tax credits could slow investment in renewable fuel technologies and increase reliance on fossil fuels.",
+      "\u2022 Eliminating excise tax refunds could raise costs for farms, construction companies, and other industries that use fuel for nontaxable purposes."
+    ]
+  },
+  "119/hr/283": {
+    "pros": [
+      "\u2022 Authorizes the President to negotiate with Panama for the repurchase of the Panama Canal, asserting U.S. strategic interests in global trade routes.",
+      "\u2022 Requires a report to Congress on negotiations, providing transparency about the administration's efforts."
+    ],
+    "cons": [
+      "\u2022 The Panama Canal was turned over to Panama in 1999 under treaty obligations, and Panama has operated it successfully for over 25 years with no indication they would sell.",
+      "\u2022 Repurchasing the canal would likely cost tens of billions of dollars at minimum, and the bill does not authorize specific funding for such a purchase."
+    ]
+  },
+  "119/hres/29": {
+    "pros": [
+      "\u2022 Recognizes the contributions of Okinawan Americans to the United States and honors the 125th anniversary of Okinawan immigration.",
+      "\u2022 Promotes cultural awareness and appreciation for the diversity of Asian American and Pacific Islander heritage."
+    ],
+    "cons": [
+      "\u2022 This is a symbolic resolution that expresses sentiment but does not create any new policy, funding, or programs.",
+      "\u2022 Ceremonial resolutions take up floor time that could be used for substantive legislation."
+    ]
+  },
+  "119/hr/312": {
+    "pros": [
+      "\u2022 Repeals federal tax credits for electric vehicles, plug-in hybrids, and fuel cell vehicles, simplifying the tax code and eliminating what critics view as subsidies for wealthy buyers.",
+      "\u2022 Reduces federal spending on tax expenditures, potentially lowering the deficit."
+    ],
+    "cons": [
+      "\u2022 Eliminating EV tax credits could slow the transition to electric vehicles, undermining efforts to reduce transportation-related greenhouse gas emissions.",
+      "\u2022 The repeal primarily benefits fossil fuel industries while making clean vehicles less affordable for middle-class consumers."
+    ]
+  },
+  "119/hr/264": {
+    "pros": [
+      "\u2022 Requires Amtrak to offer traditional dining service on overnight routes to the extent practicable, improving the passenger experience on long-distance trains.",
+      "\u2022 Mandates an affordable alternative dining option alongside traditional table service, ensuring all passengers have access to food regardless of budget."
+    ],
+    "cons": [
+      "\u2022 Traditional dining service is costly to operate and could increase Amtrak's operating losses, which are already subsidized by taxpayers.",
+      "\u2022 Micro-managing Amtrak's dining operations through legislation may limit the railroad's flexibility to adapt services based on passenger demand and operational efficiency."
+    ]
+  },
+  "119/hr/243": {
+    "pros": [
+      "\u2022 Prevents U.S. recognition of Bidzina Ivanishvili or any government he leads in Georgia, signaling opposition to what the bill characterizes as a pro-Russian, anti-democratic regime.",
+      "\u2022 Protects U.S. foreign policy from legitimizing a government that the bill argues came to power through flawed elections."
+    ],
+    "cons": [
+      "\u2022 Non-recognition policies can limit U.S. diplomatic engagement and reduce American influence over events in a strategically important country.",
+      "\u2022 The bill may create complications for U.S. relations with future democratically elected Georgian governments if it lasts beyond the current political situation."
+    ]
+  },
+  "119/hr/275": {
+    "pros": [
+      "\u2022 Requires the Department of Homeland Security to report monthly on non-U.S. nationals who attempt illegal entry and may pose national security risks, improving transparency.",
+      "\u2022 Provides Congress and the public with regular data on potential security threats at the border."
+    ],
+    "cons": [
+      "\u2022 Monthly reporting creates an administrative burden for DHS that may divert resources from border security operations.",
+      "\u2022 The term 'special interest alien' is not clearly defined, which could lead to inconsistent reporting or over-identification of individuals who do not pose actual security threats."
+    ]
+  },
+  "119/sres/69": {
+    "pros": [
+      "\u2022 Authorizes necessary funding for the Senate Armed Services Committee to conduct oversight of military operations, personnel, and defense spending.",
+      "\u2022 Such resolutions are routine procedural measures that allow Senate committees to perform their basic functions of investigation and oversight."
+    ],
+    "cons": [
+      "\u2022 This is a purely procedural resolution that authorizes committee operations without affecting substantive defense policy or military spending.",
+      "\u2022 Does not include specific policy directives or accountability measures for how the committee's funds are spent."
+    ]
+  },
+  "119/s/508": {
+    "pros": [
+      "\u2022 The BEACH Act (Beach Environmental Assessment and Coastal Health Act) provides funding to states for monitoring and testing water quality at coastal beaches, protecting public health from contaminated swimming water.",
+      "\u2022 Helps local beach managers notify the public quickly when bacteria levels exceed safety standards, reducing the risk of waterborne illness."
+    ],
+    "cons": [
+      "\u2022 Requires continued federal appropriations that could be cut during budget tightening, potentially leaving states with monitoring gaps.",
+      "\u2022 Water quality testing is primarily a state and local responsibility, and federal mandates for beach monitoring may not account for regional differences in coastal management priorities."
+    ]
+  },
+  "119/s/507": {
+    "pros": [
+      "\u2022 The Promoting Precision Agriculture Act supports farmers adopting GPS-guided equipment, drone monitoring, and data-driven crop management technologies that can reduce fertilizer and pesticide use.",
+      "\u2022 Could improve crop yields and farm profitability while reducing environmental runoff from excess agricultural chemicals."
+    ],
+    "cons": [
+      "\u2022 Adds new federal programs and incentives that increase government spending on agricultural technology, which may benefit large industrial farms more than small family farms.",
+      "\u2022 Precision agriculture equipment requires significant upfront investment and technical expertise, potentially creating a digital divide between well-capitalized farms and smaller operations."
+    ]
+  },
+  "119/hr/1249": {
+    "pros": [
+      "\u2022 The INFORM Act (Improving Federal Operations and Reporting Modernization Act) aims to streamline federal reporting requirements and reduce paperwork burdens on agencies.",
+      "\u2022 Could save taxpayer money by eliminating duplicative or outdated reporting mandates across the executive branch."
+    ],
+    "cons": [
+      "\u2022 Reducing reporting requirements could weaken congressional oversight of federal agency activities and spending.",
+      "\u2022 The specifics of which reports are eliminated or consolidated are unclear, and important transparency measures could be lost in the name of efficiency."
+    ]
+  },
+  "119/hjres/52": {
+    "pros": [
+      "\u2022 Blocks a Federal Housing Finance Agency rule on automated valuation model quality control standards, which critics argued would impose costly new compliance burdens on the housing finance industry.",
+      "\u2022 Uses the Congressional Review Act to exercise Congress's oversight authority over agency rulemaking, preventing regulatory overreach without legislative input."
+    ],
+    "cons": [
+      "\u2022 Eliminating quality control standards for automated home appraisals could increase the risk of inaccurate property valuations, potentially affecting mortgage lending decisions.",
+      "\u2022 The Congressional Review Act prevents the agency from issuing a substantially similar rule in the future, removing flexibility to address legitimate concerns about appraisal accuracy."
+    ]
+  },
+  "119/hr/1224": {
+    "pros": [
+      "\u2022 The Protecting the Second Amendment in Financial Services Act prevents financial institutions from discriminating against gun manufacturers, retailers, and lawful firearm owners by denying them banking services based on their lawful business activities.",
+      "\u2022 Ensures that Second Amendment-related businesses have equal access to credit card processing, loans, and other essential banking services."
+    ],
+    "cons": [
+      "\u2022 Government mandates on what financial services banks must offer interfere with private business decisions and risk management practices of financial institutions.",
+      "\u2022 Could force banks to serve customers or industries that they have legitimate compliance and reputational concerns about, potentially exposing them to legal and regulatory liability."
+    ]
+  },
+  "119/hres/128": {
+    "pros": [
+      "\u2022 Raises public awareness about teen dating violence, which affects millions of young Americans and is often underreported.",
+      "\u2022 Supports advocacy groups and educational programs that work to prevent relationship abuse among teenagers and promote healthy relationship skills."
+    ],
+    "cons": [
+      "\u2022 This is a non-binding resolution that expresses support for a awareness month but does not authorize any funding or programs to address teen dating violence.",
+      "\u2022 While raising awareness is valuable, the resolution lacks concrete policy measures such as funding for school-based prevention programs or victim support services."
+    ]
+  },
+  "119/hr/1239": {
+    "pros": [
+      "\u2022 The Voluntary Sustainable Apparel Labeling Act creates a voluntary labeling program for clothing and textile companies to disclose the environmental impact of their products, helping consumers make informed purchasing decisions.",
+      "\u2022 Encourages the fashion industry to adopt more sustainable manufacturing practices without imposing mandatory government regulations."
+    ],
+    "cons": [
+      "\u2022 Voluntary labeling programs often have low participation rates, limiting their effectiveness in driving industry-wide change.",
+      "\u2022 Could create confusion with multiple competing sustainability labels, and the cost of developing and certifying labels may be passed on to consumers."
+    ]
+  },
+  "119/hr/1255": {
+    "pros": [
+      "\u2022 The Investing in Our Communities Act provides tax incentives and credits for investments in low-income and underserved communities, encouraging private capital to flow into areas that struggle to attract business investment.",
+      "\u2022 Could help create jobs, improve housing, and support small business development in economically distressed neighborhoods."
+    ],
+    "cons": [
+      "\u2022 Tax credit programs reduce federal revenue and may primarily benefit wealthy investors rather than the communities they are meant to help.",
+      "\u2022 Similar programs in the past have had mixed results, with some investments not reaching the most distressed areas or failing to create sustainable economic development."
+    ]
+  },
+  "119/hr/1258": {
+    "pros": [
+      "\u2022 The Improving Contractor Cybersecurity Act strengthens cybersecurity requirements for companies that do business with the federal government, reducing the risk of data breaches and cyberattacks that could compromise sensitive government information.",
+      "\u2022 Helps protect taxpayer-funded systems and data by ensuring federal contractors meet basic cybersecurity standards."
+    ],
+    "cons": [
+      "\u2022 New cybersecurity mandates could increase compliance costs for small and medium-sized businesses that contract with the government, potentially excluding them from competing for federal contracts.",
+      "\u2022 May overlap with existing cybersecurity requirements and regulations, creating duplication and confusion for contractors who must navigate multiple compliance frameworks."
+    ]
+  },
+  "119/hr/1274": {
+    "pros": [
+      "\u2022 The PROTECT Our Children Reauthorization Act reauthorizes and updates federal programs aimed at preventing child exploitation, human trafficking, and online predators targeting children.",
+      "\u2022 Provides continued funding for law enforcement training, victim services, and internet safety education that help protect vulnerable children."
+    ],
+    "cons": [
+      "\u2022 Reauthorization bills often continue existing programs without meaningful reform or evaluation of their effectiveness at actually reducing child exploitation.",
+      "\u2022 Does not address emerging technology challenges such as encryption and social media platforms that can be used by predators to target children."
+    ]
+  },
+  "119/hjres/50": {
+    "pros": [
+      "\u2022 Blocks a National Credit Union Administration rule on automated valuation model quality standards, which credit unions argued would add unnecessary compliance costs.",
+      "\u2022 Uses Congress's oversight authority under the Congressional Review Act to prevent what supporters view as an overly burdensome agency regulation."
+    ],
+    "cons": [
+      "\u2022 Removing quality control standards for automated valuation models could reduce accuracy in property appraisals used by credit unions for mortgage lending.",
+      "\u2022 The Congressional Review Act prohibits the agency from issuing a similar rule in the future, limiting the NCUA's ability to address legitimate appraisal quality concerns."
+    ]
+  },
+  "119/hr/1242": {
+    "pros": [
+      "\u2022 The Hire Veterans Act provides tax credits and incentives to employers who hire veterans, reducing unemployment among those who have served in the military.",
+      "\u2022 Helps veterans transition to civilian careers by making it more financially attractive for businesses to hire them, particularly those with service-connected disabilities."
+    ],
+    "cons": [
+      "\u2022 Similar hiring tax credits have had mixed results, with many employers unaware of the programs or hiring veterans they would have hired anyway.",
+      "\u2022 Reduces federal tax revenue without directly funding job training, placement services, or other support programs that help veterans succeed once hired."
+    ]
+  },
+  "119/hjres/47": {
+    "pros": [
+      "\u2022 Blocks an Office of the Comptroller of the Currency rule on automated valuation model quality standards for national banks, preventing what critics view as unnecessary regulatory expansion.",
+      "\u2022 Uses the Congressional Review Act to assert Congress's authority over banking regulation and prevent costly compliance mandates on financial institutions."
+    ],
+    "cons": [
+      "\u2022 Eliminates quality control standards for automated home appraisals used by national banks, potentially increasing risks of inaccurate property valuations in mortgage lending.",
+      "\u2022 Preventing the OCC from issuing a similar rule removes regulatory flexibility to address appraisal accuracy issues that could affect the stability of the housing finance system."
+    ]
+  },
+  "119/hres/127": {
+    "pros": [
+      "\u2022 This resolution of inquiry requests documents about the Department of Government Efficiency's (DOGE) access to Treasury payment systems and taxpayer information, providing congressional oversight of executive branch actions.",
+      "\u2022 Helps protect taxpayer privacy by investigating whether confidential financial information was improperly accessed or shared."
+    ],
+    "cons": [
+      "\u2022 Resolutions of inquiry are non-binding and may not compel the executive branch to actually provide the requested documents, potentially leading to a political standoff rather than substantive oversight.",
+      "\u2022 Could be seen as a partisan oversight tool that distracts from more pressing legislative priorities rather than addressing a genuine privacy concern."
+    ]
+  },
+  "119/hr/1248": {
+    "pros": [
+      "\u2022 The Ensuring Continuity in Veterans Health Act ensures that veterans can continue receiving medical care from the VA without interruption during transitions between eligibility categories or administrative changes.",
+      "\u2022 Provides stability for veterans who rely on VA healthcare by preventing bureaucratic gaps that could disrupt ongoing treatment for chronic conditions."
+    ],
+    "cons": [
+      "\u2022 Maintaining continuity of care regardless of eligibility changes could increase VA healthcare costs if veterans remain enrolled longer than they otherwise would.",
+      "\u2022 Does not address underlying issues with VA appointment scheduling, staffing shortages, or quality of care that affect veterans' healthcare experience."
+    ]
+  },
+  "119/hr/1234": {
+    "pros": [
+      "\u2022 Directs the Librarian of Congress to replace expensive hardbound print versions of the Constitution's annotated guide with more cost-effective digital versions, saving taxpayer money on printing and distribution.",
+      "\u2022 Digital versions can be updated more frequently and are more accessible to the public online, expanding access to constitutional reference materials."
+    ],
+    "cons": [
+      "\u2022 Eliminating hardbound versions could reduce access for researchers, law libraries, and individuals who prefer or rely on print materials.",
+      "\u2022 A purely digital format depends on the Library of Congress maintaining its digital infrastructure, and digital formats may not have the same long-term archival stability as printed books."
+    ]
+  },
+  "119/hjres/42": {
+    "pros": [
+      "\u2022 Blocks a Department of Energy rule that would impose new energy efficiency certification, labeling, and enforcement requirements on consumer appliances, reducing regulatory compliance costs for manufacturers.",
+      "\u2022 Uses the Congressional Review Act to prevent what supporters argue is an expansion of federal energy regulation that could increase appliance prices for consumers."
+    ],
+    "cons": [
+      "\u2022 Eliminating energy efficiency labeling and certification requirements could make it harder for consumers to compare the energy costs of different appliances.",
+      "\u2022 The Congressional Review Act bars the DOE from issuing a substantially similar rule, potentially locking in weaker energy efficiency standards for years."
+    ]
+  },
+  "119/hr/1223": {
+    "pros": [
+      "\u2022 The ANCHOR Act improves cybersecurity coordination between federal agencies by establishing clearer protocols for reporting and responding to cyber threats.",
+      "\u2022 Helps protect critical infrastructure and government networks from cyberattacks by streamlining information sharing between agencies."
+    ],
+    "cons": [
+      "\u2022 Creates additional bureaucratic coordination requirements that could slow down incident response rather than speeding it up.",
+      "\u2022 Does not include specific funding authorizations, and new coordination mandates without additional resources may strain existing agency cybersecurity budgets."
+    ]
+  },
+  "119/s/506": {
+    "pros": [
+      "\u2022 The Coordinating Care for Senior Veterans and Wounded Warriors Act improves coordination between the VA and Medicare to ensure older veterans and wounded warriors receive seamless healthcare without administrative delays or gaps in coverage.",
+      "\u2022 Addresses the complex healthcare needs of aging veterans who often qualify for both VA benefits and Medicare, simplifying the process of accessing care."
+    ],
+    "cons": [
+      "\u2022 Better coordination between VA and Medicare could increase overall healthcare costs if it leads to expanded utilization without clear cost-control measures.",
+      "\u2022 May create new administrative burdens for both VA and Medicare systems, requiring significant IT and staffing investments to implement data sharing."
+    ]
+  },
+  "119/hr/1777": {
+    "pros": [
+      "\u2022 The SECURE Notarization Act (Securing and Enabling Commerce Using Remote and Electronic Notarization Act) establishes national standards for remote online notarization, making it easier for Americans to get documents notarized without traveling to a notary.",
+      "\u2022 Modernizes notary laws for the digital age, enabling real estate closings, legal documents, and business contracts to be notarized electronically across state lines."
+    ],
+    "cons": [
+      "\u2022 National standards could override stronger state-level notary verification requirements, potentially increasing the risk of fraud in remote notarizations.",
+      "\u2022 Electronic notarization platforms and identity verification technology may not be equally accessible to elderly, low-income, or rural Americans with limited internet access."
+    ]
+  },
+  "119/hjres/66": {
+    "pros": [
+      "\u2022 Blocks an EPA rule related to Ohio's air quality plan, preventing what critics argue is federal overreach into state air pollution management.",
+      "\u2022 Uses the Congressional Review Act to assert that states should have primary authority over their air quality implementation plans under the Clean Air Act."
+    ],
+    "cons": [
+      "\u2022 Overturning an EPA air plan rule could allow pollution levels in Ohio to remain higher than federal standards allow, affecting public health.",
+      "\u2022 The Congressional Review Act bars the EPA from issuing a substantially similar rule, limiting the agency's ability to enforce Clean Air Act requirements in Ohio."
+    ]
+  },
+  "119/hres/182": {
+    "pros": [
+      "\u2022 Raises awareness about triple-negative breast cancer, an aggressive form of breast cancer that disproportionately affects younger women and women of color.",
+      "\u2022 Supports efforts to increase research funding and early detection for a cancer subtype that currently has fewer targeted treatment options than other breast cancers."
+    ],
+    "cons": [
+      "\u2022 This is a non-binding resolution that designates a national awareness day but does not authorize research funding or patient support programs.",
+      "\u2022 While symbolic recognition can be valuable, the resolution lacks concrete action such as directing NIH or CDC to study disparities in triple-negative breast cancer outcomes."
+    ]
+  },
+  "119/hr/1801": {
+    "pros": [
+      "\u2022 The Employer Participation in Repayment Act allows employers to make tax-free contributions to employee student loan payments, up to a certain limit, helping workers pay down education debt faster.",
+      "\u2022 Encourages employers to offer student loan repayment benefits as a workplace perk, similar to how 401(k) matching works for retirement savings."
+    ],
+    "cons": [
+      "\u2022 Reduces federal tax revenue by making employer student loan contributions tax-free, primarily benefiting college-educated workers and not those without student debt.",
+      "\u2022 May primarily help higher-income employees with large student loan balances, while offering little benefit to lower-wage workers who may have smaller or no student loans."
+    ]
+  },
+  "119/hjres/67": {
+    "pros": [
+      "\u2022 Establishes a Slavery Remembrance Month to honor the millions of enslaved Africans and their descendants in American history, promoting education about the legacy of slavery.",
+      "\u2022 Provides an opportunity for schools, museums, and communities to teach about the history and ongoing impact of slavery in the United States."
+    ],
+    "cons": [
+      "\u2022 This is a non-binding resolution that establishes a commemorative month without authorizing funding for educational programs, museums, or curriculum development.",
+      "\u2022 Without specific educational funding or curriculum requirements, the resolution's impact depends entirely on voluntary participation by states and schools."
+    ]
+  },
+  "119/hr/1819": {
+    "pros": [
+      "\u2022 Authorizes the President to award the Medal of Honor to E. Royce Williams, a Navy pilot who displayed extraordinary valor during the Korean War by single-handedly engaging multiple enemy fighter jets.",
+      "\u2022 Corrects a historical oversight by recognizing a servicemember whose heroic actions were classified during the Cold War and never received proper recognition."
+    ],
+    "cons": [
+      "\u2022 While honoring individual valor is important, this narrow bill addresses a single Medal of Honor recommendation rather than broader issues of military recognition and benefits.",
+      "\u2022 Setting a precedent for Congress to authorize specific Medal of Honor awards could lead to political influence over what should remain a military-chain-of-command decision."
+    ]
+  },
+  "119/hr/1772": {
+    "pros": [
+      "\u2022 The Designation of English as the Official Language Act makes English the official language of the U.S. government, requiring federal proceedings and documents to be conducted in English.",
+      "\u2022 Could promote national unity and reduce government costs by eliminating multilingual translation requirements for federal documents and services."
+    ],
+    "cons": [
+      "\u2022 Could limit access to government services for millions of Americans with limited English proficiency, including voting materials, healthcare information, and legal notices.",
+      "\u2022 May be challenged as discriminatory under civil rights laws and could create logistical problems for agencies like FEMA that need to communicate with diverse populations during emergencies."
+    ]
+  },
+  "119/hres/181": {
+    "pros": [
+      "\u2022 The original Black History Month Resolution recognizes the contributions of African Americans to U.S. history, culture, and society.",
+      "\u2022 Encourages educational institutions and communities to study and celebrate the achievements and history of Black Americans throughout February."
+    ],
+    "cons": [
+      "\u2022 This is a non-binding, symbolic resolution that does not authorize funding for Black history educational programs, museums, or curriculum development.",
+      "\u2022 Similar resolutions have been passed annually for decades, and their impact on improving educational outcomes or racial understanding is difficult to measure."
+    ]
+  },
+  "119/hres/179": {
+    "pros": [
+      "\u2022 Expresses support for strengthening U.S.-Africa partnerships in developing critical minerals like cobalt, lithium, and rare earth elements that are essential for electric vehicle batteries, electronics, and renewable energy technology.",
+      "\u2022 Could help reduce U.S. dependence on China for critical mineral supplies by building alternative supply chains with African nations."
+    ],
+    "cons": [
+      "\u2022 This is a non-binding resolution that expresses support for partnerships but does not authorize funding, trade agreements, or diplomatic initiatives.",
+      "\u2022 Without accompanying legislation, the resolution's impact on actually securing critical mineral supply chains is limited to expressing congressional intent."
+    ]
+  },
+  "119/hres/184": {
+    "pros": [
+      "\u2022 Provides a procedural framework for the House to consider H.R. 185, ensuring structured debate and amendment process for important legislation.",
+      "\u2022 Rule resolutions are necessary for the House of Representatives to function and consider legislation in an orderly manner."
+    ],
+    "cons": [
+      "\u2022 This is a purely procedural resolution that governs how a specific bill is considered on the House floor, not substantive policy.",
+      "\u2022 Rule resolutions can restrict the number and type of amendments allowed, potentially limiting minority party input and debate."
+    ]
+  },
+  "119/hr/1791": {
+    "pros": [
+      "\u2022 The Increasing Credit Union Lending for Business Growth Act raises the statutory cap on how much credit unions can lend to businesses, freeing up more capital for small business loans and local economic development.",
+      "\u2022 Credit unions are member-owned and typically offer lower interest rates than banks, so expanding their business lending capacity could make financing more affordable for small businesses."
+    ],
+    "cons": [
+      "\u2022 Increasing the business lending cap for credit unions could reduce their focus on their original mission of serving individual consumers and may expose them to higher commercial loan risk.",
+      "\u2022 Banks argue this gives credit unions an unfair advantage because they are tax-exempt, while still competing directly with banks for commercial loans."
+    ]
+  },
+  "119/hr/1806": {
+    "pros": [
+      "\u2022 The Triple-Negative Breast Cancer Research and Education Act authorizes funding for targeted research into triple-negative breast cancer, which has fewer treatment options and higher mortality rates than other breast cancers.",
+      "\u2022 Provides grants for education and awareness programs, particularly aimed at younger women and women of color who are at higher risk for this aggressive cancer type."
+    ],
+    "cons": [
+      "\u2022 Authorizes new spending for disease-specific research without specifying offsets or identifying how it fits within existing NIH cancer research budgets.",
+      "\u2022 While triple-negative breast cancer deserves attention, funding research for every specific cancer subtype individually may lead to inefficient allocation of research dollars."
+    ]
+  },
+  "119/s/812": {
+    "pros": [
+      "\u2022 Ensures veterans can easily obtain physical paper copies of the forms they need for VA travel expense reimbursement, either by mail or at VA medical facilities.",
+      "\u2022 Addresses a practical barrier for veterans, particularly elderly or less tech-savvy veterans, who may struggle with online-only form access."
+    ],
+    "cons": [
+      "\u2022 This is a very narrow bill addressing a single administrative process rather than broader systemic issues with VA travel reimbursement or veterans benefits.",
+      "\u2022 Requiring physical form availability could create additional printing and mailing costs for the VA without addressing the underlying complexity of the travel reimbursement process."
+    ]
+  },
+  "119/hres/177": {
+    "pros": [
+      "\u2022 Provides for House consideration of multiple Congressional Review Act resolutions that would block federal regulations on energy efficiency, tire manufacturing emissions, and marine resource protection.",
+      "\u2022 Streamlines floor debate on three related regulatory oversight measures, allowing efficient use of House floor time."
+    ],
+    "cons": [
+      "\u2022 This is a procedural rule resolution that determines how these bills are debated, not substantive policy itself.",
+      "\u2022 Bundling multiple disapproval resolutions together in the rule may limit the opportunity for separate debate on each regulation's merits."
+    ]
+  },
+  "119/hr/1802": {
+    "pros": [
+      "\u2022 The SPARE Act (Supporting Proliferation of Autonomous and Remote Emergency Services Act) promotes the use of autonomous technology and remote services in emergency response, potentially improving response times and reducing risks to first responders.",
+      "\u2022 Modernizes emergency services by encouraging the deployment of drones, robots, and remote monitoring technology for hazardous situations."
+    ],
+    "cons": [
+      "\u2022 Autonomous emergency response technology is still developing and may not be reliable enough for life-threatening situations where human judgment is critical.",
+      "\u2022 Could divert funding from traditional emergency services and first responder staffing toward unproven technology solutions."
+    ]
+  },
+  "119/hr/1782": {
+    "pros": [
+      "\u2022 The SHOPP Act (Supporting Healthy Options for Purchasing Produce Act) expands access to fresh fruits and vegetables for low-income families by increasing the value of SNAP (food stamp) benefits that can be used to buy fresh produce.",
+      "\u2022 Could improve nutrition outcomes for millions of Americans who rely on food assistance by making healthier food options more affordable."
+    ],
+    "cons": [
+      "\u2022 Increasing SNAP benefits for produce purchases would increase federal spending on food assistance programs without offsetting cuts elsewhere.",
+      "\u2022 May not address the underlying issue of food deserts where fresh produce is simply not available in many low-income neighborhoods regardless of price."
+    ]
+  },
+  "119/hr/1793": {
+    "pros": [
+      "\u2022 The Veterans Readiness and Employment Transparency Act requires the VA to provide clearer information to veterans about vocational rehabilitation and employment services, helping them understand and access job training benefits.",
+      "\u2022 Increases accountability by requiring the VA to report on the effectiveness and outcomes of its employment programs for disabled veterans."
+    ],
+    "cons": [
+      "\u2022 Creates new reporting requirements that add administrative burden to the VA without guaranteed improvements in actual employment outcomes.",
+      "\u2022 Transparency requirements alone may not address underlying issues such as understaffing of vocational counselors or inadequate job placement partnerships."
+    ]
+  },
+  "119/hr/1766": {
+    "pros": [
+      "\u2022 The NTIA Policy and Cybersecurity Coordination Act improves the coordination of federal telecommunications and cybersecurity policy by clarifying the role of the National Telecommunications and Information Administration.",
+      "\u2022 Helps streamline efforts to secure communications networks, including the rollout of 5G and broadband internet infrastructure."
+    ],
+    "cons": [
+      "\u2022 Creates additional interagency coordination requirements that could slow down decision-making on telecommunications policy.",
+      "\u2022 Does not include additional funding for cybersecurity initiatives or address the shortage of qualified cybersecurity professionals in government."
+    ]
+  },
+  "119/hr/1770": {
+    "pros": [
+      "\u2022 The Consumer Safety Technology Act encourages the use of technology like artificial intelligence and blockchain to improve consumer product safety, traceability, and recall effectiveness.",
+      "\u2022 Could help regulators and manufacturers identify unsafe products faster and notify consumers more efficiently when recalls are needed."
+    ],
+    "cons": [
+      "\u2022 New technology mandates for product safety could increase compliance costs for manufacturers, particularly smaller companies with limited budgets for digital tracking systems.",
+      "\u2022 Reliance on emerging technologies like blockchain for product safety may create new cybersecurity vulnerabilities even as it solves traceability problems."
+    ]
+  },
+  "119/hr/1815": {
+    "pros": [
+      "\u2022 The VA Home Loan Program Reform Act updates and improves eligibility requirements and benefits for the VA home loan program, making it easier for veterans and active-duty service members to buy homes.",
+      "\u2022 Could reduce barriers like funding fees or cumbersome paperwork that prevent veterans from accessing one of their most valuable service benefits."
+    ],
+    "cons": [
+      "\u2022 Expanding VA loan eligibility and benefits increases federal government exposure to mortgage default risk, potentially requiring future taxpayer bailouts.",
+      "\u2022 Without sufficient housing supply, making loans easier to obtain could drive up home prices in competitive markets, benefiting sellers rather than veteran buyers."
+    ]
+  },
+  "119/hr/3961": {
+    "pros": [
+      "\u2022 Prohibits the Department of Defense from entering into software source code contracts with companies that have ties to China, protecting sensitive military technology and reducing the risk of cyber espionage.",
+      "\u2022 Strengthens national security by ensuring that critical defense software is not developed or maintained by entities subject to Chinese government influence."
+    ],
+    "cons": [
+      "\u2022 Could limit competition for defense software contracts, potentially increasing costs and reducing the quality of technology available to the military.",
+      "\u2022 Determining which companies have qualifying ties to China creates complex compliance and verification challenges that could slow down defense procurement."
+    ]
+  },
+  "119/hr/3970": {
+    "pros": [
+      "\u2022 The FLRAA Production Acceleration Act (Future Long-Range Assault Aircraft Production Acceleration) speeds up production and deployment of the Army's next-generation long-range assault helicopter, modernizing military aviation capabilities.",
+      "\u2022 Ensures U.S. military forces have advanced vertical lift technology to maintain battlefield advantage against peer competitors."
+    ],
+    "cons": [
+      "\u2022 Accelerating production could bypass normal testing and development protocols, potentially fielding aircraft with unresolved technical issues.",
+      "\u2022 Increased spending on one specific weapons system may reduce funding available for other defense priorities or force the Army to cut other programs to pay for it."
+    ]
+  },
+  "119/hr/4008": {
+    "pros": [
+      "\u2022 The Pay Our Correctional Officers Fairly Act increases pay for federal correctional officers, addressing chronic staffing shortages at Bureau of Prisons facilities that have led to safety concerns for both staff and inmates.",
+      "\u2022 Higher pay could improve recruitment and retention of qualified correctional staff, reducing overtime costs and improving prison safety."
+    ],
+    "cons": [
+      "\u2022 Federal pay increases without corresponding budget offsets add to the national deficit.",
+      "\u2022 Increasing pay alone may not address the underlying challenges of working in understaffed, high-stress correctional environments, and could be less effective if paired with broader prison reform."
+    ]
+  },
+  "119/hres/513": {
+    "pros": [
+      "\u2022 Supports recognition of a National Service and Conservation Corps Day to honor the contributions of AmeriCorps, Peace Corps, and conservation corps members who perform community service and environmental work.",
+      "\u2022 Encourages volunteerism and national service participation among young Americans."
+    ],
+    "cons": [
+      "\u2022 This is a non-binding symbolic resolution that does not authorize funding or expand these service programs.",
+      "\u2022 Without accompanying legislation to increase service corps funding or slots, the recognition does not directly address the high demand for national service positions."
+    ]
+  },
+  "119/hr/3943": {
+    "pros": [
+      "\u2022 The Opportunity To Address College Hunger Act addresses food insecurity among college students by expanding SNAP (food stamp) eligibility and on-campus food assistance programs.",
+      "\u2022 Recognizes that many college students struggle with hunger, which affects their academic performance and graduation rates."
+    ],
+    "cons": [
+      "\u2022 Expanding SNAP eligibility for college students increases federal food assistance spending without clear offsetting savings.",
+      "\u2022 Could be seen as shifting the responsibility for college living costs from families and financial aid packages onto federal food assistance programs."
+    ]
+  },
+  "119/hr/3946": {
+    "pros": [
+      "\u2022 The FIGHT Act (Fighting Inhumane Gambling and High-risk Trafficking Act) targets illegal animal fighting operations and associated gambling, strengthening enforcement against animal cruelty and organized crime.",
+      "\u2022 Provides law enforcement with additional tools to investigate and prosecute animal fighting rings that are often linked to other illegal activities like drug trafficking."
+    ],
+    "cons": [
+      "\u2022 Expands federal law enforcement authority into areas traditionally handled at the state and local level.",
+      "\u2022 While animal fighting is a serious concern, federal resources may be better spent on higher-priority violent crime and drug enforcement."
+    ]
+  },
+  "119/hr/4000": {
+    "pros": [
+      "\u2022 Prohibits non-U.S. citizens (except those from allied Five Eyes nations: Australia, Canada, New Zealand, UK) from accessing Department of Energy sites and facilities, protecting sensitive nuclear and energy research from foreign espionage.",
+      "\u2022 Addresses national security concerns about foreign spies accessing sensitive U.S. energy infrastructure and research laboratories."
+    ],
+    "cons": [
+      "\u2022 Excluding all non-citizens except Five Eyes nationals could hamper international scientific collaboration at DOE national labs, which have historically benefited from foreign talent.",
+      "\u2022 Strained diplomatic relations with allied countries not in the Five Eyes could result from blanket exclusion, and the policy may not prevent insider threats from U.S. citizens."
+    ]
+  },
+  "119/hr/3986": {
+    "pros": [
+      "\u2022 The Small Business Liberation Act reduces regulatory burdens on small businesses by streamlining compliance requirements, cutting paperwork, and exempting very small businesses from certain federal regulations.",
+      "\u2022 Could help small businesses grow and create jobs by reducing the time and money they spend on federal regulatory compliance."
+    ],
+    "cons": [
+      "\u2022 Exempting small businesses from regulations could weaken workplace safety, environmental protection, and consumer protections that apply to all businesses regardless of size.",
+      "\u2022 The definition of small business varies by industry, and broad regulatory exemptions could create loopholes that larger businesses exploit by restructuring as smaller entities."
+    ]
+  },
+  "119/hr/3982": {
+    "pros": [
+      "\u2022 Establishes a Tariff Response and Damages to Exports fund to compensate American businesses and workers who are harmed by foreign retaliatory tariffs imposed in response to U.S. tariff actions.",
+      "\u2022 Provides a financial safety net for farmers, manufacturers, and exporters who lose foreign markets due to trade disputes."
+    ],
+    "cons": [
+      "\u2022 Creates a new federal fund without specifying a funding source, potentially adding to the deficit.",
+      "\u2022 Compensating businesses for tariff damage may reduce the economic incentive to resolve trade disputes diplomatically, potentially prolonging trade wars that harm the broader economy."
+    ]
+  },
+  "119/hr/4004": {
+    "pros": [
+      "\u2022 The No Anonymity in Immigration Enforcement Act prohibits the use of anonymous tips or reports as the sole basis for immigration enforcement actions, requiring identifiable sources for initiating investigations.",
+      "\u2022 Protects individuals from being targeted by false or malicious anonymous reports to immigration authorities and helps prevent racial profiling."
+    ],
+    "cons": [
+      "\u2022 Restricting immigration enforcement based on anonymous tips could hamper the ability to investigate legitimate leads when witnesses or victims fear retaliation.",
+      "\u2022 May slow down immigration enforcement actions and allow individuals who are in the country illegally to avoid detection if witnesses are unwilling to identify themselves."
+    ]
+  },
+  "119/hr/564": {
+    "pros": [
+      "\u2022 TikTok has faced national security concerns that a ban would address",
+      "\u2022 Repealing the ban would allow TikTok to continue operating in the U.S."
+    ],
+    "cons": [
+      "\u2022 TikTok's parent company ByteDance remains linked to the Chinese government",
+      "\u2022 Repealing the ban could leave U.S. user data vulnerable to foreign access"
+    ]
+  },
+  "119/hr/557": {
+    "pros": [
+      "\u2022 Provides tax relief specifically for working-class employees receiving bonuses",
+      "\u2022 Helps lower-income workers keep more of their bonus income through 2029"
+    ],
+    "cons": [
+      "\u2022 Reduces federal tax revenue without a corresponding spending offset",
+      "\u2022 Higher-income individuals may find ways to reclassify income as bonuses"
+    ]
+  },
+  "119/hr/558": {
+    "pros": [
+      "\u2022 Eliminates federal income tax on up to $20,000 in tips for service workers",
+      "\u2022 IRS study of no-reporting systems could simplify tax compliance for tipped workers"
+    ],
+    "cons": [
+      "\u2022 Could significantly reduce federal tax revenue from the service industry",
+      "\u2022 May create incentives for employers to shift wages to tipped structures"
+    ]
+  },
+  "119/hr/561": {
+    "pros": [
+      "\u2022 Provides tax relief for workers who earn overtime compensation",
+      "\u2022 Encourages employees to accept overtime hours by reducing the tax burden"
+    ],
+    "cons": [
+      "\u2022 Reduces federal revenue without offsetting spending cuts or new taxes",
+      "\u2022 Benefits may disproportionately flow to industries with high overtime use"
+    ]
+  },
+  "119/hr/560": {
+    "pros": [
+      "\u2022 Provides tax relief for workers holding multiple jobs to make ends meet",
+      "\u2022 Encourages additional employment by reducing the tax penalty on second jobs"
+    ],
+    "cons": [
+      "\u2022 Could reduce federal revenue and complicate the tax code",
+      "\u2022 May be difficult to administer and verify what constitutes a second job"
+    ]
+  },
+  "119/hr/562": {
+    "pros": [
+      "\u2022 Strengthens diplomatic and economic ties with Pacific Island countries",
+      "\u2022 Helps counter China's growing influence in the Pacific region"
+    ],
+    "cons": [
+      "\u2022 Could require significant new U.S. financial commitments in the Pacific",
+      "\u2022 May draw the U.S. deeper into regional geopolitical disputes"
+    ]
+  },
+  "119/hr/566": {
+    "pros": [
+      "\u2022 Provides funding for cleaner air spaces in communities with poor air quality",
+      "\u2022 Includes tribal agencies, expanding environmental support to underserved areas"
+    ],
+    "cons": [
+      "\u2022 Creates a new grant program that adds to federal spending",
+      "\u2022 Effectiveness depends on EPA administration and state-level implementation"
+    ]
+  },
+  "119/hr/567": {
+    "pros": [
+      "\u2022 Increases worker representation on workforce boards to 30 percent",
+      "\u2022 Gives labor a stronger voice in workforce development decisions"
+    ],
+    "cons": [
+      "\u2022 Reduces flexibility for states to determine board composition",
+      "\u2022 May shift influence away from employer and community representatives"
+    ]
+  },
+  "119/hr/559": {
+    "pros": [
+      "\u2022 Provides a new tax deduction specifically for seniors age 65 and older",
+      "\u2022 Helps older Americans manage living expenses on fixed incomes through 2029"
+    ],
+    "cons": [
+      "\u2022 Benefits seniors regardless of income, reducing progressivity of the tax code",
+      "\u2022 Adds complexity to the tax code with an age-based deduction"
+    ]
+  },
+  "119/hr/565": {
+    "pros": [
+      "\u2022 Ensures federal judicial officials in D.C. are part of the local community",
+      "\u2022 Aligns residency requirements with those for judges in other federal districts"
+    ],
+    "cons": [
+      "\u2022 May limit the pool of qualified candidates willing to serve as D.C. judges",
+      "\u2022 Could impose relocation costs on appointees who live outside the metro area"
+    ]
+  },
+  "119/hr/568": {
+    "pros": [
+      "\u2022 Provides federal grants to combat auto theft through the COPS Office",
+      "\u2022 Targets the growing problem of stolen automobile trafficking across jurisdictions"
+    ],
+    "cons": [
+      "\u2022 Creates a new grant program that increases federal spending",
+      "\u2022 States may become dependent on federal funding for local law enforcement"
+    ]
+  },
+  "119/hr/563": {
+    "pros": [
+      "\u2022 Reduces the recordkeeping burden on firearms dealers who go out of business",
+      "\u2022 Limits government retention of firearm transaction records"
+    ],
+    "cons": [
+      "\u2022 Could make it harder for law enforcement to trace crime guns",
+      "\u2022 May reduce accountability in the chain of firearm sales"
+    ]
+  },
+  "119/s/152": {
+    "pros": [
+      "\u2022 Expands 529 plan benefits to cover additional education-related expenses",
+      "\u2022 Provides more flexibility for families saving for educational costs"
+    ],
+    "cons": [
+      "\u2022 Reduces tax revenue by broadening the range of tax-free distributions",
+      "\u2022 Could increase the overall cost of the 529 program to the federal budget"
+    ]
+  },
+  "119/s/153": {
+    "pros": [
+      "\u2022 Would allow TikTok to continue operating freely in the United States",
+      "\u2022 Could preserve the platform for its millions of American users"
+    ],
+    "cons": [
+      "\u2022 National security concerns about data privacy and foreign influence remain",
+      "\u2022 Repealing the ban may set a precedent against future tech restrictions"
+    ]
+  },
+  "119/hr/578": {
+    "pros": [
+      "\u2022 Ensures detention of non-U.S. nationals charged with crimes while unlawfully present",
+      "\u2022 Enhances public safety by keeping potentially dangerous individuals in custody"
+    ],
+    "cons": [
+      "\u2022 Could increase detention costs without additional appropriations",
+      "\u2022 May lead to prolonged detention without conviction for charged individuals"
+    ]
+  },
+  "119/hr/577": {
+    "pros": [
+      "\u2022 Integrates housing and treatment services for homeless individuals",
+      "\u2022 Addresses the link between homelessness and mental health or substance use"
+    ],
+    "cons": [
+      "\u2022 Creates a new federal program that requires significant ongoing funding",
+      "\u2022 Implementation challenges could delay housing for those in need"
+    ]
+  },
+  "119/hr/570": {
+    "pros": [
+      "\u2022 Provides tax credit recognition for families who experience a stillbirth",
+      "\u2022 Offers financial support to grieving families during a difficult time"
+    ],
+    "cons": [
+      "\u2022 Could increase the federal deficit by expanding child tax credit eligibility",
+      "\u2022 Raises complex questions about qualifying criteria for stillbirths"
+    ]
+  },
+  "119/hr/594": {
+    "pros": [
+      "\u2022 Mandates removal proceedings for non-U.S. nationals who assault police officers",
+      "\u2022 Sends a strong deterrent message against attacks on law enforcement"
+    ],
+    "cons": [
+      "\u2022 May conflict with due process rights for individuals not yet convicted",
+      "\u2022 Could increase immigration detention costs without new funding"
+    ]
+  },
+  "119/hr/598": {
+    "pros": [
+      "\u2022 Reduces bureaucratic delays in forest and land management planning",
+      "\u2022 Eliminates redundant consultation requirements on federal land management plans"
+    ],
+    "cons": [
+      "\u2022 Could weaken environmental protections for forests and public lands",
+      "\u2022 May reduce opportunities for public input on land use decisions"
+    ]
+  },
+  "119/hjres/25": {
+    "pros": [
+      "\u2022 Prevents IRS from collecting detailed data on digital asset sales and transactions",
+      "\u2022 Reduces reporting burden for taxpayers who engage in cryptocurrency trades"
+    ],
+    "cons": [
+      "\u2022 May reduce tax compliance and make it harder to track crypto tax evasion",
+      "\u2022 Eliminates transparency rules for a rapidly growing asset class"
+    ]
+  },
+  "119/hres/112": {
+    "pros": [
+      "\u2022 Recognizes the important work of prosecutors in the justice system",
+      "\u2022 Raises public awareness about the role of prosecutors on National Prosecutors Day"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution that does not create any substantive policy change",
+      "\u2022 Could be seen as unnecessary given existing appreciation efforts for legal professionals"
+    ]
+  },
+  "119/hres/116": {
+    "pros": [
+      "\u2022 Affirms congressional disapproval of pardons for individuals who assaulted police",
+      "\u2022 Supports accountability for those convicted of attacking Capitol Police officers"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution that does not affect the validity of any pardon",
+      "\u2022 May be viewed as a political statement rather than actionable policy"
+    ]
+  },
+  "119/hres/110": {
+    "pros": [
+      "\u2022 Prevents distribution of Chinese Communist Party-controlled propaganda in Congress",
+      "\u2022 Protects House facilities from foreign state-controlled media influence"
+    ],
+    "cons": [
+      "\u2022 Could be seen as restricting press freedom and access to different viewpoints",
+      "\u2022 May complicate diplomatic relations with China"
+    ]
+  },
+  "119/hr/1033": {
+    "pros": [
+      "\u2022 Creates a federal program to address antisemitism on college campuses",
+      "\u2022 Holds institutions accountable for protecting Jewish students from discrimination"
+    ],
+    "cons": [
+      "\u2022 Could expand federal oversight into campus speech and disciplinary matters",
+      "\u2022 May impose new compliance burdens on colleges and universities"
+    ]
+  },
+  "119/hr/1014": {
+    "pros": [
+      "\u2022 Ensures periodic health assessments for service members include specific elements",
+      "\u2022 Helps identify health issues early for active duty military personnel"
+    ],
+    "cons": [
+      "\u2022 Adds new requirements to DOD health assessment procedures",
+      "\u2022 Could increase administrative and medical costs for the military"
+    ]
+  },
+  "119/hr/1006": {
+    "pros": [
+      "\u2022 Increases tax on large university endowments to fund other priorities",
+      "\u2022 Broadens the number of institutions subject to the endowment excise tax"
+    ],
+    "cons": [
+      "\u2022 Could reduce funds available for student financial aid and research",
+      "\u2022 May disadvantage U.S. universities competing with global institutions"
+    ]
+  },
+  "119/hr/1024": {
+    "pros": [
+      "\u2022 Normalizes trade relations with Kazakhstan and removes emigration restrictions",
+      "\u2022 Could boost bilateral economic ties and U.S. exports to Kazakhstan"
+    ],
+    "cons": [
+      "\u2022 Removes a human rights lever tied to freedom of emigration",
+      "\u2022 May set a precedent for normalizing trade with other former Soviet states"
+    ]
+  },
+  "119/hr/987": {
+    "pros": [
+      "\u2022 Protects lawful businesses from being denied banking services due to political views",
+      "\u2022 Prevents banks from discriminating against customers who comply with the law"
+    ],
+    "cons": [
+      "\u2022 Could limit banks' ability to manage reputational and regulatory risk",
+      "\u2022 May force financial institutions to serve high-risk or controversial industries"
+    ]
+  },
+  "119/hr/990": {
+    "pros": [
+      "\u2022 Likely provides tax relief or savings incentives given Ways and Means jurisdiction",
+      "\u2022 Could help Americans set aside funds for emergencies or retirement"
+    ],
+    "cons": [
+      "\u2022 Would reduce federal revenue if it creates new tax preferences",
+      "\u2022 Details are unclear given the bill has only a generic acronym title"
+    ]
+  },
+  "119/hr/1023": {
+    "pros": [
+      "\u2022 Increases transparency about university investments in foreign adversaries",
+      "\u2022 Helps identify potential conflicts of interest in academic research funding"
+    ],
+    "cons": [
+      "\u2022 Imposes new reporting burdens on private colleges and universities",
+      "\u2022 Could discourage legitimate international academic partnerships"
+    ]
+  },
+  "119/hr/1019": {
+    "pros": [
+      "\u2022 Strengthens state oversight of prescription drug coverage in Medicaid and CHIP",
+      "\u2022 Helps prevent fraud and improper payments in drug benefit programs"
+    ],
+    "cons": [
+      "\u2022 Adds administrative requirements for state Medicaid agencies",
+      "\u2022 Could delay access to needed medications for beneficiaries"
+    ]
+  },
+  "119/hres/111": {
+    "pros": [
+      "\u2022 Supports U.S. leadership in blockchain technology and digital assets",
+      "\u2022 Encourages innovation and economic growth in the crypto sector"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution that does not create regulatory clarity",
+      "\u2022 Could be interpreted as endorsing a volatile and speculative asset class"
+    ]
+  },
+  "119/hr/1037": {
+    "pros": [
+      "\u2022 Helps states verify immigration status of individuals on voter rolls",
+      "\u2022 Provides a 15-day federal response deadline to support election integrity"
+    ],
+    "cons": [
+      "\u2022 Could burden DHS with a large volume of data requests from states",
+      "\u2022 May lead to voter purges based on incomplete or outdated federal data"
+    ]
+  },
+  "119/hr/1016": {
+    "pros": [
+      "\u2022 Restricts access to single-sex facilities on federal property by biological sex",
+      "\u2022 Addresses privacy concerns for women and girls in federal facilities"
+    ],
+    "cons": [
+      "\u2022 Could discriminate against transgender individuals using federal facilities",
+      "\u2022 May lead to legal challenges over equal access and privacy rights"
+    ]
+  },
+  "119/hjres/36": {
+    "pros": [
+      "\u2022 Blocks a Forest Service rule that Congress finds problematic",
+      "\u2022 Reasserts congressional oversight over federal agency rulemaking"
+    ],
+    "cons": [
+      "\u2022 Could weaken law enforcement capabilities on federal forest lands",
+      "\u2022 May set a precedent for overturning agency rules without replacement"
+    ]
+  },
+  "119/hres/114": {
+    "pros": [
+      "\u2022 Demands transparency from DHS on domestic preparedness and cybersecurity policies",
+      "\u2022 Helps Congress exercise oversight over homeland security programs"
+    ],
+    "cons": [
+      "\u2022 Could force disclosure of sensitive security protocols and procedures",
+      "\u2022 May create tension between congressional oversight and executive branch discretion"
+    ]
+  },
+  "119/hr/1030": {
+    "pros": [
+      "\u2022 Provides remembrance and support related to Flight 293 and its victims",
+      "\u2022 Ensures proper recognition through the veterans affairs committee process"
+    ],
+    "cons": [
+      "\u2022 Lacks a summary making the specific policy provisions unclear",
+      "\u2022 May duplicate existing memorial or benefits programs for aviation incidents"
+    ]
+  },
+  "119/hr/1001": {
+    "pros": [
+      "\u2022 Addresses water management challenges in the Upper Colorado River Basin",
+      "\u2022 Coordinates federal agencies to mitigate impacts of water allocation decisions"
+    ],
+    "cons": [
+      "\u2022 Could impose new restrictions on water usage in affected states",
+      "\u2022 May not adequately address long-term drought conditions in the basin"
+    ]
+  },
+  "119/hr/984": {
+    "pros": [
+      "\u2022 Ensures veterans receive timely compensation for VA administrative errors",
+      "\u2022 Provides a clear process for equitable relief from government mistakes"
+    ],
+    "cons": [
+      "\u2022 Could increase VA administrative costs and claims processing burdens",
+      "\u2022 May open the door to more claims from veterans seeking compensation"
+    ]
+  },
+  "119/hr/1028": {
+    "pros": [
+      "\u2022 Protects women's sports by restricting male participation in female categories",
+      "\u2022 Sets uniform standards for national governing bodies in amateur athletics"
+    ],
+    "cons": [
+      "\u2022 Could discriminate against transgender athletes in amateur sports",
+      "\u2022 May conflict with existing athletic association policies and guidelines"
+    ]
+  },
+  "119/hr/1922": {
+    "pros": [
+      "\u2022 Exempts certain brand-name drugs from Medicare Part D discount program requirements",
+      "\u2022 Could help maintain access to specific medications for Medicare beneficiaries"
+    ],
+    "cons": [
+      "\u2022 May increase Medicare Part D costs by removing manufacturer discounts",
+      "\u2022 Benefits pharmaceutical companies rather than patients directly"
+    ]
+  },
+  "119/hr/1894": {
+    "pros": [
+      "\u2022 Likely addresses fisheries management or marine conservation given committee jurisdiction",
+      "\u2022 Could improve sustainability of fish stocks and fishing industry regulations"
+    ],
+    "cons": [
+      "\u2022 Lacks a published summary making specific policy changes unclear",
+      "\u2022 May impose new regulations on commercial and recreational fishing"
+    ]
+  },
+  "119/hres/199": {
+    "pros": [
+      "\u2022 Critiques foreign aid programs that the resolution views as wasteful",
+      "\u2022 Calls for redirecting aid to programs with clearer national interest benefits"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution that does not change foreign aid spending",
+      "\u2022 The term woke is politically charged and lacks a clear definition"
+    ]
+  },
+  "119/hr/1896": {
+    "pros": [
+      "\u2022 Promotes use of renewable fuels for ocean-going vessels to reduce emissions",
+      "\u2022 Could support American biofuel producers with a new market for their products"
+    ],
+    "cons": [
+      "\u2022 May increase shipping costs if renewable fuels are more expensive than conventional",
+      "\u2022 The lack of a published summary makes specific provisions uncertain"
+    ]
+  },
+  "119/hr/1927": {
+    "pros": [
+      "\u2022 Mandates detention of unlawfully present individuals charged with crimes",
+      "\u2022 Enhances coordination between law enforcement and immigration authorities"
+    ],
+    "cons": [
+      "\u2022 Could significantly increase immigration detention costs",
+      "\u2022 May detain individuals who are later found not guilty of the charged crime"
+    ]
+  },
+  "119/hr/1961": {
+    "pros": [
+      "\u2022 Likely addresses healthcare affordability or access given Energy and Commerce jurisdiction",
+      "\u2022 Could support caregivers or patients with specific medical needs"
+    ],
+    "cons": [
+      "\u2022 Lacks a published summary making specific policy changes unclear",
+      "\u2022 May create new federal spending without identified offsets"
+    ]
+  },
+  "119/hr/1895": {
+    "pros": [
+      "\u2022 Restores pension benefits for retired Delphi workers who lost them in bankruptcy",
+      "\u2022 Addresses a long-standing fairness issue for automotive industry retirees"
+    ],
+    "cons": [
+      "\u2022 Could set a precedent for federal intervention in private pension losses",
+      "\u2022 Would require federal funds to restore benefits that were legally terminated"
+    ]
+  },
+  "119/hr/1944": {
+    "pros": [
+      "\u2022 Caps credit card interest rates at 10 percent, significantly reducing consumer costs",
+      "\u2022 Protects borrowers from high-interest debt and predatory lending practices"
+    ],
+    "cons": [
+      "\u2022 Could lead to reduced credit availability for higher-risk borrowers",
+      "\u2022 May cause credit card companies to increase fees or reduce rewards programs"
+    ]
+  },
+  "119/hres/201": {
+    "pros": [
+      "\u2022 Allows the House to enforce disciplinary standards for committee assignments",
+      "\u2022 Provides a mechanism to hold members accountable for conduct"
+    ],
+    "cons": [
+      "\u2022 Could be used for partisan purposes to remove political opponents",
+      "\u2022 May disrupt committee work and legislative productivity"
+    ]
+  },
+  "119/hr/1903": {
+    "pros": [
+      "\u2022 Requires congressional approval for presidential tariff adjustments on national security grounds",
+      "\u2022 Restores congressional authority over trade policy and import restrictions"
+    ],
+    "cons": [
+      "\u2022 Could slow the executive branch response to genuine national security threats",
+      "\u2022 May limit the President's flexibility in trade negotiations with foreign nations"
+    ]
+  },
+  "118/hr/0": {
+    "pros": [
+      "\u2022 Procedural placeholder needed to index bill slots in Congress",
+      "\u2022 Allows orderly numbering of legislative workflow"
+    ],
+    "cons": [
+      "\u2022 Has no actual legislative content or policy impact",
+      "\u2022 Wastes taxpayer resources on an empty bill entry"
+    ]
+  },
+  "118/hres/1423": {
+    "pros": [
+      "\u2022 Recognizes the importance of Israel as a US ally",
+      "\u2022 Promotes cultural awareness of Nation of Israel Week"
+    ],
+    "cons": [
+      "\u2022 Purely symbolic resolution with no binding effect",
+      "\u2022 Summary incorrectly references National Estuaries Week"
+    ]
+  },
+  "118/hr/9452": {
+    "pros": [
+      "\u2022 Protects homebuyers from predatory real estate practices",
+      "\u2022 Strengthens consumer rights in property transactions"
+    ],
+    "cons": [
+      "\u2022 May increase compliance costs for real estate professionals",
+      "\u2022 Could slow down closing processes with new red tape"
+    ]
+  },
+  "118/hr/8972": {
+    "pros": [
+      "\u2022 Enhances safety standards for baby products",
+      "\u2022 Protects infants from defective or dangerous goods"
+    ],
+    "cons": [
+      "\u2022 May increase costs passed on to parents",
+      "\u2022 Could create regulatory burden on small manufacturers"
+    ]
+  },
+  "118/hr/6642": {
+    "pros": [
+      "\u2022 Provides grants to support community development projects",
+      "\u2022 Targets federal funding to high-need areas"
+    ],
+    "cons": [
+      "\u2022 Adds to federal spending without clear oversight",
+      "\u2022 Grant eligibility criteria may exclude worthy applicants"
+    ]
+  },
+  "118/hr/5930": {
+    "pros": [
+      "\u2022 Increases accountability in federal rulemaking processes",
+      "\u2022 Reduces burdensome agency overregulation"
+    ],
+    "cons": [
+      "\u2022 Could delay important public health and safety rules",
+      "\u2022 May hamper agencies' ability to respond to emergencies"
+    ]
+  },
+  "118/hr/5773": {
+    "pros": [
+      "\u2022 Strengthens vaccine safety monitoring for consumers",
+      "\u2022 Increases transparency around adverse event reporting"
+    ],
+    "cons": [
+      "\u2022 May erode public confidence in established vaccination programs",
+      "\u2022 Could duplicate existing FDA and CDC safety systems"
+    ]
+  },
+  "118/hr/5659": {
+    "pros": [
+      "\u2022 Prevents US taxpayer funds from aiding adversarial nations",
+      "\u2022 Protects national security and intellectual property"
+    ],
+    "cons": [
+      "\u2022 Could hinder international scientific collaboration",
+      "\u2022 May slow critical global research partnerships"
+    ]
+  },
+  "118/hr/5575": {
+    "pros": [
+      "\u2022 Ensures safe manufacturing of essential medicines",
+      "\u2022 Addresses domestic supply chain vulnerabilities"
+    ],
+    "cons": [
+      "\u2022 May increase drug manufacturing costs for consumers",
+      "\u2022 Could impose burdensome mandates on pharmaceutical companies"
+    ]
+  },
+  "118/hres/688": {
+    "pros": [
+      "\u2022 Supports diplomatic recognition of Israel as Nation of Israel",
+      "\u2022 Encourages interfaith and cultural education about Israel"
+    ],
+    "cons": [
+      "\u2022 Purely symbolic resolution with no binding force",
+      "\u2022 Summary incorrectly references National Estuaries Week"
+    ]
+  },
+  "118/hr/5197": {
+    "pros": [
+      "\u2022 Ensures veterans receive proper memorial headstones",
+      "\u2022 Covers both marked and unmarked graves equally"
+    ],
+    "cons": [
+      "\u2022 Increases VA administrative costs and workload",
+      "\u2022 May expand scope beyond originally intended beneficiaries"
+    ]
+  },
+  "118/hr/5156": {
+    "pros": [
+      "\u2022 Provides first responders with necessary emergency equipment",
+      "\u2022 Exempts certain engines from burdensome EPA regulations"
+    ],
+    "cons": [
+      "\u2022 May weaken environmental protections around engine emissions",
+      "\u2022 Broad exemption language could allow regulatory loopholes"
+    ]
+  },
+  "118/hres/573": {
+    "pros": [
+      "\u2022 Celebrates the cultural heritage of classic car restoration",
+      "\u2022 Supports hobbyists and small auto restoration businesses"
+    ],
+    "cons": [
+      "\u2022 Purely symbolic resolution with no practical legislative effect",
+      "\u2022 Addresses niche interest rather than pressing national issues"
+    ]
+  },
+  "118/hres/451": {
+    "pros": [
+      "\u2022 Highlights importance of rural news and farming information",
+      "\u2022 Supports media access for underserved agricultural communities"
+    ],
+    "cons": [
+      "\u2022 Purely symbolic with no funding or binding measures",
+      "\u2022 Does not address underlying decline of local journalism"
+    ]
+  },
+  "118/hr/3257": {
+    "pros": [
+      "\u2022 Ensures election systems use transparent, auditable hardware",
+      "\u2022 Reduces risk of proprietary interference in vote counting"
+    ],
+    "cons": [
+      "\u2022 May force expensive upgrades on local election offices",
+      "\u2022 Could limit access to proven, secure voting technologies"
+    ]
+  },
+  "118/hres/426": {
+    "pros": [
+      "\u2022 Holds the president accountable for alleged misconduct",
+      "\u2022 Exercises Congress's constitutional oversight authority"
+    ],
+    "cons": [
+      "\u2022 Highly partisan action unlikely to pass the Senate",
+      "\u2022 Diverts attention from bipartisan legislative priorities"
+    ]
+  },
+  "118/hr/3066": {
+    "pros": [
+      "\u2022 Evaluates US pandemic response to improve future readiness",
+      "\u2022 Provides structured analysis of COVID-19 lessons learned"
+    ],
+    "cons": [
+      "\u2022 Creates another federal commission with uncertain impact",
+      "\u2022 May duplicate existing oversight and GAO investigations"
+    ]
+  },
+  "118/hjres/39": {
+    "pros": [
+      "\u2022 Restores legislative oversight over executive trade policy",
+      "\u2022 Protects domestic industries affected by tariff exemptions"
+    ],
+    "cons": [
+      "\u2022 Disrupts established Commerce Department trade processes",
+      "\u2022 Could escalate trade tensions with affected countries"
+    ]
+  },
+  "118/hr/2571": {
+    "pros": [
+      "\u2022 Provides tax incentives for bringing manufacturing back to US",
+      "\u2022 Creates American jobs and strengthens domestic supply chains"
+    ],
+    "cons": [
+      "\u2022 $25M tax credit adds to federal deficit without revenue offsets",
+      "\u2022 May benefit large corporations over small reshoring efforts"
+    ]
+  },
+  "118/hr/2517": {
+    "pros": [
+      "\u2022 Deters corruption by linking pensions to ethical conduct",
+      "\u2022 Prevents former lawmakers from profiting off foreign lobbying"
+    ],
+    "cons": [
+      "\u2022 May face constitutional challenges regarding pension rights",
+      "\u2022 Narrow scope does not address domestic lobbying loopholes"
+    ]
   }
 }
