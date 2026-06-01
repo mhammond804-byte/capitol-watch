@@ -6614,12 +6614,12 @@
   },
   "118/hres/1423": {
     "pros": [
-      "\u2022 Recognizes the importance of Israel as a US ally",
+      "\u2022 Recognizes the importance of the US-Israel alliance",
       "\u2022 Promotes cultural awareness of Nation of Israel Week"
     ],
     "cons": [
       "\u2022 Purely symbolic resolution with no binding effect",
-      "\u2022 Summary incorrectly references National Estuaries Week"
+      "\u2022 Does not address specific policy issues in US-Israel relations"
     ]
   },
   "118/hr/9452": {
@@ -6694,12 +6694,12 @@
   },
   "118/hres/688": {
     "pros": [
-      "\u2022 Supports diplomatic recognition of Israel as Nation of Israel",
+      "\u2022 Supports diplomatic recognition of Israel as a key US ally",
       "\u2022 Encourages interfaith and cultural education about Israel"
     ],
     "cons": [
       "\u2022 Purely symbolic resolution with no binding force",
-      "\u2022 Summary incorrectly references National Estuaries Week"
+      "\u2022 Does not address specific policy issues in US-Israel relations"
     ]
   },
   "118/hr/5197": {
@@ -6800,6 +6800,4856 @@
     "cons": [
       "\u2022 May face constitutional challenges regarding pension rights",
       "\u2022 Narrow scope does not address domestic lobbying loopholes"
+    ]
+  },
+  "119/hr/0": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/9017": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8812": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8371": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could strain resources and separate families unnecessarily",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8328": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May reduce consumer protections in financial markets",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6025": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May reduce consumer protections in financial markets",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5177": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4922": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May disproportionately impact marginalized communities",
+      "Limits state and local flexibility in policy implementation"
+    ]
+  },
+  "119/hr/4494": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could weaken important regulatory protections for the public",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2835": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could weaken important regulatory protections for the public",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3667": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Raises environmental concerns about pollution and waste",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3626": {
+    "pros": [
+      "Advances energy innovation and environmental stewardship",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Raises environmental concerns about pollution and waste",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3433": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2544": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Gives flexibility to adapt to local circumstances"
+    ],
+    "cons": [
+      "May reduce consumer protections in financial markets",
+      "Limits state and local flexibility in policy implementation"
+    ]
+  },
+  "119/hr/2422": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2291": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2182": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2112": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8983": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8855": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1197": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1160": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8058": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7838": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7551": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7369": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1031": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7113": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1006": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6882": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6692": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6492": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/695": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5279": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5244": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5117": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4236": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8458": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1046": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Gives flexibility to adapt to local circumstances"
+    ],
+    "cons": [
+      "Could strain resources and separate families unnecessarily",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7299": {
+    "pros": [
+      "Directly benefits Florida communities and ecosystems",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6699": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6479": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5161": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5012": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/514": {
+    "pros": [
+      "Directly benefits Florida communities and ecosystems",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3524": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3310": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2580": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1348": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/900": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/704": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8871": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8293": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7681": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7569": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6708": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5873": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5872": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5871": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5455": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4755": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4311": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4093": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3057": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2925": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2667": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2030": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/178": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1654": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8407": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8199": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7734": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7464": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5908": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3185": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2770": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2297": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/215": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1466": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1192": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/933": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/727": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8851": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4091": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3343": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Limits state and local flexibility in policy implementation"
+    ]
+  },
+  "119/hr/8369": {
+    "pros": [
+      "Invests in education and future workforce development",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Risk of underfunding public education systems",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8260": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8214": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could weaken important regulatory protections for the public",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8042": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7899": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7820": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6564": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/829": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5676": {
+    "pros": [
+      "Supports job creation and economic growth",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5110": {
+    "pros": [
+      "Helps communities recover and build resilience",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May create moral hazard by subsidizing risky development",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4586": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3752": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3489": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could weaken important regulatory protections for the public",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2927": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could weaken important regulatory protections for the public",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2826": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2494": {
+    "pros": [
+      "Helps communities recover and build resilience",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May create moral hazard by subsidizing risky development",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/185": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1597": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/sres/749": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4581": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4601": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4586": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/sres/738": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4564": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4565": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4524": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4508": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/sres/717": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4432": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/sres/696": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4424": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases military spending at expense of domestic programs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4423": {
+    "pros": [
+      "Invests in education and future workforce development",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/sres/682": {
+    "pros": [
+      "Toughens penalties to deter crime and protect communities",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4296": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Expands federal reach into areas better left to the states"
+    ]
+  },
+  "119/s/4295": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4229": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/s/4231": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Risk of underfunding public education systems",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8784": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8603": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8367": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8001": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1124": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7422": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6253": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5813": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/685": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4783": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/611": {
+    "pros": [
+      "Invests in education and future workforce development",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4314": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/500": {
+    "pros": [
+      "Toughens penalties to deter crime and protect communities",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3864": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3209": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8701": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8702": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8419": {
+    "pros": [
+      "Directly benefits Florida communities and ecosystems",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8321": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7674": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6885": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6660": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6274": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could lead to higher premiums for some policyholders",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5780": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/802": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Limits state and local flexibility in policy implementation"
+    ]
+  },
+  "119/hr/5204": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4461": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4240": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4143": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3727": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3251": {
+    "pros": [
+      "Helps communities recover and build resilience",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3252": {
+    "pros": [
+      "Helps communities recover and build resilience",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May create moral hazard by subsidizing risky development",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2308": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1334": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1335": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/9039": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8915": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7777": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6892": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6763": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6540": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hconres/58": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5556": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5246": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4393": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4202": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2794": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2343": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2080": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1268": {
+    "pros": [
+      "Protects Florida's natural resources and waterways",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/633": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/450": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8842": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6068": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5699": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Raises privacy concerns with expanded data collection",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2577": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Risk of underfunding public education systems",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2094": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1773": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Expands federal reach into areas better left to the states"
+    ]
+  },
+  "119/hr/1551": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/470": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Limits state and local flexibility in policy implementation"
+    ]
+  },
+  "119/hr/8890": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8500": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8032": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7386": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7175": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6994": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/959": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6257": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5178": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Gives flexibility to adapt to local circumstances"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4030": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3960": {
+    "pros": [
+      "Helps communities recover and build resilience",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3855": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3759": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "Could weaken important regulatory protections for the public",
+      "Limits state and local flexibility in policy implementation"
+    ]
+  },
+  "119/hr/3277": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3142": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2836": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "Could weaken important regulatory protections for the public",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2677": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2115": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2114": {
+    "pros": [
+      "\u2022 Prevents exploitation of vulnerable organ donors in China",
+      "\u2022 Strengthens national security by restricting unethical medical trade"
+    ],
+    "cons": [
+      "\u2022 Could reduce availability of transplant organs for U.S. patients",
+      "\u2022 May strain diplomatic relations with China over health policy"
+    ]
+  },
+  "119/hr/1843": {
+    "pros": [
+      "\u2022 Increases price competition by improving generic drug access",
+      "\u2022 Reduces healthcare costs for patients and insurers"
+    ],
+    "cons": [
+      "\u2022 May add regulatory burdens on generic drug manufacturers",
+      "\u2022 Could slow generic drug approvals with new requirements"
+    ]
+  },
+  "119/hr/8813": {
+    "pros": [
+      "\u2022 Provides support for survivors from faith communities",
+      "\u2022 Addresses a historically underserved group of victims"
+    ],
+    "cons": [
+      "\u2022 Could face legal challenges from religious liberty advocates",
+      "\u2022 May duplicate existing survivor support programs"
+    ]
+  },
+  "119/hconres/81": {
+    "pros": [
+      "\u2022 Highlights persistent gender wage gap issues",
+      "\u2022 Raises awareness for pay equity legislation"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution with no enforcement mechanism",
+      "\u2022 Does not address specific policy changes needed"
+    ]
+  },
+  "119/hres/1087": {
+    "pros": [
+      "\u2022 Supports proven public health intervention for oral health",
+      "\u2022 Promotes evidence-based preventive dental care"
+    ],
+    "cons": [
+      "\u2022 Some communities oppose mandatory water fluoridation",
+      "\u2022 May conflict with local control over water treatment"
+    ]
+  },
+  "119/hr/6857": {
+    "pros": [
+      "\u2022 Enhances safety measures for college students",
+      "\u2022 Addresses growing concerns about campus security"
+    ],
+    "cons": [
+      "\u2022 May impose unfunded mandates on educational institutions",
+      "\u2022 Could increase administrative bureaucracy on campuses"
+    ]
+  },
+  "119/hr/6358": {
+    "pros": [
+      "\u2022 Expands educational opportunities for military veterans",
+      "\u2022 Helps veterans transition to civilian careers"
+    ],
+    "cons": [
+      "\u2022 May increase federal spending on education benefits",
+      "\u2022 Potential for duplication with existing VA programs"
+    ]
+  },
+  "119/hconres/60": {
+    "pros": [
+      "\u2022 Raises awareness about young unpaid caregivers",
+      "\u2022 Highlights need for support services for caregiving youth"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution without direct funding or programs",
+      "\u2022 May overlap with existing caregiver awareness initiatives"
+    ]
+  },
+  "119/hr/5575": {
+    "pros": [
+      "\u2022 Streamlines bureaucratic processes for faster outcomes",
+      "\u2022 Reduces delays in government service delivery"
+    ],
+    "cons": [
+      "\u2022 May sacrifice thoroughness for speed in decision-making",
+      "\u2022 Could lack sufficient oversight mechanisms"
+    ]
+  },
+  "119/hconres/52": {
+    "pros": [
+      "\u2022 Addresses a major health risk for aging populations",
+      "\u2022 Promotes cost-effective fall prevention strategies"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution without dedicated funding",
+      "\u2022 May duplicate existing CDC fall prevention programs"
+    ]
+  },
+  "119/hr/4977": {
+    "pros": [
+      "\u2022 Improves maternal health monitoring through telehealth",
+      "\u2022 Reduces maternal mortality with better remote care"
+    ],
+    "cons": [
+      "\u2022 May require broadband access not available in rural areas",
+      "\u2022 Raises privacy concerns about remote health monitoring"
+    ]
+  },
+  "119/hconres/21": {
+    "pros": [
+      "\u2022 Highlights persistent gender wage gap issues",
+      "\u2022 Raises awareness for pay equity legislation"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution with no enforcement mechanism",
+      "\u2022 Does not address specific policy changes needed"
+    ]
+  },
+  "119/hr/1306": {
+    "pros": [
+      "\u2022 Reduces tax burden on survivors of tragedy",
+      "\u2022 Provides financial relief to grieving families"
+    ],
+    "cons": [
+      "\u2022 Could reduce federal tax revenue",
+      "\u2022 May create complex eligibility determination rules"
+    ]
+  },
+  "119/hr/764": {
+    "pros": [
+      "\u2022 Supports global health initiatives and women's rights",
+      "\u2022 Strengthens U.S. leadership in international health"
+    ],
+    "cons": [
+      "\u2022 May fund organizations with controversial practices",
+      "\u2022 Increases foreign aid spending without matching cuts"
+    ]
+  },
+  "119/hres/1203": {
+    "pros": [
+      "\u2022 Honors important historical and cultural heritage",
+      "\u2022 Strengthens U.S.-Greece diplomatic ties"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution with no legislative impact",
+      "\u2022 Uses congressional time on ceremonial matters"
+    ]
+  },
+  "119/hres/1143": {
+    "pros": [
+      "\u2022 Honors important historical and cultural heritage",
+      "\u2022 Strengthens U.S.-Greece diplomatic ties"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution with no legislative impact",
+      "\u2022 Uses congressional time on ceremonial matters"
+    ]
+  },
+  "119/hr/8095": {
+    "pros": [
+      "\u2022 Ensures health coverage continuity for vulnerable children",
+      "\u2022 Prevents gaps in care during foster care transitions"
+    ],
+    "cons": [
+      "\u2022 Increases federal Medicaid costs",
+      "\u2022 May create administrative complexity across state systems"
+    ]
+  },
+  "119/hr/8000": {
+    "pros": [
+      "\u2022 Targets a potentially dangerous unregulated substance",
+      "\u2022 Protects consumers from harmful synthetic compounds"
+    ],
+    "cons": [
+      "\u2022 Could restrict access to substances used for pain relief",
+      "\u2022 May overreach into adult substance choice decisions"
+    ]
+  },
+  "119/hr/7863": {
+    "pros": [
+      "\u2022 Improves reimbursement fairness for Medicare providers",
+      "\u2022 Ensures continued access to care for Medicare patients"
+    ],
+    "cons": [
+      "\u2022 May increase overall Medicare program costs",
+      "\u2022 Could benefit providers more than patients"
+    ]
+  },
+  "119/hr/7027": {
+    "pros": [
+      "\u2022 Restores promised benefits for injured veterans",
+      "\u2022 Honors commitments to those who served in military"
+    ],
+    "cons": [
+      "\u2022 Increases long-term federal budget obligations",
+      "\u2022 May require offsetting cuts elsewhere in VA budget"
+    ]
+  },
+  "119/hr/6840": {
+    "pros": [
+      "\u2022 Strengthens security partnership with Armenia",
+      "\u2022 Supports stability in the South Caucasus region"
+    ],
+    "cons": [
+      "\u2022 May strain relations with Turkey and Azerbaijan",
+      "\u2022 Could increase U.S. military commitments abroad"
+    ]
+  },
+  "119/hr/6484": {
+    "pros": [
+      "\u2022 Protects children from harmful online content",
+      "\u2022 Holds social media platforms accountable for safety"
+    ],
+    "cons": [
+      "\u2022 May raise First Amendment free speech concerns",
+      "\u2022 Could require invasive age verification systems"
+    ]
+  },
+  "119/hr/6128": {
+    "pros": [
+      "\u2022 Boosts U.S. tourism and hospitality industry",
+      "\u2022 Creates jobs through increased international visitors"
+    ],
+    "cons": [
+      "\u2022 May relax security standards for visa processing",
+      "\u2022 Could increase strain on national park infrastructure"
+    ]
+  },
+  "119/hr/4837": {
+    "pros": [
+      "\u2022 Strengthens patient autonomy and medical transparency",
+      "\u2022 Ensures fully informed medical decision-making"
+    ],
+    "cons": [
+      "\u2022 Adds administrative paperwork to healthcare delivery",
+      "\u2022 Could delay time-sensitive medical procedures"
+    ]
+  },
+  "119/hr/4312": {
+    "pros": [
+      "\u2022 Promotes accountability through standardized metrics",
+      "\u2022 Encourages data-driven policy evaluation"
+    ],
+    "cons": [
+      "\u2022 Metrics may not capture nuanced program outcomes",
+      "\u2022 Could create perverse incentives to game the system"
+    ]
+  },
+  "119/hr/4056": {
+    "pros": [
+      "\u2022 Accelerates project approvals and infrastructure work",
+      "\u2022 Reduces regulatory delays for critical projects"
+    ],
+    "cons": [
+      "\u2022 May weaken environmental review protections",
+      "\u2022 Could reduce community input in project planning"
+    ]
+  },
+  "119/hres/507": {
+    "pros": [
+      "\u2022 Raises awareness about a rare kidney disease",
+      "\u2022 Supports research funding for FSGS treatments"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution without funding commitments",
+      "\u2022 May draw attention from more prevalent health issues"
+    ]
+  },
+  "119/hr/3577": {
+    "pros": [
+      "\u2022 Restricts unethical cell-based research practices",
+      "\u2022 Protects human dignity in biomedical research"
+    ],
+    "cons": [
+      "\u2022 Could hinder legitimate stem cell research",
+      "\u2022 May slow medical advances for degenerative diseases"
+    ]
+  },
+  "119/hr/2817": {
+    "pros": [
+      "\u2022 Expands internet access to underserved coastal areas",
+      "\u2022 Supports economic development in coastal communities"
+    ],
+    "cons": [
+      "\u2022 May duplicate existing federal broadband programs",
+      "\u2022 Could be costly to deploy in remote coastal regions"
+    ]
+  },
+  "119/hr/2757": {
+    "pros": [
+      "\u2022 Improves Medicare coverage for audiology services",
+      "\u2022 Reduces out-of-pocket costs for hearing care"
+    ],
+    "cons": [
+      "\u2022 Increases Medicare spending on hearing services",
+      "\u2022 May not address underlying hearing aid cost issues"
+    ]
+  },
+  "119/hr/2589": {
+    "pros": [
+      "\u2022 Ensures ethical standards in tissue and organ donation",
+      "\u2022 Prevents exploitation in biomedical research"
+    ],
+    "cons": [
+      "\u2022 May create regulatory hurdles for legitimate research",
+      "\u2022 Could reduce availability of donated biological materials"
+    ]
+  },
+  "119/hres/249": {
+    "pros": [
+      "\u2022 Honors important historical and cultural heritage",
+      "\u2022 Strengthens U.S.-Greece diplomatic ties"
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution with no legislative impact",
+      "\u2022 Uses congressional time on ceremonial matters"
+    ]
+  },
+  "119/hr/2102": {
+    "pros": [
+      "\u2022 Provides retirement pay for medically retired veterans",
+      "\u2022 Corrects inequity in concurrent receipt of benefits"
+    ],
+    "cons": [
+      "\u2022 Increases federal costs for military retirement",
+      "\u2022 May require budget offsets from other programs"
+    ]
+  },
+  "119/hr/1518": {
+    "pros": [
+      "\u2022 Invests in early detection of kidney disease",
+      "\u2022 Reduces long-term dialysis costs through prevention"
+    ],
+    "cons": [
+      "\u2022 May require significant upfront federal funding",
+      "\u2022 Could face implementation challenges at the state level"
+    ]
+  },
+  "119/hr/9009": {
+    "pros": [
+      "\u2022 Expands Second Amendment rights for gun owners",
+      "\u2022 Removes outdated restriction on civilian firearm ownership"
+    ],
+    "cons": [
+      "\u2022 Could increase availability of fully automatic weapons",
+      "\u2022 Raises serious public safety concerns"
+    ]
+  },
+  "119/hr/8737": {
+    "pros": [
+      "\u2022 Provides support services for veterans and families",
+      "\u2022 Addresses mental health needs of service members"
+    ],
+    "cons": [
+      "\u2022 May duplicate existing VA mental health programs",
+      "\u2022 Could require sustained funding beyond initial rollout"
+    ]
+  },
+  "119/hr/8554": {
+    "pros": [
+      "\u2022 Improves infrastructure near military installations",
+      "\u2022 Supports communities that host defense facilities"
+    ],
+    "cons": [
+      "\u2022 May favor military communities over civilian needs",
+      "\u2022 Could increase federal spending on local projects"
+    ]
+  },
+  "119/hr/7393": {
+    "pros": [
+      "\u2022 Encourages savings and financial literacy programs",
+      "\u2022 Helps low-income families build financial assets"
+    ],
+    "cons": [
+      "\u2022 May require matching funds that strain state budgets",
+      "\u2022 Could have limited impact without broader economic reform"
+    ]
+  },
+  "119/hr/7045": {
+    "pros": [
+      "\u2022 Strengthens protections for vulnerable populations",
+      "\u2022 Enhances federal enforcement of safety standards"
+    ],
+    "cons": [
+      "\u2022 Could expand federal authority over state matters",
+      "\u2022 May impose new compliance costs on covered entities"
+    ]
+  },
+  "119/hr/7001": {
+    "pros": [
+      "\u2022 Provides skills training and employment opportunities",
+      "\u2022 Helps individuals achieve economic self-sufficiency"
+    ],
+    "cons": [
+      "\u2022 May duplicate existing workforce development programs",
+      "\u2022 Could have high administrative costs relative to outcomes"
+    ]
+  },
+  "119/hres/934": {
+    "pros": [
+      "\u2022 Strengthens protections for vulnerable populations",
+      "\u2022 Enhances federal enforcement of safety standards"
+    ],
+    "cons": [
+      "\u2022 Could expand federal authority over state matters",
+      "\u2022 May impose new compliance costs on covered entities"
+    ]
+  },
+  "119/hr/5886": {
+    "pros": [
+      "\u2022 Supports transition programs for military veterans",
+      "\u2022 Provides career pathways for post-service employment"
+    ],
+    "cons": [
+      "\u2022 May overlap with existing veteran employment programs",
+      "\u2022 Could require significant administrative infrastructure"
+    ]
+  },
+  "119/hres/727": {
+    "pros": [
+      "\u2022 Honors an influential conservative activist",
+      "\u2022 Recognizes contributions of political commentators"
+    ],
+    "cons": [
+      "\u2022 Designating days for political figures is divisive",
+      "\u2022 Non-binding resolution with no substantive policy impact"
+    ]
+  },
+  "119/hr/5095": {
+    "pros": [
+      "\u2022 Supports military families during deployments",
+      "\u2022 Provides resources for family readiness programs"
+    ],
+    "cons": [
+      "\u2022 May duplicate existing family support services at DoD",
+      "\u2022 Could create new unfunded federal programs"
+    ]
+  },
+  "119/hr/5035": {
+    "pros": [
+      "\u2022 Reduces licensing barriers for military families relocating",
+      "\u2022 Helps veterans and spouses find jobs faster after moves"
+    ],
+    "cons": [
+      "\u2022 May override state professional licensing standards",
+      "\u2022 Could raise concerns about professional competency"
+    ]
+  },
+  "119/hr/5029": {
+    "pros": [
+      "\u2022 Supports naval aviation and recruitment efforts",
+      "\u2022 Promotes American military excellence and patriotism"
+    ],
+    "cons": [
+      "\u2022 Funding for demonstration teams may divert from readiness",
+      "\u2022 Non-essential military spending in tight budget times"
+    ]
+  },
+  "119/hr/4873": {
+    "pros": [
+      "\u2022 Prevents ideological bias in federal AI systems",
+      "\u2022 Ensures AI neutrality in government applications"
+    ],
+    "cons": [
+      "\u2022 Codifying executive orders reduces future flexibility",
+      "\u2022 Definition of 'woke AI' is vague and subjective"
+    ]
+  },
+  "119/hr/3902": {
+    "pros": [
+      "\u2022 Returns water permitting authority to states",
+      "\u2022 Reduces federal overreach in environmental regulation"
+    ],
+    "cons": [
+      "\u2022 Could weaken clean water protections across state lines",
+      "\u2022 May create inconsistent environmental standards"
+    ]
+  },
+  "119/hres/477": {
+    "pros": [
+      "\u2022 Addresses public concerns about presidential fitness",
+      "\u2022 Provides congressional oversight of executive capacity"
+    ],
+    "cons": [
+      "\u2022 Partisan inquiry unlikely to yield bipartisan findings",
+      "\u2022 Diverts congressional resources from policy priorities"
+    ]
+  },
+  "119/hr/8959": {
+    "pros": [
+      "\u2022 Strengthens domestic semiconductor manufacturing",
+      "\u2022 Reduces reliance on foreign chip supply chains"
+    ],
+    "cons": [
+      "\u2022 Requires significant federal subsidy investments",
+      "\u2022 Could strain relations with allied chip-producing nations"
+    ]
+  },
+  "119/hr/7786": {
+    "pros": [
+      "Protects consumers from AI-powered scams and deepfake fraud.",
+      "Deters bad actors with clear penalties for AI-enabled deception."
+    ],
+    "cons": [
+      "May stifle AI innovation with overly broad compliance burdens.",
+      "Hard to enforce across rapidly evolving AI technologies."
+    ]
+  },
+  "119/hr/6513": {
+    "pros": [
+      "Addresses zoonotic disease risks from mink farming operations.",
+      "Protects agricultural workers and nearby communities."
+    ],
+    "cons": [
+      "Could harm legitimate mink farming and fur industry livelihoods.",
+      "Scientific basis for 'superspreader' designation may be overstated."
+    ]
+  },
+  "119/hr/6514": {
+    "pros": [
+      "Improves welfare standards for animals used in military training.",
+      "Aligns DOD practices with modern animal ethics standards."
+    ],
+    "cons": [
+      "May increase costs for military training programs.",
+      "Could reduce readiness if training alternatives are not available."
+    ]
+  },
+  "119/hr/6130": {
+    "pros": [
+      "Speeds up government procurement and project delivery timelines.",
+      "Reduces bureaucratic delays in critical federal programs."
+    ],
+    "cons": [
+      "Fast-tracking may bypass important oversight and safeguards.",
+      "Could lead to cost overruns from rushed decision-making."
+    ]
+  },
+  "119/hr/6051": {
+    "pros": [
+      "Ensures families are quickly notified about loved ones in emergencies.",
+      "Improves coordination between agencies and family members."
+    ],
+    "cons": [
+      "May impose unfunded mandates on state and local agencies.",
+      "Privacy concerns could arise from expanded information sharing."
+    ]
+  },
+  "119/hr/5347": {
+    "pros": [
+      "Reduces administrative red tape for healthcare providers.",
+      "Lets doctors focus more on patient care than paperwork."
+    ],
+    "cons": [
+      "Could weaken patient protections and care quality standards.",
+      "Insurance companies may exploit looser rules to deny coverage."
+    ]
+  },
+  "119/hr/4974": {
+    "pros": [
+      "Helps IRS leverage AI for more efficient tax enforcement.",
+      "Could reduce the tax gap and improve revenue collection."
+    ],
+    "cons": [
+      "Raises privacy concerns about AI-powered tax audits.",
+      "GAO study alone may not lead to meaningful reforms."
+    ]
+  },
+  "119/hr/4548": {
+    "pros": [
+      "Helps small nonprofits offer retirement benefits to employees.",
+      "Encourages retirement savings among nonprofit workers."
+    ],
+    "cons": [
+      "Adds administrative complexity for small nonprofit organizations.",
+      "May not address the root cause of low retirement plan adoption."
+    ]
+  },
+  "119/hr/4313": {
+    "pros": [
+      "Extends hospital-at-home programs, freeing up hospital beds.",
+      "Lets Medicare patients recover at home with proper support."
+    ],
+    "cons": [
+      "Home hospital care quality may vary across providers.",
+      "Additional studies could delay program expansion."
+    ]
+  },
+  "119/hr/3904": {
+    "pros": [
+      "Boosts domestic bicycle manufacturing and American jobs.",
+      "Promotes sustainable transportation and reduces carbon emissions."
+    ],
+    "cons": [
+      "Higher production costs could make bicycles less affordable.",
+      "May not compete effectively with established foreign manufacturers."
+    ]
+  },
+  "119/hr/3750": {
+    "pros": [
+      "Prevents forced retirement account distributions that cost savers.",
+      "Gives retirees more control over their pension timelines."
+    ],
+    "cons": [
+      "Reduces tax revenue by deferring required distributions.",
+      "Could complicate estate planning and inheritance rules."
+    ]
+  },
+  "119/hr/3389": {
+    "pros": [
+      "Trains law enforcement to better interact with Alzheimer's patients.",
+      "Reduces risk of misunderstandings during police encounters."
+    ],
+    "cons": [
+      "Adds training costs for already strained police departments.",
+      "May not reach enough officers to make a meaningful difference."
+    ]
+  },
+  "119/hr/2759": {
+    "pros": [
+      "Ensures fair accounting practices for condo construction projects.",
+      "Protects homeowners from unexpected special assessments."
+    ],
+    "cons": [
+      "Could increase development costs passed to condo buyers.",
+      "May add bureaucracy to the construction approval process."
+    ]
+  },
+  "119/hr/2760": {
+    "pros": [
+      "Reduces mortgage insurance costs for middle-class homebuyers.",
+      "Makes homeownership more affordable for working families."
+    ],
+    "cons": [
+      "Could increase risk for FHA and taxpayer-backed mortgage programs.",
+      "May primarily benefit lenders rather than borrowers."
+    ]
+  },
+  "119/hr/2408": {
+    "pros": [
+      "Funds cleanup and prevention of toxic algal bloom outbreaks.",
+      "Protects local drinking water supplies and ecosystems."
+    ],
+    "cons": [
+      "Does not address agricultural runoff that causes blooms.",
+      "Costs may be shifted to local communities without federal help."
+    ]
+  },
+  "119/hr/2172": {
+    "pros": [
+      "Includes non-pump infusion drugs under Medicare coverage.",
+      "Expands role of nurses and PAs in home infusion therapy."
+    ],
+    "cons": [
+      "May increase Medicare costs for home infusion services.",
+      "Quality oversight of expanded provider roles is unclear."
+    ]
+  },
+  "119/hr/1978": {
+    "pros": [
+      "Classifies obesity as a disease for better DOD treatment.",
+      "Creates an educational campaign on obesity awareness."
+    ],
+    "cons": [
+      "Military healthcare budgets may face increased costs.",
+      "Changing classification alone may not reduce obesity rates."
+    ]
+  },
+  "119/hr/1977": {
+    "pros": [
+      "Requires DOD to study obesity impacts on military readiness.",
+      "Improves transparency and frequency of obesity reporting."
+    ],
+    "cons": [
+      "Another study may delay action on obesity in the military.",
+      "Reporting requirements add bureaucratic overhead to DOD."
+    ]
+  },
+  "119/hr/1905": {
+    "pros": [
+      "Safeguards students from foreign influence and exploitation.",
+      "Strengthens oversight of international programs on campuses."
+    ],
+    "cons": [
+      "Could discourage legitimate international student exchanges.",
+      "May impose additional paperwork burdens on universities."
+    ]
+  },
+  "119/hr/8362": {
+    "pros": [
+      "Builds a skilled pipeline of transit workers for public systems.",
+      "Addresses labor shortages in public transportation agencies."
+    ],
+    "cons": [
+      "Federal workforce programs often have mixed track records.",
+      "May not keep pace with rapid technological changes in transit."
+    ]
+  },
+  "119/hr/8068": {
+    "pros": [
+      "Addresses an important policy issue needing congressional attention.",
+      "Provides a targeted legislative solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended consequences not fully studied.",
+      "Could increase federal spending without clear funding sources."
+    ]
+  },
+  "119/hr/6919": {
+    "pros": [
+      "Strengthens protections for girls vulnerable to sex trafficking.",
+      "Provides resources for prevention and victim support services."
+    ],
+    "cons": [
+      "Narrow focus on girls may overlook male trafficking victims.",
+      "Enforcement alone cannot address underlying socioeconomic causes."
+    ]
+  },
+  "119/hres/958": {
+    "pros": [
+      "Reaffirms federal commitment to expanding college access.",
+      "Celebrates six decades of higher education opportunity."
+    ],
+    "cons": [
+      "Non-binding resolution does not create new programs or funding.",
+      "Past gains in access have eroded with rising tuition costs."
+    ]
+  },
+  "119/hres/950": {
+    "pros": [
+      "Reaffirms commitment to restoring the Florida Everglades ecosystem.",
+      "Protects drinking water for millions of Floridians."
+    ],
+    "cons": [
+      "Commemorative resolutions do not allocate new funding.",
+      "Restoration efforts have historically faced slow implementation."
+    ]
+  },
+  "119/hr/5901": {
+    "pros": [
+      "Reforms banking regulations to reduce compliance burdens.",
+      "Could stimulate lending and economic growth."
+    ],
+    "cons": [
+      "Rolling back regulations risks repeating 2008 financial crisis.",
+      "May weaken consumer protections for banking customers."
+    ]
+  },
+  "119/hr/5868": {
+    "pros": [
+      "Protects water systems from cyberattacks and infrastructure threats.",
+      "Modernizes security standards for critical water infrastructure."
+    ],
+    "cons": [
+      "Compliance costs may be burdensome for small water utilities.",
+      "Cybersecurity threats evolve faster than legislation can address."
+    ]
+  },
+  "119/hr/5869": {
+    "pros": [
+      "Expands water infrastructure grants for Tribal communities.",
+      "Addresses long-standing water access disparities."
+    ],
+    "cons": [
+      "Grants may not cover ongoing operation and maintenance costs.",
+      "Implementation could be slowed by bureaucratic hurdles."
+    ]
+  },
+  "119/hr/5833": {
+    "pros": [
+      "Makes clean water more affordable for low-income households.",
+      "Helps communities maintain aging water infrastructure."
+    ],
+    "cons": [
+      "Could create disincentives for water conservation efforts.",
+      "May shift costs to other ratepayers or taxpayers."
+    ]
+  },
+  "119/hr/5834": {
+    "pros": [
+      "Ensures reliable water supplies during drought and emergencies.",
+      "Invests in climate-resilient water infrastructure."
+    ],
+    "cons": [
+      "Large-scale water projects can have significant environmental impacts.",
+      "Federal funding may not reach the most vulnerable communities."
+    ]
+  },
+  "119/hr/5792": {
+    "pros": [
+      "Holds lawmakers accountable by suspending their pay during shutdowns.",
+      "Creates a financial incentive to avoid future government shutdowns."
+    ],
+    "cons": [
+      "May not meaningfully deter shutdowns driven by policy disputes.",
+      "Could be challenged as unconstitutional under the 27th Amendment."
+    ]
+  },
+  "119/hres/798": {
+    "pros": [
+      "Raises awareness about dangerous highway-rail grade crossings.",
+      "Encourages public education on railroad crossing safety."
+    ],
+    "cons": [
+      "Non-binding resolution does not fund safety improvements.",
+      "Awareness alone cannot replace physical infrastructure upgrades."
+    ]
+  },
+  "119/hr/5034": {
+    "pros": [
+      "Invests in economic development for the Liberty City community.",
+      "Creates jobs and opportunities in underserved neighborhoods."
+    ],
+    "cons": [
+      "Targeted local bills may bypass broader community input.",
+      "Federal funding for one district raises equity concerns."
+    ]
+  },
+  "119/hr/5033": {
+    "pros": [
+      "Sets temperature safety standards for workplaces and housing.",
+      "Protects vulnerable populations from extreme heat hazards."
+    ],
+    "cons": [
+      "Compliance costs could burden small businesses and landlords.",
+      "One-size-fits-all standards may not suit every climate region."
+    ]
+  },
+  "119/hres/546": {
+    "pros": [
+      "Encourages transparency by having lawmakers visit ICE facilities.",
+      "Promotes accountability in immigration enforcement."
+    ],
+    "cons": [
+      "Visits alone do not guarantee policy or operational changes.",
+      "May not provide a complete picture of detention conditions."
+    ]
+  },
+  "119/hr/2281": {
+    "pros": [
+      "Modernizes Job Corps training programs for current job markets.",
+      "Helps at-risk youth gain skills for meaningful employment."
+    ],
+    "cons": [
+      "Previous Job Corps reforms have had mixed outcomes on retention.",
+      "Cost per participant is high compared to other training programs."
+    ]
+  },
+  "119/hr/2167": {
+    "pros": [
+      "Reestablishes a DOT advisory committee on transportation equity.",
+      "Provides independent advice on equitable transit policy."
+    ],
+    "cons": [
+      "Advisory committees do not guarantee policy changes.",
+      "Could add bureaucracy without direct infrastructure funding."
+    ]
+  },
+  "119/hr/2021": {
+    "pros": [
+      "Provides federal grants to raise minimum teacher salaries.",
+      "Authorizes a national campaign on the value of teaching."
+    ],
+    "cons": [
+      "Federal salary mandates may strain state education budgets.",
+      "Grants are time-limited and may not ensure long-term pay raises."
+    ]
+  },
+  "119/hr/827": {
+    "pros": [
+      "Treasury can guarantee state catastrophe insurance debt.",
+      "Helps states offer affordable disaster insurance to homeowners."
+    ],
+    "cons": [
+      "Federal guarantees could expose taxpayers to disaster losses.",
+      "May crowd out private catastrophe insurance markets."
+    ]
+  },
+  "119/hr/739": {
+    "pros": [
+      "Promotes salad bars in schools through competitive grants.",
+      "Encourages healthier eating habits among students."
+    ],
+    "cons": [
+      "Grant funding may not cover ongoing salad bar operations.",
+      "Schools with limited kitchen capacity may struggle to participate."
+    ]
+  },
+  "119/hr/8749": {
+    "pros": [
+      "Covers home modifications that help seniors age safely at home.",
+      "Reduces hospital readmissions by addressing home safety hazards."
+    ],
+    "cons": [
+      "Could significantly increase Medicare spending and premiums.",
+      "Defining 'medically necessary' home modifications is challenging."
+    ]
+  },
+  "119/hr/8727": {
+    "pros": [
+      "Cracks down on illegal captivity and mistreatment of individuals.",
+      "Strengthens penalties for unlawful detention and exploitation."
+    ],
+    "cons": [
+      "May create due process concerns with expanded detention definitions.",
+      "Enforcement resources may be stretched thin."
+    ]
+  },
+  "119/hr/8408": {
+    "pros": [
+      "Reduces government spending on outdated legacy IT systems.",
+      "Modernizes federal technology for better efficiency and security."
+    ],
+    "cons": [
+      "Upfront modernization costs may exceed short-term savings.",
+      "Agency transitions from legacy systems risk service disruptions."
+    ]
+  },
+  "119/hr/8409": {
+    "pros": [
+      "Strengthens protections for communities recovering from disasters.",
+      "Ensures faster rebuilding and support after natural catastrophes."
+    ],
+    "cons": [
+      "Disaster recovery spending has historically been slow and complex.",
+      "May not adequately address the root causes of disaster vulnerability."
+    ]
+  },
+  "119/hr/8363": {
+    "pros": [
+      "Empowers young people to lead on climate change solutions.",
+      "Funds youth-focused climate education and job training programs."
+    ],
+    "cons": [
+      "Youth programs may lack the scale to meaningfully impact emissions.",
+      "Could duplicate existing environmental education initiatives."
+    ]
+  },
+  "119/hr/8047": {
+    "pros": [
+      "Helps residents buy their manufactured home communities.",
+      "Protects affordable housing from corporate buyouts and rent hikes."
+    ],
+    "cons": [
+      "Resident ownership models have mixed success without ongoing support.",
+      "Purchase costs may still be prohibitive for low-income residents."
+    ]
+  },
+  "119/hr/7765": {
+    "pros": [
+      "Promotes economic fairness and opportunity for all Americans.",
+      "Addresses systemic inequities in wealth and opportunity."
+    ],
+    "cons": [
+      "Broad scope may lead to implementation challenges.",
+      "Costs could be significant without clear revenue offsets."
+    ]
+  },
+  "119/hr/7691": {
+    "pros": [
+      "Protects intellectual freedom and access to diverse literature.",
+      "Prevents censorship of books in schools and public libraries."
+    ],
+    "cons": [
+      "May override local control over school curriculum decisions.",
+      "Definition of 'book ban' could be contested and inconsistent."
+    ]
+  },
+  "119/hr/7358": {
+    "pros": [
+      "Funds safety upgrades at dangerous railway crossings.",
+      "Reduces fatalities and injuries from train-vehicle collisions."
+    ],
+    "cons": [
+      "Infrastructure upgrades are expensive and take years to complete.",
+      "May not address driver behavior, a major cause of crossing accidents."
+    ]
+  },
+  "119/hr/7134": {
+    "pros": [
+      "Closes the loophole on unserialized 'ghost gun' weapons.",
+      "Helps law enforcement trace guns used in crimes."
+    ],
+    "cons": [
+      "Lawful gun owners who build firearms may face new regulations.",
+      "Enforcement challenges remain with DIY manufacturing methods."
+    ]
+  },
+  "119/hr/7133": {
+    "pros": [
+      "Creates a merchant category code for gun sellers to track sales.",
+      "Helps financial institutions flag suspicious firearm purchases."
+    ],
+    "cons": [
+      "Raises privacy concerns about tracking legal firearm purchases.",
+      "Could create a de facto gun registry, opposed by gun rights advocates."
+    ]
+  },
+  "119/hr/7135": {
+    "pros": [
+      "Reduces illegal gun trafficking and straw purchases.",
+      "Helps keep firearms out of criminals' hands."
+    ],
+    "cons": [
+      "Could burden law-abiding gun sellers with new paperwork.",
+      "May not address root causes of gun violence."
+    ]
+  },
+  "119/hr/6743": {
+    "pros": [
+      "Ties healthcare funding to violence prevention research.",
+      "Could fund community-based violence intervention."
+    ],
+    "cons": [
+      "Mixes Medicare funding with politically charged policy.",
+      "Unclear if Medicare is right vehicle for gun policy."
+    ]
+  },
+  "119/hr/5230": {
+    "pros": [
+      "Improves public transit frequency and reliability.",
+      "Reduces commute times for transit-dependent riders."
+    ],
+    "cons": [
+      "High upfront cost for bus fleet expansion.",
+      "Empty buses could run if demand is overestimated."
+    ]
+  },
+  "119/hr/5139": {
+    "pros": [
+      "Lowers cost of life-saving epinephrine auto-injectors.",
+      "Increases access for allergy patients."
+    ],
+    "cons": [
+      "Government price controls may reduce manufacturer supply.",
+      "Could stifle innovation in auto-injector design."
+    ]
+  },
+  "119/hr/5039": {
+    "pros": [
+      "Empowers wheelchair users to fix their own equipment.",
+      "Reduces downtime waiting for authorized repair."
+    ],
+    "cons": [
+      "May void warranties or safety certifications.",
+      "Complex medical devices need trained technicians."
+    ]
+  },
+  "119/hr/4994": {
+    "pros": [
+      "Improves cabin air quality for passengers and crew.",
+      "Reduces spread of airborne illnesses on flights."
+    ],
+    "cons": [
+      "Adds compliance costs for airlines.",
+      "Could increase ticket prices for travelers."
+    ]
+  },
+  "119/hr/4592": {
+    "pros": [
+      "Prevents hazardous radioactive waste in road materials.",
+      "Protects groundwater and public health."
+    ],
+    "cons": [
+      "Limits disposal options for phosphate mining byproducts.",
+      "May increase waste storage costs for industry."
+    ]
+  },
+  "119/hr/4563": {
+    "pros": [
+      "Strengthens emergency response for hurricane-prone areas.",
+      "Saves lives through better early warning systems."
+    ],
+    "cons": [
+      "Expensive federal mandates on state/local governments.",
+      "May duplicate existing FEMA preparedness programs."
+    ]
+  },
+  "119/hr/4447": {
+    "pros": [
+      "Lowers transit fares for low-income riders.",
+      "Encourages public transit use over driving."
+    ],
+    "cons": [
+      "Reduces transit agency revenue for operations.",
+      "Subsidies may not target most needy riders."
+    ]
+  },
+  "119/hr/8661": {
+    "pros": [
+      "Supports allied nations' defense capabilities.",
+      "Strengthens geopolitical alliances through loans."
+    ],
+    "cons": [
+      "Adds to US foreign debt exposure.",
+      "Could finance repressive foreign regimes."
+    ]
+  },
+  "119/hr/8519": {
+    "pros": [
+      "Lowers fuel costs by allowing cheaper gasoline blends.",
+      "Helps refineries meet summer supply demands."
+    ],
+    "cons": [
+      "Increases air pollution in warm months.",
+      "Undermines Clean Air Act environmental safeguards."
+    ]
+  },
+  "119/hr/8054": {
+    "pros": [
+      "Honors a former president with lasting tribute.",
+      "Could boost tourism to Palm Beach area."
+    ],
+    "cons": [
+      "Politically divisive naming may spark controversy.",
+      "Renaming costs taxpayers for signage changes."
+    ]
+  },
+  "119/hconres/79": {
+    "pros": [
+      "Honors fallen service members with dignity.",
+      "Provides national closure for military sacrifices."
+    ],
+    "cons": [
+      "Disrupts Capitol operations for public ceremonies.",
+      "Limited to specific individuals, not all fallen."
+    ]
+  },
+  "119/hconres/77": {
+    "pros": [
+      "Honors fallen service members with dignity.",
+      "Provides national closure for military sacrifices."
+    ],
+    "cons": [
+      "Disrupts Capitol operations for public ceremonies.",
+      "Limited to specific individuals, not all fallen."
+    ]
+  },
+  "119/hres/1099": {
+    "pros": [
+      "Reaffirms US stance against Iranian terrorism.",
+      "Sends clear message to international allies."
+    ],
+    "cons": [
+      "Non-binding resolution with no policy impact.",
+      "May escalate tensions with Iran unnecessarily."
+    ]
+  },
+  "119/hconres/74": {
+    "pros": [
+      "Facilitates presidential address to Congress.",
+      "Maintains constitutional tradition."
+    ],
+    "cons": [
+      "Pro forma resolution with little substance.",
+      "Disrupts normal legislative schedule."
+    ]
+  },
+  "119/hr/7438": {
+    "pros": [
+      "Improves safety for pets during air travel.",
+      "Reduces animal incidents on airplanes."
+    ],
+    "cons": [
+      "Adds regulatory burden on airlines.",
+      "Could increase pet travel costs for owners."
+    ]
+  },
+  "119/hr/6875": {
+    "pros": [
+      "Establishes oversight for military AI systems.",
+      "Prevents unintended autonomous weapons actions."
+    ],
+    "cons": [
+      "Could slow down AI development for defense.",
+      "Overly restrictive rules may reduce battlefield effectiveness."
+    ]
+  },
+  "119/hconres/67": {
+    "pros": [
+      "Honors fallen service members with dignity.",
+      "Provides national closure for military sacrifices."
+    ],
+    "cons": [
+      "Disrupts Capitol operations for public ceremonies.",
+      "Limited to specific individuals, not all fallen."
+    ]
+  },
+  "119/hr/6691": {
+    "pros": [
+      "Allows younger drivers to fill trucking shortages.",
+      "Expands workforce for supply chain needs."
+    ],
+    "cons": [
+      "Younger drivers have higher accident rates.",
+      "Safety risks from less experienced truckers."
+    ]
+  },
+  "119/hr/6044": {
+    "pros": [
+      "Ensures timely pay for military personnel.",
+      "Prevents government shutdowns from hurting troops."
+    ],
+    "cons": [
+      "Carves out special exception for military only.",
+      "Does not solve broader government funding issues."
+    ]
+  },
+  "119/hres/733": {
+    "pros": [
+      "Raises awareness about coastal ecosystem health.",
+      "Supports estuary conservation efforts."
+    ],
+    "cons": [
+      "Symbolic resolution with no binding action.",
+      "No funding allocated for estuary protection."
+    ]
+  },
+  "119/hr/5299": {
+    "pros": [
+      "Updates Development Finance Corporation operations.",
+      "Improves US competitiveness in global development."
+    ],
+    "cons": [
+      "Could increase US financial risk abroad.",
+      "May prioritize corporate interests over development."
+    ]
+  },
+  "119/hr/5300": {
+    "pros": [
+      "Codifies State Department policy frameworks.",
+      "Ensures diplomatic consistency across administrations."
+    ],
+    "cons": [
+      "Restricts executive flexibility in foreign policy.",
+      "May include unnecessary bureaucratic mandates."
+    ]
+  },
+  "119/hres/612": {
+    "pros": [
+      "Recognizes military medical contributions.",
+      "Boosts morale for Army medical personnel."
+    ],
+    "cons": [
+      "Ceremonial resolution with no legislative impact.",
+      "Spends time on symbolic gestures."
+    ]
+  },
+  "119/hr/4189": {
+    "pros": [
+      "Honors Navy SEAL heritage and K9 units.",
+      "Boosts tourism for Fort Pierce museum."
+    ],
+    "cons": [
+      "Federal recognition of a local museum is unusual.",
+      "Could set precedent for other local museums."
+    ]
+  },
+  "119/hr/4190": {
+    "pros": [
+      "Supports removal of landmines in war zones.",
+      "Saves civilian lives in post-conflict areas."
+    ],
+    "cons": [
+      "Expands US foreign aid commitments.",
+      "Demining is slow and expensive work."
+    ]
+  },
+  "119/hr/3817": {
+    "pros": [
+      "Requires warning labels on toxic substances.",
+      "Informs public about chemical health risks."
+    ],
+    "cons": [
+      "Adds regulatory compliance costs for industry.",
+      "Could overlap with existing EPA warning systems."
+    ]
+  },
+  "119/hr/8795": {
+    "pros": [
+      "Lowers gas prices for American families.",
+      "Provides immediate economic relief at the pump."
+    ],
+    "cons": [
+      "Reduces highway trust fund revenue.",
+      "Mostly benefits higher-income, long-distance drivers."
+    ]
+  },
+  "119/hres/1166": {
+    "pros": [
+      "Holds members accountable for alleged misconduct.",
+      "Upholds House ethical standards."
+    ],
+    "cons": [
+      "Politically motivated expulsion attempt.",
+      "Sets dangerous precedent for removing opposition."
+    ]
+  },
+  "119/hr/7981": {
+    "pros": [
+      "Prevents schools from hiding counseling from parents.",
+      "Protects parental rights in education."
+    ],
+    "cons": [
+      "Could out LGBTQ+ students before they are ready.",
+      "May discourage students from seeking help."
+    ]
+  },
+  "119/hres/1102": {
+    "pros": [
+      "Holds representatives accountable for party disloyalty.",
+      "Enforces caucus discipline in committees."
+    ],
+    "cons": [
+      "Punishes independent voting within own party.",
+      "Weakens checks on executive branch power."
+    ]
+  },
+  "119/hres/1101": {
+    "pros": [
+      "Holds representatives accountable for party disloyalty.",
+      "Enforces caucus discipline in committees."
+    ],
+    "cons": [
+      "Punishes independent voting within own party.",
+      "Weakens checks on executive branch power."
+    ]
+  },
+  "119/hr/7580": {
+    "pros": [
+      "Prioritizes nutritional quality in food assistance.",
+      "Improves health outcomes for low-income families."
+    ],
+    "cons": [
+      "Increases cost of food assistance programs.",
+      "Restricts recipient choice of food items."
+    ]
+  },
+  "119/hr/7433": {
+    "pros": [
+      "Protects children from social media harm.",
+      "Reduces screen time and cyberbullying risks."
+    ],
+    "cons": [
+      "Difficult to enforce age verification laws.",
+      "Limits teens' access to online communities."
+    ]
+  },
+  "119/hr/7399": {
+    "pros": [
+      "Protects children from social media harm.",
+      "Reduces screen time and cyberbullying risks."
+    ],
+    "cons": [
+      "Difficult to enforce age verification laws.",
+      "Limits teens' access to online communities."
+    ]
+  },
+  "119/hr/7313": {
+    "pros": [
+      "Honors a local community figure.",
+      "Simple naming resolution with bipartisan appeal."
+    ],
+    "cons": [
+      "Trivial use of federal legislative time.",
+      "No substantive policy impact."
+    ]
+  },
+  "119/hr/7221": {
+    "pros": [
+      "Prevents investors from outbidding homebuyers.",
+      "Makes housing more affordable for families."
+    ],
+    "cons": [
+      "Limits institutional investment in rental housing.",
+      "Could reduce housing supply development."
+    ]
+  },
+  "119/hres/1015": {
+    "pros": [
+      "Holds former officials accountable for subpoenas.",
+      "Upholds congressional oversight authority."
+    ],
+    "cons": [
+      "Revives decade-old political grievances.",
+      "Unlikely to result in actual consequences."
+    ]
+  },
+  "119/hr/6754": {
+    "pros": [
+      "Addresses an identified policy gap.",
+      "Seeks to improve public welfare."
+    ],
+    "cons": [
+      "May have unintended economic consequences.",
+      "Lacks bipartisan support in current form."
+    ]
+  },
+  "119/hr/6534": {
+    "pros": [
+      "Strengthens US-Azerbaijan strategic relations.",
+      "Supports energy security in Caucasus region."
+    ],
+    "cons": [
+      "Azerbaijan has poor human rights record.",
+      "Could upset Armenia relations and regional balance."
+    ]
+  },
+  "119/hr/6208": {
+    "pros": [
+      "Prevents sex offenders from using surrogates.",
+      "Closes a loophole protecting vulnerable people."
+    ],
+    "cons": [
+      "Very narrow bill addressing rare scenarios.",
+      "Existing laws may already cover this."
+    ]
+  },
+  "119/hres/883": {
+    "pros": [
+      "Dramatically lowers student loan interest rates.",
+      "Reduces financial burden on graduates."
+    ],
+    "cons": [
+      "Costs billions in federal revenue.",
+      "Does nothing for existing loan balances."
+    ]
+  },
+  "119/hres/801": {
+    "pros": [
+      "Prevents career politicians from staying too long.",
+      "Brings fresh perspectives to Congress."
+    ],
+    "cons": [
+      "Removes experienced legislators with institutional knowledge.",
+      "Requires constitutional amendment, unlikely to pass."
+    ]
+  },
+  "119/hres/725": {
+    "pros": [
+      "Prevents insider trading by lawmakers.",
+      "Restores public trust in Congress."
+    ],
+    "cons": [
+      "Complex enforcement with blind trust requirements.",
+      "Could discourage qualified people from serving."
+    ]
+  },
+  "119/hr/5196": {
+    "pros": [
+      "Supports American farmers with financial stability.",
+      "Ensures food supply chain resilience."
+    ],
+    "cons": [
+      "Costly subsidy programs distort agricultural markets.",
+      "May benefit large agribusiness over family farms."
+    ]
+  },
+  "119/hres/665": {
+    "pros": [
+      "Prevents insider trading by lawmakers.",
+      "Restores public trust in Congress."
+    ],
+    "cons": [
+      "Complex enforcement with blind trust requirements.",
+      "Could discourage qualified people from serving."
+    ]
+  },
+  "119/hr/6167": {
+    "pros": [
+      "Expands healthcare access and affordability.",
+      "Targets key health system reforms."
+    ],
+    "cons": [
+      "Increases federal healthcare spending.",
+      "May introduce complex new regulations."
+    ]
+  },
+  "119/hr/4906": {
+    "pros": [
+      "Strengthens national security framework.",
+      "Modernizes US defense and intelligence capabilities."
+    ],
+    "cons": [
+      "Could expand surveillance without proper oversight.",
+      "Vague title with potentially broad scope."
+    ]
+  },
+  "119/hr/4360": {
+    "pros": [
+      "Bolsters US space defense capabilities.",
+      "Protects critical satellite infrastructure."
+    ],
+    "cons": [
+      "Could escalate space-based weaponization.",
+      "Very high cost for space programs."
+    ]
+  },
+  "119/hr/3831": {
+    "pros": [
+      "Protects Florida's marine ecosystem from harmful shark feeding practices.",
+      "Helps prevent dangerous human-shark interactions along Florida's coast."
+    ],
+    "cons": [
+      "Creates another federal regulation in Florida's coastal waters.",
+      "May impact legitimate eco-tourism and diving businesses."
+    ]
+  },
+  "119/hr/3744": {
+    "pros": [
+      "Safeguards federally funded research from foreign interference.",
+      "Protects academic integrity and national security interests."
+    ],
+    "cons": [
+      "May create burdensome compliance requirements for researchers.",
+      "Could discourage legitimate international scientific collaboration."
+    ]
+  },
+  "119/hr/1365": {
+    "pros": [
+      "Prioritizes domestic energy production and energy independence.",
+      "Supports American jobs in the energy sector."
+    ],
+    "cons": [
+      "May weaken environmental protections for short-term energy gains.",
+      "Could undermine clean energy transition and climate goals."
+    ]
+  },
+  "119/hr/1361": {
+    "pros": [
+      "Mandates safety technology to reduce vehicle collisions.",
+      "Protects lives through proven crash avoidance systems."
+    ],
+    "cons": [
+      "Increases vehicle costs that get passed to consumers.",
+      "May impose federal mandates on auto manufacturers."
+    ]
+  },
+  "119/hr/1235": {
+    "pros": [
+      "Creates a dedicated bank to finance critical infrastructure projects.",
+      "Leverages federal capital to attract private investment."
+    ],
+    "cons": [
+      "Adds another federal bureaucracy with potential for mismanagement.",
+      "Could crowd out private infrastructure financing options."
+    ]
+  },
+  "119/s/4643": {
+    "pros": [
+      "Provides stronger legal protections for police and service animals.",
+      "Deters attacks against animals that protect public safety."
+    ],
+    "cons": [
+      "Federalizes crimes that states already prosecute effectively.",
+      "May impose disproportionately harsh penalties for minor offenses."
+    ]
+  },
+  "119/sres/731": {
+    "pros": [
+      "Recognizes the positive contributions of Greek life organizations.",
+      "Honors 175 years of women's leadership and community service."
+    ],
+    "cons": [
+      "Non-binding resolution that does not address substantive policy.",
+      "Considers congressional time that could address pressing issues."
+    ]
+  },
+  "119/s/4446": {
+    "pros": [
+      "Strengthens press freedom and protects journalists' sources.",
+      "Shields reporters from being forced to disclose confidential information."
+    ],
+    "cons": [
+      "Could be exploited by bad actors posing as journalists.",
+      "May impede legitimate law enforcement investigations."
+    ]
+  },
+  "119/s/4428": {
+    "pros": [
+      "Prevents schools from receiving funding for phantom enrollees.",
+      "Cracks down on attendance fraud in educational funding."
+    ],
+    "cons": [
+      "May penalize schools with legitimate record-keeping errors.",
+      "Creates additional administrative reporting burdens on schools."
+    ]
+  },
+  "119/sres/671": {
+    "pros": [
+      "Holds senators accountable during government shutdowns.",
+      "Ensures lawmakers share the burden of funding lapses."
+    ],
+    "cons": [
+      "Non-binding resolution with no enforcement mechanism.",
+      "Does not address the root cause of government shutdowns."
+    ]
+  },
+  "119/sres/678": {
+    "pros": [
+      "Prevents senators from using taxpayer funds during shutdowns.",
+      "Demonstrates congressional commitment to fiscal responsibility."
+    ],
+    "cons": [
+      "Symbolic measure that does not resolve shutdown impasses.",
+      "Restricts legitimate representational travel for senators."
+    ]
+  },
+  "119/s/4328": {
+    "pros": [
+      "Provides more flexible work arrangements for federal employees.",
+      "Modernizes federal workforce policies for the 21st century."
+    ],
+    "cons": [
+      "Could reduce in-person collaboration and oversight.",
+      "May create inconsistent policies across federal agencies."
+    ]
+  },
+  "119/s/4282": {
+    "pros": [
+      "Honors the sacrifice of American POWs and MIAs.",
+      "Establishes a national museum to preserve their legacy."
+    ],
+    "cons": [
+      "Requires federal funding during tight budget constraints.",
+      "May duplicate existing memorials and museums."
+    ]
+  },
+  "119/s/4176": {
+    "pros": [
+      "Cracks down on Medicaid fraud to protect taxpayer dollars.",
+      "Ensures resources reach legitimate patients and providers."
+    ],
+    "cons": [
+      "Could increase administrative burdens on healthcare providers.",
+      "May reduce access for legitimate beneficiaries due to over-enforcement."
+    ]
+  },
+  "119/s/3922": {
+    "pros": [
+      "Protects small cigar manufacturers from excessive FDA regulations.",
+      "Preserves jobs in the traditional cigar industry."
+    ],
+    "cons": [
+      "Exempts tobacco products from important health regulations.",
+      "Could undermine public health goals related to tobacco use."
+    ]
+  },
+  "119/s/3843": {
+    "pros": [
+      "Streamlines temporary worker visa programs.",
+      "Addresses labor shortages in critical industries."
+    ],
+    "cons": [
+      "Could suppress wages in sectors reliant on temporary labor.",
+      "May bypass protections for American workers."
+    ]
+  },
+  "119/s/3747": {
+    "pros": [
+      "Recognizes homeschool diplomas for federal purposes.",
+      "Supports educational freedom for homeschooling families."
+    ],
+    "cons": [
+      "Could reduce federal oversight of educational standards.",
+      "May enable diploma mills with minimal accountability."
+    ]
+  },
+  "119/s/3704": {
+    "pros": [
+      "Increases police presence and community safety resources.",
+      "Supports law enforcement recruitment and retention."
+    ],
+    "cons": [
+      "Expands policing budgets without addressing reform needs.",
+      "May lead to over-policing in certain communities."
+    ]
+  },
+  "119/s/3649": {
+    "pros": [
+      "Increases transparency and ethical standards for Congress.",
+      "Restores public confidence in legislative institutions."
+    ],
+    "cons": [
+      "May impose restrictions that hinder effective governance.",
+      "Could be weakened by exemptions and loopholes."
+    ]
+  },
+  "119/s/3650": {
+    "pros": [
+      "Requires parental notification for interstate abortion travel.",
+      "Protects parental rights regarding minor children's medical care."
+    ],
+    "cons": [
+      "Restricts minors' access to healthcare across state lines.",
+      "May endanger minors in abusive or neglectful homes."
+    ]
+  },
+  "119/s/3627": {
+    "pros": [
+      "Ensures pregnant students have access to educational resources.",
+      "Protects students from discrimination based on pregnancy."
+    ],
+    "cons": [
+      "May impose unfunded mandates on educational institutions.",
+      "Could create conflicts with existing Title IX frameworks."
+    ]
+  },
+  "119/s/3593": {
+    "pros": [
+      "Increases penalties for healthcare fraud schemes.",
+      "Protects patients and taxpayers from fraudulent providers."
+    ],
+    "cons": [
+      "May lead to overcriminalization of administrative errors.",
+      "Could deter healthcare professionals from serving vulnerable populations."
+    ]
+  },
+  "119/hr/9007": {
+    "pros": [
+      "Ensures access to medically necessary infant formula for babies.",
+      "Supports donor milk programs for vulnerable infants."
+    ],
+    "cons": [
+      "Creates new federal spending for nutrition programs.",
+      "Could increase government involvement in formula markets."
+    ]
+  },
+  "119/hr/8839": {
+    "pros": [
+      "Establishes minimum standards for cancer survivorship care.",
+      "Addresses unmet needs across the entire cancer care continuum."
+    ],
+    "cons": [
+      "May impose costly mandates on healthcare systems.",
+      "One-size-fits-all standards may not suit all cancer types."
+    ]
+  },
+  "119/hres/1251": {
+    "pros": [
+      "Condemns rising antisemitism and promotes education.",
+      "Honors Jewish-American contributions to society."
+    ],
+    "cons": [
+      "Non-binding resolution with no enforcement provisions.",
+      "Does not allocate resources to combat antisemitism."
+    ]
+  },
+  "119/hr/7857": {
+    "pros": [
+      "Prevents criminals from evading prosecution.",
+      "Strengthens justice system accountability mechanisms."
+    ],
+    "cons": [
+      "Could expand federal jurisdiction over state crimes.",
+      "May violate due process protections for defendants."
+    ]
+  },
+  "119/hr/7856": {
+    "pros": [
+      "Protects domestic violence survivors from housing discrimination.",
+      "Ensures safe housing options for those fleeing abuse."
+    ],
+    "cons": [
+      "May impose compliance costs on landlords and housing providers.",
+      "Could be exploited by bad actors filing false claims."
+    ]
+  },
+  "119/hr/7564": {
+    "pros": [
+      "Strengthens background check requirements for ammunition purchases.",
+      "Helps keep firearms out of dangerous hands."
+    ],
+    "cons": [
+      "Imposes additional burdens on law-abiding gun owners.",
+      "May not effectively prevent criminals from obtaining ammunition."
+    ]
+  },
+  "119/hconres/69": {
+    "pros": [
+      "Honors the victims and survivors of the Tucson tragedy.",
+      "Recognizes Gabby Giffords' advocacy against gun violence."
+    ],
+    "cons": [
+      "Non-binding concurrent resolution with no policy impact.",
+      "Does not include specific legislative action on gun safety."
+    ]
+  },
+  "119/hres/904": {
+    "pros": [
+      "Recognizes the historical experience of Jewish refugees.",
+      "Promotes awareness of refugee heritage and history."
+    ],
+    "cons": [
+      "Non-binding resolution with no legislative effect.",
+      "Does not address current refugee crises."
+    ]
+  },
+  "119/hr/5506": {
+    "pros": [
+      "Strengthens enforceable rights for crime victims.",
+      "Ensures victims have a voice in the justice process."
+    ],
+    "cons": [
+      "Could create procedural burdens on court systems.",
+      "May conflict with defendants' constitutional rights."
+    ]
+  },
+  "119/hr/4752": {
+    "pros": [
+      "Expands access to genetic testing for hereditary cancers.",
+      "Supports early detection and prevention of cancer."
+    ],
+    "cons": [
+      "May increase healthcare costs for screening programs.",
+      "Raises privacy concerns about genetic data storage."
+    ]
+  },
+  "119/hr/4751": {
+    "pros": [
+      "Continues critical pool safety programs preventing drownings.",
+      "Reauthorizes proven safety standards for pools and spas."
+    ],
+    "cons": [
+      "Continues federal oversight of local pool safety regulations.",
+      "May impose compliance costs on pool owners and operators."
+    ]
+  },
+  "119/hr/4541": {
+    "pros": [
+      "Continues breast cancer early detection and awareness programs.",
+      "Supports young women's cancer education initiatives."
+    ],
+    "cons": [
+      "Requires continued federal funding for awareness programs.",
+      "Overlaps with existing private and non-profit cancer initiatives."
+    ]
+  },
+  "119/hr/4542": {
+    "pros": [
+      "Protects the Everglades ecosystem from industrial encroachment.",
+      "Prevents animal confinement facilities in sensitive wetlands."
+    ],
+    "cons": [
+      "Restricts agricultural land use in the Everglades region.",
+      "May limit economic development opportunities in South Florida."
+    ]
+  },
+  "119/hres/597": {
+    "pros": [
+      "Condemns the 1994 terrorist attack on a Jewish community center.",
+      "Encourages accountability for those responsible."
+    ],
+    "cons": [
+      "Non-binding resolution with no enforcement mechanism.",
+      "Addresses a 30-year-old incident without current policy action."
+    ]
+  },
+  "119/hres/352": {
+    "pros": [
+      "Reaffirms commitment to combating antisemitism.",
+      "Educates the public on Jewish-American contributions."
+    ],
+    "cons": [
+      "Similar to existing resolutions without binding action.",
+      "Lacks specific funding or implementation plans."
+    ]
+  },
+  "119/hr/2701": {
+    "pros": [
+      "Protects religious symbols and markers for fallen service members.",
+      "Honors the diverse religious heritage of military personnel."
+    ],
+    "cons": [
+      "May conflict with establishment clause legal precedents.",
+      "Could require government endorsement of religious symbols."
+    ]
+  },
+  "119/hr/2657": {
+    "pros": [
+      "Provides justice for victims of violent crimes.",
+      "Strengthens legal recourse for families of homicide victims."
+    ],
+    "cons": [
+      "May create new federal crimes that overlap state laws.",
+      "Could impose mandatory minimum sentences with limited judicial discretion."
+    ]
+  },
+  "119/hr/2280": {
+    "pros": [
+      "Continues U.S.-Israel energy innovation collaboration.",
+      "Supports joint research in renewable energy technologies."
+    ],
+    "cons": [
+      "Requires continued federal funding for international programs.",
+      "May prioritize foreign partnerships over domestic energy research."
+    ]
+  },
+  "119/hr/8449": {
+    "pros": [
+      "Reduces federal court caseload by limiting diversity jurisdiction.",
+      "Modernizes outdated federal jurisdictional thresholds."
+    ],
+    "cons": [
+      "Could restrict access to federal courts for legitimate claims.",
+      "May shift complex cases to state courts with limited resources."
+    ]
+  },
+  "119/hjres/152": {
+    "pros": [
+      "Ensures only U.S. citizens vote in federal elections.",
+      "Clarifies constitutional intent on voting eligibility."
+    ],
+    "cons": [
+      "Non-citizen voting in federal elections is already illegal.",
+      "Constitutional amendment process is slow and divisive."
+    ]
+  },
+  "119/hr/7834": {
+    "pros": [
+      "Establishes security standards for cloud data storage.",
+      "Protects consumer data from breaches and unauthorized access."
+    ],
+    "cons": [
+      "May impose compliance costs on small cloud providers.",
+      "Could create federal standards that lag behind industry practices."
+    ]
+  },
+  "119/hr/7258": {
+    "pros": [
+      "Improves federal coordination during energy emergencies.",
+      "Ensures rapid response to energy supply disruptions."
+    ],
+    "cons": [
+      "Expands federal authority over energy markets.",
+      "May create bureaucratic redundancies in emergency management."
+    ]
+  },
+  "119/hr/7140": {
+    "pros": [
+      "Streamlines federal environmental review processes.",
+      "Accelerates permitting for critical infrastructure projects."
+    ],
+    "cons": [
+      "Could weaken environmental protections and public input.",
+      "May bypass environmental justice considerations."
+    ]
+  },
+  "119/hr/6998": {
+    "pros": [
+      "Expands treatment options for individuals with substance abuse disorders.",
+      "Supports recovery and rehabilitation programs."
+    ],
+    "cons": [
+      "Requires significant federal funding for treatment programs.",
+      "May not address underlying causes of addiction."
+    ]
+  },
+  "119/hr/6719": {
+    "pros": [
+      "Honors a specific individual's service and contributions.",
+      "Provides recognition for public service and sacrifice."
+    ],
+    "cons": [
+      "Narrowly tailored bill focused on a single person.",
+      "Could set precedent for individualized legislative tributes."
+    ]
+  },
+  "119/hr/6289": {
+    "pros": [
+      "Protects children from online predators and harmful content.",
+      "Establishes safety standards for platforms used by minors."
+    ],
+    "cons": [
+      "Could restrict free speech and online expression.",
+      "May impose onerous age-verification requirements."
+    ]
+  },
+  "119/hr/5883": {
+    "pros": [
+      "Improves supervision standards for vulnerable populations.",
+      "Prevents abuse and neglect in care facilities."
+    ],
+    "cons": [
+      "Creates additional regulatory burdens on care providers.",
+      "May increase costs for long-term care facilities."
+    ]
+  },
+  "119/hr/5087": {
+    "pros": [
+      "Modernizes aviation infrastructure and safety standards.",
+      "Supports growth and innovation in the aviation industry."
+    ],
+    "cons": [
+      "Requires significant federal investment in aviation projects.",
+      "May increase regulatory compliance costs for airlines."
+    ]
+  },
+  "119/hr/4929": {
+    "pros": [
+      "Toughens penalties to deter crime and protect communities",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4760": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4567": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "Increases military spending at expense of domestic programs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4336": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4235": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Gives flexibility to adapt to local circumstances"
+    ],
+    "cons": [
+      "Increases military spending at expense of domestic programs",
+      "Expands federal reach into areas better left to the states"
+    ]
+  },
+  "119/hr/4040": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3882": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hjres/100": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/433": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3353": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Expands federal reach into areas better left to the states"
+    ]
+  },
+  "119/hr/8923": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8651": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7305": {
+    "pros": [
+      "Advances energy innovation and environmental stewardship",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Raises environmental concerns about pollution and waste",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6620": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6561": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6178": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6080": {
+    "pros": [
+      "Advances energy innovation and environmental stewardship",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4786": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4785": {
+    "pros": [
+      "Advances energy innovation and environmental stewardship",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Raises environmental concerns about pollution and waste",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4641": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4162": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/531": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/510": {
+    "pros": [
+      "Invests in education and future workforce development",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3907": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2986": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2824": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2703": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2673": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/2414": {
+    "pros": [
+      "Improves healthcare access and affordability",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May increase out-of-pocket costs for vulnerable patients",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1781": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/9078": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8942": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8943": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could strain resources and separate families unnecessarily",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8805": {
+    "pros": [
+      "Strengthens border security and immigration enforcement",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8471": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8314": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8026": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7925": {
+    "pros": [
+      "Provides direct support to those who need it most",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7635": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1055": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7450": {
+    "pros": [
+      "Advances energy innovation and environmental stewardship",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Raises environmental concerns about pollution and waste",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7452": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7451": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7453": {
+    "pros": [
+      "Advances energy innovation and environmental stewardship",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7378": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7165": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8595": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4779": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4558": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4397": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3958": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3583": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/325": {
+    "pros": [
+      "Directly benefits Florida communities and ecosystems",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1299": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Expands federal reach into areas better left to the states"
+    ]
+  },
+  "119/hr/672": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/9057": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Creates new government mandates that increase compliance costs",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/1272": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/998": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hres/643": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/3319": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1608": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1165": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Limits state and local flexibility in policy implementation"
+    ]
+  },
+  "119/hr/1167": {
+    "pros": [
+      "Advances energy innovation and environmental stewardship",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Raises environmental concerns about pollution and waste",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/1166": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/504": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Expands federal reach into areas better left to the states"
+    ]
+  },
+  "119/hr/8747": {
+    "pros": [
+      "Promotes fiscal responsibility and taxpayer savings",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Increases federal spending and the national debt",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8543": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/8476": {
+    "pros": [
+      "Invests in education and future workforce development",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Risk of underfunding public education systems",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7611": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7534": {
+    "pros": [
+      "Strengthens support for veterans and service members",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7357": {
+    "pros": [
+      "Enhances public safety and security protections",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/7012": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6996": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6854": {
+    "pros": [
+      "Strengthens border security and immigration enforcement",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Could strain resources and separate families unnecessarily",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6297": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Establishes clear standards for accountability and oversight"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6186": {
+    "pros": [
+      "Invests in education and future workforce development",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "Risk of underfunding public education systems",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6136": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/6084": {
+    "pros": [
+      "Reduces bureaucratic burdens on citizens and businesses",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5817": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5512": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/5312": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4884": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4846": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4655": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
+    ]
+  },
+  "119/hr/4656": {
+    "pros": [
+      "Directly benefits Florida communities and ecosystems",
+      "Provides a targeted solution to a specific problem"
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Lacks sufficient detail to fully assess its impact"
     ]
   }
 }
