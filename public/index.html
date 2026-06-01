@@ -547,10 +547,17 @@
   </div>
 
   <div id="content">
-    <div class="empty-state">
+    <div class="empty-state" id="homeDefault">
       <div class="icon">🏛️</div>
       <h3>Select a state or enter your zip code</h3>
       <p>See how your elected representatives are voting on the issues that matter to you.</p>
+    </div>
+    <div id="featuredReps" style="display:none;margin-top:20px">
+      <div class="section-title">🇺🇸 Your Florida Representatives</div>
+      <div class="members-grid" id="flRepsGrid"></div>
+      <div style="text-align:center;margin-top:8px">
+        <button class="btn btn-secondary" onclick="document.getElementById('zipInput').focus()">Not in Florida? Enter your zip →</button>
+      </div>
     </div>
   </div>
 </div>
@@ -1508,6 +1515,42 @@ fetch('/api/states').then(r => r.json()).then(states => {
 
 document.getElementById('zipInput').addEventListener('keydown', e => {
   if (e.key === 'Enter') lookupByZip();
+});
+
+// Load Florida reps on page load so visitors see real people immediately
+fetch('/api/state/FL').then(r => r.json()).then(data => {
+  const reps = [...(data.senate || []), ...(data.house || [])];
+  if (reps.length === 0) return;
+  const grid = document.getElementById('flRepsGrid');
+  const container = document.getElementById('featuredReps');
+  if (!grid || !container) return;
+  
+  grid.innerHTML = reps.slice(0, 6).map(m => {
+    const name = m.name || 'Unknown';
+    const party = m.partyName || '';
+    const state = 'Florida';
+    const dist = m.district != null ? ` · ${ordinal(m.district)} District` : '';
+    const chamber = m.terms?.item?.[m.terms.item.length - 1]?.chamber || '';
+    const abbr = partyAbbrev(party);
+    const bioguide = m.bioguideId || '';
+    const initial = (name[0] || '?').toUpperCase();
+    
+    return `<div class="member-card party-${abbr}" onclick="loadMember('${bioguide}')">
+      <div class="member-header">
+        <div class="member-avatar no-photo">
+          <span class="avatar-initial">${initial}</span>
+        </div>
+        <div class="member-info">
+          <h3>${name}</h3>
+          <span class="party-badge party-${abbr}">${abbr}</span>
+        </div>
+      </div>
+      <div class="member-detail">${chamberLabel(chamber)} · ${state}${dist}</div>
+    </div>`;
+  }).join('');
+  
+  document.getElementById('homeDefault').style.display = 'none';
+  container.style.display = 'block';
 });
 </script>
 </body>
