@@ -557,9 +557,11 @@ function ordinal(n) {
   return n + (s[(v-20)%10] || s[v] || s[0]);
 }
 
-function photoUrl(bioguideId) {
+function photoUrl(bioguideId, depictionUrl) {
+  if (depictionUrl) return depictionUrl;
   if (!bioguideId) return '';
-  return `/api/photo/${bioguideId}`;
+  // Fallback: construct congress.gov URL (works in browser, bioguide.congress.gov is blocked)
+  return `https://www.congress.gov/img/member/${bioguideId.toLowerCase()}_200.jpg`;
 }
 
 // ===== ZIP CODE LOOKUP =====
@@ -670,7 +672,7 @@ function memberCard(m) {
   const chamber = m.terms?.item?.[m.terms.item.length-1]?.chamber || m.terms?.item?.[0]?.chamber || '';
   const id = m.bioguideId || '';
   const initial = (p.first[0] || '?').toUpperCase();
-  const url = photoUrl(id);
+  const url = photoUrl(id, m.depiction?.imageUrl);
   const chamberShort = chamberLabel(chamber);
   const location = [chamberShort, m.state, dist].filter(Boolean).join(' · ');
 
@@ -742,7 +744,7 @@ function renderMemberDetail(data) {
   const dist = m.district != null ? ` · ${ordinal(m.district)} District` : '';
   const id = m.bioguideId || '';
   const initial = (first[0] || '?').toUpperCase();
-  const url = photoUrl(id);
+  const url = photoUrl(id, m.depiction?.imageUrl);
   const sponsored = data.sponsored || [];
 
   let html = `<button class="back-btn" onclick="loadState('${currentState}')">← Back to results</button>
