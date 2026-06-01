@@ -445,6 +445,53 @@ app.get('/api/deep-analysis', apiLimiter, async (req, res) => {
   }
 });
 
+// ===== EMAIL SUBSCRIPTIONS =====
+const SUBSCRIPTIONS_FILE = path.join(__dirname, 'subscriptions.json');
+let subscriptionsCache = {};
+try {
+  if (fs.existsSync(SUBSCRIPTIONS_FILE)) {
+    subscriptionsCache = JSON.parse(fs.readFileSync(SUBSCRIPTIONS_FILE, 'utf-8'));
+    console.log(`Loaded ${Object.keys(subscriptionsCache).length} email subscriptions`);
+  }
+} catch(e) { /* silent */ }
+
+function saveSubscriptions() {
+  try {
+    fs.writeFileSync(SUBSCRIPTIONS_FILE, JSON.stringify(subscriptionsCache, null, 2));
+  } catch(e) {
+    console.error('Could not save subscriptions:', e.message);
+  }
+}
+
+// POST /api/subscribe — Sign up for bill tracking or newsletter
+app.post('/api/subscribe', (req, res) => {
+  const { email, name, type } = req.body;
+  if (!email || !email.includes('@')) {
+    return res.status(400).json({ error: 'Please enter a valid email address' });
+  }
+  const cleanEmail = email.trim().toLowerCase().replace(/[^a-zA-Z0-9@._\-]/g, '').substring(0, 200);
+  const cleanName = (name || '').trim().replace(/[^a-zA-Z0-9\s\-'.]/g, '').substring(0, 100);
+  const subType = type === 'newsletter' ? 'newsletter' : 'tracking';
+  
+  if (!subscriptionsCache[cleanEmail]) {
+    subscriptionsCache[cleanEmail] = { 
+      email: cleanEmail,
+      name: cleanName,
+      subscribedAt: new Date().toISOString(),
+      types: []
+    };
+  }
+  if (!subscriptionsCache[cleanEmail].types.includes(subType)) {
+    subscriptionsCache[cleanEmail].types.push(subType);
+  }
+  if (cleanName && !subscriptionsCache[cleanEmail].name) {
+    subscriptionsCache[cleanEmail].name = cleanName;
+  }
+  
+  saveSubscriptions();
+  res.json({ success: true, message: `You're signed up for ${subType === 'newsletter' ? 'the Capitol Watch newsletter' : 'bill tracking updates'}.` });
+});
+
 // --- Voting System ---
 const VOTES_FILE = path.join(__dirname, 'votes.json');
 let votesCache = {};

@@ -423,6 +423,18 @@
     footer a:hover { color: var(--text-secondary); }
     .footer-inner { max-width: 1280px; margin: 0 auto; padding: 0 28px; }
     .footer-dots { margin: 0 10px; opacity: 0.3; }
+    .footer-signup { margin-top: 16px; display: flex; flex-direction: column; align-items: center; gap: 8px; }
+    .footer-signup h4 { font-size: 14px; font-weight: 600; color: var(--text-secondary); margin-bottom: 2px; }
+    .footer-signup-row { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+    .footer-signup input { padding: 9px 14px; border-radius: var(--radius-sm); font-size: 13px; font-family: inherit; border: 1px solid var(--border); background: var(--bg-card); color: var(--text); outline: none; width: 200px; transition: border-color 0.15s; }
+    .footer-signup input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-glow); }
+    .footer-signup input::placeholder { color: var(--text-muted); }
+    .footer-signup .btn-sm { padding: 9px 18px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 500; font-family: inherit; cursor: pointer; border: none; background: var(--accent); color: white; transition: all 0.15s; }
+    .footer-signup .btn-sm:hover { background: var(--accent-hover); }
+    .footer-signup .btn-sm:disabled { opacity: 0.5; cursor: wait; }
+    .footer-signup .sub-status { font-size: 12px; margin-top: 2px; }
+    .sub-ok { color: var(--green); }
+    .sub-err { color: var(--red); }
 
     /* ── RESPONSIVE ── */
     @media (max-width: 768px) {
@@ -524,6 +536,16 @@
     Data from <a href="https://congress.gov" target="_blank">Congress.gov</a>
     <span class="footer-dots">·</span>
     Nonpartisan &amp; free
+  </div>
+  <div class="footer-signup">
+    <h4>📬 Stay informed</h4>
+    <div class="footer-signup-row">
+      <input type="email" id="sub-email" placeholder="Your email address" maxlength="200" />
+      <input type="text" id="sub-name" placeholder="Your name (optional)" maxlength="100" />
+      <button class="btn-sm" onclick="subscribe('newsletter')">📰 Newsletter</button>
+      <button class="btn-sm" onclick="subscribe('tracking')">📋 Bill Alerts</button>
+    </div>
+    <div class="sub-status" id="sub-status"></div>
   </div>
 </footer>
 
@@ -968,6 +990,41 @@ function escHtml(str) {
   const div = document.createElement('div');
   div.textContent = str || '';
   return div.innerHTML;
+}
+
+// ===== SUBSCRIPTIONS =====
+
+async function subscribe(type) {
+  const emailEl = document.getElementById('sub-email');
+  const nameEl = document.getElementById('sub-name');
+  const statusEl = document.getElementById('sub-status');
+  const email = emailEl.value.trim();
+  const name = nameEl.value.trim();
+  
+  if (!email || !email.includes('@')) {
+    statusEl.innerHTML = '<span class="sub-err">Please enter a valid email address</span>';
+    emailEl.focus();
+    return;
+  }
+  
+  statusEl.textContent = 'Submitting...';
+  try {
+    const res = await fetch('/api/subscribe', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, name, type })
+    });
+    const data = await res.json();
+    if (data.success) {
+      statusEl.innerHTML = `<span class="sub-ok">✅ ${data.message}</span>`;
+      emailEl.value = '';
+      nameEl.value = '';
+    } else {
+      statusEl.innerHTML = `<span class="sub-err">${data.error}</span>`;
+    }
+  } catch(e) {
+    statusEl.innerHTML = '<span class="sub-err">Could not subscribe — please try again</span>';
+  }
 }
 
 // ===== VOTING =====
