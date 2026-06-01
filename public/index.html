@@ -75,14 +75,19 @@
     .logo-text { letter-spacing: -0.5px; }
     .logo-text span { color: var(--accent); }
     nav { display: flex; align-items: center; gap: 2px; }
-    .nav-link {
-      color: var(--text-muted); font-size: 13px; font-weight: 500;
+    .nav-link { color: var(--text-muted); font-size: 13px; font-weight: 500;
       padding: 8px 14px; border-radius: var(--radius-sm);
       cursor: pointer; transition: all 0.15s ease;
-      border: none; background: none; font-family: inherit;
-      letter-spacing: 0.1px;
-    }
+      border: none; background: none; font-family: inherit; }
     .nav-link:hover { color: var(--text-secondary); background: var(--bg-hover); }
+    .nav-link.active { color: var(--text); background: var(--bg-hover); }
+    .nav-search { display: flex; align-items: center; gap: 6px; margin-left: auto; }
+    .nav-search input { padding: 6px 12px; border-radius: var(--radius-sm); font-size: 12px; font-family: inherit; border: 1px solid var(--border); background: var(--bg-card); color: var(--text); outline: none; width: 180px; transition: all 0.15s; }
+    .nav-search input:focus { border-color: var(--accent); width: 220px; }
+    .nav-search input::placeholder { color: var(--text-muted); }
+    .nav-search .nav-search-btn { padding: 6px 12px; border-radius: var(--radius-sm); font-size: 12px; font-weight: 500; font-family: inherit; cursor: pointer; border: none; background: var(--accent); color: white; transition: all 0.15s; }
+    .nav-search .nav-search-btn:hover { background: var(--accent-hover); }
+    @media (max-width: 768px) {
     .nav-link.active { color: var(--text); background: rgba(79,110,247,0.12); }
 
     /* ── LAYOUT ── */
@@ -493,6 +498,10 @@
       <button class="nav-link" onclick="showRecentBills()">Recent Bills</button>
       <button class="nav-link" onclick="showStats()">Stats</button>
       <button class="nav-link" onclick="showAbout()">About</button>
+      <div class="nav-search">
+        <input type="text" id="navSearchInput" placeholder="Search bills..." maxlength="100" onkeydown="if(event.key==='Enter')navSearch()" />
+        <button class="nav-search-btn" onclick="navSearch()">🔍</button>
+      </div>
     </nav>
   </div>
 </header>
@@ -1104,6 +1113,22 @@ async function loadRecentBillsIntoSection() {
 function showRecentBills() {
   content.innerHTML = `<div class="loading"><div class="spinner"></div>Loading recent bills...</div>`;
   loadRecentBillsIntoSingleView();
+}
+
+// Global search from nav bar
+function navSearch() {
+  const q = document.getElementById('navSearchInput').value.trim();
+  if (!q) return;
+  showRecentBills();
+  setTimeout(() => {
+    const searchInput = document.querySelector('#recentBillsView input[type="text"], .search-bar');
+    if (searchInput) {
+      searchInput.value = q;
+      searchInput.dispatchEvent(new Event('input'));
+      if (typeof searchBills === 'function') searchBills(q);
+      searchInput.focus();
+    }
+  }, 500);
 }
 
 let billsOffset = 0;
