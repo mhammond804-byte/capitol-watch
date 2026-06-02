@@ -51,7 +51,7 @@
     "WV",
     "WY"
   ],
-  "last_run": "2026-06-02 - SD, WV, WY (final states!)",
-  "bills_added": 1930,
-  "total_cache": 3932
+  "last_run": "2026-06-02 - Incremental scan (round-robin 60 bills)",
+  "bills_added": 2170,
+  "total_cache": 4323
 }
