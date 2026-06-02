@@ -752,7 +752,7 @@ function memberCard(m) {
   return `<div class="member-card party-${abbr}" data-id="${id}" data-name="${p.first} ${p.last}">
     <div class="member-header">
       <div class="member-avatar" id="av-${id}">
-        <img src="${url}" alt="${p.first} ${p.last}" referrerpolicy="no-referrer" crossorigin="anonymous"
+        <img src="${url}" alt="${p.first} ${p.last}"
           onload="this.parentElement.classList.remove('no-photo')"
           onerror="this.parentElement.classList.add('no-photo')" />
         <span class="avatar-initial">${initial}</span>
@@ -824,7 +824,7 @@ function renderMemberDetail(data) {
     <div class="detail-view" style="border-top: 3px solid var(--${abbr === 'R' ? 'red' : abbr === 'D' ? 'blue' : 'purple'})">
       <div class="detail-header">
         <div class="detail-avatar no-photo" id="av-detail-${id}">
-          <img src="${url}" alt="${first} ${last}" referrerpolicy="no-referrer" crossorigin="anonymous"
+          <img src="${url}" alt="${first} ${last}"
             onload="this.parentElement.classList.remove('no-photo')"
             onerror="this.parentElement.classList.add('no-photo')" />
           <span class="avatar-initial">${initial}</span>
