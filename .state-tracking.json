@@ -1,18 +1,21 @@
 {
   "states_done": [
-    "AZ",
-    "AK",
-    "TX",
+    "OK",
     "SC",
     "CA",
-    "FL",
     "GA",
+    "OH",
+    "IL",
+    "AZ",
+    "TX",
     "NY",
-    "AR",
     "AL",
-    "OK"
+    "PA",
+    "FL",
+    "AK",
+    "AR"
   ],
-  "last_run": "2026-06-01 - CA, TX, NY (batch 1/2)",
-  "bills_added": 810,
-  "total_cache": 2601
+  "last_run": "2026-06-01 - IL, PA, OH",
+  "bills_added": 990,
+  "total_cache": 2781
 }
