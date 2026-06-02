@@ -4,14 +4,12 @@
     "AL",
     "AR",
     "AZ",
-    "CO",
-    "CT",
-    "DE",
     "FL",
-    "GA"
+    "GA",
+    "OK",
+    "SC"
   ],
-  "last_run": "2026-06-01 - AZ, CO, CT (+ 278 new bills)",
-  "bills_added": 391,
-  "bills_regenerated": 0,
-  "total_cache": 1891
+  "last_run": "2026-06-01 - AZ, AR, AK",
+  "bills_added": 490,
+  "total_cache": 2381
 }
