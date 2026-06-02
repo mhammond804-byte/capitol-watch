@@ -1532,19 +1532,21 @@ fetch('/api/state/FL').then(r => r.json()).then(data => {
   if (!grid || !container) return;
   
   grid.innerHTML = reps.slice(0, 6).map(m => {
-    const name = m.name || 'Unknown';
+    const rawName = m.name || 'Unknown';
+    const p = parseName(rawName);
+    const name = p.first && p.last ? `${p.first} ${p.last}` : rawName;
     const party = m.partyName || '';
     const state = 'Florida';
     const dist = m.district != null ? ` · ${ordinal(m.district)} District` : '';
     const chamber = m.terms?.item?.[m.terms.item.length - 1]?.chamber || '';
     const abbr = partyAbbrev(party);
     const bioguide = m.bioguideId || '';
-    const initial = (name[0] || '?').toUpperCase();
+    const initial = (p.first?.[0] || name[0] || '?').toUpperCase();
     
     return `<div class="member-card party-${abbr}" onclick="loadMember('${bioguide}')">
       <div class="member-header">
         <div class="member-avatar no-photo" id="hp-av-${bioguide}">
-          <img src="/api/photo/${bioguide}" alt="${name}" onload="this.parentElement.classList.remove('no-photo')" onerror="this.parentElement.classList.add('no-photo')" />
+          <img src="${photoUrl(bioguide, m.depiction?.imageUrl)}" alt="${name}" onload="this.parentElement.classList.remove('no-photo')" onerror="this.parentElement.classList.add('no-photo')" />
           <span class="avatar-initial">${initial}</span>
         </div>
         <div class="member-info">
