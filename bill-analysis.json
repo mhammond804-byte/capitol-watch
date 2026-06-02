@@ -39319,5 +39319,605 @@
       "\u2022 One-time arrangement request with narrow application.",
       "\u2022 May set precedent for future special-use Mall permits."
     ]
+  },
+  "119/hr/1554": {
+    "pros": [
+      "\u2022 Reduces unfair government competition with private businesses.",
+      "\u2022 Encourages efficiency by relying on the private sector."
+    ],
+    "cons": [
+      "\u2022 May limit government's ability to provide essential services directly.",
+      "\u2022 Could increase costs if private contractors charge higher rates."
+    ]
+  },
+  "119/hr/2054": {
+    "pros": [
+      "\u2022 Enhances voter verification to protect election integrity.",
+      "\u2022 Increases public confidence in the electoral process."
+    ],
+    "cons": [
+      "\u2022 May create barriers to voting for eligible citizens.",
+      "\u2022 Could disproportionately affect minority and low-income voters."
+    ]
+  },
+  "119/s/4645": {
+    "pros": [
+      "\u2022 Caps excessive payouts from the federal Judgment Fund.",
+      "\u2022 Promotes fiscal responsibility by limiting taxpayer liability."
+    ],
+    "cons": [
+      "\u2022 May restrict fair compensation for legitimate claims against the government.",
+      "\u2022 Could reduce incentives for agencies to settle cases early."
+    ]
+  },
+  "119/hr/6640": {
+    "pros": [
+      "\u2022 Accelerates infrastructure projects by streamlining permitting.",
+      "\u2022 Creates construction jobs and stimulates economic growth."
+    ],
+    "cons": [
+      "\u2022 Reduced environmental review may harm ecosystems.",
+      "\u2022 Could bypass meaningful community input on local projects."
+    ]
+  },
+  "119/hr/6281": {
+    "pros": [
+      "\u2022 Ensures consumers can charge electric vehicles reliably.",
+      "\u2022 Supports the transition to cleaner transportation energy."
+    ],
+    "cons": [
+      "\u2022 May impose costly compliance burdens on charging station operators.",
+      "\u2022 Could slow private investment with new federal regulations."
+    ]
+  },
+  "119/hr/9065": {
+    "pros": [
+      "\u2022 Provides critical mental health support after pregnancy loss.",
+      "\u2022 Addresses an underserved area of maternal health care."
+    ],
+    "cons": [
+      "\u2022 May duplicate existing state and local mental health programs.",
+      "\u2022 Could create unfunded mandates for community health providers."
+    ]
+  },
+  "119/hr/7666": {
+    "pros": [
+      "\u2022 Helps prevent closure of essential outpatient health services.",
+      "\u2022 Ensures continued access to care in underserved communities."
+    ],
+    "cons": [
+      "\u2022 May increase federal spending on healthcare subsidies.",
+      "\u2022 Could discourage private investment in outpatient facilities."
+    ]
+  },
+  "119/hr/9054": {
+    "pros": [
+      "\u2022 Allows seniors to use Medicare coverage while abroad.",
+      "\u2022 Provides peace of mind for international travel in retirement."
+    ],
+    "cons": [
+      "\u2022 Could significantly increase Medicare program costs.",
+      "\u2022 May create complex international billing and fraud risks."
+    ]
+  },
+  "119/hres/1313": {
+    "pros": [
+      "\u2022 Upholds standards of decency in political discourse.",
+      "\u2022 Sends a clear message against hateful campaign rhetoric."
+    ],
+    "cons": [
+      "\u2022 Is a symbolic resolution with no binding legal effect.",
+      "\u2022 Could set a precedent for Congress condemning individual speech."
+    ]
+  },
+  "119/s/4640": {
+    "pros": [
+      "\u2022 Provides follow-up care after suicide crisis interventions.",
+      "\u2022 Improves accessibility of the 9-8-8 suicide hotline."
+    ],
+    "cons": [
+      "\u2022 Creates new federal grant programs that may duplicate existing efforts.",
+      "\u2022 Could impose unfunded administrative burdens on crisis centers."
+    ]
+  },
+  "119/hr/7917": {
+    "pros": [
+      "\u2022 Raises wages for essential home care workers.",
+      "\u2022 Improves recruitment and retention in the caregiving industry."
+    ],
+    "cons": [
+      "\u2022 May increase costs for families and home care agencies.",
+      "\u2022 Could lead to reduced hours or services due to budget constraints."
+    ]
+  },
+  "119/hres/45": {
+    "pros": [
+      "\u2022 Recognizes the contributions of a historic Black sorority.",
+      "\u2022 Celebrates 117 years of community service and leadership."
+    ],
+    "cons": [
+      "\u2022 Is a non-binding ceremonial resolution with no policy impact.",
+      "\u2022 Takes up Congressional floor time that could address substantive issues."
+    ]
+  },
+  "119/hres/1280": {
+    "pros": [
+      "\u2022 Highlights the cultural contributions of Taiwanese Americans.",
+      "\u2022 Strengthens diplomatic ties with Taiwan through cultural recognition."
+    ],
+    "cons": [
+      "\u2022 May complicate U.S. relations with China over Taiwan recognition.",
+      "\u2022 Is symbolic and does not change U.S. policy toward Taiwan."
+    ]
+  },
+  "119/s/4647": {
+    "pros": [
+      "\u2022 Provides tax relief for families caring for elderly relatives.",
+      "\u2022 Helps offset the high cost of senior care for working families."
+    ],
+    "cons": [
+      "\u2022 Reduces federal revenue and may increase the deficit.",
+      "\u2022 Benefits may not reach those with little or no tax liability."
+    ]
+  },
+  "119/hr/7297": {
+    "pros": [
+      "\u2022 Ensures immigration enforcement respects constitutional rights.",
+      "\u2022 Increases accountability for ICE and CBP operations."
+    ],
+    "cons": [
+      "\u2022 May hamper law enforcement's ability to detain dangerous individuals.",
+      "\u2022 Could create legal loopholes that delay deportation proceedings."
+    ]
+  },
+  "119/hr/7964": {
+    "pros": [
+      "\u2022 Strengthens national security by screening high-risk countries.",
+      "\u2022 Prevents entry of individuals from nations with weak vetting."
+    ],
+    "cons": [
+      "\u2022 May be viewed as discriminatory against certain nationalities.",
+      "\u2022 Could harm diplomatic relations with affected countries."
+    ]
+  },
+  "119/hr/9056": {
+    "pros": [
+      "\u2022 Expands flood mitigation options with parametric insurance.",
+      "\u2022 Allows FEMA grants to be used for community-based flood policies."
+    ],
+    "cons": [
+      "\u2022 May divert funds from direct mitigation projects to insurance premiums.",
+      "\u2022 Parametric insurance may not fully cover actual flood damages."
+    ]
+  },
+  "119/hjres/40": {
+    "pros": [
+      "\u2022 Eliminates a costly CMMC cybersecurity rule for defense contractors.",
+      "\u2022 Reduces regulatory burden on small businesses in the defense supply chain."
+    ],
+    "cons": [
+      "\u2022 May weaken cybersecurity standards across the defense industrial base.",
+      "\u2022 Could increase risk of sensitive data breaches and cyber attacks."
+    ]
+  },
+  "119/hres/708": {
+    "pros": [
+      "\u2022 Recognizes the vital role of medical research in improving health.",
+      "\u2022 Raises public awareness of the need for continued research funding."
+    ],
+    "cons": [
+      "\u2022 Is a non-binding resolution with no direct policy or funding impact.",
+      "\u2022 Designating a week does not guarantee increased research support."
+    ]
+  },
+  "119/hr/7758": {
+    "pros": [
+      "\u2022 Strengthens penalties for fentanyl trafficking and distribution.",
+      "\u2022 Helps combat the opioid crisis affecting communities nationwide."
+    ],
+    "cons": [
+      "\u2022 May lead to increased incarceration rates for drug offenses.",
+      "\u2022 Does not address underlying addiction treatment and prevention needs."
+    ]
+  },
+  "119/hr/5172": {
+    "pros": [
+      "\u2022 Strengthens public safety by imposing harsher penalties for violent crimes.",
+      "\u2022 Deters repeat offenders with mandatory minimum sentencing guidelines."
+    ],
+    "cons": [
+      "\u2022 Could lead to overcrowding in already strained prison facilities.",
+      "\u2022 Mandatory minimums reduce judicial discretion in individual cases."
+    ]
+  },
+  "119/sjres/126": {
+    "pros": [
+      "\u2022 Overturns a CFPB rule that could confuse consumers about time-barred debt.",
+      "\u2022 Provides regulatory clarity for debt collection industry practices."
+    ],
+    "cons": [
+      "\u2022 Removes consumer protections against predatory debt collection tactics.",
+      "\u2022 Congressional disapproval disrupts settled agency rulemaking processes."
+    ]
+  },
+  "119/sconres/34": {
+    "pros": [
+      "\u2022 Affirms commitment to reducing gun violence and strengthening public safety.",
+      "\u2022 Builds bipartisan consensus on saving lives ahead of the 250th anniversary."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution has no legislative force or practical effect.",
+      "\u2022 Lacks specific policy proposals to address gun violence effectively."
+    ]
+  },
+  "119/hr/5173": {
+    "pros": [
+      "\u2022 Reduces classroom distractions by banning social media during school hours.",
+      "\u2022 Protects student mental health from social media's negative effects."
+    ],
+    "cons": [
+      "\u2022 Restricts student access to educational content delivered via social platforms.",
+      "\u2022 Enforcement is difficult and could strain school disciplinary resources."
+    ]
+  },
+  "119/s/3591": {
+    "pros": [
+      "\u2022 Helps veterans transition to civilian jobs with workplace resource access.",
+      "\u2022 Honors Thomas M. Conway's legacy of supporting veterans' employment."
+    ],
+    "cons": [
+      "\u2022 May impose unfunded mandates on employers to provide veteran services.",
+      "\u2022 Overlaps with existing VA employment programs, risking duplication."
+    ]
+  },
+  "119/hr/3383": {
+    "pros": [
+      "\u2022 Stimulates economic growth by making capital formation easier for startups.",
+      "\u2022 Reduces regulatory barriers that hinder small business investment."
+    ],
+    "cons": [
+      "\u2022 Could weaken investor protections and increase risk of fraud.",
+      "\u2022 Benefits primarily wealthy investors rather than Main Street businesses."
+    ]
+  },
+  "119/hr/7914": {
+    "pros": [
+      "\u2022 Preserves agricultural knowledge by pairing retiring with new farmers.",
+      "\u2022 Promotes conservation practices through hands-on mentorship programs."
+    ],
+    "cons": [
+      "\u2022 Creates new federal bureaucracy without guaranteed conservation outcomes.",
+      "\u2022 May not address underlying economic pressures driving farm consolidation."
+    ]
+  },
+  "119/hr/8083": {
+    "pros": [
+      "\u2022 Expands access to safe and effective contraception for all Americans.",
+      "\u2022 Reduces unintended pregnancies and associated healthcare costs."
+    ],
+    "cons": [
+      "\u2022 May conflict with religious freedom protections for some providers.",
+      "\u2022 Increases government involvement in personal reproductive health decisions."
+    ]
+  },
+  "119/s/3363": {
+    "pros": [
+      "\u2022 Enhances tracking and accountability for federal grant expenditures.",
+      "\u2022 Increases transparency in how taxpayer dollars are allocated."
+    ],
+    "cons": [
+      "\u2022 Adds bureaucratic reporting requirements that slow down grant delivery.",
+      "\u2022 Could duplicate existing oversight mechanisms already in place."
+    ]
+  },
+  "119/hr/8990": {
+    "pros": [
+      "\u2022 Supports domestic small businesses in the oil and gas sector.",
+      "\u2022 Protects American energy independence from foreign competition."
+    ],
+    "cons": [
+      "\u2022 Extends fossil fuel reliance at a time when clean energy is growing.",
+      "\u2022 May provide tax breaks that reduce federal revenue substantially."
+    ]
+  },
+  "119/hres/53": {
+    "pros": [
+      "\u2022 Expedites forest management to reduce wildfire risk on federal lands.",
+      "\u2022 Streamlines NEPA reviews to accelerate critical land management projects."
+    ],
+    "cons": [
+      "\u2022 Weakens environmental review protections for public lands and tribes.",
+      "\u2022 Bundles unrelated immigration provisions into a single rule."
+    ]
+  },
+  "119/hr/4719": {
+    "pros": [
+      "\u2022 Eliminates unnecessary barriers to mobility for low-income individuals.",
+      "\u2022 Reduces the criminalization of poverty through fines and fees."
+    ],
+    "cons": [
+      "\u2022 Could reduce local government revenue from traffic-related fines.",
+      "\u2022 May weaken incentives for safe driving and traffic law compliance."
+    ]
+  },
+  "119/hres/373": {
+    "pros": [
+      "\u2022 Honors fallen heroes and provides recognition for their sacrifice.",
+      "\u2022 Raises public awareness about the costs of military service."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution does not allocate funding or resources for families.",
+      "\u2022 Duplicates existing Memorial Day observances and commemorations."
+    ]
+  },
+  "119/hr/3181": {
+    "pros": [
+      "\u2022 Protects ecologically important rivers in Vermont from development.",
+      "\u2022 Preserves natural habitats and recreational access for future generations."
+    ],
+    "cons": [
+      "\u2022 Could restrict local land use and economic development opportunities.",
+      "\u2022 Study designation may lead to prolonged federal oversight without action."
+    ]
+  },
+  "119/hr/418": {
+    "pros": [
+      "\u2022 Holds federal agencies accountable for the rules and regulations they issue.",
+      "\u2022 Increases transparency in the federal rulemaking process."
+    ],
+    "cons": [
+      "\u2022 Could slow down essential health and safety regulations from taking effect.",
+      "\u2022 Adds legal burdens that may deter agencies from issuing necessary rules."
+    ]
+  },
+  "119/s/4506": {
+    "pros": [
+      "\u2022 Promotes sustainable water management through expanded water reuse.",
+      "\u2022 Helps drought-prone regions secure reliable water supplies."
+    ],
+    "cons": [
+      "\u2022 High upfront infrastructure costs may deter widespread adoption.",
+      "\u2022 Public health concerns about treated wastewater quality remain."
+    ]
+  },
+  "119/hres/698": {
+    "pros": [
+      "\u2022 Honors the victims and survivors of the September 11th attacks.",
+      "\u2022 Reminds Americans of the importance of national unity in tragedy."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution provides no new support for 9/11 first responders.",
+      "\u2022 Annual commemorations already exist without need for additional resolutions."
+    ]
+  },
+  "119/s/2954": {
+    "pros": [
+      "\u2022 Addresses critical healthcare workforce shortages across the country.",
+      "\u2022 Expands training opportunities for doctors, nurses, and allied health workers."
+    ],
+    "cons": [
+      "\u2022 Creates new federal spending that could increase the national debt.",
+      "\u2022 May not address root causes of burnout and retention in healthcare."
+    ]
+  },
+  "119/s/4429": {
+    "pros": [
+      "\u2022 Protects consumers from cybersecurity threats in connected vehicles.",
+      "\u2022 Establishes security standards for increasingly digital car systems."
+    ],
+    "cons": [
+      "\u2022 Could slow innovation in the rapidly evolving automotive tech sector.",
+      "\u2022 Imposes compliance costs that may raise vehicle prices for consumers."
+    ]
+  },
+  "119/hr/9081": {
+    "pros": [
+      "\u2022 Expands access to affordable health insurance through marketplace pools.",
+      "\u2022 Gives small businesses more options for offering group health coverage."
+    ],
+    "cons": [
+      "\u2022 Could destabilize existing insurance markets by splitting risk pools.",
+      "\u2022 May lead to lower coverage standards compared to traditional employer plans."
+    ]
+  },
+  "119/hres/658": {
+    "pros": [
+      "\u2022 Honors the vital contributions of nonprofit employees nationwide.",
+      "\u2022 Raises public awareness about the nonprofit sector's impact."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution does not create new funding or programs.",
+      "\u2022 Designating a special day may have limited tangible effect."
+    ]
+  },
+  "119/s/4435": {
+    "pros": [
+      "\u2022 Helps students compare financial aid offers more transparently.",
+      "\u2022 Empowers families to make informed college financing decisions."
+    ],
+    "cons": [
+      "\u2022 May impose additional compliance costs on colleges and universities.",
+      "\u2022 Standardized formats might oversimplify complex aid packages."
+    ]
+  },
+  "119/hr/8969": {
+    "pros": [
+      "\u2022 Centralizes nuclear forensics under one expert agency, NNSA.",
+      "\u2022 Improves coordination between nuclear attribution programs."
+    ],
+    "cons": [
+      "\u2022 Transferring functions from DHS could disrupt ongoing operations.",
+      "\u2022 May reduce DHS's role in domestic nuclear threat response."
+    ]
+  },
+  "119/sres/652": {
+    "pros": [
+      "\u2022 Reinforces the strategic importance of the U.S.-Japan Alliance.",
+      "\u2022 Welcomes high-level diplomatic engagement with Japan's leader."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution has no force of law or funding.",
+      "\u2022 May be seen as ceremonial rather than achieving policy goals."
+    ]
+  },
+  "119/hr/8283": {
+    "pros": [
+      "\u2022 Protects American AI intellectual property from foreign theft.",
+      "\u2022 Strengthens national security by securing AI model assets."
+    ],
+    "cons": [
+      "\u2022 Broad definitions could inadvertently hinder legitimate research.",
+      "\u2022 Enforcement across international borders may prove difficult."
+    ]
+  },
+  "119/hr/8382": {
+    "pros": [
+      "\u2022 Protects children from potential harms of AI chatbot interactions.",
+      "\u2022 Prevents unsafe AI features in toys and child-focused products."
+    ],
+    "cons": [
+      "\u2022 May stifle beneficial AI educational tools for children.",
+      "\u2022 Broad prohibition could be difficult to enforce effectively."
+    ]
+  },
+  "119/hr/9044": {
+    "pros": [
+      "\u2022 Reauthorizes critical mental health workforce diversity training.",
+      "\u2022 Supports minority professionals entering behavioral health fields."
+    ],
+    "cons": [
+      "\u2022 Adds to federal spending without guaranteed measurable outcomes.",
+      "\u2022 Duplicates existing workforce diversity programs in other agencies."
+    ]
+  },
+  "119/hr/9055": {
+    "pros": [
+      "\u2022 Increases burial benefits for veterans who died from service injuries.",
+      "\u2022 Provides greater financial support to grieving military families."
+    ],
+    "cons": [
+      "\u2022 Raises federal spending on funeral benefits without offset.",
+      "\u2022 May create disparity with burial benefits for non-service deaths."
+    ]
+  },
+  "119/hr/8267": {
+    "pros": [
+      "\u2022 Enhances safety standards for transporting hazardous materials.",
+      "\u2022 Reduces risk of accidents involving dangerous cargo shipments."
+    ],
+    "cons": [
+      "\u2022 New regulations could raise shipping costs for businesses.",
+      "\u2022 May impose compliance burdens on small transport companies."
+    ]
+  },
+  "119/hr/9040": {
+    "pros": [
+      "\u2022 Lowers out-of-pocket prescription drug costs for consumers.",
+      "\u2022 Increases price transparency in the pharmaceutical market."
+    ],
+    "cons": [
+      "\u2022 Price controls may reduce pharmaceutical R&D investment.",
+      "\u2022 Could lead to drug shortages if manufacturers push back."
+    ]
+  },
+  "119/hr/8834": {
+    "pros": [
+      "\u2022 Expands study abroad opportunities for American college students.",
+      "\u2022 Prepares graduates with global skills for the modern economy."
+    ],
+    "cons": [
+      "\u2022 Federal study abroad programs involve significant taxpayer cost.",
+      "\u2022 May primarily benefit already-advantaged student populations."
+    ]
+  },
+  "119/hr/8571": {
+    "pros": [
+      "\u2022 Targeted legislation addressing a specific policy need.",
+      "\u2022 Reflects responsive governance on a named constituent issue."
+    ],
+    "cons": [
+      "\u2022 Short title alone does not clarify the bill's actual provisions.",
+      "\u2022 Narrow focus may not address broader systemic challenges."
+    ]
+  },
+  "119/hr/8741": {
+    "pros": [
+      "\u2022 Commemorates an important historical anniversary in Philadelphia.",
+      "\u2022 Supports local heritage tourism and educational programming."
+    ],
+    "cons": [
+      "\u2022 Creates a new federal commission with administrative costs.",
+      "\u2022 Local commemorations may be better handled at state level."
+    ]
+  },
+  "119/hr/7757": {
+    "pros": [
+      "\u2022 Addresses important issues related to child safety and welfare.",
+      "\u2022 Provides a focused framework for protecting children."
+    ],
+    "cons": [
+      "\u2022 Broad acronym title leaves specific provisions unclear.",
+      "\u2022 May overlap with existing child protection laws and programs."
+    ]
+  },
+  "119/hr/7813": {
+    "pros": [
+      "\u2022 Modernizes aging NOAA weather radio infrastructure.",
+      "\u2022 Improves public access to life-saving weather alerts."
+    ],
+    "cons": [
+      "\u2022 Requires federal funding for equipment upgrades and maintenance.",
+      "\u2022 Mobile alerts may already reduce the need for radio systems."
+    ]
+  },
+  "119/hr/2565": {
+    "pros": [
+      "\u2022 Eliminates federal taxes on employee performance bonuses.",
+      "\u2022 Puts more money directly into workers' pockets."
+    ],
+    "cons": [
+      "\u2022 Reduces federal revenue without a corresponding spending cut.",
+      "\u2022 Primarily benefits higher-income workers who receive bonuses."
+    ]
+  },
+  "119/hr/8955": {
+    "pros": [
+      "\u2022 Increases transparency in how taxpayer dollars are spent.",
+      "\u2022 Promotes bipartisan accountability in federal budgeting."
+    ],
+    "cons": [
+      "\u2022 May add bureaucratic reporting requirements without reducing waste.",
+      "\u2022 Transparency measures alone do not guarantee actual savings."
+    ]
+  },
+  "119/sres/715": {
+    "pros": [
+      "\u2022 Reaffirms U.S. commitment to global press freedom.",
+      "\u2022 Highlights dangers journalists face in conflict zones."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution does not provide new protections.",
+      "\u2022 May be seen as symbolic without meaningful diplomatic action."
+    ]
+  },
+  "119/hr/2695": {
+    "pros": [
+      "\u2022 Reauthorizes funding for community-based recovery programs.",
+      "\u2022 Supports local organizations helping people with addictions."
+    ],
+    "cons": [
+      "\u2022 Continued federal spending without proven program effectiveness.",
+      "\u2022 May duplicate services offered by state and local initiatives."
+    ]
+  },
+  "119/hres/1288": {
+    "pros": [
+      "\u2022 Raises awareness about scam victims and fraud prevention.",
+      "\u2022 Encourages support and resources for scam survivors."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution creates no new anti-fraud programs.",
+      "\u2022 Designating a day may have minimal real-world impact."
+    ]
   }
 }
