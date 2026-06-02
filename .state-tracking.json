@@ -40,15 +40,18 @@
     "PA",
     "RI",
     "SC",
+    "SD",
     "TN",
     "TX",
     "UT",
     "VA",
     "VT",
     "WA",
-    "WI"
+    "WI",
+    "WV",
+    "WY"
   ],
-  "last_run": "2026-06-02 - DE, ND, VT",
-  "bills_added": 1870,
-  "total_cache": 3872
+  "last_run": "2026-06-02 - SD, WV, WY (final states!)",
+  "bills_added": 1930,
+  "total_cache": 3932
 }
