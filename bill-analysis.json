@@ -163989,5 +163989,605 @@
       "Could reduce funding for essential public services and programs.",
       "May shift costs to state and local governments already strained."
     ]
+  },
+  "119/s/4094": {
+    "pros": [
+      "\u2022 Requires the Attorney General to recover improper payments made to the President.",
+      "\u2022 Directly targets potential misuse of taxpayer funds at the highest office."
+    ],
+    "cons": [
+      "\u2022 Could lead to politically motivated investigations against former presidents.",
+      "\u2022 May face legal challenges defining what constitutes a recoverable payment."
+    ]
+  },
+  "119/hres/835": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hres/962": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/s/3738": {
+    "pros": [
+      "Protects Americas natural heritage for future generations.",
+      "Promotes responsible stewardship of public lands and waters."
+    ],
+    "cons": [
+      "Could restrict economic activities like logging and mining.",
+      "May limit local communities access to natural resources."
+    ]
+  },
+  "119/s/2724": {
+    "pros": [
+      "\u2022 Protects victims of domestic violence by requiring agencies to honor address confidentiality.",
+      "\u2022 Ensures federal courts comply with state-level address privacy programs."
+    ],
+    "cons": [
+      "\u2022 May create administrative burdens for federal agencies and courts to implement.",
+      "\u2022 Could be exploited by individuals to shield addresses for fraudulent purposes."
+    ]
+  },
+  "119/hr/3930": {
+    "pros": [
+      "Invests in critical transportation infrastructure across the nation.",
+      "Improves safety and efficiency for commuters and commerce."
+    ],
+    "cons": [
+      "Major infrastructure projects often face cost overruns and delays.",
+      "Funding allocation may not prioritize the most critical projects."
+    ]
+  },
+  "119/hr/3303": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/4130": {
+    "pros": [
+      "Reduces regulatory burdens on Americas small business owners.",
+      "Helps small businesses grow and create local jobs."
+    ],
+    "cons": [
+      "Could reduce consumer protections in the name of deregulation.",
+      "May primarily benefit larger companies that can lobby effectively."
+    ]
+  },
+  "119/hr/5929": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/s/3410": {
+    "pros": [
+      "Invests in scientific research and technological innovation.",
+      "Strengthens Americas global competitiveness in key industries."
+    ],
+    "cons": [
+      "Research outcomes are uncertain and may not yield immediate returns.",
+      "Federal funding could crowd out private sector investment."
+    ]
+  },
+  "119/sres/374": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/s/1345": {
+    "pros": [
+      "\u2022 Expands tax credits for biomass stoves and boilers, encouraging renewable heating.",
+      "\u2022 Includes biomass heating appliances in the broader energy credit framework."
+    ],
+    "cons": [
+      "\u2022 Increases federal tax expenditures and forgone revenue from expanded credits.",
+      "\u2022 Biomass burning still produces particulate emissions harmful to air quality."
+    ]
+  },
+  "119/sjres/44": {
+    "pros": [
+      "Protects natural resources and combats climate change impacts.",
+      "Promotes clean energy innovation and environmental sustainability."
+    ],
+    "cons": [
+      "Could impose costly regulations on businesses and consumers.",
+      "May have unintended economic impacts on energy-dependent communities."
+    ]
+  },
+  "119/hr/6105": {
+    "pros": [
+      "\u2022 Revokes security clearances for ex-Defense personnel lobbying for China.",
+      "\u2022 Strengthens national security by closing a potential espionage loophole."
+    ],
+    "cons": [
+      "\u2022 May violate First Amendment rights by restricting former employees' lawful lobbying.",
+      "\u2022 Could be difficult to enforce without clear definitions of lobbying activities."
+    ]
+  },
+  "119/s/859": {
+    "pros": [
+      "\u2022 Tightens requirements for mining locatable minerals on public domain land.",
+      "\u2022 Aims to reduce waste, fraud, and abuse in hardrock mining operations."
+    ],
+    "cons": [
+      "\u2022 May reduce domestic mineral production and increase reliance on foreign sources.",
+      "\u2022 Could impose costly compliance burdens on small-scale mining operations."
+    ]
+  },
+  "119/s/1818": {
+    "pros": [
+      "\u2022 Ties US drug prices to lower median prices available in other countries.",
+      "\u2022 Directly targets government-granted monopolies that drive up prescription costs."
+    ],
+    "cons": [
+      "\u2022 Could reduce pharmaceutical companies' incentive to invest in new drug research.",
+      "\u2022 May lead to drug shortages if manufacturers refuse to sell at lower prices."
+    ]
+  },
+  "119/s/1388": {
+    "pros": [
+      "\u2022 Requires CFIUS review of greenfield and brownfield investments from adversarial nations.",
+      "\u2022 Closes gaps in foreign investment screening that could threaten national security."
+    ],
+    "cons": [
+      "\u2022 May deter legitimate foreign investment and harm the US economy.",
+      "\u2022 Adds bureaucratic delays to business investments without clear security benefits."
+    ]
+  },
+  "119/hr/5498": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/s/3151": {
+    "pros": [
+      "\u2022 Prevents lapses in the National Flood Insurance Program with automatic extensions.",
+      "\u2022 Ensures continuous flood insurance coverage for homeowners in flood-prone areas."
+    ],
+    "cons": [
+      "\u2022 Reduces congressional accountability by making program extensions automatic.",
+      "\u2022 Does not address the underlying financial insolvency of the flood insurance program."
+    ]
+  },
+  "119/s/919": {
+    "pros": [
+      "\u2022 Establishes a federal regulatory framework for payment stablecoins.",
+      "\u2022 Provides legal clarity for stablecoin issuers and protects consumers."
+    ],
+    "cons": [
+      "\u2022 May impose regulatory costs that stifle innovation in digital payments.",
+      "\u2022 Could create a federal preemption that undermines stronger state-level consumer protections."
+    ]
+  },
+  "119/hr/2850": {
+    "pros": [
+      "\u2022 Expands eligibility for federal grants to include youth sports facilities.",
+      "\u2022 Supports community recreation and youth development through improved sports infrastructure."
+    ],
+    "cons": [
+      "\u2022 May divert economic development funds away from job creation and business growth.",
+      "\u2022 Risks funding sports facilities in wealthy areas that do not need federal aid."
+    ]
+  },
+  "119/hr/5597": {
+    "pros": [
+      "\u2022 Establishes a commission to advance bioenergy with carbon capture and storage.",
+      "\u2022 Supports development of negative-emissions technology within the Department of Agriculture."
+    ],
+    "cons": [
+      "\u2022 Creates a new federal commission that adds bureaucratic overhead.",
+      "\u2022 Bioenergy with carbon capture remains unproven at commercial scale."
+    ]
+  },
+  "119/hr/7456": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/hr/1163": {
+    "pros": [
+      "\u2022 Requires greater transparency for federal regulatory decisions affecting small businesses.",
+      "\u2022 Helps small businesses understand and comply with complex federal regulations."
+    ],
+    "cons": [
+      "\u2022 Could slow down federal rulemaking by adding new transparency requirements.",
+      "\u2022 May create additional paperwork burdens for regulatory agencies."
+    ]
+  },
+  "119/hr/3284": {
+    "pros": [
+      "Strengthens Americas position in international affairs.",
+      "Protects national security interests abroad."
+    ],
+    "cons": [
+      "Could escalate tensions with foreign nations unnecessarily.",
+      "May commit US resources without clear exit strategies."
+    ]
+  },
+  "119/hr/6054": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/sres/419": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/3999": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
+  },
+  "119/hr/2617": {
+    "pros": [
+      "\u2022 Prevents federal education funds from being used to teach gender ideology concepts.",
+      "\u2022 Allows parents and local school boards to control controversial classroom content."
+    ],
+    "cons": [
+      "\u2022 Restricts academic freedom and teachers' ability to discuss gender topics.",
+      "\u2022 Could create confusion over what constitutes advancing gender ideology in classrooms."
+    ]
+  },
+  "119/hres/318": {
+    "pros": [
+      "Reduces regulatory burdens on Americas small business owners.",
+      "Helps small businesses grow and create local jobs."
+    ],
+    "cons": [
+      "Could reduce consumer protections in the name of deregulation.",
+      "May primarily benefit larger companies that can lobby effectively."
+    ]
+  },
+  "119/sjres/128": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/2376": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/sres/402": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/3221": {
+    "pros": [
+      "\u2022 Expands E-1 and E-2 treaty visa eligibility to nationals of Iceland.",
+      "\u2022 Promotes reciprocal investment and trade between the US and Iceland."
+    ],
+    "cons": [
+      "\u2022 Provides only a marginal economic benefit given Iceland's small population.",
+      "\u2022 Could set a precedent for other small nations to demand similar visa treatment."
+    ]
+  },
+  "119/hr/8236": {
+    "pros": [
+      "\u2022 Designates CAIR and its chapters as Specially Designated Global Terrorists.",
+      "\u2022 Targets organizations alleged to have ties to Hamas-affiliated activities."
+    ],
+    "cons": [
+      "\u2022 Raises serious First Amendment and religious freedom concerns for American Muslims.",
+      "\u2022 Could face legal challenges if CAIR is not shown to directly support terrorism."
+    ]
+  },
+  "119/hr/7444": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/sres/588": {
+    "pros": [
+      "Protects Americas natural heritage for future generations.",
+      "Promotes responsible stewardship of public lands and waters."
+    ],
+    "cons": [
+      "Could restrict economic activities like logging and mining.",
+      "May limit local communities access to natural resources."
+    ]
+  },
+  "119/hres/770": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
+  },
+  "119/s/1883": {
+    "pros": [
+      "\u2022 Mandates a whole-of-government strategy to counter China-Russia-Iran-North Korea cooperation.",
+      "\u2022 Addresses growing coordination among the four foremost US adversaries."
+    ],
+    "cons": [
+      "\u2022 Requires significant interagency resources without guaranteed measurable outcomes.",
+      "\u2022 Could escalate tensions with these nations and provoke retaliatory actions."
+    ]
+  },
+  "119/hr/7055": {
+    "pros": [
+      "\u2022 Reauthorizes sanctions and conditions on Nicaragua for human rights violations.",
+      "\u2022 Reinforces US opposition to democratic backsliding under the Ortega regime."
+    ],
+    "cons": [
+      "\u2022 Reauthorizes existing sanctions that have not yet changed Nicaraguan behavior.",
+      "\u2022 Could harm Nicaraguan civilians more than the regime it targets."
+    ]
+  },
+  "119/s/2031": {
+    "pros": [
+      "\u2022 Prohibits noncompete agreements that restrict worker mobility across industries.",
+      "\u2022 Allows employees to change jobs freely and negotiate better wages."
+    ],
+    "cons": [
+      "\u2022 May reduce companies' willingness to invest in employee training and development.",
+      "\u2022 Could make it harder for businesses to protect trade secrets and client relationships."
+    ]
+  },
+  "119/hr/7249": {
+    "pros": [
+      "\u2022 Strengthens bond requirements for mine operators to ensure reclamation is funded.",
+      "\u2022 Reduces taxpayer risk of paying for abandoned mine cleanup."
+    ],
+    "cons": [
+      "\u2022 Higher bond costs could force smaller mining operations out of business.",
+      "\u2022 May reduce domestic coal production and associated jobs."
+    ]
+  },
+  "119/hr/760": {
+    "pros": [
+      "Expands protections and opportunities for Americans with disabilities.",
+      "Removes barriers to participation in daily life and employment."
+    ],
+    "cons": [
+      "Compliance costs may burden small businesses and organizations.",
+      "Implementation may require additional federal oversight."
+    ]
+  },
+  "119/s/3228": {
+    "pros": [
+      "\u2022 Clarifies regulation of controlled substance analogues imported or offered for import.",
+      "\u2022 Helps Customs and DEA intercept new synthetic drugs before they reach users."
+    ],
+    "cons": [
+      "\u2022 Could sweep in legitimate research chemicals and dietary supplements.",
+      "\u2022 May create enforcement challenges distinguishing analogues from legal substances."
+    ]
+  },
+  "119/s/1800": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hr/6766": {
+    "pros": [
+      "\u2022 Requires nursing homes to permit essential caregivers during restricted visitation.",
+      "\u2022 Protects residents' right to family involvement in their care and well-being."
+    ],
+    "cons": [
+      "\u2022 Could complicate infection control protocols in skilled nursing facilities.",
+      "\u2022 May create staffing burdens to screen and manage essential caregiver access."
+    ]
+  },
+  "119/hr/4800": {
+    "pros": [
+      "\u2022 Extends fishery disaster relief eligibility to freshwater fisheries.",
+      "\u2022 Provides a safety net for inland fishing communities hit by environmental disasters."
+    ],
+    "cons": [
+      "\u2022 Expands federal disaster relief beyond traditional marine fisheries scope.",
+      "\u2022 Could strain relief fund resources meant primarily for coastal fishing communities."
+    ]
+  },
+  "119/hr/6290": {
+    "pros": [
+      "\u2022 Directs the FTC to study the effects of social media on teenagers.",
+      "\u2022 Provides data to inform future regulation of social media platforms."
+    ],
+    "cons": [
+      "\u2022 Only mandates a study without any direct protections for teenagers.",
+      "\u2022 Could delay meaningful action while the FTC conducts its research."
+    ]
+  },
+  "119/sres/646": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hr/3875": {
+    "pros": [
+      "\u2022 Requires online platforms to disclose acceptable use policies transparently.",
+      "\u2022 Gives users written notice before account termination and annual enforcement reports."
+    ],
+    "cons": [
+      "\u2022 Could increase operational costs for smaller online service providers.",
+      "\u2022 May encourage platforms to write vague policies to avoid compliance issues."
+    ]
+  },
+  "119/s/3278": {
+    "pros": [
+      "Invests in Americas roads, bridges, and public infrastructure.",
+      "Creates jobs and stimulates economic growth through construction."
+    ],
+    "cons": [
+      "Large infrastructure projects often exceed budget estimates.",
+      "Funding sources may not be sustainable over the long term."
+    ]
+  },
+  "119/hr/7208": {
+    "pros": [
+      "\u2022 Assesses vulnerabilities in the electric grid from Internet-connected devices.",
+      "\u2022 Helps identify cybersecurity risks before adversaries can exploit them."
+    ],
+    "cons": [
+      "\u2022 Only requires a report without mandating any grid security improvements.",
+      "\u2022 Could produce classified findings that are not shared with the public."
+    ]
+  },
+  "119/hr/7074": {
+    "pros": [
+      "\u2022 Adds the Interior Secretary to CFIUS to review foreign land purchases near sensitive sites.",
+      "\u2022 Protects public lands and military installations from foreign adversarial ownership."
+    ],
+    "cons": [
+      "\u2022 Adds bureaucracy to CFIUS without expanding its actual enforcement powers.",
+      "\u2022 May delay routine foreign investments near broadly-defined sensitive areas."
+    ]
+  },
+  "119/s/3303": {
+    "pros": [
+      "\u2022 Creates a pilot program for a community integration platform to serve veterans.",
+      "\u2022 Requires collecting social determinants of health data to improve VA services."
+    ],
+    "cons": [
+      "\u2022 Pilot programs may not scale effectively to all VA facilities nationwide.",
+      "\u2022 Collecting social determinant data raises veteran privacy concerns."
+    ]
+  },
+  "119/hr/8162": {
+    "pros": [
+      "Reduces bureaucratic red tape for businesses and individuals.",
+      "Streamlines compliance processes without sacrificing safety."
+    ],
+    "cons": [
+      "Could weaken important consumer and environmental protections.",
+      "May create loopholes that benefit well-connected industries."
+    ]
+  },
+  "119/hr/8970": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hres/247": {
+    "pros": [
+      "Protects Americas natural heritage for future generations.",
+      "Promotes responsible stewardship of public lands and waters."
+    ],
+    "cons": [
+      "Could restrict economic activities like logging and mining.",
+      "May limit local communities access to natural resources."
+    ]
+  },
+  "119/hr/4454": {
+    "pros": [
+      "\u2022 Prohibits certain foreign countries from buying property near sensitive US sites.",
+      "\u2022 Addresses national security risks of foreign-owned land near military bases."
+    ],
+    "cons": [
+      "\u2022 Could discourage all foreign investment near designated sensitive areas.",
+      "\u2022 Defining sensitive sites broadly may create vast restricted zones."
+    ]
+  },
+  "119/hr/4256": {
+    "pros": [
+      "\u2022 Reauthorizes the Digital Coast program that provides coastal data and tools.",
+      "\u2022 Supports coastal management, resilience planning, and environmental research."
+    ],
+    "cons": [
+      "\u2022 Continues federal spending on a program without evidence of effectiveness.",
+      "\u2022 May duplicate data already available from other federal or state sources."
+    ]
+  },
+  "119/hr/3168": {
+    "pros": [
+      "\u2022 Reauthorizes the National Earthquake Hazards Reduction Program for research and preparedness.",
+      "\u2022 Supports earthquake monitoring and mitigation efforts in seismically active regions."
+    ],
+    "cons": [
+      "\u2022 Reauthorizes an existing program without reforms to improve its effectiveness.",
+      "\u2022 Allocates federal funds to earthquake research in low-risk areas."
+    ]
   }
 }
