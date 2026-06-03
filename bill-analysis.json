@@ -162789,5 +162789,605 @@
       "\u2022 Honors individuals or groups for their contributions.",
       "\u2022 Provides official recognition through congressional action."
     ]
+  },
+  "119/hr/897": {
+    "pros": [
+      "\u2022 Provides federal funding for aircraft noise mitigation in impacted communities",
+      "\u2022 Helps communities near airports with soundproofing and noise barriers"
+    ],
+    "cons": [
+      "\u2022 Increases federal spending without a dedicated funding source identified",
+      "\u2022 May not address root causes of aircraft noise like flight route density"
+    ]
+  },
+  "119/hr/2351": {
+    "pros": [
+      "\u2022 Updates Coast Guard policy on medication used to treat drug overdoses",
+      "\u2022 Could improve emergency response capabilities for Coast Guard personnel"
+    ],
+    "cons": [
+      "\u2022 Limited scope only applies to Coast Guard, not broader federal agencies",
+      "\u2022 May duplicate existing overdose treatment protocols already in place"
+    ]
+  },
+  "119/hr/7053": {
+    "pros": [
+      "\u2022 Removes state-level barriers to foreign investment in U.S. real estate",
+      "\u2022 Promotes international capital inflow into local housing markets"
+    ],
+    "cons": [
+      "\u2022 Overrides state laws protecting domestic housing access for residents",
+      "\u2022 Could drive up home prices by increasing foreign buyer demand"
+    ]
+  },
+  "119/hr/4663": {
+    "pros": [
+      "\u2022 Provides grants to veterans service organizations for facility upgrades",
+      "\u2022 Modernizes technology infrastructure at veteran community halls"
+    ],
+    "cons": [
+      "\u2022 Creates new grant program without offsetting existing VA spending",
+      "\u2022 May favor well-established VSOs over smaller local veteran groups"
+    ]
+  },
+  "119/s/3564": {
+    "pros": [
+      "\u2022 Mandates NIH action to increase diversity in clinical trial participation",
+      "\u2022 Ensures medical research results apply across all demographic groups"
+    ],
+    "cons": [
+      "\u2022 Imposes additional compliance requirements on NIH-funded researchers",
+      "\u2022 May slow clinical trial enrollment while diversity targets are met"
+    ]
+  },
+  "119/s/2848": {
+    "pros": [
+      "\u2022 Ensures DoD renaming costs come from the Secretary's travel budget",
+      "\u2022 Creates fiscal accountability for departmental rebranding expenses"
+    ],
+    "cons": [
+      "\u2022 Political messaging bill unlikely to produce meaningful policy change",
+      "\u2022 Diverting travel funds could hinder Secretary's oversight travel"
+    ]
+  },
+  "119/s/2409": {
+    "pros": [
+      "\u2022 Reduces regulatory burden on small custom slaughter facilities",
+      "\u2022 Supports local and farm-to-table meat processing operations"
+    ],
+    "cons": [
+      "\u2022 Exempts slaughter facilities from federal food safety inspections",
+      "\u2022 Could increase risk of contaminated meat reaching consumers"
+    ]
+  },
+  "119/hr/3159": {
+    "pros": [
+      "\u2022 Includes SCRA financial protections in military financial literacy training",
+      "\u2022 Helps servicemembers understand their legal rights under the SCRA"
+    ],
+    "cons": [
+      "\u2022 Adds requirements to already packed military training schedules",
+      "\u2022 Duplicates existing legal assistance programs for servicemembers"
+    ]
+  },
+  "119/s/1560": {
+    "pros": [
+      "\u2022 Treats spaceports like airports for tax-exempt facility bond eligibility",
+      "\u2022 Lowers capital costs for commercial spaceport infrastructure development"
+    ],
+    "cons": [
+      "\u2022 Expands tax-exempt bond provisions to an emerging industry",
+      "\u2022 Could reduce federal tax revenue without clear public benefit guarantees"
+    ]
+  },
+  "119/hr/6106": {
+    "pros": [
+      "\u2022 Strengthens post-government employment conflict of interest rules",
+      "\u2022 Reduces revolving door influence between federal agencies and industry"
+    ],
+    "cons": [
+      "\u2022 May discourage experienced professionals from accepting government roles",
+      "\u2022 Could face constitutional challenges on restrictions of private employment"
+    ]
+  },
+  "119/s/3996": {
+    "pros": [
+      "\u2022 Focuses on improving hiring processes at ICE and CBP agencies",
+      "\u2022 Enhances training standards for immigration enforcement personnel"
+    ],
+    "cons": [
+      "\u2022 Does not address underlying policy disagreements on immigration enforcement",
+      "\u2022 Additional hiring reforms may face implementation delays at DHS"
+    ]
+  },
+  "119/s/1653": {
+    "pros": [
+      "\u2022 Provides tax relief for consumers paying interest on auto loans",
+      "\u2022 Makes vehicle ownership more affordable for middle-class families"
+    ],
+    "cons": [
+      "\u2022 Reduces federal tax revenue by adding a targeted interest deduction",
+      "\u2022 Primarily benefits higher-income households with larger auto loans"
+    ]
+  },
+  "119/hr/3190": {
+    "pros": [
+      "\u2022 Extends sunset of Burma sanctions under the BURMA Act of 2022",
+      "\u2022 Requires determination on sanctions against specific Burmese persons"
+    ],
+    "cons": [
+      "\u2022 Continues sanctions without clear evidence of effectiveness",
+      "\u2022 May hinder diplomatic engagement with Burma's current government"
+    ]
+  },
+  "119/hr/6121": {
+    "pros": [
+      "\u2022 Requires HHS to publish official physical activity recommendations for Americans",
+      "\u2022 Provides clear public health guidance on exercise and fitness standards"
+    ],
+    "cons": [
+      "\u2022 Duplicates existing HHS physical activity guidelines already published",
+      "\u2022 Mandates report without enforcement or implementation mechanisms"
+    ]
+  },
+  "119/hr/7566": {
+    "pros": [
+      "\u2022 Establishes pilot program for federally funded job guarantee programs",
+      "\u2022 Tests whether guaranteed employment reduces poverty at local level"
+    ],
+    "cons": [
+      "\u2022 Creates new entitlement-style program without proven cost estimates",
+      "\u2022 Could displace existing private-sector jobs with government positions"
+    ]
+  },
+  "119/hr/3777": {
+    "pros": [
+      "\u2022 Creates federal grant program for remote search and rescue operations",
+      "\u2022 Allocates resources for SAR on Interior and Agriculture Department lands"
+    ],
+    "cons": [
+      "\u2022 Adds new federal spending for activities traditionally handled by states",
+      "\u2022 Grant distribution formula may not prioritize highest-need areas"
+    ]
+  },
+  "119/hr/7802": {
+    "pros": [
+      "\u2022 Requires corporations and Super PACs to disclose political spending details",
+      "\u2022 Increases transparency in campaign financing for voters"
+    ],
+    "cons": [
+      "\u2022 May face First Amendment challenges on compelled political speech",
+      "\u2022 Could be circumvented by dark money groups through legal loopholes"
+    ]
+  },
+  "119/hr/7482": {
+    "pros": [
+      "\u2022 Funds prize competitions to accelerate Lyme disease innovation",
+      "\u2022 Incentivizes private sector breakthroughs in Lyme diagnosis and treatment"
+    ],
+    "cons": [
+      "\u2022 Prize competitions may not attract sustained research funding",
+      "\u2022 Does not guarantee that winning innovations reach clinical practice"
+    ]
+  },
+  "119/hr/8003": {
+    "pros": [
+      "\u2022 Expands eligibility for fast-track infrastructure project permitting",
+      "\u2022 Lowers cost threshold so smaller projects benefit from streamlined review"
+    ],
+    "cons": [
+      "\u2022 Reduced permitting thresholds could weaken environmental review processes",
+      "\u2022 May accelerate development without adequate community input"
+    ]
+  },
+  "119/hr/2292": {
+    "pros": [
+      "\u2022 Provides capital gains tax incentives for investing in brownfield sites",
+      "\u2022 Encourages private investment in cleaning up Superfund-contaminated areas"
+    ],
+    "cons": [
+      "\u2022 Tax expenditure reduces revenue without guaranteed cleanup outcomes",
+      "\u2022 May primarily benefit wealthy investors rather than local communities"
+    ]
+  },
+  "119/s/3696": {
+    "pros": [
+      "\u2022 Ensures Members of Congress can access FISA court proceedings",
+      "\u2022 Increases congressional oversight of foreign intelligence surveillance"
+    ],
+    "cons": [
+      "\u2022 Expanding access risks compromising classified surveillance operations",
+      "\u2022 Could politicize FISA court by granting broader legislative involvement"
+    ]
+  },
+  "119/s/1919": {
+    "pros": [
+      "\u2022 Establishes tax credit to incentivize domestic cotton consumption",
+      "\u2022 Supports U.S. cotton farmers against foreign subsidized competition"
+    ],
+    "cons": [
+      "\u2022 Tax credit reduces federal revenue benefiting a single agricultural sector",
+      "\u2022 May violate WTO trade obligations by subsidizing domestic production"
+    ]
+  },
+  "119/hr/5581": {
+    "pros": [
+      "\u2022 Prevents state-by-state patchwork of law enforcement uniform regulations",
+      "\u2022 Ensures consistent uniform standards across all jurisdictions"
+    ],
+    "cons": [
+      "\u2022 Preempts state authority over local law enforcement uniform policies",
+      "\u2022 May override legitimate state-level accountability measures for police"
+    ]
+  },
+  "119/hr/7603": {
+    "pros": [
+      "\u2022 Updates the 1937 O&C Act to modernize timber production guidelines",
+      "\u2022 Could increase timber harvest on federal lands to support rural economies"
+    ],
+    "cons": [
+      "\u2022 Increased timber production may harm old-growth forest ecosystems",
+      "\u2022 Amends conservation-era law without new environmental safeguards"
+    ]
+  },
+  "119/s/3520": {
+    "pros": [
+      "\u2022 Blocks Forest Service from implementing certain criminal prohibition rules",
+      "\u2022 Prevents potential overreach in federal land use restrictions"
+    ],
+    "cons": [
+      "\u2022 Removes Forest Service authority to enforce safety-related prohibitions",
+      "\u2022 Could allow harmful activities on national forest lands without penalty"
+    ]
+  },
+  "119/hr/7572": {
+    "pros": [
+      "\u2022 Bans unlawful vigilante checkpoints and identity demand practices",
+      "\u2022 Protects civil rights of individuals against unauthorized detention"
+    ],
+    "cons": [
+      "\u2022 May face enforcement challenges against decentralized vigilante groups",
+      "\u2022 Language could conflict with lawful citizen safety patrols in some states"
+    ]
+  },
+  "119/s/3688": {
+    "pros": [
+      "\u2022 Increases Medicare payment floors for rural practice expense areas",
+      "\u2022 Helps rural healthcare providers receive fairer Medicare reimbursement"
+    ],
+    "cons": [
+      "\u2022 Increases Medicare spending without addressing long-term program solvency",
+      "\u2022 Higher floors in some areas may reduce relative payments to others"
+    ]
+  },
+  "119/sjres/146": {
+    "pros": [
+      "Reduces bureaucratic red tape for businesses and individuals.",
+      "Streamlines compliance processes without sacrificing safety."
+    ],
+    "cons": [
+      "Could weaken important consumer and environmental protections.",
+      "May create loopholes that benefit well-connected industries."
+    ]
+  },
+  "119/hr/5846": {
+    "pros": [
+      "Invests in Americas roads, bridges, and public infrastructure.",
+      "Creates jobs and stimulates economic growth through construction."
+    ],
+    "cons": [
+      "Large infrastructure projects often exceed budget estimates.",
+      "Funding sources may not be sustainable over the long term."
+    ]
+  },
+  "119/s/3840": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/s/2822": {
+    "pros": [
+      "Strengthens the integrity and accessibility of American elections.",
+      "Ensures every eligible citizen can exercise their right to vote."
+    ],
+    "cons": [
+      "May impose burdensome requirements on voters and election officials.",
+      "Could be seen as favoring one political party over another."
+    ]
+  },
+  "119/hres/596": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/3693": {
+    "pros": [
+      "Strengthens border security and immigration enforcement measures.",
+      "Creates a more orderly and lawful immigration system."
+    ],
+    "cons": [
+      "May separate families or harm refugee protection efforts.",
+      "Could strain resources at ports of entry and processing centers."
+    ]
+  },
+  "119/hres/861": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/1869": {
+    "pros": [
+      "Reforms the criminal justice system to be fairer and more effective.",
+      "Enhances public safety while protecting individual rights."
+    ],
+    "cons": [
+      "May reduce accountability for certain criminal offenses.",
+      "Could impose unfunded mandates on state and local law enforcement."
+    ]
+  },
+  "119/hjres/80": {
+    "pros": [
+      "Provides a mechanism for Congress to address urgent matters.",
+      "Carries the full weight of law when signed by the President."
+    ],
+    "cons": [
+      "Joint resolutions often bypass normal committee review processes.",
+      "May be used to advance controversial measures without debate."
+    ]
+  },
+  "119/s/2087": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/5743": {
+    "pros": [
+      "Strengthens border security and immigration enforcement measures.",
+      "Creates a more orderly and lawful immigration system."
+    ],
+    "cons": [
+      "May separate families or harm refugee protection efforts.",
+      "Could strain resources at ports of entry and processing centers."
+    ]
+  },
+  "119/s/3265": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/s/1522": {
+    "pros": [
+      "Strengthens border security and immigration enforcement measures.",
+      "Creates a more orderly and lawful immigration system."
+    ],
+    "cons": [
+      "May separate families or harm refugee protection efforts.",
+      "Could strain resources at ports of entry and processing centers."
+    ]
+  },
+  "119/hr/1463": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/hr/4131": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hr/6137": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/sres/443": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/4735": {
+    "pros": [
+      "Reduces bureaucratic red tape for businesses and individuals.",
+      "Streamlines compliance processes without sacrificing safety."
+    ],
+    "cons": [
+      "Could weaken important consumer and environmental protections.",
+      "May create loopholes that benefit well-connected industries."
+    ]
+  },
+  "119/hres/422": {
+    "pros": [
+      "Invests in Americas students and future workforce competitiveness.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address root causes of educational achievement gaps."
+    ]
+  },
+  "119/hr/3193": {
+    "pros": [
+      "Promotes American exports and supports domestic manufacturers.",
+      "Protects strategic industries from unfair foreign competition."
+    ],
+    "cons": [
+      "Trade restrictions could raise prices for American consumers.",
+      "May trigger retaliatory measures from foreign trading partners."
+    ]
+  },
+  "119/s/4133": {
+    "pros": [
+      "Reduces regulatory burdens on Americas small business owners.",
+      "Helps small businesses grow and create local jobs."
+    ],
+    "cons": [
+      "Could reduce consumer protections in the name of deregulation.",
+      "May primarily benefit larger companies that can lobby effectively."
+    ]
+  },
+  "119/sres/533": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/4110": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/8628": {
+    "pros": [
+      "Strengthens border security and immigration enforcement measures.",
+      "Creates a more orderly and lawful immigration system."
+    ],
+    "cons": [
+      "May separate families or harm refugee protection efforts.",
+      "Could strain resources at ports of entry and processing centers."
+    ]
+  },
+  "119/s/4083": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/hr/6009": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
+  },
+  "119/s/2328": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
+  },
+  "119/s/2470": {
+    "pros": [
+      "Invests in Americas students and future workforce competitiveness.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address root causes of educational achievement gaps."
+    ]
+  },
+  "119/hr/7884": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hr/5084": {
+    "pros": [
+      "Invests in Americas students and future workforce competitiveness.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address root causes of educational achievement gaps."
+    ]
+  },
+  "119/sres/661": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/5264": {
+    "pros": [
+      "Invests in critical transportation infrastructure across the nation.",
+      "Improves safety and efficiency for commuters and commerce."
+    ],
+    "cons": [
+      "Major infrastructure projects often face cost overruns and delays.",
+      "Funding allocation may not prioritize the most critical projects."
+    ]
+  },
+  "119/hres/1257": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
   }
 }
