@@ -161169,5 +161169,505 @@
       "Could reduce funding for essential public services and programs.",
       "May shift costs to state and local governments already strained."
     ]
+  },
+  "112/hr/2992": {
+    "pros": [
+      "\u2022 Strengthens Taiwan's self-defense capacity against Chinese military expansion.",
+      "\u2022 Fulfills U.S. statutory obligations under the Taiwan Relations Act."
+    ],
+    "cons": [
+      "\u2022 Could escalate tensions with China and strain bilateral relations.",
+      "\u2022 May provoke a regional arms race in East Asia."
+    ]
+  },
+  "112/hr/5857": {
+    "pros": [
+      "\u2022 Provides funding for diplomatic operations and foreign aid programs.",
+      "\u2022 Supports U.S. national security interests through foreign assistance."
+    ],
+    "cons": [
+      "\u2022 Increases federal spending and adds to the national debt.",
+      "\u2022 Some foreign aid allocations may lack sufficient oversight."
+    ]
+  },
+  "112/hr/636": {
+    "pros": [
+      "\u2022 Repeals unpopular individual mandate requirements from the ACA.",
+      "\u2022 Reduces federal regulation of the health insurance market."
+    ],
+    "cons": [
+      "\u2022 Eliminates coverage protections for pre-existing conditions.",
+      "\u2022 Would increase the number of uninsured Americans."
+    ]
+  },
+  "112/hr/912": {
+    "pros": [
+      "\u2022 Expands access to colorectal cancer screening and early detection.",
+      "\u2022 Provides federal grants to states and tribes for prevention programs."
+    ],
+    "cons": [
+      "\u2022 Creates a new federal grant program increasing government spending.",
+      "\u2022 May duplicate existing state-level cancer prevention efforts."
+    ]
+  },
+  "112/hres/295": {
+    "pros": [
+      "\u2022 Encourages better quality measures for atrial fibrillation care.",
+      "\u2022 Aims to reduce preventable hospitalizations from the condition."
+    ],
+    "cons": [
+      "\u2022 Non-binding resolution that does not mandate any changes.",
+      "\u2022 Lacks specific funding or enforcement mechanisms."
+    ]
+  },
+  "113/hr/2855": {
+    "pros": [
+      "\u2022 Funds diplomatic operations and foreign assistance programs.",
+      "\u2022 Supports international development and security initiatives."
+    ],
+    "cons": [
+      "\u2022 Adds billions to federal spending without offsetting cuts.",
+      "\u2022 Some foreign aid programs may lack measurable outcomes."
+    ]
+  },
+  "113/hr/3323": {
+    "pros": [
+      "\u2022 Establishes a dedicated bureau for vulnerable children abroad.",
+      "\u2022 Promotes international child welfare and family-based care."
+    ],
+    "cons": [
+      "\u2022 Creates a new federal bureaucracy increasing administrative costs.",
+      "\u2022 May infringe on foreign nations' child welfare sovereignty."
+    ]
+  },
+  "113/hr/3658": {
+    "pros": [
+      "\u2022 Honors Monuments Men who protected cultural heritage during WWII.",
+      "\u2022 Provides a prestigious congressional gold medal recognition."
+    ],
+    "cons": [
+      "\u2022 Awarding gold medals has minimal practical policy impact.",
+      "\u2022 Uses congressional time for ceremonial rather than legislative matters."
+    ]
+  },
+  "113/hr/4143": {
+    "pros": [
+      "\u2022 Creates a State Department bureau focused on vulnerable children.",
+      "\u2022 Supports family-based care alternatives to institutionalization abroad."
+    ],
+    "cons": [
+      "\u2022 Expands federal bureaucracy without clear cost savings.",
+      "\u2022 May duplicate existing USAID child welfare programs."
+    ]
+  },
+  "113/hr/4474": {
+    "pros": [
+      "\u2022 Removes outdated terrorist designations for Kurdish political groups.",
+      "\u2022 Supports U.S. allies in the fight against ISIS in Iraq."
+    ],
+    "cons": [
+      "\u2022 Could allow individuals with violent pasts to enter the U.S.",
+      "\u2022 May strain relations with the central Iraqi government."
+    ]
+  },
+  "113/hr/5013": {
+    "pros": [
+      "\u2022 Funds State Department operations and foreign assistance programs.",
+      "\u2022 Supports diplomatic engagement and international security efforts."
+    ],
+    "cons": [
+      "\u2022 Increases federal discretionary spending significantly.",
+      "\u2022 Limited oversight on how foreign aid funds are spent."
+    ]
+  },
+  "116/hr/11": {
+    "pros": [
+      "\u2022 Provides tax incentives for research, development, and startups.",
+      "\u2022 Stimulates economic growth through small business support."
+    ],
+    "cons": [
+      "\u2022 Reduces federal revenue without corresponding spending cuts.",
+      "\u2022 Tax incentives may primarily benefit large corporations."
+    ]
+  },
+  "116/hr/2623": {
+    "pros": [
+      "\u2022 Treats search and rescue dogs like service animals in disasters.",
+      "\u2022 Ensures these dogs can stay with handlers during emergencies."
+    ],
+    "cons": [
+      "\u2022 May add administrative burden on disaster response agencies.",
+      "\u2022 Distinction between SAR dogs and other working animals is unclear."
+    ]
+  },
+  "116/hr/3246": {
+    "pros": [
+      "\u2022 Ensures consistent TSA screening for baby formula and breast milk.",
+      "\u2022 Protects traveling parents from inconsistent security procedures."
+    ],
+    "cons": [
+      "\u2022 Creates additional GAO reporting requirements for review.",
+      "\u2022 May not address broader TSA screening inconsistency issues."
+    ]
+  },
+  "116/hr/3934": {
+    "pros": [
+      "\u2022 Phases in a fairer funding formula for windfall elimination provision.",
+      "\u2022 Protects public servants from disproportionate Social Security cuts."
+    ],
+    "cons": [
+      "\u2022 Could increase Social Security costs over the long term.",
+      "\u2022 Phased approach delays full relief for affected retirees."
+    ]
+  },
+  "116/hr/3938": {
+    "pros": [
+      "\u2022 Expands veterans' preference eligibility to children of disabled vets.",
+      "\u2022 Honors military families by extending hiring benefits."
+    ],
+    "cons": [
+      "\u2022 May reduce merit-based hiring opportunities for non-veterans.",
+      "\u2022 Broadens eligibility beyond those directly affected by service."
+    ]
+  },
+  "116/hr/4214": {
+    "pros": [
+      "\u2022 Ensures housing assistance only goes to eligible individuals.",
+      "\u2022 Strengthens immigration status verification for federal programs."
+    ],
+    "cons": [
+      "\u2022 Could delay housing aid for eligible applicants during verification.",
+      "\u2022 May discourage eligible non-citizens from applying for aid."
+    ]
+  },
+  "116/hr/4514": {
+    "pros": [
+      "\u2022 Reauthorizes funding for child and family services through 2028.",
+      "\u2022 Supports safe and stable families through state grants."
+    ],
+    "cons": [
+      "\u2022 Increases federal spending without program reforms.",
+      "\u2022 Long-term reauthorization reduces congressional oversight."
+    ]
+  },
+  "116/hr/4602": {
+    "pros": [
+      "\u2022 Reauthorizes Promoting Safe and Stable Families Program.",
+      "\u2022 Provides multi-year funding certainty for child services."
+    ],
+    "cons": [
+      "\u2022 Adds to federal spending without structural improvements.",
+      "\u2022 Overlaps with other similar child welfare programs."
+    ]
+  },
+  "116/hr/4630": {
+    "pros": [
+      "\u2022 Reduces frequency of standardized testing in schools.",
+      "\u2022 Gives teachers more instructional time and less test prep."
+    ],
+    "cons": [
+      "\u2022 Reduces data available for measuring student achievement trends.",
+      "\u2022 May weaken accountability for underperforming schools."
+    ]
+  },
+  "116/hr/4677": {
+    "pros": [
+      "\u2022 Recognizes successful dual credit programs with annual awards.",
+      "\u2022 Encourages partnerships between high schools and colleges."
+    ],
+    "cons": [
+      "\u2022 Creates a new federal recognition program with no funding.",
+      "\u2022 May favor well-resourced schools over underserved ones."
+    ]
+  },
+  "116/hr/5394": {
+    "pros": [
+      "\u2022 Enhances DHS collaboration with state and local cybersecurity efforts.",
+      "\u2022 Strengthens defenses against cyber threats across all government levels."
+    ],
+    "cons": [
+      "\u2022 Expands federal role in local cybersecurity operations.",
+      "\u2022 May create unfunded mandates for state and local governments."
+    ]
+  },
+  "116/hr/5595": {
+    "pros": [
+      "\u2022 Protects Israel from international boycott movements.",
+      "\u2022 Prohibits U.S. entities from complying with UN or EU boycotts."
+    ],
+    "cons": [
+      "\u2022 May restrict free speech and political protest rights.",
+      "\u2022 Could complicate U.S. relations with international organizations."
+    ]
+  },
+  "116/hr/5846": {
+    "pros": [
+      "\u2022 Targets unfair Chinese export subsidy practices directly.",
+      "\u2022 Requires Treasury to develop a negotiation strategy on export credits."
+    ],
+    "cons": [
+      "\u2022 Could escalate trade tensions with China further.",
+      "\u2022 Lacks enforcement mechanisms if negotiations fail."
+    ]
+  },
+  "116/hr/6293": {
+    "pros": [
+      "\u2022 Provides COVID-19 best practice guidance for homeless populations.",
+      "\u2022 Helps protect vulnerable individuals during a public health crisis."
+    ],
+    "cons": [
+      "\u2022 Only requires guidance issuance without funding for implementation.",
+      "\u2022 May duplicate existing CDC public health guidance."
+    ]
+  },
+  "116/hr/7065": {
+    "pros": [
+      "\u2022 Ensures states establish a formal process for distributing COVID-19 relief to local governments.",
+      "\u2022 Increases transparency and accountability in how federal pandemic funds reach local communities."
+    ],
+    "cons": [
+      "\u2022 Adds a federal certification mandate that may delay relief reaching local governments.",
+      "\u2022 Does not specify minimum standards for what constitutes an adequate distribution process."
+    ]
+  },
+  "116/hr/7066": {
+    "pros": [
+      "\u2022 Provides continued financial support for workers who remain unemployed during the pandemic.",
+      "\u2022 Allows states flexibility to administer two $600 payments to eligible individuals."
+    ],
+    "cons": [
+      "\u2022 May reduce incentive for some workers to return to available jobs.",
+      "\u2022 Extends federal unemployment benefits without addressing state administrative capacity."
+    ]
+  },
+  "116/hr/7603": {
+    "pros": [
+      "\u2022 Increases congressional oversight of foreign investment reviews that may affect national security.",
+      "\u2022 Promotes transparency by requiring notice to Congress when CFIUS completes certain reviews."
+    ],
+    "cons": [
+      "\u2022 Could slow down time-sensitive foreign investment transactions.",
+      "\u2022 May expose confidential business information through congressional reporting requirements."
+    ]
+  },
+  "116/hr/7809": {
+    "pros": [
+      "\u2022 Helps commercial property owners avoid foreclosure during the COVID-19 economic downturn.",
+      "\u2022 Leverages federal guarantees to stabilize the commercial mortgage market."
+    ],
+    "cons": [
+      "\u2022 Shifts risk of commercial real estate losses onto taxpayers through Treasury guarantees.",
+      "\u2022 May primarily benefit larger property owners rather than small businesses."
+    ]
+  },
+  "116/hr/8201": {
+    "pros": [
+      "\u2022 Provides immediate payroll tax relief for workers during the COVID-19 economic crisis.",
+      "\u2022 Does not reduce future Social Security retirement benefit calculations for exempted workers."
+    ],
+    "cons": [
+      "\u2022 Reduces Social Security trust fund revenue without a replacement funding source.",
+      "\u2022 Offers only a temporary tax holiday rather than a permanent structural fix."
+    ]
+  },
+  "116/hr/8279": {
+    "pros": [
+      "\u2022 Positions the U.S. as a leader in emerging quantum network technology and infrastructure.",
+      "\u2022 Directs federal research resources toward advancing distributed quantum computing applications."
+    ],
+    "cons": [
+      "\u2022 May duplicate existing quantum research efforts at DOE and other federal agencies.",
+      "\u2022 Does not include specific commercialization milestones or private sector partnerships."
+    ]
+  },
+  "116/hr/8444": {
+    "pros": [
+      "\u2022 Seeks to improve coordination of health data standards across federal and state agencies.",
+      "\u2022 Leverages the National Academy of Medicine's expertise for an independent study."
+    ],
+    "cons": [
+      "\u2022 Only authorizes a study with no binding implementation requirements.",
+      "\u2022 May produce recommendations that duplicate existing health data standardization efforts."
+    ]
+  },
+  "116/hres/1093": {
+    "pros": [
+      "\u2022 Formally recognizes law enforcement officers for their service and community protection.",
+      "\u2022 Encourages dialogue between police and communities rather than defunding efforts."
+    ],
+    "cons": [
+      "\u2022 Lacks binding policy changes and serves primarily as a symbolic resolution.",
+      "\u2022 Does not address specific police reform or accountability measures sought by critics."
+    ]
+  },
+  "116/hres/832": {
+    "pros": [
+      "\u2022 Upholds the House's prerogative to address concerns about chamber decorum and procedure.",
+      "\u2022 Provides a formal mechanism for expressing disapproval of presiding officer conduct."
+    ],
+    "cons": [
+      "\u2022 Addresses a procedural dispute rather than substantive legislation affecting constituents.",
+      "\u2022 May be viewed as a partisan measure targeting the Speaker of the opposing party."
+    ]
+  },
+  "117/hconres/100": {
+    "pros": [
+      "\u2022 Reaffirms congressional authority over the establishment of diplomatic missions abroad.",
+      "\u2022 Expresses opposition to opening a Palestinian outreach consulate without legislative input."
+    ],
+    "cons": [
+      "\u2022 Is a non-binding concurrent resolution with no force of law.",
+      "\u2022 May hinder diplomatic flexibility in Middle East peace negotiations."
+    ]
+  },
+  "117/hconres/44": {
+    "pros": [
+      "\u2022 Promotes fiscal transparency through an annual hearing on government financial statements.",
+      "\u2022 Ensures congressional budget committees receive GAO audit findings on a regular schedule."
+    ],
+    "cons": [
+      "\u2022 Only requires a hearing with no requirement to act on the findings presented.",
+      "\u2022 Adds another hearing requirement to an already packed congressional calendar."
+    ]
+  },
+  "117/hconres/45": {
+    "pros": [
+      "\u2022 Calls for accountability and justice for the 1999 murders of three U.S. citizens in Serbia.",
+      "\u2022 Encourages continued U.S. monitoring of the Serbian legal proceedings."
+    ],
+    "cons": [
+      "\u2022 Is a non-binding resolution that does not mandate specific actions or resources.",
+      "\u2022 Addresses a narrow foreign policy issue from over two decades ago."
+    ]
+  },
+  "117/hjres/106": {
+    "pros": [
+      "\u2022 Imposes a constitutional limit on federal spending to prevent excessive deficits.",
+      "\u2022 Requires a supermajority to raise taxes, providing fiscal discipline."
+    ],
+    "cons": [
+      "\u2022 Could hamper the federal response during economic recessions or national emergencies.",
+      "\u2022 May lead to cuts in essential programs if spending hits the 18.5% GDP cap."
+    ]
+  },
+  "117/hr/1140": {
+    "pros": [
+      "\u2022 Protects individuals from being excluded from jury duty based on sexual orientation or gender identity.",
+      "\u2022 Ensures juries are more representative of the diverse communities they serve."
+    ],
+    "cons": [
+      "\u2022 May conflict with peremptory challenge practices that litigants historically rely upon.",
+      "\u2022 Does not address other forms of jury discrimination based on religion or disability."
+    ]
+  },
+  "117/hr/1241": {
+    "pros": [
+      "\u2022 Expands funding for community schools that provide wraparound services for at-risk children.",
+      "\u2022 Reauthorizes a proven program that integrates education with health and social services."
+    ],
+    "cons": [
+      "\u2022 Creates ongoing federal spending obligations without a clear sunset mechanism.",
+      "\u2022 May divert resources away from core academic instruction toward non-educational services."
+    ]
+  },
+  "117/hr/1273": {
+    "pros": [
+      "\u2022 Addresses a specific health risk unique to Vietnam veterans exposed to liver flukes.",
+      "\u2022 Directs the VA to conduct an epidemiological study on bile duct cancer prevalence."
+    ],
+    "cons": [
+      "\u2022 Only authorizes a study rather than providing direct healthcare or benefits to affected veterans.",
+      "\u2022 May overlap with existing VA research on service-connected cancers."
+    ]
+  },
+  "117/hr/1325": {
+    "pros": [
+      "\u2022 Allows coastal states to nominate offshore areas for oil and gas lease sales.",
+      "\u2022 Could increase domestic energy production and create jobs in the energy sector."
+    ],
+    "cons": [
+      "\u2022 May lead to increased offshore drilling with potential environmental consequences.",
+      "\u2022 Gives states authority that could conflict with federal environmental review processes."
+    ]
+  },
+  "117/hr/1476": {
+    "pros": [
+      "\u2022 Establishes peer-to-peer mental health support programs for veterans across the country.",
+      "\u2022 Provides grants to community organizations that understand local veteran needs."
+    ],
+    "cons": [
+      "\u2022 Creates a new federal grant program with ongoing administrative costs.",
+      "\u2022 May duplicate existing VA mental health services rather than filling a true gap."
+    ]
+  },
+  "117/hr/1478": {
+    "pros": [
+      "\u2022 Seeks to standardize health data collection practices across different government agencies.",
+      "\u2022 Engages the National Academy of Medicine to provide expert recommendations."
+    ],
+    "cons": [
+      "\u2022 Only commissions a study with no requirement to implement any recommendations.",
+      "\u2022 Does not provide funding for states to upgrade health data systems."
+    ]
+  },
+  "117/hr/1606": {
+    "pros": [
+      "\u2022 Studies the prevalence of child marriages and gaps in state minimum marriage age laws.",
+      "\u2022 Raises awareness about the issue of forced marriages involving minors."
+    ],
+    "cons": [
+      "\u2022 Only requires a study and report rather than establishing a federal minimum marriage age.",
+      "\u2022 May intrude on areas traditionally regulated by state family law."
+    ]
+  },
+  "117/hr/1866": {
+    "pros": [
+      "\u2022 Invests federal research dollars in next-generation quantum network infrastructure.",
+      "\u2022 Helps advance distributed quantum computing and secure communication networks."
+    ],
+    "cons": [
+      "\u2022 May duplicate research programs already authorized under the previous Congress.",
+      "\u2022 Does not specify how quantum network research translates into practical applications."
+    ]
+  },
+  "117/hr/1995": {
+    "pros": [
+      "\u2022 Makes alien gang members inadmissible and deportable, enhancing immigration enforcement.",
+      "\u2022 Allows revoking citizenship of naturalized individuals who join criminal gangs."
+    ],
+    "cons": [
+      "\u2022 Raises due process concerns about citizenship revocation without criminal conviction.",
+      "\u2022 May be overbroad in its definition of gang membership leading to unfair deportations."
+    ]
+  },
+  "117/hr/2188": {
+    "pros": [
+      "\u2022 Provides a one-time lump sum payment to eligible workers still unemployed from the pandemic.",
+      "\u2022 Gives states flexibility to administer the benefit through July 2021."
+    ],
+    "cons": [
+      "\u2022 Offers only a single payment rather than sustained income support for the unemployed.",
+      "\u2022 May encourage workers to remain on unemployment instead of seeking reemployment."
+    ]
+  },
+  "117/hr/2189": {
+    "pros": [
+      "\u2022 Restores state autonomy to enact tax cuts without losing federal COVID-19 relief funds.",
+      "\u2022 Removes a provision that penalized states for providing tax relief to their residents."
+    ],
+    "cons": [
+      "\u2022 Could reduce state revenue that might otherwise fund essential public services.",
+      "\u2022 May allow states to use federal relief funds to backfill tax cuts for wealthy individuals."
+    ]
+  },
+  "117/hr/2550": {
+    "pros": [
+      "\u2022 Directs GAO to review TSA screening consistency for baby formula and breast milk.",
+      "\u2022 Aims to improve the travel experience for parents with infants and young children."
+    ],
+    "cons": [
+      "\u2022 Only authorizes a review rather than mandating any changes to TSA screening procedures.",
+      "\u2022 Addresses a relatively narrow issue that primarily affects air travelers with infants."
+    ]
   }
 }
