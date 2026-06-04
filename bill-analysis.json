@@ -179779,5 +179779,47 @@
       "Could increase federal healthcare spending without addressing systemic reform.",
       "May have unintended effects on provider reimbursement and patient access."
     ]
+  },
+  "119/hr/9110": {
+    "pros": [
+      "Protects voting rights and strengthens election integrity.",
+      "Upholds constitutional freedoms and civil liberties."
+    ],
+    "cons": [
+      "Could restrict access to the ballot for some voters.",
+      "May increase partisan influence in election administration."
+    ],
+    "title": "To amend the Federal Election Campaign Act of 1971 to require a disclaimer for certain communications paid for by a political committee, and for other purposes.",
+    "sponsor_name": "H. Takano, Mark (CA-39)",
+    "sponsor_bioguide": "T000472",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "9110",
+    "introduced_date": "2026-06-02",
+    "policy_area": null
+  },
+  "119/hr/9125": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "To authorize the head of agencies to issue rules related to the uses of algorithmic decision-making systems that are likely to materially contribute to violations of Federal laws that the agency is au",
+    "sponsor_name": "H. Jacobs, Sara (CA-51)",
+    "sponsor_bioguide": "J000305",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "9125",
+    "introduced_date": "2026-06-03",
+    "policy_area": null
   }
 }
