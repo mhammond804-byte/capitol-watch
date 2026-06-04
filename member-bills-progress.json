@@ -1,9 +1,9 @@
 {
   "mode": "incremental",
-  "last_run": "2026-06-03 (evening)",
+  "last_run": "2026-06-04 10:09 - 60-bill round-robin (60 sponsors, 23 GovTrack-researched)",
   "bills_added_this_run": 60,
-  "total_cache": 16399,
-  "uncached_remaining": 9211,
-  "sponsors_with_uncached": 60,
-  "notes": "Round-robin: 1 bill per sponsor, alphabetically first 60 sponsors"
+  "total_cache": 17612,
+  "uncached_remaining": 7811,
+  "sponsors_with_uncached": 333,
+  "notes": "Round-robin: 1 bill per sponsor, 60 sponsors (alphabetical first 60). 23/60 general (38%). GovTrack 100% hit rate for Phase 2."
 }
