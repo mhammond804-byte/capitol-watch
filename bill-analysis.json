@@ -173719,5 +173719,1265 @@
       "Would benefit from more detailed analysis before implementation.",
       "Scope may need further refinement through committee review."
     ]
+  },
+  "118/hconres/14": {
+    "pros": [
+      "Promotes energy independence and domestic production.",
+      "Supports innovation in clean and renewable energy."
+    ],
+    "cons": [
+      "May increase energy costs for consumers and businesses.",
+      "Could have negative environmental impacts."
+    ],
+    "title": "Expressing disapproval of the revocation by President Biden of the Presidential permit for the Keystone XL pipeline.",
+    "sponsor_name": "Rep. Lesko, Debbie (AZ-8)",
+    "sponsor_bioguide": "L000589",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This concurrent resolution expresses congressional disapproval of the revocation of the presidential permit for the Keystone XL pipeline. The permit authorized the TransCanada Keystone Pipeline to construct, connect, operate, and maintain the pipeline facilities in Phillips County, Montana, f...",
+    "congress": 118,
+    "type": "hconres",
+    "number": "14",
+    "introduced_date": "2023-02-07",
+    "policy_area": "Energy"
+  },
+  "118/hconres/31": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "Highlighting the risks that environmental defenders face around the world and commending their role in defending human rights, combating climate chaos, and supporting a clean, healthy, and sustainable environment.",
+    "sponsor_name": "Rep. Grijalva, Ra\u00fal M. (AZ-7)",
+    "sponsor_bioguide": "G000551",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This concurrent resolution commends and expresses solidarity with environmental defenders. Condemning the targeting, harassment, and unlawful detention of any individual or group for exercising rights of free association and expression, the resol...",
+    "congress": 118,
+    "type": "hconres",
+    "number": "31",
+    "introduced_date": "2023-03-30",
+    "policy_area": "International Affairs"
+  },
+  "118/hconres/69": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "Recognizing the 10th anniversary of the USA Rice-Ducks Unlimited Rice Stewardship Partnership.",
+    "sponsor_name": "Rep. Crawford, Eric A. \"Rick\" (AR-1)",
+    "sponsor_bioguide": "C001087",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "This concurrent resolution recognizes the 10th anniversary of the Rice Stewardship Partnership and the contributions of Ducks Unlimited and USA Rice to environmental stewardship.",
+    "congress": 118,
+    "type": "hconres",
+    "number": "69",
+    "introduced_date": "2023-09-27",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hjres/1": {
+    "pros": [
+      "Strengthens constitutional protections for fundamental rights.",
+      "Ensures lasting change that cannot be easily reversed."
+    ],
+    "cons": [
+      "The amendment process is lengthy and uncertain to succeed.",
+      "Could have unintended legal consequences when interpreted by courts."
+    ],
+    "title": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This joint resolution proposes a constitutional amendment requiring the Supreme Court to consist of nine Justices\u2014one Chief Justice and eight Associate Justices.",
+    "congress": 118,
+    "type": "hjres",
+    "number": "1",
+    "introduced_date": "2023-01-09",
+    "policy_area": "Law"
+  },
+  "118/hjres/114": {
+    "pros": [
+      "Provides congressional oversight of executive branch actions.",
+      "Preserves the legislative branch's constitutional check on power."
+    ],
+    "cons": [
+      "Could create delays in implementing important regulations.",
+      "May politicize routine administrative decisions."
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to \"National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure\".",
+    "sponsor_name": "Rep. Crawford, Eric A. \"Rick\" (AR-1)",
+    "sponsor_bioguide": "C001087",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "This joint resolution nullifies the final rule issued by the Federal Highway Administration (FHWA) titled National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure and published on December 7, 2023. Unde...",
+    "congress": 118,
+    "type": "hjres",
+    "number": "114",
+    "introduced_date": "2024-02-07",
+    "policy_area": "Transportation and Public Works"
+  },
+  "118/hjres/120": {
+    "pros": [
+      "Provides congressional oversight of executive branch actions.",
+      "Preserves the legislative branch's constitutional check on power."
+    ],
+    "cons": [
+      "Could create delays in implementing important regulations.",
+      "May politicize routine administrative decisions."
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Financial Stability Oversight Council related to \"Guidance on Nonbank Financial Company Determinations\".",
+    "sponsor_name": "Rep. Hill, J. French (AR-2)",
+    "sponsor_bioguide": "H001072",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "This joint resolution nullifies the guidance issued by the Financial Stability Oversight Council titled Guidance on Nonbank Financial Company Determinations and published on November 17, 2023. The guidance revises council procedures for considering whether a nonbank financial company ...",
+    "congress": 118,
+    "type": "hjres",
+    "number": "120",
+    "introduced_date": "2024-03-22",
+    "policy_area": "Finance and Financial Sector"
+  },
+  "118/hjres/36": {
+    "pros": [
+      "Requires the federal government to live within its means.",
+      "Prevents excessive national debt accumulation."
+    ],
+    "cons": [
+      "Could force cuts to essential programs during economic downturns.",
+      "Limits fiscal flexibility in times of national crisis."
+    ],
+    "title": "Proposing a balanced budget amendment to the Constitution of the United States.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This joint resolution proposes a constitutional amendment that prohibits total outlays for any fiscal year from exceeding total receipts for that fiscal year. The amendment also prohibits (1) increases to the federal debt limit, and (2) a bill that increases revenue from becoming law unl...",
+    "congress": 118,
+    "type": "hjres",
+    "number": "36",
+    "introduced_date": "2023-03-01",
+    "policy_area": "Economics and Public Finance"
+  },
+  "118/hjres/38": {
+    "pros": [
+      "Protects the rights of parents in education and healthcare decisions.",
+      "Increases transparency in school curricula and policies."
+    ],
+    "cons": [
+      "Could undermine inclusive educational environments.",
+      "May create legal conflicts between parental and student rights."
+    ],
+    "title": "Proposing an amendment to the Constitution of the United States relating to parental rights.",
+    "sponsor_name": "Rep. Lesko, Debbie (AZ-8)",
+    "sponsor_bioguide": "L000589",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This joint resolution proposes a constitutional amendment stating that the liberty of parents to direct the upbringing, education, and care of their children is a fundamental right; the parental right to direct education includes the right to choose, as an alternative t...",
+    "congress": 118,
+    "type": "hjres",
+    "number": "38",
+    "introduced_date": "2023-03-01",
+    "policy_area": "Families"
+  },
+  "118/hjres/7": {
+    "pros": [
+      "Reasserts congressional authority over national emergency declarations.",
+      "Prevents indefinite emergency powers without legislative review."
+    ],
+    "cons": [
+      "Could hamper the executive branch's ability to respond to crises.",
+      "May create uncertainty for ongoing national security operations."
+    ],
+    "title": "Relating to a national emergency declared by the President on March 13, 2020.",
+    "sponsor_name": "Rep. Gosar, Paul A. (AZ-9)",
+    "sponsor_bioguide": "G000565",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This joint resolution terminates the national emergency concerning COVID-19 declared by the President on March 13, 2020.",
+    "congress": 118,
+    "type": "hjres",
+    "number": "7",
+    "introduced_date": "2023-01-09",
+    "policy_area": "Emergency Management"
+  },
+  "118/hjres/70": {
+    "pros": [
+      "Reasserts congressional authority over national emergency declarations.",
+      "Prevents indefinite emergency powers without legislative review."
+    ],
+    "cons": [
+      "Could hamper the executive branch's ability to respond to crises.",
+      "May create uncertainty for ongoing national security operations."
+    ],
+    "title": "Relating to a national emergency declared by the President on February 25, 2011.",
+    "sponsor_name": "Rep. Gosar, Paul A. (AZ-9)",
+    "sponsor_bioguide": "G000565",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This joint resolution terminates the national emergency concerning Libya declared by President Obama on February 25, 2011.",
+    "congress": 118,
+    "type": "hjres",
+    "number": "70",
+    "introduced_date": "2023-06-12",
+    "policy_area": "Emergency Management"
+  },
+  "118/hjres/71": {
+    "pros": [
+      "Reasserts congressional authority over national emergency declarations.",
+      "Prevents indefinite emergency powers without legislative review."
+    ],
+    "cons": [
+      "Could hamper the executive branch's ability to respond to crises.",
+      "May create uncertainty for ongoing national security operations."
+    ],
+    "title": "Relating to a national emergency declared by the President on May 22, 2003.",
+    "sponsor_name": "Rep. Crane, Elijah (AZ-2)",
+    "sponsor_bioguide": "C001132",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This joint resolution terminates the national emergency declared by President George W. Bush on May 22, 2003, with respect to the stabilization of Iraq.",
+    "congress": 118,
+    "type": "hjres",
+    "number": "71",
+    "introduced_date": "2023-06-14",
+    "policy_area": "Emergency Management"
+  },
+  "118/hjres/74": {
+    "pros": [
+      "Reasserts congressional authority over national emergency declarations.",
+      "Prevents indefinite emergency powers without legislative review."
+    ],
+    "cons": [
+      "Could hamper the executive branch's ability to respond to crises.",
+      "May create uncertainty for ongoing national security operations."
+    ],
+    "title": "Relating to a national emergency declared by the President on May 16, 2012.",
+    "sponsor_name": "Rep. Gosar, Paul A. (AZ-9)",
+    "sponsor_bioguide": "G000565",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This joint resolution terminates the national emergency declared by President Barack Obama on May 16, 2012, which blocks the property of certain persons threatening the peace, security, or stability of Yemen.",
+    "congress": 118,
+    "type": "hjres",
+    "number": "74",
+    "introduced_date": "2023-06-15",
+    "policy_area": "Emergency Management"
+  },
+  "118/hjres/96": {
+    "pros": [
+      "Strengthens strategic partnerships in the Indo-Pacific region.",
+      "Supports economic development in freely associated states."
+    ],
+    "cons": [
+      "Increases U.S. financial commitments to Pacific island nations.",
+      "May not address long-term sustainability of these agreements."
+    ],
+    "title": "Compact of Free Association Amendments Act of 2023",
+    "sponsor_name": "Rep. Westerman, Bruce (AR-4)",
+    "sponsor_bioguide": "W000821",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "",
+    "congress": 118,
+    "type": "hjres",
+    "number": "96",
+    "introduced_date": "2023-11-02",
+    "policy_area": "International Affairs"
+  },
+  "118/hr/100": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "No SmartPay for Anti-2A Companies Act",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "No SmartPay for Anti-2A Companies Act This bill prohibits the General Service Administration from awarding a contract under the SmartPay Program for the procurement of a commercial payment system that uses a payment processing agency that has implemented a merchant cat...",
+    "congress": 118,
+    "type": "hr",
+    "number": "100",
+    "introduced_date": "2023-01-09",
+    "policy_area": "Government Operations and Politics"
+  },
+  "118/hr/10023": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Legacy Mine Cleanup Act of 2024",
+    "sponsor_name": "Rep. Crane, Elijah (AZ-2)",
+    "sponsor_bioguide": "C001132",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10023",
+    "introduced_date": "2024-10-22",
+    "policy_area": "Environmental Protection"
+  },
+  "118/hr/1016": {
+    "pros": [
+      "Counteracts unfair trade practices by foreign competitors.",
+      "Protects American intellectual property and technology."
+    ],
+    "cons": [
+      "Trade restrictions may raise prices for consumers.",
+      "Could trigger retaliatory tariffs from trading partners."
+    ],
+    "title": "Stop China\u2019s IP Theft Act",
+    "sponsor_name": "Rep. Lesko, Debbie (AZ-8)",
+    "sponsor_bioguide": "L000589",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "Stop China's IP Theft Act This bill directs the Department of State and the Department of Homeland Security to deny entry into the United States to senior Chinese Communist Party officials, the spouses and children of such officials, members of the cabinet of the Chinese governm...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1016",
+    "introduced_date": "2023-02-14",
+    "policy_area": "Immigration"
+  },
+  "118/hr/10168": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "American Detainee Transparency and Recovery Act",
+    "sponsor_name": "Rep. Hill, J. French (AR-2)",
+    "sponsor_bioguide": "H001072",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10168",
+    "introduced_date": "2024-11-19",
+    "policy_area": "International Affairs"
+  },
+  "118/hr/10214": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Dads Matter Act of 2024",
+    "sponsor_name": "Sen. Gallego, Ruben (AZ)",
+    "sponsor_bioguide": "G000574",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10214",
+    "introduced_date": "2024-11-21",
+    "policy_area": "Health"
+  },
+  "118/hr/10330": {
+    "pros": [
+      "Recognizes extraordinary acts of heroism and public service.",
+      "Provides a lasting tribute to individuals who serve the nation."
+    ],
+    "cons": [
+      "Adds to the number of Congressional Gold Medals awarded.",
+      "Could set a precedent for additional medal designations."
+    ],
+    "title": "Daniel Penny Congressional Gold Medal Act",
+    "sponsor_name": "Rep. Crane, Elijah (AZ-2)",
+    "sponsor_bioguide": "C001132",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10330",
+    "introduced_date": "2024-12-09",
+    "policy_area": "Congress"
+  },
+  "118/hr/10420": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "CONSTRUCTS Act of 2024",
+    "sponsor_name": "Rep. Ciscomani, Juan (AZ-6)",
+    "sponsor_bioguide": "C001133",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10420",
+    "introduced_date": "2024-12-16",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/10483": {
+    "pros": [
+      "Strengthens protection of critical infrastructure against cyber threats.",
+      "Enhances information sharing between government and private sector."
+    ],
+    "cons": [
+      "Could impose costly compliance requirements on businesses.",
+      "May raise privacy concerns about government data monitoring."
+    ],
+    "title": "Water Cybersecurity Enhancement Act",
+    "sponsor_name": "Sen. Gallego, Ruben (AZ)",
+    "sponsor_bioguide": "G000574",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10483",
+    "introduced_date": "2024-12-18",
+    "policy_area": "Environmental Protection"
+  },
+  "118/hr/10488": {
+    "pros": [
+      "Strengthens national security and military readiness.",
+      "Supports our armed forces and their families."
+    ],
+    "cons": [
+      "Increases military spending at the expense of domestic programs.",
+      "Could escalate tensions with foreign adversaries."
+    ],
+    "title": "Military Financial Services Protection Act of 2024",
+    "sponsor_name": "Rep. Hill, J. French (AR-2)",
+    "sponsor_bioguide": "H001072",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10488",
+    "introduced_date": "2024-12-18",
+    "policy_area": "Armed Forces and National Security"
+  },
+  "118/hr/1213": {
+    "pros": [
+      "Protects endangered marine species and biodiversity.",
+      "Promotes sustainable fishing and ocean conservation practices."
+    ],
+    "cons": [
+      "Could impose restrictions on commercial shipping and fishing industries.",
+      "May increase costs for maritime businesses."
+    ],
+    "title": "RESCUE Whales Act of 2023",
+    "sponsor_name": "Rep. Grijalva, Ra\u00fal M. (AZ-7)",
+    "sponsor_bioguide": "G000551",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "Restoring Effective Science-based Conservation Under Environmental laws protecting Whales Act of 2023 or the RESCUE Whales Act of 2023 This bill repeals provisions under the Consolidated Appropriations Act, 2023 that (1) postpone a 2022 rule proposed by the National Marine Fishe...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1213",
+    "introduced_date": "2023-02-27",
+    "policy_area": "Animals"
+  },
+  "118/hr/1262": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "CCU Parity Act of 2023",
+    "sponsor_name": "Rep. Schweikert, David (AZ-1)",
+    "sponsor_bioguide": "S001183",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "CCU Parity Act of 2023 This bill increases the tax credit for carbon capture and use to match incentives for carbon capture and sequestration for both direct air capture and the power and industrial sectors.",
+    "congress": 118,
+    "type": "hr",
+    "number": "1262",
+    "introduced_date": "2023-02-28",
+    "policy_area": "Taxation"
+  },
+  "118/hr/1292": {
+    "pros": [
+      "Honors treaty obligations to Native American tribes.",
+      "Supports tribal sovereignty and economic development."
+    ],
+    "cons": [
+      "Could create complex jurisdictional disputes.",
+      "Funding may not be sufficient to meet long-term needs."
+    ],
+    "title": "BADGES for Native Communities Act",
+    "sponsor_name": "Sen. Gallego, Ruben (AZ)",
+    "sponsor_bioguide": "G000574",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "AZ",
+    "summary": "Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act This bill revises federal policies and procedures related to information sharing, reporting, and investigating cases of missing, unidentified, or murdered India...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1292",
+    "introduced_date": "2023-03-01",
+    "policy_area": "Native Americans"
+  },
+  "118/hr/1335": {
+    "pros": [
+      "Promotes energy independence and domestic production.",
+      "Supports innovation in clean and renewable energy."
+    ],
+    "cons": [
+      "May increase energy costs for consumers and businesses.",
+      "Could have negative environmental impacts."
+    ],
+    "title": "TAPP American Resources Act",
+    "sponsor_name": "Rep. Westerman, Bruce (AR-4)",
+    "sponsor_bioguide": "W000821",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "Transparency, Accountability, Permitting, and Production of American Resources Act or the TAPP American Resources Act This bill provides for the exploration and development of energy resources (e.g., oil, gas, and minerals), including by (1) requiring additional federal oil and ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1335",
+    "introduced_date": "2023-03-03",
+    "policy_area": "Energy"
+  },
+  "118/hr/1351": {
+    "pros": [
+      "Protects endangered marine species and biodiversity.",
+      "Promotes sustainable fishing and ocean conservation practices."
+    ],
+    "cons": [
+      "Could impose restrictions on commercial shipping and fishing industries.",
+      "May increase costs for maritime businesses."
+    ],
+    "title": "Save Oak Flat From Foreign Mining Act",
+    "sponsor_name": "Rep. Grijalva, Ra\u00fal M. (AZ-7)",
+    "sponsor_bioguide": "G000551",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "Save Oak Flat From Foreign Mining Act This bill withdraws Oak Flat (which consists of 2,422 acres of Forest System land in the Tonto National Forest in southeastern Arizona) from mining activity. The bill repeals authorization for Oak Flat to be exchanged for land held...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1351",
+    "introduced_date": "2023-03-03",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  "118/hr/1378": {
+    "pros": [
+      "Honors the service of veterans and improves their benefits.",
+      "Expands healthcare access for those who served."
+    ],
+    "cons": [
+      "Adds to federal spending without a dedicated funding source.",
+      "May create administrative burdens at the VA."
+    ],
+    "title": "Veterans\u2019 Appeals Backlog Improvement Act",
+    "sponsor_name": "Rep. Ciscomani, Juan (AZ-6)",
+    "sponsor_bioguide": "C001133",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "Veterans' Appeals Backlog Improvement Act This bill requires the Department of Veterans Affairs (VA) to establish programs that provide employment opportunities within the VA and the Board of Veterans' Appeals (BVA). Specifically, the bill requires the VA to establish a c...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1378",
+    "introduced_date": "2023-03-07",
+    "policy_area": "Armed Forces and National Security"
+  },
+  "118/hr/1388": {
+    "pros": [
+      "Honors an important historical event or cultural landmark.",
+      "Raises funds for related preservation and education efforts."
+    ],
+    "cons": [
+      "Adds to the proliferation of commemorative coin programs.",
+      "May generate limited net revenue after production costs."
+    ],
+    "title": "Sultana Steamboat Disaster Commemorative Coin Act of 2023",
+    "sponsor_name": "Rep. Crawford, Eric A. \"Rick\" (AR-1)",
+    "sponsor_bioguide": "C001087",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "Sultana Steamboat Disaster Commemorative Coin Act of 2023 This bill directs the Department of the Treasury to mint and issue not more than 100,000 $5 gold coins, 500,000 $1 silver coins, and 750,000 half-dollar clad coins emblematic of the Sultana steamboat explosion that occur...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1388",
+    "introduced_date": "2023-03-07",
+    "policy_area": "Finance and Financial Sector"
+  },
+  "118/hr/1479": {
+    "pros": [
+      "Preserves natural and cultural resources for future generations.",
+      "Boosts local tourism and economic activity."
+    ],
+    "cons": [
+      "May restrict land use and economic development opportunities.",
+      "Creates ongoing federal maintenance and management costs."
+    ],
+    "title": "Chiricahua National Park Act",
+    "sponsor_name": "Rep. Ciscomani, Juan (AZ-6)",
+    "sponsor_bioguide": "C001133",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "Chiricahua National Park Act This bill redesignates the Chiricahua National Monument in Arizona as the Chiricahua National Park.",
+    "congress": 118,
+    "type": "hr",
+    "number": "1479",
+    "introduced_date": "2023-03-09",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  "118/hr/1520": {
+    "pros": [
+      "Promotes energy independence and domestic production.",
+      "Supports innovation in clean and renewable energy."
+    ],
+    "cons": [
+      "May increase energy costs for consumers and businesses.",
+      "Could have negative environmental impacts."
+    ],
+    "title": "To amend the Energy Independence and Security Act of 2007 to reauthorize the Energy Efficiency and Conservation Block Grant Program, and for other purposes.",
+    "sponsor_name": "Rep. Stanton, Greg (AZ-4)",
+    "sponsor_bioguide": "S001211",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill reauthorizes through FY2028 and revises the Energy Efficiency and Conservation Block Grant Program. Under the program, the Department of Energy provides grants to local governments, states, and Indian tribes for energy efficiency and conservation projects and programs. This bill exp...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1520",
+    "introduced_date": "2023-03-09",
+    "policy_area": "Energy"
+  },
+  "118/hr/1607": {
+    "pros": [
+      "Protects natural resources and promotes clean energy.",
+      "Reduces pollution and safeguards public health."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ],
+    "title": "To clarify jurisdiction with respect to certain Bureau of Reclamation pumped storage development, and for other purposes.",
+    "sponsor_name": "Rep. Schweikert, David (AZ-1)",
+    "sponsor_bioguide": "S001183",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This act transfers National Forest System land near the Salt River in Arizona to the Bureau of Reclamation to expand the area used for generating hydropower for the Salt River Federal Reclamation Project. Any facilities on the covered land constructed by the Salt River Project Agricultural Imp...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1607",
+    "introduced_date": "2023-03-14",
+    "policy_area": "Water Resources Development"
+  },
+  "118/hr/1667": {
+    "pros": [
+      "Protects natural resources and promotes clean energy.",
+      "Reduces pollution and safeguards public health."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ],
+    "title": "Ouachita National Forest Overnight Camping Act",
+    "sponsor_name": "Rep. Westerman, Bruce (AR-4)",
+    "sponsor_bioguide": "W000821",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "Ouachita National Forest Overnight Camping Act This bill requires the Forest Service to identify and develop campsites and related facilities within the Albert Pike Recreation Area in the Ouachita National Forest in Arkansas to be reopened for overnight camping. ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1667",
+    "introduced_date": "2023-03-17",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  "118/hr/206": {
+    "pros": [
+      "Helps low-income families afford stable housing.",
+      "Reduces homelessness and housing insecurity for vulnerable populations."
+    ],
+    "cons": [
+      "Could increase federal rental assistance spending significantly.",
+      "May not address the underlying shortage of affordable housing units."
+    ],
+    "title": "Healthy Technology Act of 2023",
+    "sponsor_name": "Rep. Schweikert, David (AZ-1)",
+    "sponsor_bioguide": "S001183",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "Healthy Technology Act of 2023 This bill establishes that artificial intelligence (AI) or machine learning technology may be eligible to prescribe drugs. Currently, certain drugs may be dispensed only upon a prescription provided by a practitioner licensed by l...",
+    "congress": 118,
+    "type": "hr",
+    "number": "206",
+    "introduced_date": "2023-01-09",
+    "policy_area": "Health"
+  },
+  "118/hr/2113": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "To provide for a limitation on availability of funds for Independent Agencies, Federal Permitting Improvement Steering Council, Environmental Review Improvement Fund for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Federal Permitting Improvement Steering Council's Environmental Review Improvement Fund.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2113",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Environmental Protection"
+  },
+  "118/hr/2193": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "To provide for a limitation on availability of funds for Environmental Protection Agency,, Buildings and Facilities for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Environmental Protection Agency for buildings and facilities.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2193",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Government Operations and Politics"
+  },
+  "118/hr/2194": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "To provide for a limitation on availability of funds for Environmental Protection Agency, Hazards Substance Superfund for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Environmental Protection Agency's Hazardous Substance Superfund.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2194",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Environmental Protection"
+  },
+  "118/hr/2195": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "To provide for a limitation on availability of funds for Environmental Protection Agency, Leaking Underground Storage Tank Trust Fund for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Environmental Protection Agency's Leaking Underground Storage Tank Trust Fund.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2195",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Environmental Protection"
+  },
+  "118/hr/2278": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "To provide for a limitation on availability of funds for US Department of Agriculture, Rural Business-Cooperative Service, Rural Business Program Account for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Rural Business-Cooperative Service's Rural Business Program.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2278",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Commerce"
+  },
+  "118/hr/2279": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "To provide for a limitation on availability of funds for US Department of Agriculture, Rural Business-Cooperative Service, Intermediary Relending Program Fund Account for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Rural Business-Cooperative Service's Intermediary Relending Program.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2279",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Commerce"
+  },
+  "118/hr/2280": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "To provide for a limitation on availability of funds for US Department of Agriculture, Rural Business-Cooperative Service, Rural Econoic Development Loans Program Account for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Rural Business-Cooperative Service's Rural Economic Development Loans Program.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2280",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Commerce"
+  },
+  "118/hr/2281": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "To provide for a limitation on availability of funds for US Department of Agriculture, Rural Business-Cooperative Service, Rural Cooperative Development Grants for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Rural Business-Cooperative Service's Rural Cooperative Development Grants.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2281",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Commerce"
+  },
+  "118/hr/2282": {
+    "pros": [
+      "Promotes energy independence and domestic production.",
+      "Supports innovation in clean and renewable energy."
+    ],
+    "cons": [
+      "May increase energy costs for consumers and businesses.",
+      "Could have negative environmental impacts."
+    ],
+    "title": "To provide for a limitation on availability of funds for US Department of Agriculture, Rural Business-Cooperative Service, Rural Energy for America Program for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Department of Agriculture's Rural Energy for America Program.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2282",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Energy"
+  },
+  "118/hr/2285": {
+    "pros": [
+      "Invests in critical infrastructure and creates jobs.",
+      "Improves transportation safety and efficiency."
+    ],
+    "cons": [
+      "Increases federal spending and the national debt.",
+      "May fund programs with limited oversight or accountability."
+    ],
+    "title": "To provide for a limitation on availability of funds for US Department of Agriculture, Rural Utilities Service, Distance Learning, Telemedicine, and Broadband Program for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the Distance Learning, Telemedicine, and Broadband Program carried out by the Department of Agriculture.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2285",
+    "introduced_date": "2023-03-29",
+    "policy_area": "Science, Technology, Communications"
+  },
+  "118/hr/2316": {
+    "pros": [
+      "Invests in critical infrastructure and creates jobs.",
+      "Improves transportation safety and efficiency."
+    ],
+    "cons": [
+      "Increases federal spending and the national debt.",
+      "May fund programs with limited oversight or accountability."
+    ],
+    "title": "To provide for a limitation on availability of funds for US Agency for Global Media, International Broadcasting Operations for fiscal year 2024.",
+    "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
+    "sponsor_bioguide": "B001302",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill limits FY2024 funding for the U.S. Agency for Global Media's International Broadcasting Operations account.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2316",
+    "introduced_date": "2023-03-29",
+    "policy_area": "International Affairs"
+  },
+  "118/hr/2535": {
+    "pros": [
+      "Honors treaty obligations to Native American tribes.",
+      "Supports tribal sovereignty and economic development."
+    ],
+    "cons": [
+      "Could create complex jurisdictional disputes.",
+      "Funding may not be sufficient to meet long-term needs."
+    ],
+    "title": "Stronger Engagement for Indian Health Needs Act of 2023",
+    "sponsor_name": "Rep. Stanton, Greg (AZ-4)",
+    "sponsor_bioguide": "S001211",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "Stronger Engagement for Indian Health Needs Act of 2023 This bill elevates the current position of the Director of the Indian Health Service within the Department of Health and Human Services (HHS) to Assistant Secretary for Indian Health within HHS.",
+    "congress": 118,
+    "type": "hr",
+    "number": "2535",
+    "introduced_date": "2023-04-06",
+    "policy_area": "Native Americans"
+  },
+  "118/hr/2695": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "WOLF Act",
+    "sponsor_name": "Rep. Stanton, Greg (AZ-4)",
+    "sponsor_bioguide": "S001211",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "WOlf and Livestock Fairness Act or the WOLF Act This bill directs the Department of Agriculture (USDA) to provide emergency relief to producers of livestock with herds adversely affected by Mexican gray wolves. Additionally, the bill modifies USDA's Livestock Indemnity Pr...",
+    "congress": 118,
+    "type": "hr",
+    "number": "2695",
+    "introduced_date": "2023-04-18",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/2789": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "American Cooperation with Our Neighbors Act",
+    "sponsor_name": "Rep. Stanton, Greg (AZ-4)",
+    "sponsor_bioguide": "S001211",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "American Cooperation with Our Neighbors Act This bill addresses certain types of cooperation between the United States, Mexico, and countries in Central America and the Caribbean. The bill requires the Department of State to submit to Congress a strategy to ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "2789",
+    "introduced_date": "2023-04-20",
+    "policy_area": "International Affairs"
+  },
+  "118/hr/3316": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "To amend titles 46 and 49, United States Code, to streamline the environmental review process for major projects, and for other purposes.",
+    "sponsor_name": "Rep. Crawford, Eric A. \"Rick\" (AR-1)",
+    "sponsor_bioguide": "C001087",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "This bill applies the expedited environmental review processes for major infrastructure projects under FAST-41 to federal actions involving certain port, aviation, and pipeline projects. Specifically, this bill requires, to the greatest extent feasible, the Department of Transportation (DOT)...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3316",
+    "introduced_date": "2023-05-15",
+    "policy_area": "Environmental Protection"
+  },
+  "118/hr/3318": {
+    "pros": [
+      "Invests in critical infrastructure and creates jobs.",
+      "Improves transportation safety and efficiency."
+    ],
+    "cons": [
+      "Increases federal spending and the national debt.",
+      "May fund programs with limited oversight or accountability."
+    ],
+    "title": "To amend title 23, United States Code, to establish an axle weight tolerance for certain commercial motor vehicles transporting dry bulk goods, and for other purposes.",
+    "sponsor_name": "Rep. Crawford, Eric A. \"Rick\" (AR-1)",
+    "sponsor_bioguide": "C001087",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "summary": "This bill allows commercial motor vehicles transporting dry bulk goods to operate on the Interstate Highway System with up to 110% of the maximum authorized weight on any axle or axle group.",
+    "congress": 118,
+    "type": "hr",
+    "number": "3318",
+    "introduced_date": "2023-05-15",
+    "policy_area": "Transportation and Public Works"
+  },
+  "118/hr/3447": {
+    "pros": [
+      "Promotes energy independence and domestic production.",
+      "Supports innovation in clean and renewable energy."
+    ],
+    "cons": [
+      "May increase energy costs for consumers and businesses.",
+      "Could have negative environmental impacts."
+    ],
+    "title": "To amend title 23, United States Code, to authorize a hydrogen powered vehicle to exceed certain weight limits on the Interstate Highway System, and for other purposes.",
+    "sponsor_name": "Rep. Stanton, Greg (AZ-4)",
+    "sponsor_bioguide": "S001211",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill allows vehicles powered primarily by hydrogen fuel cells (or by a combination of natural gas, electric batteries, or hydrogen fuel cells) to exceed certain weight limits on the Interstate Highway System.",
+    "congress": 118,
+    "type": "hr",
+    "number": "3447",
+    "introduced_date": "2023-05-17",
+    "policy_area": "Transportation and Public Works"
+  },
+  "118/hr/3885": {
+    "pros": [
+      "Promotes energy independence and domestic production.",
+      "Supports innovation in clean and renewable energy."
+    ],
+    "cons": [
+      "May increase energy costs for consumers and businesses.",
+      "Could have negative environmental impacts."
+    ],
+    "title": "To amend the Energy Act of 2020 to include copper as a critical mineral, and for other purposes.",
+    "sponsor_name": "Rep. Ciscomani, Juan (AZ-6)",
+    "sponsor_bioguide": "C001133",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill expands the definition of critical mineral under the Energy Act of 2020 to include copper. Thus, this bill requires the Department of Energy and other agencies to conduct a variety of efforts to ensure a secure and reliable supply chain of copper.",
+    "congress": 118,
+    "type": "hr",
+    "number": "3885",
+    "introduced_date": "2023-06-07",
+    "policy_area": "Energy"
+  },
+  "118/hr/7425": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to provide a deduction for certain newborn expenses.",
+    "sponsor_name": "Rep. Schweikert, David (AZ-1)",
+    "sponsor_bioguide": "S001183",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "This bill allows individual taxpayers a tax deduction from gross income (above-the-line deduction) through 2029 for their qualified newborn expenses, up to $5,000. The deduction is not available for taxpayers whose modified adjusted gross income exceeds $100,000 ($200,000 in the case of a joi...",
+    "congress": 118,
+    "type": "hr",
+    "number": "7425",
+    "introduced_date": "2024-02-20",
+    "policy_area": "Taxation"
+  },
+  "118/hr/7827": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "To amend the Federal Food, Drug, and Cosmetic Act to encourage the development of vaccines to prevent, treat, or mitigate opioid, cocaine, methamphetamine, or alcohol use disorder, to establish an x-prize for the development of such a vaccine, and for other purposes.",
+    "sponsor_name": "Rep. Schweikert, David (AZ-1)",
+    "sponsor_bioguide": "S001183",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "7827",
+    "introduced_date": "2024-03-26",
+    "policy_area": "Health"
+  },
+  "118/s/1015": {
+    "pros": [
+      "Protects natural resources and promotes clean energy.",
+      "Reduces pollution and safeguards public health."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ],
+    "title": "A bill to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+    "sponsor_name": "Sen. Kelly, Mark (AZ)",
+    "sponsor_bioguide": "K000377",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "AZ",
+    "summary": "This bill directs the Forest Service to convey specified property to Gila County, Arizona, upon the county's submission of a written request for such conveyance. The property, identified as the Gila County Area, consists of approximately 232.9 acres of National Forest System land located in t...",
+    "congress": 118,
+    "type": "s",
+    "number": "1015",
+    "introduced_date": "2023-03-28",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  "118/s/2228": {
+    "pros": [
+      "Expands access to mental health services and support.",
+      "Reduces stigma around mental health treatment."
+    ],
+    "cons": [
+      "Adds to federal healthcare spending without dedicated funding.",
+      "May strain existing mental health provider networks."
+    ],
+    "title": "Building Chips in America Act of 2023",
+    "sponsor_name": "Sen. Kelly, Mark (AZ)",
+    "sponsor_bioguide": "K000377",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "AZ",
+    "summary": "Building Chips in America Act of 2023 This bill modifies and limits the review of certain semiconductor (i.e., microchip) projects under the National Environmental Policy Act of 1969 (NEPA) and the National Historic Preservation Act (NHPA). Specifically, the bill e...",
+    "congress": 118,
+    "type": "s",
+    "number": "2228",
+    "introduced_date": "2023-07-11",
+    "policy_area": "Environmental Protection"
+  },
+  "118/s/2928": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "Water Infrastructure Subcontractor and Taxpayer Protection Act of 2023",
+    "sponsor_name": "Sen. Kelly, Mark (AZ)",
+    "sponsor_bioguide": "K000377",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 118,
+    "type": "s",
+    "number": "2928",
+    "introduced_date": "2023-09-26",
+    "policy_area": "Water Resources Development"
+  },
+  "119/hr/2318": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Electronic Permitting Modernization Act",
+    "sponsor_name": "Rep. Ansari, Yassamin (AZ-3)",
+    "sponsor_bioguide": "A000381",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "2318",
+    "introduced_date": "2025-03-25",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  "119/hr/2486": {
+    "pros": [
+      "Promotes energy independence and domestic production.",
+      "Supports innovation in clean and renewable energy."
+    ],
+    "cons": [
+      "May increase energy costs for consumers and businesses.",
+      "Could have negative environmental impacts."
+    ],
+    "title": "Heating and Cooling Relief Act",
+    "sponsor_name": "Rep. Ansari, Yassamin (AZ-3)",
+    "sponsor_bioguide": "A000381",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "2486",
+    "introduced_date": "2025-03-31",
+    "policy_area": "Energy"
+  },
+  "119/hr/2971": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "YOUNG Act of 2025",
+    "sponsor_name": "Rep. Ansari, Yassamin (AZ-3)",
+    "sponsor_bioguide": "A000381",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "2971",
+    "introduced_date": "2025-04-21",
+    "policy_area": "Environmental Protection"
   }
 }
