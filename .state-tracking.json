@@ -51,10 +51,12 @@
     "WV",
     "WY"
   ],
-  "last_run": "2026-06-04 late - Incremental scan (60-bill round-robin, GovTrack for 25 general entries)",
-  "bills_added": 17372,
-  "total_cache": 17372,
-  "last_uncached_count": 7994,
+  "last_run": "2026-06-04 - Member-sponsored bill pipeline (AR, AZ)",
+  "bills_added": 60,
+  "total_cache": 17432,
+  "last_uncached_count": 17432,
   "last_selected": 60,
-  "last_sponsor_count": 60
+  "last_sponsor_count": 60,
+  "sponsor_linked_entries": 60,
+  "no_sponsor_entries": 17372
 }
