@@ -22727,7 +22727,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Reserved for the Minority Leader.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 112,
+    "type": "hr",
+    "number": "20",
+    "introduced_date": "2011-01-03",
+    "policy_area": null
   },
   "112/hr/2030": {
     "cons": [
@@ -25637,7 +25648,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "To designate the federal building currently known as Federal Office Building 8, located at 200 C Street Southwest in the District of Columbia, as the \"Thomas P. O'Neill, Jr. Federal Building\".",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Designates the federal building currently known as Federal Office Building 8, located at 200 C Street SW in the District of Columbia, as the \"Thomas P. O'Neill, Jr. Federal Building.\"",
+    "congress": 112,
+    "type": "hr",
+    "number": "6604",
+    "introduced_date": "2012-11-27",
+    "policy_area": "Government Operations and Politics"
   },
   "112/hr/6613": {
     "cons": [
@@ -25797,7 +25819,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Provides for the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.",
+    "congress": 112,
+    "type": "hr",
+    "number": "823",
+    "introduced_date": "2011-02-18",
+    "policy_area": "Private Legislation"
   },
   "112/hr/845": {
     "cons": [
@@ -26467,7 +26500,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Provides for the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.",
+    "congress": 113,
+    "type": "hr",
+    "number": "1023",
+    "introduced_date": "2013-03-06",
+    "policy_area": "Private Legislation"
   },
   "113/hr/1028": {
     "cons": [
@@ -26667,7 +26711,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Reserved for the Minority Leader.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 113,
+    "type": "hr",
+    "number": "13",
+    "introduced_date": "2013-01-03",
+    "policy_area": null
   },
   "113/hr/1309": {
     "cons": [
@@ -26777,7 +26832,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Reserved for the Minority Leader.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 113,
+    "type": "hr",
+    "number": "14",
+    "introduced_date": "2013-01-03",
+    "policy_area": null
   },
   "113/hr/1401": {
     "cons": [
@@ -27017,7 +27083,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Reserved for the Minority Leader.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 113,
+    "type": "hr",
+    "number": "16",
+    "introduced_date": "2013-01-03",
+    "policy_area": null
   },
   "113/hr/162": {
     "cons": [
@@ -27077,7 +27154,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Reserved for the Minority Leader.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 113,
+    "type": "hr",
+    "number": "17",
+    "introduced_date": "2013-01-03",
+    "policy_area": null
   },
   "113/hr/1702": {
     "cons": [
@@ -27217,7 +27305,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Reserved for the Minority Leader.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 113,
+    "type": "hr",
+    "number": "18",
+    "introduced_date": "2013-01-03",
+    "policy_area": null
   },
   "113/hr/1804": {
     "cons": [
@@ -27387,7 +27486,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Reserved for the Minority Leader.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "",
+    "congress": 113,
+    "type": "hr",
+    "number": "19",
+    "introduced_date": "2013-01-03",
+    "policy_area": null
   },
   "113/hr/1900": {
     "cons": [
@@ -28647,7 +28757,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Panama Canal and Pan-Pacific Exhibition Centennial Celebration Act",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Panama Canal and Pan-Pacific Exhibition Centennial Celebration Act - Directs the Secretary of the Treasury to mint and issue in commemoration of the centennial of the Panama-Pacific International Exposition and the Panama Canal: (1) $5 octagonal gold coins, (2) $5 round gold coins, (3) $2.50 ...",
+    "congress": 113,
+    "type": "hr",
+    "number": "2760",
+    "introduced_date": "2013-07-19",
+    "policy_area": "Finance and Financial Sector"
   },
   "113/hr/2768": {
     "cons": [
@@ -36977,7 +37098,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Provides for the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.",
+    "congress": 116,
+    "type": "hr",
+    "number": "1548",
+    "introduced_date": "2019-03-05",
+    "policy_area": null
   },
   "116/hr/1582": {
     "cons": [
@@ -39097,7 +39229,18 @@
     "pros": [
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
-    ]
+    ],
+    "title": "VA RAISES Act",
+    "sponsor_name": "H. Cisneros, Gilbert Ray (CA-31)",
+    "sponsor_bioguide": "C001123",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "VA Recruitment Assistance to Improve Senior Executive Service Act or the VA RAISES Act This bill excludes certain appointed positions within the Department of Veterans Affairs (VA) from current executive schedule salary caps. Specifically, the current salary caps do not apply fo...",
+    "congress": 116,
+    "type": "hr",
+    "number": "6528",
+    "introduced_date": "2020-04-17",
+    "policy_area": "Armed Forces and National Security"
   },
   "116/hr/6627": {
     "cons": [
@@ -39127,7 +39270,18 @@
     "pros": [
       "Strengthens national defense and military readiness.",
       "Supports veterans and active-duty service members."
-    ]
+    ],
+    "title": "End Military-Connected Child Abuse and Neglect Act",
+    "sponsor_name": "H. Cisneros, Gilbert Ray (CA-31)",
+    "sponsor_bioguide": "C001123",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "End Military-Connected Child Abuse and Neglect Act This bill directs the Department of Defense (DOD) to carry out activities to improve the ability of DOD to effectively prevent, track, and respond to military-connected child abuse, consistent with the recommendations of t...",
+    "congress": 116,
+    "type": "hr",
+    "number": "6667",
+    "introduced_date": "2020-05-01",
+    "policy_area": "Armed Forces and National Security"
   },
   "116/hr/6686": {
     "cons": [
@@ -39207,7 +39361,18 @@
     "pros": [
       "Strengthens national defense and military readiness.",
       "Supports veterans and active-duty service members."
-    ]
+    ],
+    "title": "To direct the Secretary of Defense to phase-in zero-emission non-tactical vehicles and reduce the petroleum consumption of the Department of Defense Federal fleet, and for other purposes.",
+    "sponsor_name": "H. Cisneros, Gilbert Ray (CA-31)",
+    "sponsor_bioguide": "C001123",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "This bill directs the Department of Defense (DOD) to phase in zero-emission non-tactical vehicles and reduce the petroleum consumption of the DOD federal fleet. DOD must replace non-tactical vehicles ending their service lives with vehicles that are zero-emission. DOD must report on th...",
+    "congress": 116,
+    "type": "hr",
+    "number": "6932",
+    "introduced_date": "2020-05-19",
+    "policy_area": "Armed Forces and National Security"
   },
   "116/hr/6936": {
     "cons": [
@@ -39351,13 +39516,24 @@
   },
   "116/hr/7163": {
     "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
+      "Adds to federal spending without a dedicated funding source.",
+      "May create administrative burdens at the VA."
     ],
     "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Provides a targeted solution to a specific problem."
-    ]
+      "Honors the service of veterans and improves their benefits.",
+      "Expands healthcare access for those who served."
+    ],
+    "title": "VA FOIA Reform Act of 2020",
+    "sponsor_name": "H. Cisneros, Gilbert Ray (CA-31)",
+    "sponsor_bioguide": "C001123",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "VA FOIA Reform Act of 2020 This bill requires the Department of Veterans Affairs (VA) to reduce the backlog of Freedom of Information Act (FOIA) requests by 75% within three years of enactment of the bill. Additionally, the VA must reduce the backlog of Office of Special Counsel...",
+    "congress": 116,
+    "type": "hr",
+    "number": "7163",
+    "introduced_date": "2020-06-11",
+    "policy_area": "Armed Forces and National Security"
   },
   "116/hr/7169": {
     "cons": [
@@ -39737,7 +39913,18 @@
     "pros": [
       "Expands access to affordable healthcare services.",
       "Protects patients and improves health outcomes."
-    ]
+    ],
+    "title": "Helping Child Care Providers Respond to the Coronavirus Public Health Emergency Act of 2020",
+    "sponsor_name": "H. Cisneros, Gilbert Ray (CA-31)",
+    "sponsor_bioguide": "C001123",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Helping Child Care Providers Respond to the Coronavirus Public Health Emergency Act of 2020 This bill authorizes child care providers to use payments received through the Child Care and Development Fund for sanitization and other costs associated with the COVID-19 (i.e., coronav...",
+    "congress": 116,
+    "type": "hr",
+    "number": "7720",
+    "introduced_date": "2020-07-22",
+    "policy_area": "Families"
   },
   "116/hr/7722": {
     "cons": [
@@ -39787,7 +39974,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Fallen Pandemic Heroes Flag Act of 2020",
+    "sponsor_name": "H. Cisneros, Gilbert Ray (CA-31)",
+    "sponsor_bioguide": "C001123",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Fallen Pandemic Heroes Flag Act of 2020 This bill authorizes a Member of Congress to give a flag flown from the Capitol and a signed certificate containing an expression of sympathy to the immediate family of a frontline worker (a worker whose occupation presents an increased ri...",
+    "congress": 116,
+    "type": "hr",
+    "number": "7770",
+    "introduced_date": "2020-07-24",
+    "policy_area": "Congress"
   },
   "116/hr/7773": {
     "cons": [
@@ -40117,7 +40315,18 @@
     "pros": [
       "Strengthens national defense and military readiness.",
       "Supports veterans and active-duty service members."
-    ]
+    ],
+    "title": "Restoring Education Access for Student Veterans Act",
+    "sponsor_name": "H. Cisneros, Gilbert Ray (CA-31)",
+    "sponsor_bioguide": "C001123",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "Restoring Education Access for Student Veterans Act This bill authorizes the Department of Veterans Affairs to provide certain educational assistance benefits, including housing stipends and allowances, to individuals who are negatively affected by the COVID-19 emergency.",
+    "congress": 116,
+    "type": "hr",
+    "number": "8415",
+    "introduced_date": "2020-09-29",
+    "policy_area": "Armed Forces and National Security"
   },
   "116/hr/8444": {
     "cons": [
@@ -41551,13 +41760,24 @@
   },
   "117/hconres/118": {
     "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
+      "Adds to the number of Congressional Gold Medals awarded.",
+      "Could set a precedent for additional medal designations."
     ],
     "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Provides a targeted solution to a specific problem."
-    ]
+      "Recognizes extraordinary acts of heroism and public service.",
+      "Provides a lasting tribute to individuals who serve the nation."
+    ],
+    "title": "Authorizing the use of the rotunda of the Capitol for a ceremony to present Congressional Gold Medals to the United States Capitol Police and others who protected the Capitol on January 6, 2021.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "This concurrent resolution authorizes the use of the rotunda of the Capitol on December 6, 2022, for a ceremony to present Congressional Gold Medals to the U.S. Capitol Police and others who protected the Capitol on January 6, 2021.",
+    "congress": 117,
+    "type": "hconres",
+    "number": "118",
+    "introduced_date": "2022-11-29",
+    "policy_area": "Congress"
   },
   "117/hconres/44": {
     "cons": [
@@ -41691,13 +41911,24 @@
   },
   "117/hr/1085": {
     "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
+      "Adds to the number of Congressional Gold Medals awarded.",
+      "Could set a precedent for additional medal designations."
     ],
     "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Provides a targeted solution to a specific problem."
-    ]
+      "Recognizes extraordinary acts of heroism and public service.",
+      "Provides a lasting tribute to individuals who serve the nation."
+    ],
+    "title": "To award three congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "This bill directs the Speaker of the House and the President pro tempore of the Senate to arrange for the award of three Congressional Gold Medals to the U.S. Capitol Police (USCP) and other law enforcement agencies that protected the U.S. Capitol on January 6, 2021. Following the awar...",
+    "congress": 117,
+    "type": "hr",
+    "number": "1085",
+    "introduced_date": "2021-02-18",
+    "policy_area": "Congress"
   },
   "117/hr/1134": {
     "cons": [
@@ -42921,13 +43152,24 @@
   },
   "117/hr/3325": {
     "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
+      "Adds to the number of Congressional Gold Medals awarded.",
+      "Could set a precedent for additional medal designations."
     ],
     "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Provides a targeted solution to a specific problem."
-    ]
+      "Recognizes extraordinary acts of heroism and public service.",
+      "Provides a lasting tribute to individuals who serve the nation."
+    ],
+    "title": "To award four congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "This bill provides for the award of Congressional Gold Medals to the U.S. Capitol Police and the Metropolitan Police Department of the District of Columbia in recognition of the law enforcement agencies that protected the U.S. Capitol on January 6, 2021.",
+    "congress": 117,
+    "type": "hr",
+    "number": "3325",
+    "introduced_date": "2021-05-19",
+    "policy_area": "Congress"
   },
   "117/hr/3334": {
     "cons": [
@@ -44861,13 +45103,24 @@
   },
   "117/hr/6099": {
     "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
+      "Could restrict access to essential healthcare services.",
+      "Limits women's reproductive freedom and medical choice."
     ],
     "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Provides a targeted solution to a specific problem."
-    ]
+      "Protects the sanctity of human life at all stages.",
+      "Supports the constitutional right to bodily autonomy."
+    ],
+    "title": "Recognizing the Unborn Act of 2021",
+    "sponsor_name": "H. Lamborn, Doug (CO-5)",
+    "sponsor_bioguide": "L000564",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CO",
+    "summary": "Recognizing the Unborn Act of 2021 This bill replaces the term fetus with unborn child throughout federal law, including provisions relating to abortions and medical research. The bill also creates a default statutory definition for unborn child : a child in ...",
+    "congress": 117,
+    "type": "hr",
+    "number": "6099",
+    "introduced_date": "2021-12-01",
+    "policy_area": "Civil Rights and Liberties, Minority Issues"
   },
   "117/hr/6100": {
     "cons": [
@@ -46197,7 +46450,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Taylor Force Martyr Payment Prevention Act of 2022",
+    "sponsor_name": "H. Lamborn, Doug (CO-5)",
+    "sponsor_bioguide": "L000564",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CO",
+    "summary": "Taylor Force Martyr Payment Prevention Act of 2022 This bill expands the institutional factors the Department of the Treasury must consider when making a finding that a foreign financial institution is of primary money laundering concern and is therefore subject to sp...",
+    "congress": 117,
+    "type": "hr",
+    "number": "7824",
+    "introduced_date": "2022-05-18",
+    "policy_area": "Finance and Financial Sector"
   },
   "117/hr/7831": {
     "cons": [
@@ -46247,7 +46511,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Defending Freedom of Conscience for Cadets and Midshipmen Act of 2022",
+    "sponsor_name": "H. Lamborn, Doug (CO-5)",
+    "sponsor_bioguide": "L000564",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CO",
+    "summary": "Defending Freedom of Conscience for Cadets and Midshipmen Act of 2022 This bill provides that a cadet or midshipman at a federal service academy (e.g., the U.S. Naval Academy) may not be required to be vaccinated for COVID-19 as a condition for graduation and may not b...",
+    "congress": 117,
+    "type": "hr",
+    "number": "7890",
+    "introduced_date": "2022-05-27",
+    "policy_area": "Armed Forces and National Security"
   },
   "117/hr/7897": {
     "cons": [
@@ -46711,13 +46986,24 @@
   },
   "117/hr/8501": {
     "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
+      "Could restrict access to essential healthcare services.",
+      "Limits women's reproductive freedom and medical choice."
     ],
     "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Provides a targeted solution to a specific problem."
-    ]
+      "Protects the sanctity of human life at all stages.",
+      "Supports the constitutional right to bodily autonomy."
+    ],
+    "title": "Preventing Abortion Sanctuaries Act",
+    "sponsor_name": "H. Lamborn, Doug (CO-5)",
+    "sponsor_bioguide": "L000564",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CO",
+    "summary": "Preventing Abortion Sanctuaries Act This bill prohibits the Department of Health and Human Services from providing funding to a state that permits abortions or that facilitates interstate travel for abortions. In particular, the prohibition on funding applies to...",
+    "congress": 117,
+    "type": "hr",
+    "number": "8501",
+    "introduced_date": "2022-07-26",
+    "policy_area": "Health"
   },
   "117/hr/8508": {
     "cons": [
@@ -46901,13 +47187,24 @@
   },
   "117/hr/8968": {
     "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
     ],
     "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Provides a targeted solution to a specific problem."
-    ]
+      "Invests in America's students and future workforce.",
+      "Expands school choice and educational opportunities."
+    ],
+    "title": "Protecting Kids from Fentanyl Act",
+    "sponsor_name": "H. Lamborn, Doug (CO-5)",
+    "sponsor_bioguide": "L000564",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CO",
+    "summary": "Protecting Kids from Fentanyl Act This bill allows states and local educational agencies to use unexpended COVID-19 elementary and secondary school emergency relief funds for additional purposes. In particular, these funds may be used for (1) purchasing naloxone or oth...",
+    "congress": 117,
+    "type": "hr",
+    "number": "8968",
+    "introduced_date": "2022-09-22",
+    "policy_area": "Education"
   },
   "117/hr/8986": {
     "cons": [
@@ -47407,7 +47704,18 @@
     "pros": [
       "Addresses an important procedural or ceremonial matter.",
       "Reflects the chamber's priorities and values."
-    ]
+    ],
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "This resolution elects designated Members to specified standing committees of the House of Representatives.",
+    "congress": 117,
+    "type": "hres",
+    "number": "111",
+    "introduced_date": "2021-02-11",
+    "policy_area": "Congress"
   },
   "117/hres/1146": {
     "cons": [
@@ -47477,7 +47785,18 @@
     "pros": [
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
-    ]
+    ],
+    "title": "Honoring the life and legacy of Father Stan, a prominent human rights activist who died while in custody of the Indian state on July 5, 2021, and encouraging India to pursue an independent investigati",
+    "sponsor_name": "H. Vargas, Juan (CA-52)",
+    "sponsor_bioguide": "V000130",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "This resolution encourages India to pursue an independent investigation into the arrest, incarceration, and death of Father Stanislaus Lourduswamy (also known as Father Stan), a prominent human rights activist who died while in custody on July 5, 2021. The resolution also states that ...",
+    "congress": 117,
+    "type": "hres",
+    "number": "1219",
+    "introduced_date": "2022-07-05",
+    "policy_area": "International Affairs"
   },
   "117/hres/1242": {
     "cons": [
@@ -47827,7 +48146,18 @@
     "pros": [
       "Addresses an important procedural or ceremonial matter.",
       "Reflects the chamber's priorities and values."
-    ]
+    ],
+    "title": "Establishing the Select Committee to Investigate the January 6th Attack on the United States Capitol.",
+    "sponsor_name": "H. Pelosi, Nancy (CA-11)",
+    "sponsor_bioguide": "P000197",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CA",
+    "summary": "This resolution establishes in the House of Representatives the Select Committee to Investigate the January 6th Attack on the United States Capitol. The select committee must (1) conduct an investigation of the relevant facts and circumstances relating to the attack on the Capitol; (...",
+    "congress": 117,
+    "type": "hres",
+    "number": "503",
+    "introduced_date": "2021-06-28",
+    "policy_area": "Congress"
   },
   "117/hres/51": {
     "cons": [
@@ -179821,5 +180151,605 @@
     "number": "9125",
     "introduced_date": "2026-06-03",
     "policy_area": null
+  },
+  "119/sjres/83": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
+  },
+  "119/hres/378": {
+    "pros": [
+      "Strengthens border security and immigration enforcement measures.",
+      "Creates a more orderly and lawful immigration system."
+    ],
+    "cons": [
+      "May separate families or harm refugee protection efforts.",
+      "Could strain resources at ports of entry and processing centers."
+    ]
+  },
+  "119/hr/2983": {
+    "pros": [
+      "Prevents inflation from eroding the purchasing power of food assistance benefits.",
+      "Ensures low-income families can maintain adequate nutrition during price increases."
+    ],
+    "cons": [
+      "Increases federal spending on nutrition assistance without work requirement reforms.",
+      "Could create budgetary pressure by not accounting for Social Security COLAs separately."
+    ]
+  },
+  "119/s/2796": {
+    "pros": [
+      "Provides a legislative solution regarding for a land exchange.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/2238": {
+    "pros": [
+      "Provides a legislative solution regarding the theft of catalytic.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/2702": {
+    "pros": [
+      "Supports community banks by reducing regulatory burden on deposit insurance.",
+      "Helps keep local deposits within community-based financial institutions."
+    ],
+    "cons": [
+      "Could weaken systemic financial stability protections for depositors.",
+      "May create competitive advantages for smaller banks over larger institutions."
+    ]
+  },
+  "119/hr/2158": {
+    "pros": [
+      "Strengthens state and local capacity to counter foreign government intimidation abroad.",
+      "Protects diaspora communities from threats originating from foreign regimes."
+    ],
+    "cons": [
+      "Could expand federal surveillance powers with limited oversight mechanisms.",
+      "May be difficult to enforce without strong international cooperation."
+    ]
+  },
+  "119/s/2771": {
+    "pros": [
+      "Honors treaty obligations and supports tribal sovereignty.",
+      "Addresses longstanding disparities facing Native American communities."
+    ],
+    "cons": [
+      "May not provide sufficient resources to meet identified needs.",
+      "Implementation could face bureaucratic delays and hurdles."
+    ]
+  },
+  "119/hr/640": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/s/2210": {
+    "pros": [
+      "Protects workers rights and ensures fair labor standards.",
+      "Strengthens the American middle class through better wages."
+    ],
+    "cons": [
+      "Could increase costs for employers and reduce hiring flexibility.",
+      "May harm small businesses that struggle to comply with new rules."
+    ]
+  },
+  "119/hr/3376": {
+    "pros": [
+      "Protects Americas natural heritage for future generations.",
+      "Promotes responsible stewardship of public lands and waters."
+    ],
+    "cons": [
+      "Could restrict economic activities like logging and mining.",
+      "May limit local communities access to natural resources."
+    ]
+  },
+  "119/hr/3439": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/s/613": {
+    "pros": [
+      "Provides a legislative solution regarding the Under Secretary of.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/3075": {
+    "pros": [
+      "Provides a legislative solution regarding the Consolidated Farm and.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/2652": {
+    "pros": [
+      "Reduces regulatory burdens on Americas small business owners.",
+      "Helps small businesses grow and create local jobs."
+    ],
+    "cons": [
+      "Could reduce consumer protections in the name of deregulation.",
+      "May primarily benefit larger companies that can lobby effectively."
+    ]
+  },
+  "119/hr/5687": {
+    "pros": [
+      "Provides a legislative solution regarding LIHEAP during a Federal.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/2438": {
+    "pros": [
+      "Protects workers rights and ensures fair labor standards.",
+      "Strengthens the American middle class through better wages."
+    ],
+    "cons": [
+      "Could increase costs for employers and reduce hiring flexibility.",
+      "May harm small businesses that struggle to comply with new rules."
+    ]
+  },
+  "119/hr/3737": {
+    "pros": [
+      "Provides a legislative solution regarding Party efforts to censor.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/854": {
+    "pros": [
+      "Invests in critical transportation infrastructure across the nation.",
+      "Improves safety and efficiency for commuters and commerce."
+    ],
+    "cons": [
+      "Major infrastructure projects often face cost overruns and delays.",
+      "Funding allocation may not prioritize the most critical projects."
+    ]
+  },
+  "119/s/1931": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/hr/3790": {
+    "pros": [
+      "Provides a legislative solution regarding of Energy to restrict.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/512": {
+    "pros": [
+      "Supports American farmers and strengthens the food supply chain.",
+      "Provides critical assistance to rural agricultural communities."
+    ],
+    "cons": [
+      "May distort agricultural markets with federal subsidies.",
+      "Could benefit large agribusiness over small family farms."
+    ]
+  },
+  "119/s/3542": {
+    "pros": [
+      "Protects Americas natural heritage for future generations.",
+      "Promotes responsible stewardship of public lands and waters."
+    ],
+    "cons": [
+      "Could restrict economic activities like logging and mining.",
+      "May limit local communities access to natural resources."
+    ]
+  },
+  "119/s/1430": {
+    "pros": [
+      "Improves public transit infrastructure and operational flexibility.",
+      "Addresses specific transportation needs identified by local planning organizations."
+    ],
+    "cons": [
+      "Could increase federal transportation spending without clear performance metrics.",
+      "May impose regulatory requirements on regional transportation agencies."
+    ]
+  },
+  "119/hr/1086": {
+    "pros": [
+      "Supports American farmers and strengthens the food supply chain.",
+      "Provides critical assistance to rural agricultural communities."
+    ],
+    "cons": [
+      "May distort agricultural markets with federal subsidies.",
+      "Could benefit large agribusiness over small family farms."
+    ]
+  },
+  "119/s/1035": {
+    "pros": [
+      "Promotes American exports and supports domestic manufacturers.",
+      "Protects strategic industries from unfair foreign competition."
+    ],
+    "cons": [
+      "Trade restrictions could raise prices for American consumers.",
+      "May trigger retaliatory measures from foreign trading partners."
+    ]
+  },
+  "119/hr/5182": {
+    "pros": [
+      "Creates a legislative framework for addressing the stated policy objectives.",
+      "Provides targeted federal action on an identified issue."
+    ],
+    "cons": [
+      "Would benefit from additional stakeholder input and committee hearings.",
+      "May have unintended effects not fully analyzed in the legislative text."
+    ]
+  },
+  "119/hr/781": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/hr/3608": {
+    "pros": [
+      "Provides a legislative solution regarding United States Code, with.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/1127": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/s/3447": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
+  },
+  "119/hr/2341": {
+    "pros": [
+      "Provides a legislative solution regarding T. Stafford Disaster Relief.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/593": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/1917": {
+    "pros": [
+      "Provides a legislative solution regarding Lakes Mass Marking Program,.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/5444": {
+    "pros": [
+      "Protects workers rights and ensures fair labor standards.",
+      "Strengthens the American middle class through better wages."
+    ],
+    "cons": [
+      "Could increase costs for employers and reduce hiring flexibility.",
+      "May harm small businesses that struggle to comply with new rules."
+    ]
+  },
+  "119/hr/981": {
+    "pros": [
+      "Reduces tax burden on families with dependents earning modest incomes.",
+      "Simplifies tax filing for households with dependent income sources."
+    ],
+    "cons": [
+      "Could reduce federal revenue without corresponding spending reductions.",
+      "May primarily benefit higher-income households with investment income."
+    ]
+  },
+  "119/hr/2484": {
+    "pros": [
+      "Expands protections and opportunities for Americans with disabilities.",
+      "Removes barriers to participation in daily life and employment."
+    ],
+    "cons": [
+      "Compliance costs may burden small businesses and organizations.",
+      "Implementation may require additional federal oversight."
+    ]
+  },
+  "119/hr/2799": {
+    "pros": [
+      "Provides a legislative solution regarding United States Code, to.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/3046": {
+    "pros": [
+      "Protects workers rights and ensures fair labor standards.",
+      "Strengthens the American middle class through better wages."
+    ],
+    "cons": [
+      "Could increase costs for employers and reduce hiring flexibility.",
+      "May harm small businesses that struggle to comply with new rules."
+    ]
+  },
+  "119/hr/7460": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/4135": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/4442": {
+    "pros": [
+      "Improves public transit infrastructure and operational flexibility.",
+      "Addresses specific transportation needs identified by local planning organizations."
+    ],
+    "cons": [
+      "Could increase federal transportation spending without clear performance metrics.",
+      "May impose regulatory requirements on regional transportation agencies."
+    ]
+  },
+  "119/sres/605": {
+    "pros": [
+      "Strengthens the integrity and accessibility of American elections.",
+      "Ensures every eligible citizen can exercise their right to vote."
+    ],
+    "cons": [
+      "May impose burdensome requirements on voters and election officials.",
+      "Could be seen as favoring one political party over another."
+    ]
+  },
+  "119/hr/5759": {
+    "pros": [
+      "Provides a legislative solution regarding Nutrition Act of 1966.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/sjres/169": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hr/6820": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/3654": {
+    "pros": [
+      "Provides a legislative solution regarding and administrative streamlining of.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/2269": {
+    "pros": [
+      "Provides a legislative solution regarding title 18, United States.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/2778": {
+    "pros": [
+      "Invests in Americas students and future workforce competitiveness.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address root causes of educational achievement gaps."
+    ]
+  },
+  "119/hr/6416": {
+    "pros": [
+      "Provides a legislative solution regarding Innovation and Opportunity Act.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/7372": {
+    "pros": [
+      "Provides a legislative solution regarding motor vehicle safety features.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/4471": {
+    "pros": [
+      "Provides a legislative solution regarding an informational campaign and.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/3810": {
+    "pros": [
+      "Provides a legislative solution regarding the Plant Protection Act.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/8511": {
+    "pros": [
+      "Improves public transit infrastructure and operational flexibility.",
+      "Addresses specific transportation needs identified by local planning organizations."
+    ],
+    "cons": [
+      "Could increase federal transportation spending without clear performance metrics.",
+      "May impose regulatory requirements on regional transportation agencies."
+    ]
+  },
+  "119/hr/7989": {
+    "pros": [
+      "Provides a legislative solution regarding used to determine amounts.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hres/1243": {
+    "pros": [
+      "Promotes American exports and supports domestic manufacturers.",
+      "Protects strategic industries from unfair foreign competition."
+    ],
+    "cons": [
+      "Trade restrictions could raise prices for American consumers.",
+      "May trigger retaliatory measures from foreign trading partners."
+    ]
+  },
+  "119/hr/7955": {
+    "pros": [
+      "Provides a legislative solution regarding from placing, accepting, or.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/8446": {
+    "pros": [
+      "Supports American farmers and strengthens the food supply chain.",
+      "Provides critical assistance to rural agricultural communities."
+    ],
+    "cons": [
+      "May distort agricultural markets with federal subsidies.",
+      "Could benefit large agribusiness over small family farms."
+    ]
+  },
+  "119/hr/1215": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/8553": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
   }
 }
