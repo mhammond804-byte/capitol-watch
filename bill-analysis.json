@@ -177979,5 +177979,605 @@
       "May strain diplomatic relations with affected countries.",
       "Could burden already overworked immigration courts."
     ]
+  },
+  "119/hr/3210": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hres/537": {
+    "pros": [
+      "Reforms the criminal justice system to be fairer and more effective.",
+      "Enhances public safety while protecting individual rights."
+    ],
+    "cons": [
+      "May reduce accountability for certain criminal offenses.",
+      "Could impose unfunded mandates on state and local law enforcement."
+    ]
+  },
+  "119/s/2346": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/s/867": {
+    "pros": [
+      "Invests in critical transportation infrastructure across the nation.",
+      "Improves safety and efficiency for commuters and commerce."
+    ],
+    "cons": [
+      "Major infrastructure projects often face cost overruns and delays.",
+      "Funding allocation may not prioritize the most critical projects."
+    ]
+  },
+  "119/hr/974": {
+    "pros": [
+      "Reduces bureaucratic red tape for businesses and individuals.",
+      "Streamlines compliance processes without sacrificing safety."
+    ],
+    "cons": [
+      "Could weaken important consumer and environmental protections.",
+      "May create loopholes that benefit well-connected industries."
+    ]
+  },
+  "119/s/2375": {
+    "pros": [
+      "Enhances national security and protects Americans from threats.",
+      "Strengthens homeland security preparedness and response capabilities."
+    ],
+    "cons": [
+      "Could expand government surveillance powers without oversight.",
+      "May divert resources from domestic priorities and programs."
+    ]
+  },
+  "119/hr/3664": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/3535": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/sres/83": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/s/3322": {
+    "pros": [
+      "Strengthens support systems for American families and children.",
+      "Addresses critical needs of vulnerable populations."
+    ],
+    "cons": [
+      "May expand the federal role in family and childcare decisions.",
+      "Could create unfunded mandates for state-level programs."
+    ]
+  },
+  "119/hr/3321": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/sjres/75": {
+    "pros": [
+      "Reforms the criminal justice system to be fairer and more effective.",
+      "Enhances public safety while protecting individual rights."
+    ],
+    "cons": [
+      "May reduce accountability for certain criminal offenses.",
+      "Could impose unfunded mandates on state and local law enforcement."
+    ]
+  },
+  "119/hr/1987": {
+    "pros": [
+      "Honors the service and sacrifice of Americas military veterans.",
+      "Expands critical benefits and support services for veterans."
+    ],
+    "cons": [
+      "May require additional funding not accounted for in the budget.",
+      "Could duplicate existing VA programs without consolidation."
+    ]
+  },
+  "119/sres/300": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/hres/506": {
+    "pros": [
+      "Addresses the growing housing affordability crisis in America.",
+      "Expands access to safe and affordable housing options."
+    ],
+    "cons": [
+      "May not keep pace with rapidly rising construction costs.",
+      "Could create dependency on federal housing assistance programs."
+    ]
+  },
+  "119/hr/1070": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/sres/590": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hr/1576": {
+    "pros": [
+      "Supports American farmers and strengthens the food supply chain.",
+      "Provides critical assistance to rural agricultural communities."
+    ],
+    "cons": [
+      "May distort agricultural markets with federal subsidies.",
+      "Could benefit large agribusiness over small family farms."
+    ]
+  },
+  "119/hr/6389": {
+    "pros": [
+      "Strengthens support systems for American families and children.",
+      "Addresses critical needs of vulnerable populations."
+    ],
+    "cons": [
+      "May expand the federal role in family and childcare decisions.",
+      "Could create unfunded mandates for state-level programs."
+    ]
+  },
+  "119/hr/3897": {
+    "pros": [
+      "Protects Americas natural heritage for future generations.",
+      "Promotes responsible stewardship of public lands and waters."
+    ],
+    "cons": [
+      "Could restrict economic activities like logging and mining.",
+      "May limit local communities access to natural resources."
+    ]
+  },
+  "119/hr/1480": {
+    "pros": [
+      "Improves access to healthcare services for more Americans.",
+      "Addresses critical health concerns with targeted federal action."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without clear offsets.",
+      "Could add complexity to an already burdened healthcare system."
+    ]
+  },
+  "119/hres/337": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/s/750": {
+    "pros": [
+      "Expands protections and opportunities for Americans with disabilities.",
+      "Removes barriers to participation in daily life and employment."
+    ],
+    "cons": [
+      "Compliance costs may burden small businesses and organizations.",
+      "Implementation may require additional federal oversight."
+    ]
+  },
+  "119/hr/5228": {
+    "pros": [
+      "Protects workers rights and ensures fair labor standards.",
+      "Strengthens the American middle class through better wages."
+    ],
+    "cons": [
+      "Could increase costs for employers and reduce hiring flexibility.",
+      "May harm small businesses that struggle to comply with new rules."
+    ]
+  },
+  "119/hr/5069": {
+    "pros": [
+      "Protects workers rights and ensures fair labor standards.",
+      "Strengthens the American middle class through better wages."
+    ],
+    "cons": [
+      "Could increase costs for employers and reduce hiring flexibility.",
+      "May harm small businesses that struggle to comply with new rules."
+    ]
+  },
+  "119/hr/2999": {
+    "pros": [
+      "Protects benefits and quality of life for senior citizens.",
+      "Addresses the financial security needs of aging Americans."
+    ],
+    "cons": [
+      "Could increase the federal debt without sustainable funding sources.",
+      "May require trade-offs with other generational priorities."
+    ]
+  },
+  "119/hres/617": {
+    "pros": [
+      "Expresses the will of Congress on an important national issue.",
+      "Raises awareness and sparks public discourse on key matters."
+    ],
+    "cons": [
+      "Non-binding resolutions do not have the force of law.",
+      "May divert attention from substantive legislative priorities."
+    ]
+  },
+  "119/s/2040": {
+    "pros": [
+      "Enhances national security and protects Americans from threats.",
+      "Strengthens homeland security preparedness and response capabilities."
+    ],
+    "cons": [
+      "Could expand government surveillance powers without oversight.",
+      "May divert resources from domestic priorities and programs."
+    ]
+  },
+  "119/sjres/177": {
+    "pros": [
+      "Promotes innovation in emerging technologies and digital infrastructure.",
+      "Helps close the digital divide and expand internet access."
+    ],
+    "cons": [
+      "Regulation may stifle innovation in rapidly evolving tech sectors.",
+      "Could raise privacy and security concerns for users."
+    ]
+  },
+  "119/hr/7338": {
+    "pros": [
+      "Invests in critical transportation infrastructure across the nation.",
+      "Improves safety and efficiency for commuters and commerce."
+    ],
+    "cons": [
+      "Major infrastructure projects often face cost overruns and delays.",
+      "Funding allocation may not prioritize the most critical projects."
+    ]
+  },
+  "119/s/108": {
+    "pros": [
+      "Invests in Americas students and future workforce competitiveness.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address root causes of educational achievement gaps."
+    ]
+  },
+  "119/hres/489": {
+    "pros": [
+      "Strengthens border security and immigration enforcement measures.",
+      "Creates a more orderly and lawful immigration system."
+    ],
+    "cons": [
+      "May separate families or harm refugee protection efforts.",
+      "Could strain resources at ports of entry and processing centers."
+    ]
+  },
+  "119/hres/1045": {
+    "pros": [
+      "Invests in Americas students and future workforce competitiveness.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address root causes of educational achievement gaps."
+    ]
+  },
+  "119/s/3913": {
+    "pros": [
+      "Promotes American exports and supports domestic manufacturers.",
+      "Protects strategic industries from unfair foreign competition."
+    ],
+    "cons": [
+      "Trade restrictions could raise prices for American consumers.",
+      "May trigger retaliatory measures from foreign trading partners."
+    ]
+  },
+  "119/hr/8972": {
+    "pros": [
+      "Reduces federal spending and promotes fiscal responsibility.",
+      "Targets specific programs to cut wasteful government expenditures."
+    ],
+    "cons": [
+      "Could reduce funding for essential public services and programs.",
+      "May shift costs to state and local governments already strained."
+    ]
+  },
+  "119/hr/9080": {
+    "pros": [
+      "Invests in Americas roads, bridges, and public infrastructure.",
+      "Creates jobs and stimulates economic growth through construction."
+    ],
+    "cons": [
+      "Large infrastructure projects often exceed budget estimates.",
+      "Funding sources may not be sustainable over the long term."
+    ]
+  },
+  "119/hr/9066": {
+    "pros": [
+      "Reforms the criminal justice system to be fairer and more effective.",
+      "Enhances public safety while protecting individual rights."
+    ],
+    "cons": [
+      "May reduce accountability for certain criminal offenses.",
+      "Could impose unfunded mandates on state and local law enforcement."
+    ]
+  },
+  "119/s/3131": {
+    "pros": [
+      "Provides a legislative solution regarding for the inclusion on.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/2871": {
+    "pros": [
+      "Provides a legislative solution regarding certain Federal land in.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/2924": {
+    "pros": [
+      "Provides a legislative solution regarding of State to discontinue.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/2273": {
+    "pros": [
+      "Provides a legislative solution regarding of State to revoke.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/5972": {
+    "pros": [
+      "Provides a legislative solution regarding of Health and Human.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/4113": {
+    "pros": [
+      "Provides a legislative solution regarding Victims Protection Act of.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/1672": {
+    "pros": [
+      "Provides a legislative solution regarding the Federal Water Pollution.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/1670": {
+    "pros": [
+      "Reduces regulatory burdens on small businesses seeking capital investment.",
+      "Modernizes securities regulations to reflect current market practices."
+    ],
+    "cons": [
+      "Could weaken investor protections in the pursuit of regulatory relief.",
+      "May increase risk of fraud in smaller securities offerings."
+    ]
+  },
+  "119/hr/1071": {
+    "pros": [
+      "Provides a legislative solution regarding foreign government official who.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/3524": {
+    "pros": [
+      "Provides a legislative solution regarding title 54, United States.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/5921": {
+    "pros": [
+      "Provides a legislative solution regarding carry out congressional redistricting.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/1230": {
+    "pros": [
+      "Provides a legislative solution regarding Research, Extension, and Education.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/2844": {
+    "pros": [
+      "Provides a legislative solution regarding of Labor&#x27;s voluntary protection.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/3262": {
+    "pros": [
+      "Provides a legislative solution regarding to eligible local educational.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/1851": {
+    "pros": [
+      "Provides a legislative solution regarding United States Code, to.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/7684": {
+    "pros": [
+      "Provides a legislative solution regarding of the Environmental Protection.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/4503": {
+    "pros": [
+      "Provides a legislative solution regarding and authorizations through the.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/s/3876": {
+    "pros": [
+      "Improves public transit infrastructure and operational flexibility.",
+      "Addresses specific transportation needs identified by local planning organizations."
+    ],
+    "cons": [
+      "Could increase federal transportation spending without clear performance metrics.",
+      "May impose regulatory requirements on regional transportation agencies."
+    ]
+  },
+  "119/hr/5923": {
+    "pros": [
+      "Provides a legislative solution regarding Credit Reporting Act to.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/5603": {
+    "pros": [
+      "Provides a legislative solution regarding immigration officers have at.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/722": {
+    "pros": [
+      "Provides a legislative solution regarding under the 14th article.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/6679": {
+    "pros": [
+      "Provides a legislative solution regarding of Health and Human.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
+  },
+  "119/hr/4969": {
+    "pros": [
+      "Provides a legislative solution regarding of Housing and Urban.",
+      "Addresses a specific policy matter requiring federal attention."
+    ],
+    "cons": [
+      "Would benefit from more detailed analysis before implementation.",
+      "Scope may need further refinement through committee review."
+    ]
   }
 }
