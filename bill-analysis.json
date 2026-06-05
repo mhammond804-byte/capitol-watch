@@ -181351,5 +181351,2021 @@
       "May not keep pace with rapidly rising construction costs.",
       "Could create dependency on federal housing assistance programs."
     ]
+  },
+  "119/hr/1783": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "American Apprenticeship Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "1783",
+    "introduced_date": "2025-03-03",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/10548": {
+    "pros": [
+      "Protects retirement security for seniors.",
+      "Ensures Social Security remains solvent for future generations."
+    ],
+    "cons": [
+      "Could reduce benefits for current or future retirees.",
+      "May increase payroll taxes on workers."
+    ],
+    "title": "Stop Subsidizing Childhood Obesity Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10548",
+    "introduced_date": "2024-12-20",
+    "policy_area": "Taxation"
+  },
+  "119/hr/852": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Expanded Food Safety Investigation Act of 2025",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Expanded Food Safety Investigation Act of 2025 This bill provides that the Food and Drug Administration (FDA) may, under specified circumstances, request access to a concentrated animal-feeding operation (i.e., a stabled or confined animal-feeding operation of a specified size) to conduct microbi...",
+    "congress": 119,
+    "type": "hr",
+    "number": "852",
+    "introduced_date": "2025-01-31",
+    "policy_area": "Agriculture and Food"
+  },
+  "119/hr/1564": {
+    "pros": [
+      "Protects the Second Amendment rights of law-abiding citizens.",
+      "Ensures responsible gun ownership and safety measures."
+    ],
+    "cons": [
+      "Could make it easier for individuals with mental health issues to access guns.",
+      "May undermine efforts to reduce gun violence."
+    ],
+    "title": "Ethan's Law",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Ethan's Law This bill establishes a framework to regulate the storage of firearms on residential premises at the federal, state, and tribal levels. At the federal level, the bill establishes statutory requirements for firearms on residential premises to be safely stored if a minor is likely to ga...",
+    "congress": 119,
+    "type": "hr",
+    "number": "1564",
+    "introduced_date": "2025-02-25",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  "119/hr/1117": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "Responsibility in Drug Advertising Act of 2025",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Responsibility in Drug Advertising Act of 2025 This bill prohibits direct-to-consumer advertising of new drugs during the first three years following their approval by the Food and Drug Administration (FDA). Direct-to-consumer advertising includes advertising via social media. Upon request from a...",
+    "congress": 119,
+    "type": "hr",
+    "number": "1117",
+    "introduced_date": "2025-02-07",
+    "policy_area": "Health"
+  },
+  "118/hr/10526": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Medicare for America Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10526",
+    "introduced_date": "2024-12-19",
+    "policy_area": "Health"
+  },
+  "118/hr/10339": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Southern New England Regional Commission Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10339",
+    "introduced_date": "2024-12-10",
+    "policy_area": "Government Operations and Politics"
+  },
+  "118/hres/1507": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Recognizing the importance of diapers to infant health and family well-being, and expressing support for the designation of the week of September 23-29, 2024, as \"National Diaper Need Awareness Week\".",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution expresses support for the designation of National Diaper Need Awareness Week.",
+    "congress": 118,
+    "type": "hres",
+    "number": "1507",
+    "introduced_date": "2024-09-25",
+    "policy_area": "Health"
+  },
+  "118/hres/1508": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Supporting the designation of September 2024 as \"National Ovarian Cancer Awareness Month\".",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution expresses support for the designation of National Ovarian Cancer Awareness Month and expresses support for the month's goals and ideals.",
+    "congress": 118,
+    "type": "hres",
+    "number": "1508",
+    "introduced_date": "2024-09-25",
+    "policy_area": "Health"
+  },
+  "118/hr/10525": {
+    "pros": [
+      "Invests in critical infrastructure and creates jobs.",
+      "Improves transportation safety and efficiency."
+    ],
+    "cons": [
+      "Increases federal spending and the national debt.",
+      "May fund programs with limited oversight or accountability."
+    ],
+    "title": "National Infrastructure Development Bank Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10525",
+    "introduced_date": "2024-12-19",
+    "policy_area": "Commerce"
+  },
+  "118/hr/9817": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "Toxic Free Food Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9817",
+    "introduced_date": "2024-09-25",
+    "policy_area": "Health"
+  },
+  "118/hr/9142": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Responsibility in Drug Advertising Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9142",
+    "introduced_date": "2024-07-25",
+    "policy_area": "Health"
+  },
+  "118/hr/9538": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Local Procurement Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9538",
+    "introduced_date": "2024-09-11",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/9099": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "Federal Food Administration Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9099",
+    "introduced_date": "2024-07-23",
+    "policy_area": "Health"
+  },
+  "118/hr/8886": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "CHARTER Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8886",
+    "introduced_date": "2024-06-28",
+    "policy_area": "Education"
+  },
+  "118/hr/8727": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "American Business for American Companies Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8727",
+    "introduced_date": "2024-06-13",
+    "policy_area": "Government Operations and Politics"
+  },
+  "118/hr/8529": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Physician Education for Fistula Treatment Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8529",
+    "introduced_date": "2024-05-23",
+    "policy_area": "International Affairs"
+  },
+  "118/hr/8128": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Access to Scalp Cooling Therapy Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8128",
+    "introduced_date": "2024-04-26",
+    "policy_area": "Health"
+  },
+  "118/hr/7744": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "Infant Formula Made in America Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Infant Formula Made in America Act of 2024 This bill allows a 30% investment tax credit for infant formula that is lawfully sold and manufactured in the United States. It also allows a domestic production tax credit for such infant formula.",
+    "congress": 118,
+    "type": "hr",
+    "number": "7744",
+    "introduced_date": "2024-03-20",
+    "policy_area": "Taxation"
+  },
+  "118/hr/7108": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Expanding Access to Mental Health Services in Schools Act of 2024",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "7108",
+    "introduced_date": "2024-01-29",
+    "policy_area": "Education"
+  },
+  "118/hr/6696": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Eviction Prevention Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Eviction Prevention Act of 2023 This bill authorizes the Department of Justice to provide grants to state and local governments to make legal counsel available to eligible tenants undergoing eviction proceedings. An eligible tenant is an individual whose income is less than 125% of the federal po...",
+    "congress": 118,
+    "type": "hr",
+    "number": "6696",
+    "introduced_date": "2023-12-11",
+    "policy_area": "Housing and Community Development"
+  },
+  "118/hr/6184": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Flu Vaccine Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Flu Vaccine Act This bill requires the National Institute of Allergy and Infectious Diseases, which is part of the National Institutes of Health, to conduct or support research regarding the development of a universal influenza vaccine.",
+    "congress": 118,
+    "type": "hr",
+    "number": "6184",
+    "introduced_date": "2023-11-02",
+    "policy_area": "Health"
+  },
+  "118/hres/818": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "Expressing support for the designation of October 28, 2023, as \"Honoring the Nation's First Responders Day\".",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution supports the designation of Honoring the Nation's First Responders Day.",
+    "congress": 118,
+    "type": "hres",
+    "number": "818",
+    "introduced_date": "2023-10-26",
+    "policy_area": "Emergency Management"
+  },
+  "118/hr/6079": {
+    "pros": [
+      "Helps small businesses grow and create jobs.",
+      "Reduces regulatory burdens on entrepreneurs."
+    ],
+    "cons": [
+      "Could reduce consumer protections and labor standards.",
+      "Benefits may not reach the smallest businesses."
+    ],
+    "title": "CHILD Labor Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "6079",
+    "introduced_date": "2023-10-26",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/5834": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Johanna\u2019s Law Reauthorization Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Johanna's Law Reauthorization Act This bill reauthorizes through FY2026 and otherwise revises the Centers for Disease Control and Prevention (CDC) national awareness campaign regarding gynecologic cancers. The CDC must target specified populations of women at higher risk for gynecologic cancers i...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5834",
+    "introduced_date": "2023-09-29",
+    "policy_area": "Health"
+  },
+  "118/hres/746": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Supporting the designation of September 2023 as \"National Ovarian Cancer Awareness Month\".",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution expresses support for the designation of National Ovarian Cancer Awareness Month and expresses support for the month's goals and ideals.",
+    "congress": 118,
+    "type": "hres",
+    "number": "746",
+    "introduced_date": "2023-09-29",
+    "policy_area": "Health"
+  },
+  "118/hr/5703": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "SHIELD Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "5703",
+    "introduced_date": "2023-09-26",
+    "policy_area": "Emergency Management"
+  },
+  "118/hr/5589": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "Fresh Produce Procurement Reform Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Fresh Produce Procurement Reform Act of 2023 This bill directs the Agricultural Marketing Service (AMS) to establish a fresh produce program that serves individuals at risk of food and nutrition insecurity. Specifically, the AMS must enter into contracts with growers, distributors, food hubs, and...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5589",
+    "introduced_date": "2023-09-20",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hres/713": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Recognizing the importance of diapers to infant health and family well-being, and expressing support for the designation of the week of September 18-24, 2023, as \"National Diaper Need Awareness Week\".",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution expresses support for the designation of National Diaper Need Awareness Week.",
+    "congress": 118,
+    "type": "hres",
+    "number": "713",
+    "introduced_date": "2023-09-21",
+    "policy_area": "Health"
+  },
+  "118/hr/5563": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Schedules That Work Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "5563",
+    "introduced_date": "2023-09-19",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/5402": {
+    "pros": [
+      "Helps small businesses grow and create jobs.",
+      "Reduces regulatory burdens on entrepreneurs."
+    ],
+    "cons": [
+      "Could reduce consumer protections and labor standards.",
+      "Benefits may not reach the smallest businesses."
+    ],
+    "title": "Wage Theft Prevention and Wage Recovery Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "5402",
+    "introduced_date": "2023-09-12",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hres/611": {
+    "pros": [
+      "Protects the Second Amendment rights of law-abiding citizens.",
+      "Ensures responsible gun ownership and safety measures."
+    ],
+    "cons": [
+      "Could make it easier for individuals with mental health issues to access guns.",
+      "May undermine efforts to reduce gun violence."
+    ],
+    "title": "Providing for consideration of the bill (H.R. 660) to amend chapter 44 of title 18, United States Code, to require the safe storage of firearms, and for other purposes.",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Sets forth the rule for consideration of the bill (H.R. 660) to amend chapter 44 of title 18, United States Code, to require the safe storage of firearms.",
+    "congress": 118,
+    "type": "hres",
+    "number": "611",
+    "introduced_date": "2023-07-25",
+    "policy_area": "Congress"
+  },
+  "118/hr/5140": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Strengthening America\u2019s Families Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "5140",
+    "introduced_date": "2023-08-04",
+    "policy_area": "Families"
+  },
+  "118/hr/4731": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Access to Infertility Treatment and Care Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "4731",
+    "introduced_date": "2023-07-19",
+    "policy_area": "Health"
+  },
+  "118/hr/4110": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Expanded Food Safety Investigation Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Expanded Food Safety Investigation Act of 2023 This bill provides that the Food and Drug Administration (FDA) may, under specified circumstances, request access to a concentrated animal-feeding operation (i.e., a stabled or confined animal-feeding operation) to conduct microbial sampling. Specifi...",
+    "congress": 118,
+    "type": "hr",
+    "number": "4110",
+    "introduced_date": "2023-06-14",
+    "policy_area": "Health"
+  },
+  "118/hr/4020": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "Children Don't Belong on Tobacco Farms Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Children Don't Belong on Tobacco Farms Act This bill prohibits an individual under the age of 18 from performing work that has direct contact with tobacco plants or dried tobacco leaves by specifying that the work is oppressive child labor. (Oppressive child labor is generally prohibited under th...",
+    "congress": 118,
+    "type": "hr",
+    "number": "4020",
+    "introduced_date": "2023-06-12",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/3899": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "American Family Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "American Family Act This bill provides for a new fully refundable child tax credit and monthly advance payments of credit amounts.",
+    "congress": 118,
+    "type": "hr",
+    "number": "3899",
+    "introduced_date": "2023-06-07",
+    "policy_area": "Taxation"
+  },
+  "118/hr/3481": {
+    "pros": [
+      "Protects retirement security for seniors.",
+      "Ensures Social Security remains solvent for future generations."
+    ],
+    "cons": [
+      "Could reduce benefits for current or future retirees.",
+      "May increase payroll taxes on workers."
+    ],
+    "title": "FAMILY Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "3481",
+    "introduced_date": "2023-05-18",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/3409": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Healthy Families Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "3409",
+    "introduced_date": "2023-05-17",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/3688": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Recall Unsafe Drugs Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Recall Unsafe Drugs Act of 2023 This bill authorizes the Food and Drug Administration (FDA) to order the recall of certain adulterated or misbranded drugs and contains other related provisions. A producer of a medication must notify the FDA of the identity and location of a drug if the producer h...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3688",
+    "introduced_date": "2023-05-25",
+    "policy_area": "Health"
+  },
+  "118/hr/3364": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "WIC Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Wise Investment in Children Act of 2023 or the WIC Act of 2023 This bill expands eligibility for children to receive benefits under the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC). Specifically, the bill extends eligibility for the program until the period that e...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3364",
+    "introduced_date": "2023-05-16",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/3136": {
+    "pros": [
+      "Strengthens national security and military readiness.",
+      "Supports our armed forces and their families."
+    ],
+    "cons": [
+      "Increases military spending at the expense of domestic programs.",
+      "Could escalate tensions with foreign adversaries."
+    ],
+    "title": "National Critical Capabilities Defense Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "National Critical Capabilities Defense Act of 2023 This bill establishes a notification process for certain U.S. investment (known as outbound investment) involving national critical capabilities sectors in countries of concern (e.g., China and Russia). National critical capabilities sector inclu...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3136",
+    "introduced_date": "2023-05-09",
+    "policy_area": "Foreign Trade and International Finance"
+  },
+  "118/hres/313": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Commending and congratulating the Quinnipiac University men's hockey team for winning the 2023 National Collegiate Athletic Association Division I Men's Hockey National Championship.",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution commends the Quinnipiac University men's hockey team for winning the 2023 National Collegiate Athletic Association Division I Men's Hockey National Championship.",
+    "congress": 118,
+    "type": "hres",
+    "number": "313",
+    "introduced_date": "2023-04-20",
+    "policy_area": "Sports and Recreation"
+  },
+  "118/hr/3086": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Find It Early Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "3086",
+    "introduced_date": "2023-05-05",
+    "policy_area": "Health"
+  },
+  "118/hres/278": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Expressing support for the designation of April 10, 2023, as \"Venture Smith Freedom Day\".",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution supports the designation of Venture Smith Freedom Day to recognize the 258th anniversary of Venture Smith purchasing his freedom from slavery.",
+    "congress": 118,
+    "type": "hres",
+    "number": "278",
+    "introduced_date": "2023-04-06",
+    "policy_area": "Civil Rights and Liberties, Minority Issues"
+  },
+  "118/hr/17": {
+    "pros": [
+      "Strengthens national security and military readiness.",
+      "Supports our armed forces and their families."
+    ],
+    "cons": [
+      "Increases military spending at the expense of domestic programs.",
+      "Could escalate tensions with foreign adversaries."
+    ],
+    "title": "Paycheck Fairness Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Paycheck Fairness Act This bill addresses wage discrimination on the basis of sex, which is defined to include pregnancy, sexual orientation, gender identity, and sex characteristics. Specifically, it limits an employer's defense that a pay differential is based on a factor other than sex to only...",
+    "congress": 118,
+    "type": "hr",
+    "number": "17",
+    "introduced_date": "2023-03-10",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/1077": {
+    "pros": [
+      "Recognizes extraordinary acts of heroism and public service.",
+      "Provides a lasting tribute to individuals who serve the nation."
+    ],
+    "cons": [
+      "Adds to the number of Congressional Gold Medals awarded.",
+      "Could set a precedent for additional medal designations."
+    ],
+    "title": "Congressional Tribute to Constance Baker Motley Act of 2023",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Congressional Tribute to Constance Baker Motley Act of 2023 This bill provides for the award of a Congressional Gold Medal posthumously to Constance Baker Motley in recognition of her contributions and service to the United States in advancing civil rights as an attorney, elected official, and ju...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1077",
+    "introduced_date": "2023-02-17",
+    "policy_area": "Civil Rights and Liberties, Minority Issues"
+  },
+  "118/hr/660": {
+    "pros": [
+      "Protects the Second Amendment rights of law-abiding citizens.",
+      "Ensures responsible gun ownership and safety measures."
+    ],
+    "cons": [
+      "Could make it easier for individuals with mental health issues to access guns.",
+      "May undermine efforts to reduce gun violence."
+    ],
+    "title": "Ethan's Law",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Ethan's Law This bill establishes a framework to regulate the storage of firearms on residential premises at the federal, state, and tribal levels. At the federal level, the bill establishes statutory requirements for firearms on residential premises to be safely stored if a minor is likely to ga...",
+    "congress": 118,
+    "type": "hr",
+    "number": "660",
+    "introduced_date": "2023-01-31",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  "118/hr/511": {
+    "pros": [
+      "Helps small businesses grow and create jobs.",
+      "Reduces regulatory burdens on entrepreneurs."
+    ],
+    "cons": [
+      "Could reduce consumer protections and labor standards.",
+      "Benefits may not reach the smallest businesses."
+    ],
+    "title": "American Apprenticeship Act",
+    "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
+    "sponsor_bioguide": "D000216",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "American Apprenticeship Act This bill authorizes the Department of Labor to make grants to assist states in carrying out projects that defray the cost of pre-apprenticeship or related instruction for qualified apprenticeship programs. Labor shall (1) establish performance measures and an evaluati...",
+    "congress": 118,
+    "type": "hr",
+    "number": "511",
+    "introduced_date": "2023-01-25",
+    "policy_area": "Labor and Employment"
+  },
+  "119/hres/119": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Declaring racism a public health crisis.",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution declares racism a public health crisis and supports efforts to address health disparities and inequities across all sectors.",
+    "congress": 119,
+    "type": "hres",
+    "number": "119",
+    "introduced_date": "2025-02-06",
+    "policy_area": "Health"
+  },
+  "119/hr/1002": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Caring for All Families Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "1002",
+    "introduced_date": "2025-02-05",
+    "policy_area": "Labor and Employment"
+  },
+  "119/hr/433": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Department of Education Protection Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Department of Education Protection Act This bill prohibits the use of appropriated funds made available to the Department of Education (ED) to decentralize, reduce the staffing level of, or alter the responsibilities or functionality of ED compared to its organization or operation on January 1, 2...",
+    "congress": 119,
+    "type": "hr",
+    "number": "433",
+    "introduced_date": "2025-01-15",
+    "policy_area": "Education"
+  },
+  "118/hr/10288": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Fair Telehealth Billing Act of 2024",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10288",
+    "introduced_date": "2024-12-04",
+    "policy_area": "Health"
+  },
+  "118/hr/10363": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "Helping America\u2019s Farmers Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10363",
+    "introduced_date": "2024-12-11",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/10184": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Educational Equity Challenge Grant Act of 2024",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10184",
+    "introduced_date": "2024-11-20",
+    "policy_area": "Education"
+  },
+  "118/hr/9829": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Students Working for Communities Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9829",
+    "introduced_date": "2024-09-25",
+    "policy_area": "Education"
+  },
+  "118/hr/9521": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Student Food Security Act of 2024",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9521",
+    "introduced_date": "2024-09-10",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/9448": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "School Hunger Elimination Act of 2024",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9448",
+    "introduced_date": "2024-09-03",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hres/1404": {
+    "pros": [
+      "Protects the Second Amendment rights of law-abiding citizens.",
+      "Ensures responsible gun ownership and safety measures."
+    ],
+    "cons": [
+      "Could make it easier for individuals with mental health issues to access guns.",
+      "May undermine efforts to reduce gun violence."
+    ],
+    "title": "Expressing support for keeping guns out of classrooms.",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution expresses the sense that federal funds should not be used to (1) arm school personnel with firearms, or (2) train school personnel in the use of firearms.",
+    "congress": 118,
+    "type": "hres",
+    "number": "1404",
+    "introduced_date": "2024-08-02",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  "118/hr/8981": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Supporting Trauma-Informed Education Practices Act of 2024",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8981",
+    "introduced_date": "2024-07-10",
+    "policy_area": "Education"
+  },
+  "118/hr/8844": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "CARE for Kids Act of 2024",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8844",
+    "introduced_date": "2024-06-26",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/8731": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Time for Completion Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8731",
+    "introduced_date": "2024-06-13",
+    "policy_area": "Education"
+  },
+  "118/hr/8611": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "Save Our Small Farms Act of 2024",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8611",
+    "introduced_date": "2024-06-04",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hres/1189": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Supporting the designation of the week of April 29 through May 3, 2024, as \"National Specialized Instructional Support Personnel Appreciation Week\".",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution supports the designation of National Specialized Instructional Support Personnel Appreciation Week.",
+    "congress": 118,
+    "type": "hres",
+    "number": "1189",
+    "introduced_date": "2024-05-01",
+    "policy_area": "Education"
+  },
+  "118/hconres/101": {
+    "pros": [
+      "Invests in critical infrastructure and creates jobs.",
+      "Improves transportation safety and efficiency."
+    ],
+    "cons": [
+      "Increases federal spending and the national debt.",
+      "May fund programs with limited oversight or accountability."
+    ],
+    "title": "Recognizing the need to improve physical access to many federally funded facilities for all people of the United States, particularly people with disabilities.",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This concurrent resolution recognizes that people with disabilities experience barriers to access every day and pledges to make universal and inclusive design a guiding principle for all infrastructure bills and projects.",
+    "congress": 118,
+    "type": "hconres",
+    "number": "101",
+    "introduced_date": "2024-03-22",
+    "policy_area": "Civil Rights and Liberties, Minority Issues"
+  },
+  "118/hr/7748": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Scratch Cooked Meals for Students Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "7748",
+    "introduced_date": "2024-03-20",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hres/1062": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Declaring racism a public health crisis.",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution declares racism a public health crisis and supports efforts to address health disparities and inequities across all sectors.",
+    "congress": 118,
+    "type": "hres",
+    "number": "1062",
+    "introduced_date": "2024-03-06",
+    "policy_area": "Health"
+  },
+  "118/hr/7416": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Closing the College Hunger Gap Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "7416",
+    "introduced_date": "2024-02-20",
+    "policy_area": "Education"
+  },
+  "118/hres/990": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Expressing the sense of the House of Representatives that paraprofessionals and education support staff should have fair compensation, benefits, and working conditions.",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution expresses the sense of the House of Representatives that paraprofessionals and education support staff should receive a living wage, have access to affordable health care and health care benefits, and have access to other specified employment benefits and working conditions. Addit...",
+    "congress": 118,
+    "type": "hres",
+    "number": "990",
+    "introduced_date": "2024-01-31",
+    "policy_area": "Education"
+  },
+  "118/hr/7285": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "To amend the Food and Nutrition Act of 2008 to increase the Federal cost share for the supplemental nutrition assistance program administration to improve staffing and retention.",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "7285",
+    "introduced_date": "2024-02-07",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/7139": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Teacher Debt Relief Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Teacher Debt Relief Act This bill allows an eligible teacher to use the same teaching service to qualify for both the Teacher Loan Forgiveness program and the Public Service Loan Forgiveness program.",
+    "congress": 118,
+    "type": "hr",
+    "number": "7139",
+    "introduced_date": "2024-01-30",
+    "policy_area": "Education"
+  },
+  "118/hr/6754": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "School Violence Prevention Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "6754",
+    "introduced_date": "2023-12-13",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  "118/hr/5757": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Promotes agricultural innovation and food security."
+    ],
+    "cons": [
+      "Could distort agricultural markets with subsidies.",
+      "May have unintended environmental consequences."
+    ],
+    "title": "WIC for Kids Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "5757",
+    "introduced_date": "2023-09-27",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/6629": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "YouthBuild for the Future Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "6629",
+    "introduced_date": "2023-12-06",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/5484": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Green Ribbon Act of 2023",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Green Ribbon Act of 2023 This bill provides statutory authority for and expands the Department of Education\u2019s (ED\u2019s) Green Ribbon Schools program. (This program was established in 2011 to recognize early learning centers, schools, districts, and postsecondary institutions for excellence in reduci...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5484",
+    "introduced_date": "2023-09-14",
+    "policy_area": "Education"
+  },
+  "118/hr/5407": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "School MEALS Act of 2023",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "School Modernization and Efficient Access to Lunches for Students Act of 2023 or the School MEALS Act of 2023 This bill establishes programs and revises requirements relating to direct certification processes for the National School Lunch Program. Direct certification allows schools to use data m...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5407",
+    "introduced_date": "2023-09-12",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/5369": {
+    "pros": [
+      "Helps small businesses grow and create jobs.",
+      "Reduces regulatory burdens on entrepreneurs."
+    ],
+    "cons": [
+      "Could reduce consumer protections and labor standards.",
+      "Benefits may not reach the smallest businesses."
+    ],
+    "title": "Tipped Worker Protection Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "5369",
+    "introduced_date": "2023-09-08",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/5252": {
+    "pros": [
+      "Protects natural resources and promotes clean energy.",
+      "Reduces pollution and safeguards public health."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ],
+    "title": "EQIP Improvement Act of 2023",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "EQIP Improvement Act of 2023 This bill amends the Environmental Quality Incentives Program (EQIP) to reduce and remove certain payment requirements. (EQIP provides technical and financial assistance to agricultural producers and forest landowners to address natural resource concerns.) Specificall...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5252",
+    "introduced_date": "2023-08-22",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hr/3698": {
+    "pros": [
+      "Honors the service of veterans and improves their benefits.",
+      "Expands healthcare access for those who served our country."
+    ],
+    "cons": [
+      "Adds to federal spending without a dedicated funding source.",
+      "May create administrative burdens at the VA."
+    ],
+    "title": "Feed Hungry Veterans Act of 2023",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Feed Hungry Veterans Act of 2023 This bill expands eligibility for the Supplemental Nutrition Assistance Program (SNAP) for certain disabled veterans, including those determined to be catastrophically disabled.",
+    "congress": 118,
+    "type": "hr",
+    "number": "3698",
+    "introduced_date": "2023-05-25",
+    "policy_area": "Agriculture and Food"
+  },
+  "118/hres/331": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Supporting the designation of the week of April 24 through April 28, 2023, as \"National Specialized Instructional Support Personnel Appreciation Week\".",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution supports the designation of National Specialized Instructional Support Personnel Appreciation Week.",
+    "congress": 118,
+    "type": "hres",
+    "number": "331",
+    "introduced_date": "2023-04-26",
+    "policy_area": "Education"
+  },
+  "118/hr/1630": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "PROSPECT Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Preparing and Resourcing Our Student Parents and Early Childhood Teachers Act or the PROSPECT Act This bill establishes various grant programs to increase the supply of, and access to, high-quality, early-childhood care. Specifically, grants are established for planning and developing expanded ac...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1630",
+    "introduced_date": "2023-03-17",
+    "policy_area": "Families"
+  },
+  "118/hres/185": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Declaring racism a public health crisis.",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution declares racism a public health crisis and supports efforts to address health disparities and inequities across all sectors.",
+    "congress": 118,
+    "type": "hres",
+    "number": "185",
+    "introduced_date": "2023-02-28",
+    "policy_area": "Health"
+  },
+  "118/hr/1083": {
+    "pros": [
+      "Honors the service of veterans and improves their benefits.",
+      "Expands healthcare access for those who served our country."
+    ],
+    "cons": [
+      "Adds to federal spending without a dedicated funding source.",
+      "May create administrative burdens at the VA."
+    ],
+    "title": "Caring for Survivors Act of 2023",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Caring for Survivors Act of 2023 This bill increases the monthly rate of dependency and indemnity compensation payable to surviving spouses through the Department of Veterans Affairs (VA). Dependency and indemnity compensation is a monthly payment made to eligible survivors (i.e., spouses, parent...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1083",
+    "introduced_date": "2023-02-17",
+    "policy_area": "Armed Forces and National Security"
+  },
+  "118/hr/789": {
+    "pros": [
+      "Helps small businesses grow and create jobs.",
+      "Reduces regulatory burdens on entrepreneurs."
+    ],
+    "cons": [
+      "Could reduce consumer protections and labor standards.",
+      "Benefits may not reach the smallest businesses."
+    ],
+    "title": "Caring for All Families Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Caring for All Families Act This bill expands who is permitted to take qualifying family and medical leave and provides additional leave for parents and family caregivers. The bill grants leave to private sector and federal employees to care for a domestic partner and any individual whose close a...",
+    "congress": 118,
+    "type": "hr",
+    "number": "789",
+    "introduced_date": "2023-02-02",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/5249": {
+    "pros": [
+      "Strengthens national security and military readiness.",
+      "Supports our armed forces and their families."
+    ],
+    "cons": [
+      "Increases military spending at the expense of domestic programs.",
+      "Could escalate tensions with foreign adversaries."
+    ],
+    "title": "Coast Guard Academy Safe-to-Report Parity Act",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Coast Guard Academy Safe-to-Report Parity Act This bill extends a requirement for specified military departments to establish a safe-to-report policy to the Coast Guard Academy. Under the bill, the Coast Guard must establish a policy that addresses the handling of minor collateral misconduct invo...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5249",
+    "introduced_date": "2023-08-22",
+    "policy_area": "Transportation and Public Works"
+  },
+  "118/hr/5138": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Improving Access to Medicare Coverage Act of 2023",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Improving Access to Medicare Coverage Act of 2023 This bill deems an individual receiving outpatient observation services in a hospital as an inpatient for purposes of satisfying the three-day inpatient hospital-stay requirement with respect to Medicare coverage of skilled nursing facility (SNF) ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5138",
+    "introduced_date": "2023-08-04",
+    "policy_area": "Health"
+  },
+  "118/hr/4986": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Student Loan Interest Elimination Act",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Student Loan Interest Elimination Act This bill makes changes to federal student loans, including to interest rates. Specifically, the bill directs the Department of Education (ED) to establish and implement procedures to (1) modify the terms of Federal Direct Loans so that beginning on July 1, 2...",
+    "congress": 118,
+    "type": "hr",
+    "number": "4986",
+    "introduced_date": "2023-07-27",
+    "policy_area": "Education"
+  },
+  "118/hr/4903": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "COREY Safety Act of 2023",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "College Operational Reporting of Emergencies involving teens and Young adults Safety Act of 2023 or the COREY Safety Act of 2023 This bill expands reporting requirements included in the annual security report provided to current and prospective students and employees of each institution of higher...",
+    "congress": 118,
+    "type": "hr",
+    "number": "4903",
+    "introduced_date": "2023-07-26",
+    "policy_area": "Education"
+  },
+  "118/hr/4539": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "Casualty Loss Deduction Restoration Act",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Casualty Loss Deduction Restoration Act This bill eliminates the suspension period (2018 through 2025) for the tax deduction for personal casualty lossess and increases from $10,000 to $50,000 the limitation on allowable amount of the deduction.",
+    "congress": 118,
+    "type": "hr",
+    "number": "4539",
+    "introduced_date": "2023-07-11",
+    "policy_area": "Taxation"
+  },
+  "118/hr/2998": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Protecting America\u2019s Workers Act",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Protecting America's Workers Act This bill expands the coverage of requirements governing workplace safety and health to include protection for federal, state, and local government employees. However, the bill does not cover working conditions otherwise covered by federal requirements for mine sa...",
+    "congress": 118,
+    "type": "hr",
+    "number": "2998",
+    "introduced_date": "2023-04-28",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hr/4508": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Hidden Fee Disclosure Act of 2023",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "4508",
+    "introduced_date": "2023-07-10",
+    "policy_area": "Health"
+  },
+  "118/hr/2935": {
+    "pros": [
+      "Reduces the tax burden on families and small businesses.",
+      "Simplifies the tax code and reduces compliance costs."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the deficit.",
+      "Benefits could disproportionately favor higher earners."
+    ],
+    "title": "Sergeant First Class Michael Clark TRICARE Reserve Parity Act",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Sergeant First Class Michael Clark TRICARE Reserve Parity Act This bill extends the period of eligibility for health benefits under TRICARE Reserve Select for immediate family members to three years beyond the date of the death of a member of a reserve component. Under current law, the eligibilit...",
+    "congress": 118,
+    "type": "hr",
+    "number": "2935",
+    "introduced_date": "2023-04-27",
+    "policy_area": "Armed Forces and National Security"
+  },
+  "118/hres/334": {
+    "pros": [
+      "Invests in America's students and future workforce.",
+      "Expands educational opportunities for underserved communities."
+    ],
+    "cons": [
+      "Increases federal involvement in local education decisions.",
+      "May not address underlying funding inequities."
+    ],
+    "title": "Recognizing the significance of \"Community College Month\" as a celebration of more than 1,000 institutions throughout the United States supporting access to higher education, workforce training, and more broadly sustaining and advancing the Nation's economic prosperity.",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution recognizes the significance of Community College Month as a celebration of over 1,000 community colleges throughout the United States that serve local and regional needs and strengthen the American economy.",
+    "congress": 118,
+    "type": "hres",
+    "number": "334",
+    "introduced_date": "2023-04-27",
+    "policy_area": "Education"
+  },
+  "118/hr/2663": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Workplace Violence Prevention for Health Care and Social Service Workers Act",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Workplace Violence Prevention for Health Care and Social Service Workers Act This bill requires the Department of Labor to address workplace violence in health care, social service, and other sectors. Specifically, Labor must issue an interim occupational safety and health standard that requires ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "2663",
+    "introduced_date": "2023-04-18",
+    "policy_area": "Labor and Employment"
+  },
+  "118/hres/284": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "Commending and congratulating the University of Connecticut Men's Basketball Team for winning the 2023 NCAA Men's Basketball Championship.",
+    "sponsor_name": "H. Courtney, Joe (CT-2)",
+    "sponsor_bioguide": "C001069",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "This resolution commends the University of Connecticut Men's Basketball Team for winning the 2023 NCAA Men's Basketball Championship.",
+    "congress": 118,
+    "type": "hres",
+    "number": "284",
+    "introduced_date": "2023-04-10",
+    "policy_area": "Sports and Recreation"
+  },
+  "118/hr/3322": {
+    "pros": [
+      "Expands access to affordable healthcare for more Americans.",
+      "Lowers prescription drug costs for patients and seniors."
+    ],
+    "cons": [
+      "Could increase government spending and insurance premiums.",
+      "May impose unfunded mandates on healthcare providers."
+    ],
+    "title": "Social Determinants for Moms Act",
+    "sponsor_name": "H. Hayes, Jahana (CT-5)",
+    "sponsor_bioguide": "H001081",
+    "sponsor_chamber": "House",
+    "sponsor_state": "CT",
+    "summary": "Social Determinants for Moms Act This bill requires the Department of Health and Human Services (HHS) to establish a task force and a grant program to address social determinants of maternal health. These are nonmedical factors that impact maternal health outcomes, such as transportation, food se...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3322",
+    "introduced_date": "2023-05-15",
+    "policy_area": "Health"
   }
 }

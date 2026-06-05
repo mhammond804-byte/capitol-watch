@@ -1,7 +1,17 @@
 {
-  "last_run": "2026-06-04 - Member-sponsored bills pipeline (initial states)",
-  "states_completed": ["AK", "AL", "AR", "AZ", "FL"],
-  "members_processed": 57,
-  "bills_added": 62,
-  "total_bills": 17914
+  "last_run": "2026-06-04 21:14:50",
+  "states_completed": [
+    "AK",
+    "AL",
+    "AR",
+    "AZ",
+    "FL",
+    "CA",
+    "CO",
+    "CT",
+    "DE"
+  ],
+  "members_processed": 124,
+  "bills_added": 188,
+  "total_bills": 18130
 }
