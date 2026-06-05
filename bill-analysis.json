@@ -207742,5 +207742,205 @@
       "May struggle to keep pace with rapidly evolving technology.",
       "Could create new bureaucratic processes that slow down implementation."
     ]
+  },
+  "103/hr/4043": {
+    "pros": [
+      "Supports economic development in the Mississippi Delta region.",
+      "Coordinates federal resources across Interior and Energy departments."
+    ],
+    "cons": [
+      "Adds new federal programs without specifying funding sources.",
+      "May duplicate existing regional development initiatives."
+    ]
+  },
+  "103/hr/3639": {
+    "pros": [
+      "Requires background checks before transferring firearms.",
+      "Helps prevent gun trafficking through dealer accountability."
+    ],
+    "cons": [
+      "Imposes additional paperwork burdens on licensed dealers.",
+      "Could slow down legal firearm transactions for customers."
+    ]
+  },
+  "103/hr/1448": {
+    "pros": [
+      "Creates consumer protections for check cashing customers.",
+      "Establishes licensing standards for financial service businesses."
+    ],
+    "cons": [
+      "May increase costs passed on to low-income customers.",
+      "Adds regulatory burden on small financial service businesses."
+    ]
+  },
+  "118/hr/8715": {
+    "pros": [
+      "Supports newborn health through public-private partnerships.",
+      "Provides essential resources to mothers of newborns."
+    ],
+    "cons": [
+      "Creates a new federal program with uncertain long-term costs.",
+      "May duplicate existing state-level maternal health programs."
+    ]
+  },
+  "118/hres/1126": {
+    "pros": [
+      "Increases public access to congressional proceedings.",
+      "Enables innovative virtual reality viewing of government."
+    ],
+    "cons": [
+      "Raises security concerns with recording sensitive sessions.",
+      "Could be used to selectively edit or distort proceedings."
+    ]
+  },
+  "118/hr/5488": {
+    "pros": [
+      "Increases transparency of foreign funding in US courts.",
+      "Protects judicial integrity from foreign state influence."
+    ],
+    "cons": [
+      "Could limit access to justice for legitimate foreign litigants.",
+      "Adds costly compliance requirements for court proceedings."
+    ]
+  },
+  "118/hr/4872": {
+    "pros": [
+      "Enhances border security in remote wilderness areas.",
+      "Allows CBP to operate more effectively along land borders."
+    ],
+    "cons": [
+      "May harm protected wilderness environments and ecosystems.",
+      "Overrides conservation protections for border enforcement."
+    ]
+  },
+  "118/hr/4491": {
+    "pros": [
+      "Addresses constitutional ambiguities in presidential succession.",
+      "Creates expert panel to recommend model legislation."
+    ],
+    "cons": [
+      "Creates unelected panel with unclear enforcement authority.",
+      "May complicate rather than simplify succession procedures."
+    ]
+  },
+  "118/hr/1580": {
+    "pros": [
+      "Permanently schedules fentanyl-related substances as illegal.",
+      "Helps law enforcement combat synthetic drug trafficking."
+    ],
+    "cons": [
+      "May hinder medical research using fentanyl-related compounds.",
+      "Criminal approach alone may not reduce overdose rates."
+    ]
+  },
+  "118/hr/1183": {
+    "pros": [
+      "Restricts parole authority to strengthen border enforcement.",
+      "Reforms asylum processes to reduce system abuse."
+    ],
+    "cons": [
+      "May limit humanitarian protections for legitimate refugees.",
+      "Reduces DHS flexibility in managing immigration cases."
+    ]
+  },
+  "118/hr/792": {
+    "pros": [
+      "Requires parental involvement in minors medical decisions.",
+      "Prevents circumvention of state parental notification laws."
+    ],
+    "cons": [
+      "May delay critical medical care for minors in crisis.",
+      "Creates federal criminal penalties for transporting minors."
+    ]
+  },
+  "118/hres/56": {
+    "pros": [
+      "Fills vacancies on important House standing committees.",
+      "Ensures committees have necessary membership to function."
+    ],
+    "cons": [
+      "Routine procedural matter with minimal substantive impact.",
+      "Does not address broader committee assignment reforms."
+    ]
+  },
+  "118/hr/424": {
+    "pros": [
+      "Criminalizes unauthorized leaks of Supreme Court information.",
+      "Protects confidentiality of internal judicial deliberations."
+    ],
+    "cons": [
+      "May chill legitimate whistleblowing about court misconduct.",
+      "Creates new federal crime with potential for overreach."
+    ]
+  },
+  "118/hr/425": {
+    "pros": [
+      "Limits lawsuits challenging religious displays and traditions.",
+      "Protects long-standing historical practices from litigation."
+    ],
+    "cons": [
+      "May weaken enforcement of church-state separation.",
+      "Could allow religious endorsements by government entities."
+    ]
+  },
+  "118/hconres/3": {
+    "pros": [
+      "Condemns violence against pro-life facilities and churches.",
+      "Calls for federal law enforcement to protect these sites."
+    ],
+    "cons": [
+      "Non-binding resolution with no enforceable policy changes.",
+      "May be seen as taking sides in a divisive political debate."
+    ]
+  },
+  "117/hr/9197": {
+    "pros": [
+      "Protects young children from sexually explicit materials.",
+      "Sets clear age-based restrictions on content presentation."
+    ],
+    "cons": [
+      "Broad definition of materials could limit educational content.",
+      "May restrict age-appropriate health and sex education."
+    ]
+  },
+  "118/hr/8364": {
+    "pros": [
+      "Removes federal barriers to interstate gun transactions.",
+      "Updates firearm commerce rules for modern market conditions."
+    ],
+    "cons": [
+      "Could weaken state-level gun control laws and enforcement.",
+      "May increase illegal gun trafficking across state lines."
+    ]
+  },
+  "118/hconres/93": {
+    "pros": [
+      "Allows President to address Congress as constitutionally expected.",
+      "Facilitates routine joint session for national address."
+    ],
+    "cons": [
+      "Routine procedural resolution with limited policy impact.",
+      "Provides platform for presidential messaging without debate."
+    ]
+  },
+  "118/hr/7423": {
+    "pros": [
+      "Honors a late public servant from Louisiana.",
+      "Provides lasting memorial for community leader Luke Letlow."
+    ],
+    "cons": [
+      "Applies only to a single post office in one town.",
+      "Does not address any broader policy or funding needs."
+    ]
+  },
+  "118/hr/6843": {
+    "pros": [
+      "Expands protection for Louisiana cultural and natural heritage.",
+      "Supports tourism and economic development in Lafourche Parish."
+    ],
+    "cons": [
+      "Expands federal oversight over additional local territory.",
+      "May impose new land-use restrictions on property owners."
+    ]
   }
 }
