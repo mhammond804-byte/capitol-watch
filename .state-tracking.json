@@ -51,13 +51,21 @@
     "WV",
     "WY"
   ],
-  "last_run": "2026-06-05 Incremental scan (60 bills)",
-  "bills_added": 660,
-  "total_cache": 18034,
-  "last_uncached_count": 7389,
-  "last_selected": 60,
-  "last_sponsor_count": 60,
-  "sponsor_linked_entries": 120,
-  "no_sponsor_entries": 17432,
-  "generic_entries": 4793
+  "last_run": "2026-06-05 - Incremental scan (60-bill round-robin)",
+  "bills_added": 816,
+  "total_cache": 18598,
+  "last_selected": 96,
+  "sponsor_linked_entries": 188,
+  "no_sponsor_entries": 17942,
+  "bill_fill_states_done": [
+    "AK",
+    "AL",
+    "AR",
+    "AZ",
+    "FL",
+    "CA",
+    "CO",
+    "CT",
+    "DE"
+  ]
 }
