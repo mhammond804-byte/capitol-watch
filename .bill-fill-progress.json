@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-05 06:07:49",
+  "last_run": "2026-06-05 10:06:38",
   "states_completed": [
     "AK",
     "AL",
@@ -11,9 +11,11 @@
     "CT",
     "DE",
     "GA",
-    "HI"
+    "HI",
+    "IA",
+    "ID"
   ],
-  "members_processed": 146,
-  "bills_added": 218,
-  "total_bills": 18995
+  "members_processed": 10,
+  "bills_added": 165,
+  "total_bills": 19766
 }
