@@ -208041,5 +208041,17 @@
       "May lead to more strategic defaults."
     ],
     "title": "To amend title 11 of the United States Code to stop abusive student loan collection practices in bankruptcy cases."
+  },
+  "119/s/4672": {
+    "pros": [
+      "Improves mail delivery reliability by addressing undelivered route problems at USPS.",
+      "Uses Inspector General recommendations to provide data-driven oversight of postal operations."
+    ],
+    "cons": [
+      "Imposes new compliance costs on the already financially struggling Postal Service.",
+      "Could duplicate existing USPS efforts to track and improve delivery performance."
+    ],
+    "summary": "Requires the Postal Service to implement Inspector General recommendations for identifying and notifying about undelivered and partially delivered routes.",
+    "sponsor": "Sen. Tina Smith [D-MN]"
   }
 }
