@@ -207942,5 +207942,104 @@
       "Expands federal oversight over additional local territory.",
       "May impose new land-use restrictions on property owners."
     ]
+  },
+  "119/hjres/191": {
+    "pros": [
+      "Reduces influence of big money in elections.",
+      "Helps amplify the voice of average voters."
+    ],
+    "cons": [
+      "May restrict free speech rights of donors.",
+      "Constitutional amendments are difficult to reverse."
+    ],
+    "title": "Proposing an amendment to the Constitution of the United States to provide that Congress and the States shall have certain authority to regulate and limit contributions and spending in campaigns for elections for public office, elections for public office, and ballot initiatives and referendums."
+  },
+  "119/hr/9149": {
+    "pros": [
+      "Addresses a major public health crisis.",
+      "Could improve health outcomes for millions."
+    ],
+    "cons": [
+      "May require significant federal funding.",
+      "Could duplicate existing state programs."
+    ],
+    "title": "To establish the National Diabetes Project, and for other purposes."
+  },
+  "119/hr/9129": {
+    "pros": [
+      "Strengthens national security protections.",
+      "Addresses emerging technology threats."
+    ],
+    "cons": [
+      "May impose burdens on businesses.",
+      "Could create complex new regulations."
+    ],
+    "title": "GUARD Act of 2026"
+  },
+  "119/hr/9102": {
+    "pros": [
+      "Protects critical American technology assets.",
+      "Strengthens national security safeguards."
+    ],
+    "cons": [
+      "Could slow technology innovation.",
+      "May create trade compliance burdens."
+    ],
+    "title": "To amend title VIII of the Defense Production Act of 1950 to alter the definitions of \"prohibited technology\" and \"notifiable technology\", and for other purposes."
+  },
+  "119/s/4679": {
+    "pros": [
+      "Supports innovation in vehicle safety testing.",
+      "Removes barriers for testing new technology."
+    ],
+    "cons": [
+      "Could allow unsafe equipment on roads.",
+      "May weaken existing safety standards."
+    ],
+    "title": "A bill to amend title 49, United States Code, to allow the introduction of certain noncompliant motor vehicle equipment in interstate commerce for testing purposes, and for other purposes."
+  },
+  "119/hr/9161": {
+    "pros": [
+      "Protects domestic aluminum industry jobs.",
+      "Prevents strategic materials from reaching adversaries."
+    ],
+    "cons": [
+      "Could disrupt global aluminum trade flows.",
+      "May raise costs for domestic manufacturers."
+    ],
+    "title": "To require the United States International Trade Commission to investigate national security concerns regarding the exportation of aluminum scrap to countries of concern, and for other purposes."
+  },
+  "119/hr/9162": {
+    "pros": [
+      "Protects US data from foreign surveillance.",
+      "Strengthens automotive cybersecurity standards."
+    ],
+    "cons": [
+      "Could disrupt global auto supply chains.",
+      "May increase vehicle costs for consumers."
+    ],
+    "title": "To prohibit the entry into the United States of connected vehicles associated with foreign adversaries."
+  },
+  "119/hconres/108": {
+    "pros": [
+      "Reasserts congressional war powers authority.",
+      "Could bring US troops home sooner."
+    ],
+    "cons": [
+      "May undermine presidential foreign policy.",
+      "Could destabilize the region further."
+    ],
+    "title": "Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities in Lebanon."
+  },
+  "119/hr/9111": {
+    "pros": [
+      "Protects borrowers from predatory collection.",
+      "Gives honest debtors a fresh start."
+    ],
+    "cons": [
+      "Could increase borrowing costs for students.",
+      "May lead to more strategic defaults."
+    ],
+    "title": "To amend title 11 of the United States Code to stop abusive student loan collection practices in bankruptcy cases."
   }
 }
