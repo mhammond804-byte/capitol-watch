@@ -48518,7 +48518,18 @@
     "pros": [
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
-    ]
+    ],
+    "title": "Authorizing the use of the rotunda of the Capitol for the lying in honor of the remains of Ralph Puckett, Jr., the last Medal of Honor recipient for acts performed during the Korean conflict.",
+    "sponsor_name": "H. Bishop, Sanford D. (GA-2)",
+    "sponsor_bioguide": "B000490",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hconres",
+    "number": "103",
+    "introduced_date": "2024-04-12",
+    "policy_area": "Congress"
   },
   "118/hconres/104": {
     "cons": [
@@ -48528,7 +48539,18 @@
     "pros": [
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
-    ]
+    ],
+    "title": "Authorizing the use of the rotunda of the Capitol for the lying in state of the remains of Ralph Puckett, Jr., the last Medal of Honor recipient for acts performed during the Korean conflict.",
+    "sponsor_name": "H. Bishop, Sanford D. (GA-2)",
+    "sponsor_bioguide": "B000490",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hconres",
+    "number": "104",
+    "introduced_date": "2024-04-16",
+    "policy_area": "Congress"
   },
   "118/hconres/107": {
     "cons": [
@@ -49183,7 +49205,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Save Struggling Hospitals Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10086",
+    "introduced_date": "2024-11-01",
+    "policy_area": "Health"
   },
   "118/hr/1010": {
     "cons": [
@@ -49193,7 +49226,18 @@
     "pros": [
       "Protects taxpayer financial privacy from expanded government surveillance.",
       "Reduces compliance burdens on banks and financial institutions."
-    ]
+    ],
+    "title": "Prohibiting IRS Financial Surveillance Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Prohibiting IRS Financial Surveillance Act This bill prohibits the Department of the Treasury from requiring a financial institution to report the transfers into and out of a financial account. This prohibition does not apply to laws or regulations in effect on Januar...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1010",
+    "introduced_date": "2023-02-14",
+    "policy_area": "Finance and Financial Sector"
   },
   "118/hr/10101": {
     "cons": [
@@ -49521,7 +49565,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "MERIT Act of 2024",
+    "sponsor_name": "H. Loudermilk, Barry (GA-11)",
+    "sponsor_bioguide": "L000583",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10397",
+    "introduced_date": "2024-12-12",
+    "policy_area": "Government Operations and Politics"
   },
   "118/hr/10403": {
     "cons": [
@@ -49592,7 +49647,18 @@
     "pros": [
       "Invests in education and workforce development.",
       "Expands opportunities for students and teachers."
-    ]
+    ],
+    "title": "Endometrial Cancer Research and Education Act of 2024",
+    "sponsor_name": "H. Scott, David (GA-13)",
+    "sponsor_bioguide": "S001157",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "10439",
+    "introduced_date": "2024-12-16",
+    "policy_area": "Health"
   },
   "118/hr/1044": {
     "cons": [
@@ -49949,7 +50015,18 @@
     "pros": [
       "Encourages investment in rural broadband by reducing tax burdens on sales.",
       "Helps rural incumbent carriers transition to new ownership more easily."
-    ]
+    ],
+    "title": "Broadband SALE Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Broadband Stock Acquisition in Local Exchanges Act or the Broadband SALE Act This bill allows an exclusion from gross income, for income tax purposes, of gain from the sale or exchange of the entire interest in a wholly-owned rural incumbent local exchange carrier. A ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1178",
+    "introduced_date": "2023-02-24",
+    "policy_area": "Taxation"
   },
   "118/hr/1213": {
     "congress": 118,
@@ -50207,7 +50284,18 @@
     "pros": [
       "Provides statutory permanence to the National Detector Dog Training Center.",
       "Supports agricultural biosecurity by detecting prohibited plant materials."
-    ]
+    ],
+    "title": "Beagle Brigade Act of 2023",
+    "sponsor_name": "H. Bishop, Sanford D. (GA-2)",
+    "sponsor_bioguide": "B000490",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Beagle Brigade Act of 202 3 This bill provides statutory authority for the National Detector Dog Training Center that is operated by the Animal and Plant Health Inspection Service (APHIS) of the Department of Agriculture. The center trains dogs to inspect passeng...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1480",
+    "introduced_date": "2023-03-09",
+    "policy_area": "Agriculture and Food"
   },
   "118/hr/1485": {
     "cons": [
@@ -50339,7 +50427,18 @@
     "pros": [
       "Prevents executive action to unilaterally cancel student loan debt.",
       "Protects taxpayers from bearing the cost of broad loan forgiveness programs."
-    ]
+    ],
+    "title": "Student Loan Accountability Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Student Loan Accountability Act This bill generally prohibits the Departments of Education, Justice, or the Treasury from taking any action to cancel or forgive the outstanding balances, or portion of balances, of covered loans. Covered loans refer to Federal ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "1622",
+    "introduced_date": "2023-03-17",
+    "policy_area": "Education"
   },
   "118/hr/1630": {
     "congress": 118,
@@ -51028,7 +51127,18 @@
     "pros": [
       "Supports conversion of vacant and abandoned properties into productive use.",
       "Provides technical assistance and grants to local land bank organizations."
-    ]
+    ],
+    "title": "National Land Bank Network Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "National Land Bank Network Act This bill requires the Neighborhood Reinvestment Corporation to contract with a nonprofit that has relevant expertise to establish and operate (1) a membership-based national network to support the formation and operation of land banks...",
+    "congress": 118,
+    "type": "hr",
+    "number": "2832",
+    "introduced_date": "2023-04-25",
+    "policy_area": "Housing and Community Development"
   },
   "118/hr/2870": {
     "cons": [
@@ -51089,7 +51199,18 @@
     "pros": [
       "Incentivizes development of new antibiotics to combat antimicrobial resistance.",
       "Provides predictable subscription payments to stabilize the antibiotic market."
-    ]
+    ],
+    "title": "PASTEUR Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Pioneering Antimicrobial Subscriptions To End Upsurging Resistance Act of 2023 or the PASTEUR Act of 2023 This bill authorizes the Department of Health and Human Services (HHS) to enter into subscription contracts for critical-need antimicrobial drugs, pr...",
+    "congress": 118,
+    "type": "hr",
+    "number": "2940",
+    "introduced_date": "2023-04-27",
+    "policy_area": "Health"
   },
   "118/hr/2956": {
     "cons": [
@@ -51455,7 +51576,18 @@
     "pros": [
       "Eliminates the unfair offset between retired pay and disability pay.",
       "Provides financial relief to veterans with service-connected disabilities."
-    ]
+    ],
+    "title": "Disabled Veterans Tax Termination Act",
+    "sponsor_name": "H. Bishop, Sanford D. (GA-2)",
+    "sponsor_bioguide": "B000490",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Disabled Veterans Tax Termination Act This bill modifies provisions related to military retired pay. Specifically, the bill authorizes veterans with a service-connected disability of less than 50% to concurrently receive both retired pay and disability compensation. Th...",
+    "congress": 118,
+    "type": "hr",
+    "number": "333",
+    "introduced_date": "2023-01-12",
+    "policy_area": "Armed Forces and National Security"
   },
   "118/hr/3330": {
     "cons": [
@@ -51759,7 +51891,18 @@
     "pros": [
       "Helps rural hospitals receive higher Medicare payments through wage adjustments.",
       "Addresses staffing cost disparities between rural and urban healthcare markets."
-    ]
+    ],
+    "title": "Save Rural Hospitals Act of 2023",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Save Rural Hospitals Act of 2023 This bill establishes an area wage adjustment floor for Medicare hospital payments in states that are not frontier states. The Centers for Medicare & Medicaid Services must establish a maximum rate to preserve budget neutrality.",
+    "congress": 118,
+    "type": "hr",
+    "number": "3635",
+    "introduced_date": "2023-05-24",
+    "policy_area": "Health"
   },
   "118/hr/3651": {
     "cons": [
@@ -51861,7 +52004,18 @@
     "pros": [
       "Assigns a single point of contact for identity theft victims at Social Security.",
       "Streamlines case tracking to resolve Social Security number misuse faster."
-    ]
+    ],
+    "title": "Improving Social Security\u2019s Service to Victims of Identity Theft Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Improving Social Security's Service to Victims of Identity Theft Act This bill requires the Social Security Administration to provide a single point of contact for any individual whose Social Security account number has been misused. The single point of contact must track the in...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3765",
+    "introduced_date": "2023-05-31",
+    "policy_area": "Social Welfare"
   },
   "118/hr/3784": {
     "cons": [
@@ -51871,7 +52025,18 @@
     "pros": [
       "Assigns a single point of contact for identity theft victims at Social Security.",
       "Streamlines case tracking to resolve Social Security number misuse faster."
-    ]
+    ],
+    "title": "Improving Social Security\u2019s Service to Victims of Identity Theft Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Improving Social Security's Service to Victims of Identity Theft Act This bill requires the Social Security Administration (SSA) to provide a single point of contact for any individual whose Social Security account number has been misused or whose Social Security card has been l...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3784",
+    "introduced_date": "2023-06-01",
+    "policy_area": "Social Welfare"
   },
   "118/hr/3795": {
     "cons": [
@@ -52003,7 +52168,18 @@
     "pros": [
       "Encourages capital investment in persistently poor rural communities.",
       "Delays taxes on capital gains reinvested in qualified rural opportunity zones."
-    ]
+    ],
+    "title": "Rural Opportunity Zone and Investment Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Rural Opportunity Zone and Investment Act This bill provides for the deferral of tax until December 31, 2032, on capital gains invested in qualified rural opportunity zones. A q ualified rural opportunity zone is any population census tract that is located in...",
+    "congress": 118,
+    "type": "hr",
+    "number": "3906",
+    "introduced_date": "2023-06-07",
+    "policy_area": "Taxation"
   },
   "118/hr/3909": {
     "cons": [
@@ -52719,7 +52895,18 @@
     "pros": [
       "Provides individualized relief for specific constituents.",
       "Resolves unique circumstances not addressed by general law."
-    ]
+    ],
+    "title": "For the relief of Michael Janssen and Steven Passantino.",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Provides for the relief of Michael Janssen and Steven Passantino.",
+    "congress": 118,
+    "type": "hr",
+    "number": "493",
+    "introduced_date": "2023-01-24",
+    "policy_area": "Private Legislation"
   },
   "118/hr/4950": {
     "cons": [
@@ -52974,7 +53161,18 @@
     "pros": [
       "Allows tax deductions for investment advisory costs of funeral and cemetery trusts.",
       "Provides parity for funeral trusts whose deductions were suspended by tax reform."
-    ]
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to allow a deduction for investment advisory expenses of certain funeral and cemetery trusts during suspension of miscellaneous itemized deductions, and for ",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "This bill allows a tax deduction for the investment advisory expenses of certain funeral trusts and cemetery perpetual care funds during the period in which the allowance of miscellaneous itemized deductions is suspended (i.e., 2018 through 2025). The bill also revises provisions relat...",
+    "congress": 118,
+    "type": "hr",
+    "number": "5251",
+    "introduced_date": "2023-08-22",
+    "policy_area": "Taxation"
   },
   "118/hr/5252": {
     "congress": 118,
@@ -53392,7 +53590,18 @@
     "pros": [
       "Restoring the 50% threshold prevents overbroad attribution of foreign ownership.",
       "The change provides clearer tax rules for controlled foreign corporations."
-    ]
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to restore the limitation on downward attribution of stock ownership in applying constructive ownership rules.",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "This bill restores the limitation on downward attribution rules to 50% of stock ownership in applying constructive ownership rules to controlled foreign corporations.",
+    "congress": 118,
+    "type": "hr",
+    "number": "5751",
+    "introduced_date": "2023-09-27",
+    "policy_area": "Taxation"
   },
   "118/hr/5757": {
     "congress": 118,
@@ -55087,7 +55296,18 @@
     "pros": [
       "Provides clearer legal standards for gig worker classification as independent contractors.",
       "Supports flexibility and innovation in the growing gig economy workforce."
-    ]
+    ],
+    "title": "GIG Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Guaranteeing Independent Growth Act or the GIG Act This bill establishes a statutory test for determining if an individual who performs services for another person should be classified as an independent contractor rather than an employee under the Fair Labor Standards Act of 193...",
+    "congress": 118,
+    "type": "hr",
+    "number": "781",
+    "introduced_date": "2023-02-02",
+    "policy_area": "Labor and Employment"
   },
   "118/hr/7827": {
     "congress": 118,
@@ -55450,7 +55670,18 @@
     "pros": [
       "Reduces tax burden on individuals and businesses.",
       "Provides targeted incentives for economic growth."
-    ]
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to clarify the tax treatment of digital asset rewards.",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8149",
+    "introduced_date": "2024-04-29",
+    "policy_area": "Taxation"
   },
   "118/hr/8171": {
     "cons": [
@@ -55480,7 +55711,18 @@
     "pros": [
       "Invests in education and workforce development.",
       "Expands opportunities for students and teachers."
-    ]
+    ],
+    "title": "Heirs Education and Investment to Resolve Succession of Property Act",
+    "sponsor_name": "H. Bishop, Sanford D. (GA-2)",
+    "sponsor_bioguide": "B000490",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8198",
+    "introduced_date": "2024-05-01",
+    "policy_area": "Agriculture and Food"
   },
   "118/hr/8199": {
     "cons": [
@@ -56002,7 +56244,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Financial Reporting Threshold Modernization Act",
+    "sponsor_name": "H. Loudermilk, Barry (GA-11)",
+    "sponsor_bioguide": "L000583",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8686",
+    "introduced_date": "2024-06-11",
+    "policy_area": "Finance and Financial Sector"
   },
   "118/hr/8725": {
     "cons": [
@@ -56226,7 +56479,18 @@
     "pros": [
       "Invests in education and workforce development.",
       "Expands opportunities for students and teachers."
-    ]
+    ],
+    "title": "Protecting American Students Act",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8913",
+    "introduced_date": "2024-07-02",
+    "policy_area": "Taxation"
   },
   "118/hr/8919": {
     "cons": [
@@ -56236,7 +56500,18 @@
     "pros": [
       "Honoring a fallen soldier in his hometown community is a meaningful gesture.",
       "Post office naming bills are a longstanding, non-controversial congressional tradition."
-    ]
+    ],
+    "title": "To designate the facility of the United States Postal Service located at 151 Highway 74 South in Peachtree City, Georgia, as the \"SFC Shawn McCloskey Post Office\".",
+    "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
+    "sponsor_bioguide": "F000465",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "This bill designates the facility of the United States Postal Service located at 151 Highway 74 South in Peachtree City, Georgia, as the \"SFC Shawn McCloskey Post Office\".",
+    "congress": 118,
+    "type": "hr",
+    "number": "8919",
+    "introduced_date": "2024-07-02",
+    "policy_area": "Government Operations and Politics"
   },
   "118/hr/8920": {
     "cons": [
@@ -56286,7 +56561,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "To amend the Workforce Innovation and Opportunity Act to direct the Secretary of Labor to award grants to community colleges for high-quality workforce development programs.",
+    "sponsor_name": "H. McBath, Lucy (GA-6)",
+    "sponsor_bioguide": "M001208",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "8947",
+    "introduced_date": "2024-07-08",
+    "policy_area": "Labor and Employment"
   },
   "118/hr/895": {
     "cons": [
@@ -56639,7 +56925,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Protecting Our Produce Act",
+    "sponsor_name": "H. Bishop, Sanford D. (GA-2)",
+    "sponsor_bioguide": "B000490",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9240",
+    "introduced_date": "2024-08-02",
+    "policy_area": "Agriculture and Food"
   },
   "118/hr/9254": {
     "cons": [
@@ -56679,7 +56976,18 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
-    ]
+    ],
+    "title": "Catastrophic Specialty Hospital Act of 2024",
+    "sponsor_name": "H. Loudermilk, Barry (GA-11)",
+    "sponsor_bioguide": "L000583",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "",
+    "congress": 118,
+    "type": "hr",
+    "number": "9272",
+    "introduced_date": "2024-08-02",
+    "policy_area": "Health"
   },
   "118/hr/9279": {
     "cons": [
@@ -57002,7 +57310,18 @@
     "pros": [
       "Smaller K-3 class sizes improve early literacy and student achievement outcomes.",
       "Hiring more teachers creates local education jobs and reduces educator burnout."
-    ]
+    ],
+    "title": "Smaller Class Sizes for Students and Educators Act of 2024",
+    "sponsor_name": "H. McBath, Lucy (GA-6)",
+    "sponsor_bioguide": "M001208",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "Smaller Class Sizes for Students and Educators Act of 2024 This bill directs the Department of Education to award grants for local educational agencies to reduce class sizes in the early elementary grades (grades K-3) in targeted public elementary schools by recruiting, ...",
+    "congress": 118,
+    "type": "hr",
+    "number": "9570",
+    "introduced_date": "2024-09-12",
+    "policy_area": "Education"
   },
   "118/hr/9571": {
     "cons": [
@@ -57032,7 +57351,18 @@
     "pros": [
       "Naming the Plains post office after the Carters honors their lifelong public service.",
       "The naming connects a historic presidential hometown to a working postal facility."
-    ]
+    ],
+    "title": "To designate the facility of the United States Postal Service located at 119 Main Street in Plains, Georgia, as the \"Jimmy and Rosalynn Carter Post Office\".",
+    "sponsor_name": "H. Bishop, Sanford D. (GA-2)",
+    "sponsor_bioguide": "B000490",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "summary": "This bill designates the facility of the United States Postal Service located at 119 Main Street in Plains, Georgia, as the \"Jimmy and Rosalynn Carter Post Office\".",
+    "congress": 118,
+    "type": "hr",
+    "number": "9600",
+    "introduced_date": "2024-09-16",
+    "policy_area": "Government Operations and Politics"
   },
   "118/hr/9602": {
     "cons": [
