@@ -209614,5 +209614,125 @@
     ],
     "summary": "<p>This resolution elects Representative Davids to the Committee on Agriculture, Representative Peters to the Committee on Small Business, and Representative Cherfilus-McCormick to the Committee on Transportation and Infrastructure.</p>",
     "title": "Electing Members to certain standing committees of the House of Representatives."
+  },
+  "118/hr/6777": {
+    "pros": [
+      "Ensures paper banking access for elderly.",
+      "Protects seniors without internet access."
+    ],
+    "cons": [
+      "Slows government digital modernization goals.",
+      "Increases operational costs for banks."
+    ]
+  },
+  "118/hr/5612": {
+    "pros": [
+      "Aligns fiscal year with calendar year for clarity.",
+      "Simplifies federal budget planning cycles."
+    ],
+    "cons": [
+      "Disrupts transition between fiscal systems.",
+      "Could cause short-term accounting confusion."
+    ]
+  },
+  "118/hr/3932": {
+    "pros": [
+      "Funds intelligence operations for national security.",
+      "Supports counterterrorism and threat detection."
+    ],
+    "cons": [
+      "Expands secrecy around intelligence spending.",
+      "Lacks sufficient independent oversight provisions."
+    ]
+  },
+  "118/hjres/153": {
+    "pros": [
+      "Blocks FCC net neutrality rules as overreach.",
+      "Preserves free market for internet providers."
+    ],
+    "cons": [
+      "Removes consumer protections on the internet.",
+      "Allows ISPs to prioritize paid content."
+    ]
+  },
+  "118/hres/1292": {
+    "pros": [
+      "Holds Attorney General accountable to Congress.",
+      "Defends congressional subpoena enforcement power."
+    ],
+    "cons": [
+      "Politicizes contempt power for partisan gain.",
+      "Distracts from more pressing legislative work."
+    ]
+  },
+  "118/hres/159": {
+    "pros": [
+      "Funds House Judiciary oversight activities.",
+      "Supports congressional investigation capacity."
+    ],
+    "cons": [
+      "Increases government spending on political work.",
+      "Funds committees pursuing partisan agendas."
+    ]
+  },
+  "118/hres/12": {
+    "pros": [
+      "Investigates alleged federal government weaponization.",
+      "Ensures executive branch transparency and fairness."
+    ],
+    "cons": [
+      "Partisan select committee with limited scope.",
+      "Could duplicate existing oversight committees."
+    ]
+  },
+  "117/hr/3827": {
+    "pros": [
+      "Protects free speech from platform censorship.",
+      "Holds tech companies accountable for bias."
+    ],
+    "cons": [
+      "Allows harmful content to remain online.",
+      "Weakened Section 230 hurts user safety."
+    ]
+  },
+  "116/hr/8517": {
+    "pros": [
+      "Limits platform liability for user content.",
+      "Preserves open internet free expression."
+    ],
+    "cons": [
+      "Reduces platform incentive to moderate abuse.",
+      "Could increase spread of hate speech."
+    ]
+  },
+  "116/hres/1138": {
+    "pros": [
+      "Protects Supreme Court from political expansion.",
+      "Preserves judicial independence and integrity."
+    ],
+    "cons": [
+      "Non-binding resolution with no legal force.",
+      "Shuts down legitimate court reform debates."
+    ]
+  },
+  "113/hr/5246": {
+    "pros": [
+      "Ensures contempt of Congress is prosecuted.",
+      "Strengthens congressional oversight power."
+    ],
+    "cons": [
+      "Could be used for political prosecutions.",
+      "Bypasses grand jury normal discretion process."
+    ]
+  },
+  "113/hr/4731": {
+    "pros": [
+      "Cracks down on food stamp fraud and waste.",
+      "Encourages self-sufficiency through work rules."
+    ],
+    "cons": [
+      "Could deny benefits to truly needy families.",
+      "Increases bureaucracy with new eligibility checks."
+    ]
   }
 }
