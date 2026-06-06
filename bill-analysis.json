@@ -209934,5 +209934,115 @@
       "Could impose new compliance burdens on businesses.",
       "Lacks sufficient detail to fully assess its impact."
     ]
+  },
+  "118/s/1181": {
+    "pros": [
+      "Holds bank executives accountable for financial institution failures.",
+      "Protects taxpayers from bearing the cost of future bank collapses."
+    ],
+    "cons": [
+      "May deter qualified executives from serving at community banks.",
+      "Could lead to excessive clawbacks that penalize routine business risk."
+    ]
+  },
+  "118/s/2355": {
+    "pros": [
+      "Clarifies applicability of sanctions to crypto-asset transactions.",
+      "Strengthens national security by targeting illicit digital finance."
+    ],
+    "cons": [
+      "May impose compliance burdens that push crypto activity offshore.",
+      "Could capture legitimate crypto users in broad enforcement provisions."
+    ]
+  },
+  "118/hr/10544": {
+    "pros": [
+      "Supports emerging technology sectors and American innovation.",
+      "Creates framework for responsible development of new technologies."
+    ],
+    "cons": [
+      "May lack specific funding mechanisms to achieve its goals.",
+      "Could overlap with existing federal technology programs."
+    ]
+  },
+  "118/hr/10132": {
+    "pros": [
+      "Reduces bureaucratic waste and improves government accountability.",
+      "Enhances efficiency of federal agency operations for taxpayers."
+    ],
+    "cons": [
+      "Could disrupt essential agency operations during restructuring.",
+      "May face political resistance that limits its practical effectiveness."
+    ]
+  },
+  "118/hres/1315": {
+    "pros": [
+      "Expresses congressional concern over Supreme Court ethics standards.",
+      "Promotes transparency and accountability of the judicial branch."
+    ],
+    "cons": [
+      "Carries no binding legal authority as a simple resolution.",
+      "May be seen as political interference in judicial independence."
+    ]
+  },
+  "118/hr/8464": {
+    "pros": [
+      "Requires the Federal Reserve to study tokenization and its impact.",
+      "Provides essential data for informed digital asset policy decisions."
+    ],
+    "cons": [
+      "May impose unnecessary study requirements on the Federal Reserve.",
+      "Could delay needed regulatory clarity for tokenized assets."
+    ]
+  },
+  "118/hr/8218": {
+    "pros": [
+      "Ensures only U.S. citizens can vote in D.C. local elections.",
+      "Aligns D.C. election laws with federal citizenship requirements."
+    ],
+    "cons": [
+      "Could disenfranchise legal permanent residents in local D.C. elections.",
+      "Raises questions about home rule and local voting autonomy."
+    ]
+  },
+  "118/hr/7523": {
+    "pros": [
+      "Streamlines coordination among federal executive councils.",
+      "Improves accountability of cross-agency executive bodies."
+    ],
+    "cons": [
+      "Creates a new office that adds another layer of bureaucracy.",
+      "May duplicate existing coordination mechanisms within government."
+    ]
+  },
+  "118/hr/6584": {
+    "pros": [
+      "Restores the Office of Innovation to encourage pro-consumer policies.",
+      "Balances consumer protection with business-friendly innovation."
+    ],
+    "cons": [
+      "Could weaken existing consumer protections in the name of innovation.",
+      "May create conflicts between consumer advocacy and industry input."
+    ]
+  },
+  "118/hr/4891": {
+    "pros": [
+      "Encourages technological advancement and U.S. global competitiveness.",
+      "Supports job creation in high-growth technology sectors."
+    ],
+    "cons": [
+      "May primarily benefit established large technology corporations.",
+      "Could create unfunded mandates for adoption across federal agencies."
+    ]
+  },
+  "119/s/4671": {
+    "pros": [
+      "Strengthens criminal penalties for serious federal offenses.",
+      "Provides law enforcement with stronger tools to combat crime."
+    ],
+    "cons": [
+      "May contribute to mass incarceration with mandatory minimums.",
+      "Could impose disproportionate sentences for nonviolent offenses."
+    ]
   }
 }
