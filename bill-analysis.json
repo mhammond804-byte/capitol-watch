@@ -208984,5 +208984,45 @@
     ],
     "summary": "A bill to require the Secretary of the Treasury to mint and issue coins that are emblematic of the National Fallen Firefighters Memorial and the service and sacrifice of firefighters throughout the history of the United States. | Policy area: Finance and Financial Sector",
     "source": "cron-generated"
+  },
+  "119/s/1296": {
+    "pros": [
+      "Protects academic institutions from foreign influence and espionage.",
+      "Increases transparency of foreign funding at U.S. universities."
+    ],
+    "cons": [
+      "Adds costly compliance burdens on college administration budgets.",
+      "Could discourage legitimate international academic partnerships."
+    ]
+  },
+  "119/s/4499": {
+    "pros": [
+      "Strengthens early detection of disease outbreaks in nursing homes.",
+      "Protects vulnerable elderly populations from infectious diseases."
+    ],
+    "cons": [
+      "Imposes new federal reporting mandates on nursing home operators.",
+      "May duplicate existing state-level surveillance systems."
+    ]
+  },
+  "119/sres/611": {
+    "pros": [
+      "Promotes community engagement at the U.S. Capitol complex.",
+      "Supports animal welfare awareness through a festive event."
+    ],
+    "cons": [
+      "Uses taxpayer-funded facilities for a non-legislative event.",
+      "Takes Senate floor time away from substantive policy matters."
+    ]
+  },
+  "119/sres/705": {
+    "pros": [
+      "Honors the volunteer service of women who supported troops.",
+      "Recognizes an overlooked part of American military history."
+    ],
+    "cons": [
+      "Non-binding resolution that does not change public policy.",
+      "Could spend floor time on symbolic gestures instead of legislation."
+    ]
   }
 }
