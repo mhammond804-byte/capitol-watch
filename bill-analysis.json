@@ -208471,5 +208471,35 @@
       "Creates a new protected class of employees that may increase litigation risk.",
       "DC already has strong anti-discrimination laws; this may duplicate existing protections."
     ]
+  },
+  "119/hr/9144": {
+    "pros": [
+      "Helps low-income families afford high-speed internet access.",
+      "Recognizes internet as essential for modern housing needs."
+    ],
+    "cons": [
+      "Could increase federal housing assistance costs significantly.",
+      "May overlap with existing broadband subsidy programs."
+    ]
+  },
+  "119/hr/9150": {
+    "pros": [
+      "Expands VA services and benefits for military veterans.",
+      "Improves veterans' access to timely healthcare and support."
+    ],
+    "cons": [
+      "May increase federal spending without offsetting revenue.",
+      "Could create bureaucratic delays in service delivery."
+    ]
+  },
+  "119/hres/1342": {
+    "pros": [
+      "Raises awareness about the impact of gun violence.",
+      "Supports communities affected by gun-related tragedies."
+    ],
+    "cons": [
+      "Non-binding resolution does not create enforceable policy.",
+      "May divert attention from substantive legislative priorities."
+    ]
   }
 }
