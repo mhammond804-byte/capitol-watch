@@ -208233,5 +208233,43 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "119/s/4692": {
+    "pros": [
+      "Reduces regulatory burden on homeopathic drug manufacturers.",
+      "Preserves consumer access to homeopathic remedies."
+    ],
+    "cons": [
+      "May allow unproven treatments to remain on the market.",
+      "Could weaken FDA oversight of drug safety and efficacy."
+    ],
+    "sponsor_name": "Tuberville, Tommy (AL)",
+    "sponsor_bioguide": "T000278",
+    "sponsor_state": "AL",
+    "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to homeopathic drug products, and for other purposes.",
+    "summary": "",
+    "policy_area": "",
+    "congress": 119,
+    "type": "s",
+    "number": "4692"
+  },
+  "119/s/4673": {
+    "pros": [
+      "Encourages self-sufficiency among public housing residents.",
+      "Connects families to job training and employment opportunities."
+    ],
+    "cons": [
+      "Could penalize vulnerable families who cannot work.",
+      "May reduce access to housing for those with disabilities."
+    ],
+    "sponsor_name": "Britt, Katie Boyd (AL)",
+    "sponsor_bioguide": "B001319",
+    "sponsor_state": "AL",
+    "title": "A bill to increase workforce participation by recipients of Federal public housing assistance, and for other purposes.",
+    "summary": "",
+    "policy_area": "",
+    "congress": 119,
+    "type": "s",
+    "number": "4673"
   }
 }
