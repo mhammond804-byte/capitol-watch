@@ -209734,5 +209734,205 @@
       "Could deny benefits to truly needy families.",
       "Increases bureaucracy with new eligibility checks."
     ]
+  },
+  "100/hr/2707": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "May create unfunded mandates for state or local governments."
+    ]
+  },
+  "100/hr/3057": {
+    "pros": [
+      "Establishes new framework to address a policy gap.",
+      "Requires accountability through reporting requirements."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "100/hr/3814": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "100/hr/3815": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "May create unfunded mandates for state or local governments."
+    ]
+  },
+  "100/hr/3837": {
+    "pros": [
+      "Strengthens existing protections or support systems.",
+      "Restricts harmful practices or activities."
+    ],
+    "cons": [
+      "May restrict legitimate activities without clear justification.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "100/hr/4257": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "100/hr/4380": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Restricts harmful practices or activities."
+    ],
+    "cons": [
+      "May restrict legitimate activities without clear justification.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "100/hr/4725": {
+    "pros": [
+      "Strengthens existing protections or support systems.",
+      "Authorizes funding for key programs and initiatives."
+    ],
+    "cons": [
+      "May increase federal spending without offsetting savings.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "100/hr/4753": {
+    "pros": [
+      "Strengthens existing protections or support systems.",
+      "Restricts harmful practices or activities."
+    ],
+    "cons": [
+      "May restrict legitimate activities without clear justification.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "100/hr/5446": {
+    "pros": [
+      "Strengthens existing protections or support systems.",
+      "Authorizes funding for key programs and initiatives."
+    ],
+    "cons": [
+      "May increase federal spending without offsetting savings.",
+      "May create unfunded mandates for state or local governments."
+    ]
+  },
+  "102/hconres/296": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "102/hr/2609": {
+    "pros": [
+      "Strengthens existing protections or support systems.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "102/hr/2770": {
+    "pros": [
+      "Reduces regulatory or financial burdens where possible.",
+      "Requires accountability through reporting requirements."
+    ],
+    "cons": [
+      "May duplicate existing reporting or study requirements.",
+      "May create unfunded mandates for state or local governments."
+    ]
+  },
+  "102/hr/2791": {
+    "pros": [
+      "Establishes new framework to address a policy gap.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "102/hr/3289": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "May create unfunded mandates for state or local governments."
+    ]
+  },
+  "102/hr/4125": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Authorizes funding for key programs and initiatives."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "102/hr/5515": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "Creates exemptions that could weaken overall policy goals."
+    ]
+  },
+  "103/hconres/223": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "103/hconres/305": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Authorizes funding for key programs and initiatives."
+    ],
+    "cons": [
+      "May increase federal spending without offsetting savings.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "103/hconres/306": {
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ],
+    "cons": [
+      "Could impose new compliance burdens on businesses.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
   }
 }
