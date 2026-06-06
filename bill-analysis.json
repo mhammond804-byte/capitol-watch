@@ -208271,5 +208271,205 @@
     "congress": 119,
     "type": "s",
     "number": "4673"
+  },
+  "119/hr/9104": {
+    "pros": [
+      "Honors the national significance of Rock Creek Park by giving it national park designation.",
+      "Could boost tourism and federal investment in the District of Columbia's park system."
+    ],
+    "cons": [
+      "May create additional administrative costs for the National Park Service.",
+      "Does not change any actual protections or management of the park."
+    ]
+  },
+  "119/hr/9038": {
+    "pros": [
+      "Preserves public access and aesthetic views around the Supreme Court building.",
+      "Prevents a costly and unnecessary security fencing project."
+    ],
+    "cons": [
+      "May limit security options for protecting the Supreme Court and justices.",
+      "Could force law enforcement to rely on more expensive alternative security measures."
+    ]
+  },
+  "119/hres/1304": {
+    "pros": [
+      "Highlights the lack of voting rights for DC residents who serve in the military.",
+      "Draws attention to the democratic principle of representation for all Americans."
+    ],
+    "cons": [
+      "A resolution has no binding effect and does not change DC voting rights.",
+      "Critics argue statehood for DC would require a constitutional amendment."
+    ]
+  },
+  "119/hr/8731": {
+    "pros": [
+      "Provides federal workers with short-term disability coverage for non-work injuries.",
+      "Helps attract and retain talent by offering benefits comparable to private sector."
+    ],
+    "cons": [
+      "Could increase federal spending through a new insurance program for employees.",
+      "May overlap with existing private disability insurance options already available."
+    ]
+  },
+  "119/hr/8663": {
+    "pros": [
+      "Strengthens protections against wage discrimination based on sex, race, or origin.",
+      "Builds on existing law to close long-standing pay equity gaps in the workplace."
+    ],
+    "cons": [
+      "Could increase employer litigation costs and compliance burdens for small businesses.",
+      "Existing equal pay laws already prohibit wage discrimination on these grounds."
+    ]
+  },
+  "119/hres/1244": {
+    "pros": [
+      "Calls attention to the lack of congressional representation for 700,000 DC residents.",
+      "Supports the democratic principle that all Americans deserve voting representation."
+    ],
+    "cons": [
+      "A non-binding resolution does not advance actual statehood legislation.",
+      "Statehood for DC remains controversial and faces strong political opposition."
+    ]
+  },
+  "119/hr/8420": {
+    "pros": [
+      "Expands free legal assistance to veterans through university law school programs.",
+      "Leverages existing law school infrastructure to serve veterans at low cost."
+    ],
+    "cons": [
+      "May create unfunded mandates for universities to establish legal aid programs.",
+      "Could duplicate legal services already offered by the VA and non-profit organizations."
+    ]
+  },
+  "119/hres/1180": {
+    "pros": [
+      "Recognizes DC's unique historical role in emancipation before the Civil War ended.",
+      "Celebrates local history and the path toward DC statehood in Congress."
+    ],
+    "cons": [
+      "A ceremonial resolution does not accomplish any legislative change.",
+      "Ties historical commemoration to a contemporary political goal of statehood."
+    ]
+  },
+  "119/hr/8227": {
+    "pros": [
+      "Honors Paul Laurence Dunbar, a pioneering African American poet and writer.",
+      "Commemorative coin sales raise funds for educational and cultural programs."
+    ],
+    "cons": [
+      "Creates additional workload for the US Mint and costs passed to taxpayers.",
+      "Commemorative coins often go unsold and produce little net revenue."
+    ]
+  },
+  "119/hr/8164": {
+    "pros": [
+      "Ensures children maintain health coverage when parents divorce by clarifying obligations.",
+      "Protects vulnerable children from losing health insurance during family transitions."
+    ],
+    "cons": [
+      "Federal divorce law may intrude on areas traditionally governed by the states.",
+      "Could add complexity to divorce proceedings with additional health care requirements."
+    ]
+  },
+  "119/hr/8062": {
+    "pros": [
+      "Protects the accuracy of the census by preventing citizenship questions that discourage participation.",
+      "Ensures fair representation and federal funding distribution based on complete counts."
+    ],
+    "cons": [
+      "Prevents the government from collecting useful demographic data on citizenship.",
+      "May limit the ability to enforce immigration laws through census data."
+    ]
+  },
+  "119/hr/7946": {
+    "pros": [
+      "Supports breastfeeding mothers by removing the burden of jury service.",
+      "Recognizes the practical challenges faced by nursing parents called for jury duty."
+    ],
+    "cons": [
+      "Could reduce the available jury pool and delay court proceedings.",
+      "Exemptions based on breastfeeding status may be difficult to verify."
+    ]
+  },
+  "119/hr/7881": {
+    "pros": [
+      "Ensures DC jurors receive the same pay as federal jurors for their service.",
+      "Addresses a fairness issue where DC jurors are compensated at lower rates."
+    ],
+    "cons": [
+      "Would increase costs for the DC court system at a time of tight budgets.",
+      "Could set a precedent for further pay parity demands across different court jurisdictions."
+    ]
+  },
+  "119/hres/1094": {
+    "pros": [
+      "Urges the Senate to ratify a treaty protecting women's rights worldwide.",
+      "Aligns the United States with 189 other nations that have already ratified CEDAW."
+    ],
+    "cons": [
+      "A non-binding resolution does not actually ratify the treaty.",
+      "Critics argue CEDAW could undermine US sovereignty and family law."
+    ]
+  },
+  "119/hr/7650": {
+    "pros": [
+      "Gives DC equal access to federal forestry research and education funds.",
+      "Corrects an outdated law that excludes DC from McIntire-Stennis program benefits."
+    ],
+    "cons": [
+      "Expands federal spending on forestry programs to include an urban jurisdiction.",
+      "DC has limited forest land compared to states, raising questions about fund allocation."
+    ]
+  },
+  "119/hr/7629": {
+    "pros": [
+      "Treats DC equally with states for wildlife restoration and sport fish funding.",
+      "Provides DC with resources to conserve urban wildlife habitats and green spaces."
+    ],
+    "cons": [
+      "DC's urban environment may not have the wildlife habitat that these funds target.",
+      "Could divert conservation funds from rural states with greater wildlife needs."
+    ]
+  },
+  "119/hr/7441": {
+    "pros": [
+      "Honors civil rights leader Bayard Rustin with a commemorative postage stamp.",
+      "Recognizes a key but often overlooked organizer of the 1963 March on Washington."
+    ],
+    "cons": [
+      "The Postal Service already issues many commemorative stamps at taxpayer expense.",
+      "Stamp selection criteria may be politicized by directing specific honorees."
+    ]
+  },
+  "119/hr/7317": {
+    "pros": [
+      "Honors the Golden Thirteen, the Navy's first African American officers, with the highest civilian award.",
+      "Recognizes a historic milestone in military integration and civil rights."
+    ],
+    "cons": [
+      "Congressional Gold Medals are primarily symbolic and do not change policy.",
+      "Multiple gold medal bills each year may diminish the award's prestige."
+    ]
+  },
+  "119/hr/7162": {
+    "pros": [
+      "Opens Capitol grounds for commercial filming, creating economic opportunities.",
+      "Simplifies permitting for filmmakers while preserving security standards."
+    ],
+    "cons": [
+      "Commercial filming could compromise security at the Capitol complex.",
+      "May increase wear and tear on historic Capitol grounds and facilities."
+    ]
+  },
+  "119/hr/7020": {
+    "pros": [
+      "Protects DC court employees from discrimination by extending local human rights law.",
+      "Fills a gap where DC court workers were excluded from anti-discrimination protections."
+    ],
+    "cons": [
+      "Creates a new protected class of employees that may increase litigation risk.",
+      "DC already has strong anti-discrimination laws; this may duplicate existing protections."
+    ]
   }
 }
