@@ -210044,5 +210044,205 @@
       "May contribute to mass incarceration with mandatory minimums.",
       "Could impose disproportionate sentences for nonviolent offenses."
     ]
+  },
+  "119/hr/5060": {
+    "pros": [
+      "Protects whistleblowers who report government transparency issues.",
+      "Promotes disclosure of government information to the public."
+    ],
+    "cons": [
+      "Could compromise national security or classified programs.",
+      "May overwhelm agencies with unsubstantiated claims."
+    ]
+  },
+  "119/hr/3908": {
+    "pros": [
+      "Prevents abuse of emergency powers by future administrations.",
+      "Restores congressional oversight on emergency declarations."
+    ],
+    "cons": [
+      "Could slow federal response during genuine national crises.",
+      "May create legal uncertainty around existing emergency orders."
+    ]
+  },
+  "119/hr/1313": {
+    "pros": [
+      "Promotes national unity and respect for the American flag.",
+      "Standardizes flag display rules across all jurisdictions."
+    ],
+    "cons": [
+      "May limit free expression protected by the First Amendment.",
+      "Addresses a symbolic issue rather than substantive policy concerns."
+    ]
+  },
+  "119/hr/3545": {
+    "pros": [
+      "Gives working teens more flexibility in employment hours.",
+      "Helps young workers gain valuable job experience and income."
+    ],
+    "cons": [
+      "Could reduce time available for school and homework.",
+      "May weaken child labor protections established over decades."
+    ]
+  },
+  "119/s/2663": {
+    "pros": [
+      "Modernizes financial regulations for banking institutions.",
+      "Increases capital availability for business investment."
+    ],
+    "cons": [
+      "Could reduce consumer protections in the financial sector.",
+      "May increase systemic risk in the banking system."
+    ]
+  },
+  "119/s/2608": {
+    "pros": [
+      "Supports conservation of natural agricultural lands and habitats.",
+      "Provides financial stability for farmers and rural communities."
+    ],
+    "cons": [
+      "May reduce land available for commercial development or energy projects.",
+      "Could impose new compliance costs on participating landowners."
+    ]
+  },
+  "119/hr/3840": {
+    "pros": [
+      "Codifies executive actions to restore integrity in government communications.",
+      "Provides clear statutory authority for transparency initiatives."
+    ],
+    "cons": [
+      "Could limit the executive branch's flexibility in communications.",
+      "May lead to legal challenges over the scope of codified orders."
+    ]
+  },
+  "119/hr/3754": {
+    "pros": [
+      "Supports surface transportation infrastructure improvements through federal grants.",
+      "Creates jobs through investment in road and transit projects."
+    ],
+    "cons": [
+      "Increases federal spending on transportation without dedicated revenue sources.",
+      "May duplicate existing state and local transportation funding programs."
+    ]
+  },
+  "119/hr/1153": {
+    "pros": [
+      "Addresses the shortage of doctors in rural communities.",
+      "Expands healthcare access for underserved rural populations."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without offsetting cuts.",
+      "Could take years to produce measurable results."
+    ]
+  },
+  "119/hr/3349": {
+    "pros": [
+      "Protects animal health and welfare through better regulation.",
+      "Safeguards consumers from unsafe pet importation practices."
+    ],
+    "cons": [
+      "Could restrict the availability of certain dog breeds.",
+      "May increase costs for pet owners and breeders."
+    ]
+  },
+  "119/s/2605": {
+    "pros": [
+      "Improves military recruitment and retention through better incentives.",
+      "Strengthens the armed forces by addressing personnel shortfalls."
+    ],
+    "cons": [
+      "Increases defense spending without corresponding oversight measures.",
+      "May not address underlying causes of recruitment challenges."
+    ]
+  },
+  "119/s/2426": {
+    "pros": [
+      "Expands access to healthcare by utilizing pharmacists more effectively.",
+      "Reduces burden on overworked primary care physicians."
+    ],
+    "cons": [
+      "May lead to fragmented care without proper coordination.",
+      "Could increase healthcare costs if services are overutilized."
+    ]
+  },
+  "119/hr/3837": {
+    "pros": [
+      "Reduces taxpayer funding for programs with disputed policy goals.",
+      "Aligns federal spending with stated legislative priorities."
+    ],
+    "cons": [
+      "Could eliminate beneficial programs that serve vulnerable populations.",
+      "May shift costs from federal to state and local governments."
+    ]
+  },
+  "119/hr/3712": {
+    "pros": [
+      "Improves road safety for pedestrians, cyclists, and drivers.",
+      "Promotes multi-modal transportation infrastructure."
+    ],
+    "cons": [
+      "Increases infrastructure costs for local governments.",
+      "Could slow road projects with additional design requirements."
+    ]
+  },
+  "119/hjres/34": {
+    "pros": [
+      "Restores congressional oversight over executive branch rules.",
+      "Prevents overreach by federal regulatory agencies."
+    ],
+    "cons": [
+      "Could repeal important public health or environmental protections.",
+      "Creates regulatory uncertainty for businesses and industries."
+    ]
+  },
+  "119/hr/2558": {
+    "pros": [
+      "Protects American agricultural exports and foreign market access.",
+      "Supports farmers by preserving international trade opportunities."
+    ],
+    "cons": [
+      "May prioritize trade interests over domestic food safety standards.",
+      "Could expose U.S. agriculture to foreign regulatory challenges."
+    ]
+  },
+  "119/s/2625": {
+    "pros": [
+      "Streamlines bureaucratic processes within the Department of Health and Human Services.",
+      "Improves efficiency of federal health program administration."
+    ],
+    "cons": [
+      "May reduce oversight of important health program operations.",
+      "Could shift administrative burdens to state health agencies."
+    ]
+  },
+  "119/s/1509": {
+    "pros": [
+      "Modernizes poultry and meat inspection to improve food safety.",
+      "Supports local processing facilities and small-scale producers."
+    ],
+    "cons": [
+      "May impose new compliance costs on small processing facilities.",
+      "Could create regulatory inconsistencies across different facility sizes."
+    ]
+  },
+  "119/hr/3839": {
+    "pros": [
+      "Codifies the withdrawal from international agreements as a matter of law.",
+      "Ensures congressional input on major international treaty decisions."
+    ],
+    "cons": [
+      "Could strain diplomatic relationships with allied nations.",
+      "May reduce American influence in international organizations."
+    ]
+  },
+  "119/hr/3836": {
+    "pros": [
+      "Enhances transparency regarding foreign influence in American affairs.",
+      "Strengthens national security through disclosure requirements."
+    ],
+    "cons": [
+      "Could impose burdensome reporting requirements on legitimate entities.",
+      "May raise privacy concerns for individuals and organizations involved."
+    ]
   }
 }
