@@ -208840,5 +208840,149 @@
       "May reduce federal tax revenue significantly."
     ],
     "summary": "<p>This bill prohibits the Export-Import Bank of the United States from providing financing to a person with seriously delinquent tax debt or for a project in which any participant has seriously delinquent tax debt.</p><p>The bill allows the President to waive this prohibition if the President (1)&n"
+  },
+  "119/hr/3762": {
+    "pros": [
+      "Eliminates cost-sharing for prenatal and postpartum health care.",
+      "Reduces financial barriers to maternal and infant health services."
+    ],
+    "cons": [
+      "May increase health insurance premiums for other policyholders.",
+      "Does not address underlying causes of maternal health disparities."
+    ],
+    "summary": "To prevent cost-sharing requirements for prenatal, childbirth, neonatal, perinatal, or postpartum health care. | Policy area: Health",
+    "source": "cron-generated"
+  },
+  "119/hres/432": {
+    "pros": [
+      "Allows floor debate on nullifying an executive order.",
+      "Gives Congress a voice on federal labor-management policies."
+    ],
+    "cons": [
+      "Procedural resolutions rarely address policy substance directly.",
+      "May spark partisan conflict over federal worker union rights."
+    ],
+    "summary": "Providing for consideration of the bill (H.R. 2550) to nullify the Executive order relating to Exclusions from Federal Labor-Management Relations Programs, and for other purposes. | Policy area: Congress",
+    "source": "cron-generated"
+  },
+  "119/hr/3509": {
+    "pros": [
+      "Removes the six-year limit for survivor claims against the US.",
+      "Ensures military families can seek justice years after loss."
+    ],
+    "cons": [
+      "Could increase government liability for older claims.",
+      "May complicate settlement of long-closed wrongful death cases."
+    ],
+    "summary": "To remove the six-year statute of limitations on certain claims against the United States Government by survivors of members of the Armed Forces who died in the line of duty on or after September 11, 2001. | Policy area: Armed Forces and National Security",
+    "source": "cron-generated"
+  },
+  "119/hr/2550": {
+    "pros": [
+      "Preserves collective bargaining rights for federal workers.",
+      "Precludes executive orders that limit labor-management programs."
+    ],
+    "cons": [
+      "May restrict presidential authority over federal workforce rules.",
+      "Could reduce efficiency in federal personnel management."
+    ],
+    "summary": "To nullify the Executive Order relating to Exclusions from Federal Labor-Management Relations Programs, and for other purposes. | Policy area: Labor and Employment",
+    "source": "cron-generated"
+  },
+  "119/hr/2258": {
+    "pros": [
+      "Recognizes Maine forestry history with a national museum designation.",
+      "Could boost tourism and local economy in Bradley, Maine."
+    ],
+    "cons": [
+      "Federal designation may create long-term maintenance obligations.",
+      "Could divert funding from existing national museum operations."
+    ],
+    "summary": "To designate the Maine Forest and Logging Museum, located in Bradley, Maine, as the National Museum of Forestry and Logging History. | Policy area: Public Lands and Natural Resources",
+    "source": "cron-generated"
+  },
+  "119/hr/1308": {
+    "pros": [
+      "Provides monthly payments to pregnant women and parents.",
+      "Helps families cover basic needs during pregnancy and early childhood."
+    ],
+    "cons": [
+      "Ongoing monthly payments could significantly increase federal spending.",
+      "May discourage workforce participation among some recipients."
+    ],
+    "summary": "To provide monthly payments for eligible pregnant women and parents to improve the ability of families to provide for their children and other family members, and for other purposes. | Policy area: Taxation",
+    "source": "cron-generated"
+  },
+  "119/hr/1193": {
+    "pros": [
+      "Allows teens 16-17 to train in timber harvesting careers.",
+      "Addresses workforce shortages in the logging industry."
+    ],
+    "cons": [
+      "Weakens child labor protections for hazardous forestry work.",
+      "Could lead to increased workplace injuries among young workers."
+    ],
+    "summary": "To amend the Fair Labor Standards Act of 1938 to exempt certain 16- and 17-year-old individuals employed in timber harvesting entities or mechanized timber harvesting entities from child labor laws, and for other purposes. | Policy area: Labor and Employment",
+    "source": "cron-generated"
+  },
+  "119/hr/505": {
+    "pros": [
+      "Protects domestic industries from foreign import competition.",
+      "May encourage reshoring of manufacturing to the United States."
+    ],
+    "cons": [
+      "Raises prices for consumers on imported goods.",
+      "Could provoke retaliatory tariffs from US trading partners."
+    ],
+    "summary": "To impose additional duties on imports of goods into the United States. | Policy area: Foreign Trade and International Finance",
+    "source": "cron-generated"
+  },
+  "119/s/4292": {
+    "pros": [
+      "Lets family caregivers contribute to Roth IRAs while caregiving.",
+      "Helps close the retirement savings gap for unpaid caregivers."
+    ],
+    "cons": [
+      "May reduce tax revenue through expanded Roth IRA eligibility.",
+      "Could add complexity to existing IRA contribution rules."
+    ],
+    "summary": "A bill to amend the Internal Revenue Code of 1986 to allow certain family caregivers to contribute to a Roth IRA. | Policy area: Taxation",
+    "source": "cron-generated"
+  },
+  "119/s/4291": {
+    "pros": [
+      "Allows extra catch-up retirement contributions for caregivers.",
+      "Helps caregivers compensate for lost savings years."
+    ],
+    "cons": [
+      "Primarily benefits higher-income caregivers who can afford more savings.",
+      "Does not provide direct financial support during caregiving years."
+    ],
+    "summary": "A bill to amend the Internal Revenue Code of 1986 to allow additional catch-up contributions for certain family caregivers. | Policy area: Taxation",
+    "source": "cron-generated"
+  },
+  "119/s/4172": {
+    "pros": [
+      "Allows retirement of research animals after studies end.",
+      "Improves welfare for animals used in federal research."
+    ],
+    "cons": [
+      "Could increase costs for federal research facilities.",
+      "May reduce availability of animals for future studies."
+    ],
+    "summary": "A bill to amend the Animal Welfare Act to allow for the retirement of certain animals used in Federal research, and for other purposes. | Policy area: Animals",
+    "source": "cron-generated"
+  },
+  "119/s/4051": {
+    "pros": [
+      "Honors fallen firefighters with commemorative US coins.",
+      "Surcharges could raise funds for memorial upkeep."
+    ],
+    "cons": [
+      "Government coin programs rarely generate significant net revenue.",
+      "Adds to the growing number of special commemorative coin programs."
+    ],
+    "summary": "A bill to require the Secretary of the Treasury to mint and issue coins that are emblematic of the National Fallen Firefighters Memorial and the service and sacrifice of firefighters throughout the history of the United States. | Policy area: Finance and Financial Sector",
+    "source": "cron-generated"
   }
 }
