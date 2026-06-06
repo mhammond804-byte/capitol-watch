@@ -209024,5 +209024,175 @@
       "Non-binding resolution that does not change public policy.",
       "Could spend floor time on symbolic gestures instead of legislation."
     ]
+  },
+  "118/hres/1515": {
+    "pros": [
+      "Raises public awareness about pet adoption and rescue.",
+      "Encourages spaying and neutering to reduce overpopulation."
+    ],
+    "cons": [
+      "Non-binding resolution does not create new policy.",
+      "Could be seen as a symbolic gesture with limited impact."
+    ]
+  },
+  "117/hr/4518": {
+    "pros": [
+      "Speeds up forest management projects to prevent wildfires.",
+      "Reduces bureaucratic delays for critical fire prevention."
+    ],
+    "cons": [
+      "Waiving environmental review may harm sensitive ecosystems.",
+      "Could reduce public input on forest management decisions."
+    ]
+  },
+  "117/hr/5733": {
+    "pros": [
+      "Provides legal clarity for habitat designation rules.",
+      "Gives landowners clearer guidance on conservation rules."
+    ],
+    "cons": [
+      "May weaken protection for endangered species habitat.",
+      "Could allow more development in sensitive ecological areas."
+    ]
+  },
+  "117/hr/5928": {
+    "pros": [
+      "Improves transparency on wait times for service dogs.",
+      "Helps Congress find ways to serve veterans faster."
+    ],
+    "cons": [
+      "Reporting requirement alone does not reduce wait times.",
+      "Adds administrative burden without funding for dogs."
+    ]
+  },
+  "117/hr/5929": {
+    "pros": [
+      "Honors WWII Bataan veterans with a lasting memorial.",
+      "Provides naming recognition for a VA clinic in New Mexico."
+    ],
+    "cons": [
+      "Renaming does not expand healthcare services for veterans.",
+      "Does not allocate new funding for the clinic."
+    ]
+  },
+  "117/hr/6710": {
+    "pros": [
+      "Addresses domestic drug supply chain vulnerabilities.",
+      "Could reduce reliance on foreign pharmaceutical imports."
+    ],
+    "cons": [
+      "Study alone does not guarantee new manufacturing capacity.",
+      "Does not provide funding for domestic production."
+    ]
+  },
+  "117/hr/6711": {
+    "pros": [
+      "Prevents taxpayer dollars from funding Chinese research.",
+      "Protects American technological competitiveness."
+    ],
+    "cons": [
+      "May hinder scientific collaboration on global issues.",
+      "Could slow medical and climate research partnerships."
+    ]
+  },
+  "117/hr/6838": {
+    "pros": [
+      "Offers asylum protections for nonviolent protesters.",
+      "Supports Canadian truckers facing legal consequences."
+    ],
+    "cons": [
+      "Could encourage more border protests and disruptions.",
+      "Sets a precedent for granting asylum to foreign protesters."
+    ]
+  },
+  "117/hr/6927": {
+    "pros": [
+      "Increases domestic oil and gas production.",
+      "Reduces dependence on foreign energy imports."
+    ],
+    "cons": [
+      "May accelerate climate change by boosting fossil fuels.",
+      "Could damage public lands and natural habitats."
+    ]
+  },
+  "117/hr/7100": {
+    "pros": [
+      "Provides relief for families of fallen first responders.",
+      "Supports education and loan forgiveness for survivors."
+    ],
+    "cons": [
+      "Could be costly depending on number of eligible families.",
+      "May duplicate existing federal benefits programs."
+    ]
+  },
+  "117/hr/7293": {
+    "pros": [
+      "Removes legal delays blocking energy drilling permits.",
+      "Provides certainty for oil and gas project timelines."
+    ],
+    "cons": [
+      "Could bypass legitimate court challenges on leases.",
+      "May undermine environmental oversight of drilling."
+    ]
+  },
+  "117/hr/7464": {
+    "pros": [
+      "Targets organized groups crossing the border illegally.",
+      "Deters human smuggling and mass border crossings."
+    ],
+    "cons": [
+      "Could criminalize humanitarian assistance groups.",
+      "May violate due process for asylum seekers."
+    ]
+  },
+  "117/hr/8705": {
+    "pros": [
+      "Prioritizes veterans for State Department jobs.",
+      "Recognizes military experience for Foreign Service roles."
+    ],
+    "cons": [
+      "Could complicate merit-based hiring processes.",
+      "Does not guarantee enough positions for all veterans."
+    ]
+  },
+  "117/hr/9006": {
+    "pros": [
+      "Sets firm deadlines to speed up environmental reviews.",
+      "Reduces project delays due to slow federal reviews."
+    ],
+    "cons": [
+      "Rushed reviews may miss important environmental impacts.",
+      "Limits public comment time on major projects."
+    ]
+  },
+  "117/hr/7835": {
+    "pros": [
+      "Brings federal workers back to the office.",
+      "Restores in-person government services for taxpayers."
+    ],
+    "cons": [
+      "Ignores productivity gains from remote work.",
+      "May increase federal real estate and commuting costs."
+    ]
+  },
+  "117/hres/1248": {
+    "pros": [
+      "Increases oversight of Interior Department leasing.",
+      "Holds federal agencies accountable to Congress."
+    ],
+    "cons": [
+      "Investigative resolution does not create new policy.",
+      "May politicize routine mineral leasing operations."
+    ]
+  },
+  "117/hres/783": {
+    "pros": [
+      "Honors the sacrifices of military families.",
+      "Raises awareness of challenges military spouses face."
+    ],
+    "cons": [
+      "Symbolic resolution includes no new support programs.",
+      "Does not provide employment or relocation assistance."
+    ]
   }
 }
