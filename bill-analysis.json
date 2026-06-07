@@ -211351,5 +211351,27 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "119/hr/9170": {
+    "pros": [
+      "Funds critical transportation infrastructure projects across the country.",
+      "Provides resources for affordable housing and community development programs."
+    ],
+    "cons": [
+      "Increases federal spending at a time of high national debt.",
+      "May include earmarks that bypass competitive merit-based funding processes."
+    ],
+    "sponsor_name": "Womack, Steve (AR-3)",
+    "sponsor_bioguide": "W000809",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2027",
+    "summary": "Making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.",
+    "policy_area": {
+      "name": null
+    },
+    "congress": 119,
+    "type": "hr",
+    "number": "9170"
   }
 }
