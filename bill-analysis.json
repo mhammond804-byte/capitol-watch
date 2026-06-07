@@ -211706,5 +211706,15 @@
       "Could interfere with ongoing investigations or prosecutions."
     ],
     "summary": "Provides a special rule for consideration of H.R. 185, directing DOJ to publicly disclose unclassified records related to Jeffrey Epstein and Ghislaine Maxwell."
+  },
+  "119/hr/1374": {
+    "pros": [
+      "Improves detection of nuclear threats in major cities.",
+      "Requires DHS to track program performance with metrics."
+    ],
+    "cons": [
+      "Expands federal authority over local security programs.",
+      "New reporting mandates may create bureaucratic delays."
+    ]
   }
 }
