@@ -62069,6 +62069,26 @@
       "Reduces hospital readmissions through better discharge planning."
     ]
   },
+  "118/s/5646": {
+    "cons": [
+      "Increases defense spending without clear offsets.",
+      "May escalate tensions with foreign adversaries."
+    ],
+    "pros": [
+      "Strengthens national defense capabilities.",
+      "Supports military readiness and personnel."
+    ]
+  },
+  "118/s/5649": {
+    "cons": [
+      "Could impose restrictions on commercial activities.",
+      "May require additional enforcement resources."
+    ],
+    "pros": [
+      "Protects marine ecosystems and wildlife habitats.",
+      "Promotes sustainable resource management."
+    ]
+  },
   "118/s/638": {
     "cons": [
       "Reduces federal revenue and increases the deficit.",
@@ -64634,6 +64654,16 @@
       "Carries the full weight of law when signed by the President."
     ]
   },
+  "119/hjres/93": {
+    "cons": [
+      "Could trigger retaliatory tariffs against American exports.",
+      "Withdrawing may weaken global trade dispute resolution mechanisms."
+    ],
+    "pros": [
+      "Protects U.S. sovereignty from international trade organization rulings.",
+      "Allows Congress to set trade policy without WTO constraints."
+    ]
+  },
   "119/hjres/98": {
     "cons": [
       "Non-binding resolutions do not have the force of law.",
@@ -65756,6 +65786,16 @@
       "Directs HUD to track and report how much taxpayer money goes to tenants who are not meeting existing work requ."
     ]
   },
+  "119/hr/1150": {
+    "cons": [
+      "Could weaken protections for species still at risk.",
+      "May set a precedent for political interference in science."
+    ],
+    "pros": [
+      "Focuses conservation resources on truly endangered species populations.",
+      "Reduces regulatory burdens on landowners in recovery areas."
+    ]
+  },
   "119/hr/1152": {
     "cons": [
       "Regulation may stifle innovation in rapidly evolving tech sectors.",
@@ -65980,6 +66020,25 @@
       "Restores presidential authority to withhold spending on wasteful or unnecessary federal programs.",
       "Repeals a 1974 law that critics argue gives Congress too much control over executive budgeting."
     ]
+  },
+  "119/hr/1181": {
+    "congress": 119,
+    "cons": [
+      "Could increase compliance costs for small businesses.",
+      "May limit beneficial data-driven personalization services."
+    ],
+    "number": "1181",
+    "pros": [
+      "Protects consumers from unwanted data collection practices.",
+      "Safeguards personal financial information from third parties."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "To prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes.",
+    "title": "Protecting Privacy in Purchases Act",
+    "type": "HR"
   },
   "119/hr/1182": {
     "cons": [
@@ -67190,6 +67249,16 @@
       "Ensures students learn about foundational American documents and national history."
     ]
   },
+  "119/hr/1353": {
+    "cons": [
+      "May conflict with existing sentencing guidelines.",
+      "Could increase prison populations and correctional costs."
+    ],
+    "pros": [
+      "Ensures accountability for those convicted of murder.",
+      "Provides closure and justice for victims' families."
+    ]
+  },
   "119/hr/1355": {
     "cons": [
       "Could harm fossil fuel industry jobs.",
@@ -68189,6 +68258,16 @@
     "pros": [
       "Strengthens U.S. security commitments to Taiwan against aggression.",
       "Deters Chinese military escalation through clear policy signals."
+    ]
+  },
+  "119/hr/1513": {
+    "cons": [
+      "May slow adoption of electric vehicles nationwide.",
+      "Could harm domestic EV manufacturing and job growth."
+    ],
+    "pros": [
+      "Reduces government spending on EV infrastructure programs.",
+      "Allows the private sector to lead EV charging development."
     ]
   },
   "119/hr/1515": {
@@ -69821,6 +69900,16 @@
     "pros": [
       "Strengthens border security and public safety by making non-U.S. nationals who are associated with criminal ga.",
       "Provides a clear legal framework for the Department of Homeland Security to formally designate criminal gangs,."
+    ]
+  },
+  "119/hr/1754": {
+    "cons": [
+      "Increases federal spending on agricultural subsidy programs.",
+      "May benefit large agribusiness over small family farms."
+    ],
+    "pros": [
+      "Supports American farmers with critical agricultural resources.",
+      "Strengthens the nation's food supply chain and security."
     ]
   },
   "119/hr/1755": {
@@ -72642,6 +72731,25 @@
       "Helps small businesses grow and create local jobs."
     ]
   },
+  "119/hr/2147": {
+    "congress": 119,
+    "cons": [
+      "Could strain U.S.-China diplomatic and trade relations.",
+      "May be challenged as overly broad or discriminatory."
+    ],
+    "number": "2147",
+    "pros": [
+      "Addresses national security concerns regarding Chinese influence.",
+      "Restricts access for individuals affiliated with the CCP."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "To amend the Immigration and Nationality Act to prohibit the admission of Chinese nationals as nonimmigrant students, and for other purposes.",
+    "title": "Stop CCP VISAs Act of 2025",
+    "type": "HR"
+  },
   "119/hr/215": {
     "cons": [
       "May impose new federal requirements on state adoption systems without providing additional funding to implement them.",
@@ -72743,6 +72851,16 @@
     "pros": [
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
+    ]
+  },
+  "119/hr/2166": {
+    "cons": [
+      "Increases federal spending on transportation projects.",
+      "May impose unfunded mandates on state and local governments."
+    ],
+    "pros": [
+      "Improves transportation safety for all road users.",
+      "Invests in infrastructure that supports local communities."
     ]
   },
   "119/hr/2167": {
@@ -73589,6 +73707,25 @@
       "Modernizes Job Corps training programs for current job markets.",
       "Helps at-risk youth gain skills for meaningful employment."
     ]
+  },
+  "119/hr/2282": {
+    "congress": 119,
+    "cons": [
+      "Increases federal spending without guaranteed quality improvements.",
+      "May not reach families in underserved rural communities."
+    ],
+    "number": "2282",
+    "pros": [
+      "Reauthorizes federal funding to improve childcare access nationwide.",
+      "Supports working families by strengthening childcare infrastructure."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "To reauthorize the Child Care and Development Block Grant Act of 1990, to improve access to relative caregivers, and for other purposes.",
+    "title": "Respect Parents\u2019 Childcare Choices Act",
+    "type": "HR"
   },
   "119/hr/2283": {
     "cons": [
@@ -77013,6 +77150,25 @@
     "title": "Great Lakes Mapping Act of 2025",
     "type": "hr"
   },
+  "119/hr/2732": {
+    "congress": 119,
+    "cons": [
+      "Could increase administrative burden on small businesses.",
+      "May be exploited by employees for leave not covered by FMLA."
+    ],
+    "number": "2732",
+    "pros": [
+      "Protects the right of parents to take family leave without penalty.",
+      "Prevents employers from discriminating against parents on leave."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "To amend the Family and Medical Leave Act of 1993 to prohibit an employer from recovering any health care premium paid by the employer for an employee if the employee fails to return to work due to the birth of a child, and for other purposes.",
+    "title": "Fairness for Stay-at-Home Parents Act",
+    "type": "HR"
+  },
   "119/hr/2733": {
     "cons": [
       "Increases deficit spending.",
@@ -77031,6 +77187,16 @@
     "pros": [
       "Creates a legislative framework for addressing the stated policy objectives.",
       "Provides targeted federal action on an identified issue."
+    ]
+  },
+  "119/hr/2737": {
+    "cons": [
+      "May be seen as targeting a specific individual unfairly.",
+      "Could discourage innovation partnerships with private industry."
+    ],
+    "pros": [
+      "Ensures government contractors meet ethical standards.",
+      "Promotes accountability in federal procurement processes."
     ]
   },
   "119/hr/2738": {
@@ -78782,6 +78948,25 @@
       "Helps stabilize dairy farmer incomes with fair pricing.",
       "Requires transparency in dairy production cost reporting."
     ]
+  },
+  "119/hr/2951": {
+    "congress": 119,
+    "cons": [
+      "Adds another federal holiday without offsetting productivity loss.",
+      "Could set precedent for additional religious holiday designations."
+    ],
+    "number": "2951",
+    "pros": [
+      "Recognizes the cultural significance of the Easter holiday.",
+      "Supports work-life balance for federal employees."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "To amend title 5, United States Code, to designate Easter Monday as a legal public holiday.",
+    "title": "Easter Monday Act of 2025",
+    "type": "HR"
   },
   "119/hr/2952": {
     "cons": [
@@ -81275,6 +81460,16 @@
       "Preserves American ownership of critical domestic enterprises."
     ]
   },
+  "119/hr/3249": {
+    "cons": [
+      "Reduces federal revenue available for public services.",
+      "May primarily benefit higher-income business owners."
+    ],
+    "pros": [
+      "Lowers the tax burden on small family-owned businesses.",
+      "Helps local economies grow by keeping more money local."
+    ]
+  },
   "119/hr/3250": {
     "cons": [
       "Increases federal involvement in local education.",
@@ -82207,6 +82402,16 @@
       "Targets specific programs to cut wasteful government expenditures."
     ]
   },
+  "119/hr/3367": {
+    "cons": [
+      "Increases federal spending on school nutrition programs.",
+      "May impose new training mandates on local school districts."
+    ],
+    "pros": [
+      "Improves nutrition quality for students in school meal programs.",
+      "Provides better training for school food service workers."
+    ]
+  },
   "119/hr/3368": {
     "cons": [
       "Uses funding restrictions to challenge executive authority rather than legislating directly.",
@@ -82285,6 +82490,16 @@
     "pros": [
       "Improves access to healthcare services for more Americans.",
       "Addresses critical health concerns with targeted federal action."
+    ]
+  },
+  "119/hr/3379": {
+    "cons": [
+      "May weaken oversight of community and regional banks.",
+      "Could increase risk of financial institution misconduct."
+    ],
+    "pros": [
+      "Reduces excessive regulatory reporting for financial institutions.",
+      "Streamlines federal bank examination processes efficiently."
     ]
   },
   "119/hr/338": {
@@ -82697,6 +82912,16 @@
       "Preserves natural landscapes for hiking, fishing, and tourism."
     ]
   },
+  "119/hr/3423": {
+    "cons": [
+      "Creates new federal regulations for airport operations.",
+      "May increase compliance costs for smaller airports."
+    ],
+    "pros": [
+      "Improves airport safety by regulating deicing storage facilities.",
+      "Protects the environment from deicing fluid contamination."
+    ]
+  },
   "119/hr/3424": {
     "congress": 119,
     "cons": [
@@ -82833,6 +83058,16 @@
     "pros": [
       "Invests in education and workforce development.",
       "Expands opportunities for students and teachers."
+    ]
+  },
+  "119/hr/3437": {
+    "cons": [
+      "May increase compliance costs for insurance companies.",
+      "Could lead to higher insurance premiums for consumers."
+    ],
+    "pros": [
+      "Strengthens consumer privacy protections for insurance data.",
+      "Reduces the risk of identity theft and data breaches."
     ]
   },
   "119/hr/3438": {
@@ -83520,6 +83755,16 @@
     "pros": [
       "Expands access to essential healthcare services and medical treatments.",
       "Reduces out-of-pocket costs and improves health outcomes for patients."
+    ]
+  },
+  "119/hr/3517": {
+    "cons": [
+      "May require tax increases to fund expanded benefits.",
+      "Could accelerate the depletion of the Social Security trust fund."
+    ],
+    "pros": [
+      "Strengthens the Social Security system for future retirees.",
+      "Ensures benefits keep pace with the cost of living."
     ]
   },
   "119/hr/3519": {
@@ -86043,6 +86288,16 @@
       "Provides federal resources to address environmental threats."
     ]
   },
+  "119/hr/3820": {
+    "cons": [
+      "Increases federal spending on veterans benefits programs.",
+      "May duplicate existing VA services and programs."
+    ],
+    "pros": [
+      "Improves healthcare access and services for American veterans.",
+      "Honors the service of military members and their families."
+    ]
+  },
   "119/hr/3821": {
     "congress": 119,
     "cons": [
@@ -86643,6 +86898,16 @@
       "Addresses specific transportation needs identified by local planning organizations."
     ]
   },
+  "119/hr/3894": {
+    "cons": [
+      "Could be used for political targeting of local governments.",
+      "May escalate federal-local tensions without solving crime."
+    ],
+    "pros": [
+      "Holds cities accountable for refusing to enforce federal law.",
+      "Provides transparency about jurisdictions that defy federal authority."
+    ]
+  },
   "119/hr/3895": {
     "congress": 119,
     "cons": [
@@ -87043,6 +87308,16 @@
     "title": "Bicycle Commuter Act of 2025",
     "type": "hr"
   },
+  "119/hr/3937": {
+    "cons": [
+      "May reduce public access to federal recreational lands.",
+      "Could set precedent for privatizing national forest land."
+    ],
+    "pros": [
+      "Supports local economic growth through federal land transfer.",
+      "Enables community-driven development of public land assets."
+    ]
+  },
   "119/hr/394": {
     "cons": [
       "Overlapping with existing laws may create legal redundancies.",
@@ -87321,6 +87596,16 @@
     "pros": [
       "Addresses a specific policy issue requiring legislative action.",
       "Provides a targeted solution to a defined problem."
+    ]
+  },
+  "119/hr/3967": {
+    "cons": [
+      "Reduces federal tax revenue available for other programs.",
+      "May primarily benefit large corporations over small businesses."
+    ],
+    "pros": [
+      "Encourages business investment in research and development.",
+      "Permanently allows R&D tax deductions for growing companies."
     ]
   },
   "119/hr/3968": {
@@ -88493,6 +88778,16 @@
       "Could restrict funding flows to groups tied to terrorist activity."
     ]
   },
+  "119/hr/4098": {
+    "cons": [
+      "May limit the ability of investors to make informed votes.",
+      "Could increase compliance costs for publicly traded companies."
+    ],
+    "pros": [
+      "Increases transparency in shareholder voting processes.",
+      "Reduces conflicts of interest in proxy advisory firms."
+    ]
+  },
   "119/hr/4099": {
     "cons": [
       "May have broader economic or regulatory implications.",
@@ -88531,6 +88826,16 @@
     "pros": [
       "Reduces out-of-pocket costs for renters already struggling with rent.",
       "Increases transparency in rental fees and application charges."
+    ]
+  },
+  "119/hr/4101": {
+    "cons": [
+      "May increase overall healthcare insurance premiums.",
+      "Could lead to higher drug costs through expanded coverage mandates."
+    ],
+    "pros": [
+      "Lowers out-of-pocket costs for life-saving cancer medications.",
+      "Ensures equitable access to oral and intravenous cancer drugs."
     ]
   },
   "119/hr/4102": {
@@ -89202,6 +89507,16 @@
     "pros": [
       "Provides a legislative solution regarding United States Code, to.",
       "Addresses a specific policy matter requiring federal attention."
+    ]
+  },
+  "119/hr/4167": {
+    "cons": [
+      "Could increase consumer debt levels if not properly regulated.",
+      "May weaken existing consumer protection standards."
+    ],
+    "pros": [
+      "Expands access to capital for small businesses and consumers.",
+      "Promotes financial inclusion through flexible lending options."
     ]
   },
   "119/hr/4168": {
@@ -93154,6 +93469,25 @@
       "Enhances security protections for federal judges and their families.",
       "Criminalizes doxxing and threats against judicial officers."
     ]
+  },
+  "119/hr/4604": {
+    "congress": 119,
+    "cons": [
+      "Could increase costs for visitors to national parks and forests.",
+      "May reduce public access to recreational areas on federal lands."
+    ],
+    "number": "4604",
+    "pros": [
+      "Improves access to federal lands by updating recreation fee policies.",
+      "Supports conservation efforts through enhanced land management tools."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "To amend the Federal Lands Recreation Enhancement Act to authorize the Secretary of the Interior to collect a surcharge from international visitors to units of the National Park System, and for other purposes.",
+    "title": "Protecting America\u2019s Treasures by Raising Inflow from Overseas Tourists (PATRIOT) Parks Act",
+    "type": "HR"
   },
   "119/hr/4605": {
     "cons": [
@@ -119214,6 +119548,25 @@
       "Reduces barriers between physical and behavioral healthcare."
     ]
   },
+  "119/hr/735": {
+    "congress": 119,
+    "cons": [
+      "Could escalate trade disputes and trigger retaliatory tariffs.",
+      "May increase consumer prices on imported goods."
+    ],
+    "number": "735",
+    "pros": [
+      "Levels the playing field for American exporters and manufacturers.",
+      "Encourages fair trade practices through reciprocal measures."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "To authorize the President to take certain actions relating to reciprocal trade, and for other purposes.",
+    "title": "United States Reciprocal Trade Act",
+    "type": "HR"
+  },
   "119/hr/7350": {
     "cons": [
       "Increases federal lending exposure to a volatile industry.",
@@ -144510,6 +144863,25 @@
       "Supports expanded defense cooperation against shared threats."
     ]
   },
+  "119/hres/412": {
+    "congress": 119,
+    "cons": [
+      "Congressional time could focus on more substantive legislative matters.",
+      "Resolutions honoring individuals set precedents for selective recognition."
+    ],
+    "number": "412",
+    "pros": [
+      "Recognizes the importance of religious institutions in global affairs.",
+      "Fosters goodwill between the United States and the Holy See."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "Congratulating His Holiness Pope Leo XIV on his historic election as the 267th pontiff of the Holy Roman Catholic Church and the first American pontiff. (H.Res. 412) - GovTrack.us",
+    "title": "Congratulating His Holiness Pope Leo XIV on his historic election as the 267th pontiff of the Holy Roman Catholic Church and the first American pontiff.",
+    "type": "HRES"
+  },
   "119/hres/414": {
     "cons": [
       "Could expand the scope of federal criminal law too broadly.",
@@ -146024,6 +146396,25 @@
       "Honors Nelson Mandela's legacy of reconciliation and human rights.",
       "Reinforces U.S. commitment to democratic values and international solidarity."
     ]
+  },
+  "119/hres/594": {
+    "congress": 119,
+    "cons": [
+      "Selectively focuses on one religion rather than all persecuted groups.",
+      "Non-binding resolutions have no direct policy impact."
+    ],
+    "number": "594",
+    "pros": [
+      "Raises awareness of religious persecution worldwide.",
+      "Supports religious freedom as a fundamental human right."
+    ],
+    "sponsor_bioguide": "M001235",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Moore, Riley M. (WV-2)",
+    "sponsor_state": "WV",
+    "summary": "Condemning the persecution of Christians in Muslim-majority countries. (H.Res. 594) - GovTrack.us",
+    "title": "Condemning the persecution of Christians in Muslim-majority countries.",
+    "type": "HRES"
   },
   "119/hres/595": {
     "cons": [
@@ -150095,6 +150486,16 @@
       "Addresses skilled labor shortages through apprenticeship programs."
     ]
   },
+  "119/s/110": {
+    "cons": [
+      "May increase federal spending without offsetting cuts.",
+      "Could duplicate existing veterans benefit programs."
+    ],
+    "pros": [
+      "Expands critical services and benefits for veterans.",
+      "Honors the service and sacrifice of America's veterans."
+    ]
+  },
   "119/s/111": {
     "cons": [
       "May raise concerns about government overreach.",
@@ -150387,6 +150788,25 @@
       "Promotes use of technology to reduce police use-of-force incidents.",
       "Encourages de-escalation training and modern tools for law enforcement."
     ]
+  },
+  "119/s/1295": {
+    "congress": 119,
+    "cons": [
+      "Could infringe on inmates' constitutional rights to correspondence.",
+      "May impose additional operational costs on the Bureau of Prisons."
+    ],
+    "number": "1295",
+    "pros": [
+      "Improves prison security by screening incoming mail.",
+      "Protects correctional staff from contraband threats."
+    ],
+    "sponsor_bioguide": "J000312",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Justice, James C. (WV-Sen)",
+    "sponsor_state": "WV",
+    "summary": "A bill to require the Director of the Bureau of Prisons to develop and implement a strategy to interdict fentanyl and other synthetic drugs in the mail at Federal correctional facilities.",
+    "title": "BOP SCAN Mail Act",
+    "type": "S"
   },
   "119/s/1296": {
     "cons": [
@@ -151828,6 +152248,16 @@
       "Addresses a specific policy matter requiring federal attention."
     ]
   },
+  "119/s/190": {
+    "cons": [
+      "Could impose restrictions on commercial activities.",
+      "May require additional enforcement resources."
+    ],
+    "pros": [
+      "Protects marine ecosystems and wildlife habitats.",
+      "Promotes sustainable resource management."
+    ]
+  },
   "119/s/1919": {
     "cons": [
       "Tax credit reduces federal revenue benefiting a single agricultural sector",
@@ -151897,6 +152327,25 @@
       "Provides tax relief to stimulate economic activity.",
       "Simplifies tax compliance for individuals and businesses."
     ]
+  },
+  "119/s/1945": {
+    "congress": 119,
+    "cons": [
+      "Preempts state and local authority over energy regulation.",
+      "May undermine state-level renewable energy and climate goals."
+    ],
+    "number": "1945",
+    "pros": [
+      "Expands consumer choice in selecting energy providers.",
+      "Could lower energy costs through increased competition."
+    ],
+    "sponsor_bioguide": "J000312",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Justice, James C. (WV-Sen)",
+    "sponsor_state": "WV",
+    "summary": "A bill to prohibit States and local governments from prohibiting or limiting the connection, reconnection, modification, installation, transportation, distribution, or expansion of an energy service based on the type or source of energy to be delivered, and for other purposes.",
+    "title": "Energy Choice Act",
+    "type": "S"
   },
   "119/s/1947": {
     "cons": [
@@ -152387,6 +152836,16 @@
       "Potentially improves conditions for detained individuals."
     ]
   },
+  "119/s/216": {
+    "cons": [
+      "Could impose restrictions on commercial activities.",
+      "May require additional enforcement resources."
+    ],
+    "pros": [
+      "Protects marine ecosystems and wildlife habitats.",
+      "Promotes sustainable resource management."
+    ]
+  },
   "119/s/2168": {
     "cons": [
       "May require additional legislation to be fully effective.",
@@ -152679,6 +153138,25 @@
       "Reduces tax burden on families with dependents earning modest incomes.",
       "Simplifies tax filing for households with dependent income sources."
     ]
+  },
+  "119/s/2280": {
+    "congress": 119,
+    "cons": [
+      "May reduce federal oversight of environmentally sensitive areas.",
+      "Could create interagency disputes over land management authority."
+    ],
+    "number": "2280",
+    "pros": [
+      "Improves efficiency by consolidating federal land management.",
+      "Could enable local economic development on transferred parcels."
+    ],
+    "sponsor_bioguide": "J000312",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Justice, James C. (WV-Sen)",
+    "sponsor_state": "WV",
+    "summary": "A bill to transfer administrative jurisdiction over certain parcels of Federal land in Harpers Ferry, West Virginia, and for other purposes. (S. 2280) - GovTrack.us",
+    "title": "A bill to transfer administrative jurisdiction over certain parcels of Federal land in Harpers Ferry, West Virginia, and for other purposes.",
+    "type": "S"
   },
   "119/s/2285": {
     "cons": [
@@ -153413,6 +153891,16 @@
       "Targets specific programs to cut wasteful government expenditures."
     ]
   },
+  "119/s/254": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
+    ]
+  },
   "119/s/2544": {
     "cons": [
       "Could lead to harsher sentences for nonviolent offenders.",
@@ -153431,6 +153919,16 @@
     "pros": [
       "Honors emergency medical service workers with a permanent D.C. memorial.",
       "Provides a dedicated public space to recognize first responder contributions."
+    ]
+  },
+  "119/s/255": {
+    "cons": [
+      "Could impose restrictions on commercial activities.",
+      "May require additional enforcement resources."
+    ],
+    "pros": [
+      "Protects marine ecosystems and wildlife habitats.",
+      "Promotes sustainable resource management."
     ]
   },
   "119/s/2553": {
@@ -161105,6 +161603,16 @@
       "Strengthens cybersecurity and protects consumer data."
     ]
   },
+  "119/s/414": {
+    "cons": [
+      "May increase overall health care spending.",
+      "Could add complexity to an already complex system."
+    ],
+    "pros": [
+      "Improves access to essential health care services.",
+      "Addresses a pressing public health concern."
+    ]
+  },
   "119/s/4140": {
     "cons": [
       "May duplicate existing veterans benefit protection statutes.",
@@ -161383,6 +161891,16 @@
     "pros": [
       "Eliminates student loan interest, lowering total debt costs.",
       "Provides significant financial relief to current borrowers."
+    ]
+  },
+  "119/s/417": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
     ]
   },
   "119/s/4170": {
@@ -161885,6 +162403,16 @@
     "pros": [
       "Standardizes VA appointment scheduling times to reduce veteran wait times.",
       "Sets enforceable deadlines for veterans to receive medical appointments."
+    ]
+  },
+  "119/s/423": {
+    "cons": [
+      "May increase federal spending without offsetting cuts.",
+      "Could duplicate existing veterans benefit programs."
+    ],
+    "pros": [
+      "Expands critical services and benefits for veterans.",
+      "Honors the service and sacrifice of America's veterans."
     ]
   },
   "119/s/4230": {
@@ -162912,6 +163440,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "119/s/435": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
+    ]
+  },
   "119/s/4350": {
     "cons": [
       "Benefits only a single geographic region, not the entire country.",
@@ -163010,6 +163548,16 @@
     "pros": [
       "Protects natural resources and public health.",
       "Promotes clean energy and environmental sustainability."
+    ]
+  },
+  "119/s/436": {
+    "cons": [
+      "Increases defense spending without clear offsets.",
+      "May escalate tensions with foreign adversaries."
+    ],
+    "pros": [
+      "Strengthens national defense capabilities.",
+      "Supports military readiness and personnel."
     ]
   },
   "119/s/4360": {
@@ -166422,6 +166970,16 @@
       "Helps close the digital divide and expand internet access."
     ]
   },
+  "119/s/493": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
+    ]
+  },
   "119/s/495": {
     "cons": [
       "Undermines international efforts to prosecute war criminals.",
@@ -166670,6 +167228,36 @@
     "pros": [
       "Forces Congress to cite constitutional authority for bills",
       "Prevents legislation that exceeds enumerated powers"
+    ]
+  },
+  "119/s/551": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
+    ]
+  },
+  "119/s/552": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
+    ]
+  },
+  "119/s/553": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
     ]
   },
   "119/s/554": {
@@ -167092,6 +167680,16 @@
       "Provides a targeted legislative solution to a specific concern."
     ]
   },
+  "119/s/688": {
+    "cons": [
+      "May increase agricultural subsidies and spending.",
+      "Could favor large agribusiness over small farms."
+    ],
+    "pros": [
+      "Supports American farmers and agricultural production.",
+      "Ensures food security and supply chain stability."
+    ]
+  },
   "119/s/69": {
     "cons": [
       "Could increase harmful content like hate speech online",
@@ -167356,6 +167954,16 @@
       "Addresses the specific policy issue described in the bill."
     ]
   },
+  "119/s/785": {
+    "cons": [
+      "May increase federal spending without offsetting cuts.",
+      "Could duplicate existing veterans benefit programs."
+    ],
+    "pros": [
+      "Expands critical services and benefits for veterans.",
+      "Honors the service and sacrifice of America's veterans."
+    ]
+  },
   "119/s/79": {
     "cons": [
       "Could lower wages and benefits for workers on federally funded projects.",
@@ -167436,6 +168044,16 @@
       "Builds community pride through recognition of service members."
     ]
   },
+  "119/s/831": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
+    ]
+  },
   "119/s/834": {
     "cons": [
       "Could raise concerns about civil liberties protections.",
@@ -167485,6 +168103,25 @@
       "Strengthens workers' right to organize and collectively bargain.",
       "Updates labor laws to better protect modern workforce participation."
     ]
+  },
+  "119/s/858": {
+    "congress": 119,
+    "cons": [
+      "Federal monument designations can delay local development projects.",
+      "Limited federal funds may be better allocated to veteran services."
+    ],
+    "number": "858",
+    "pros": [
+      "Honors the sacrifices of American military heroes.",
+      "Supports public recognition of Medal of Honor recipients."
+    ],
+    "sponsor_bioguide": "J000312",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Justice, James C. (WV-Sen)",
+    "sponsor_state": "WV",
+    "summary": "A bill to authorize the National Medal of Honor Museum Foundation to establish a commemorative work on the National Mall to honor the extraordinary acts of valor, selfless service, and sacrifice displayed by Medal of Honor recipients.",
+    "title": "Hershel \u2018Woody' Williams National Medal of Honor Monument Location Act",
+    "type": "S"
   },
   "119/s/859": {
     "cons": [
@@ -172143,6 +172780,16 @@
     "pros": [
       "Notifies the President of the election of a Secretary of the Senate, ensuring proper communication between leg.",
       "The Secretary of the Senate is a key administrative role responsible for records, payroll, and daily operations."
+    ]
+  },
+  "119/sres/92": {
+    "cons": [
+      "May have unintended consequences not fully considered.",
+      "Could increase government spending or regulatory burden."
+    ],
+    "pros": [
+      "Addresses a specific policy gap needing legislative action.",
+      "Provides a targeted solution to a defined problem."
     ]
   },
   "119/sres/95": {
@@ -210704,452 +211351,5 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
-  },
-  "119/hjres/93": {
-    "pros": [
-      "Protects U.S. sovereignty from international trade organization rulings.",
-      "Allows Congress to set trade policy without WTO constraints."
-    ],
-    "cons": [
-      "Could trigger retaliatory tariffs against American exports.",
-      "Withdrawing may weaken global trade dispute resolution mechanisms."
-    ]
-  },
-  "119/hr/1150": {
-    "pros": [
-      "Focuses conservation resources on truly endangered species populations.",
-      "Reduces regulatory burdens on landowners in recovery areas."
-    ],
-    "cons": [
-      "Could weaken protections for species still at risk.",
-      "May set a precedent for political interference in science."
-    ]
-  },
-  "119/hr/1353": {
-    "pros": [
-      "Ensures accountability for those convicted of murder.",
-      "Provides closure and justice for victims' families."
-    ],
-    "cons": [
-      "May conflict with existing sentencing guidelines.",
-      "Could increase prison populations and correctional costs."
-    ]
-  },
-  "119/hr/1513": {
-    "pros": [
-      "Reduces government spending on EV infrastructure programs.",
-      "Allows the private sector to lead EV charging development."
-    ],
-    "cons": [
-      "May slow adoption of electric vehicles nationwide.",
-      "Could harm domestic EV manufacturing and job growth."
-    ]
-  },
-  "119/hr/1754": {
-    "pros": [
-      "Supports American farmers with critical agricultural resources.",
-      "Strengthens the nation's food supply chain and security."
-    ],
-    "cons": [
-      "Increases federal spending on agricultural subsidy programs.",
-      "May benefit large agribusiness over small family farms."
-    ]
-  },
-  "119/hr/2166": {
-    "pros": [
-      "Improves transportation safety for all road users.",
-      "Invests in infrastructure that supports local communities."
-    ],
-    "cons": [
-      "Increases federal spending on transportation projects.",
-      "May impose unfunded mandates on state and local governments."
-    ]
-  },
-  "119/hr/2737": {
-    "pros": [
-      "Ensures government contractors meet ethical standards.",
-      "Promotes accountability in federal procurement processes."
-    ],
-    "cons": [
-      "May be seen as targeting a specific individual unfairly.",
-      "Could discourage innovation partnerships with private industry."
-    ]
-  },
-  "119/hr/3249": {
-    "pros": [
-      "Lowers the tax burden on small family-owned businesses.",
-      "Helps local economies grow by keeping more money local."
-    ],
-    "cons": [
-      "Reduces federal revenue available for public services.",
-      "May primarily benefit higher-income business owners."
-    ]
-  },
-  "119/hr/3367": {
-    "pros": [
-      "Improves nutrition quality for students in school meal programs.",
-      "Provides better training for school food service workers."
-    ],
-    "cons": [
-      "Increases federal spending on school nutrition programs.",
-      "May impose new training mandates on local school districts."
-    ]
-  },
-  "119/hr/3379": {
-    "pros": [
-      "Reduces excessive regulatory reporting for financial institutions.",
-      "Streamlines federal bank examination processes efficiently."
-    ],
-    "cons": [
-      "May weaken oversight of community and regional banks.",
-      "Could increase risk of financial institution misconduct."
-    ]
-  },
-  "119/hr/3423": {
-    "pros": [
-      "Improves airport safety by regulating deicing storage facilities.",
-      "Protects the environment from deicing fluid contamination."
-    ],
-    "cons": [
-      "Creates new federal regulations for airport operations.",
-      "May increase compliance costs for smaller airports."
-    ]
-  },
-  "119/hr/3437": {
-    "pros": [
-      "Strengthens consumer privacy protections for insurance data.",
-      "Reduces the risk of identity theft and data breaches."
-    ],
-    "cons": [
-      "May increase compliance costs for insurance companies.",
-      "Could lead to higher insurance premiums for consumers."
-    ]
-  },
-  "119/hr/3517": {
-    "pros": [
-      "Strengthens the Social Security system for future retirees.",
-      "Ensures benefits keep pace with the cost of living."
-    ],
-    "cons": [
-      "May require tax increases to fund expanded benefits.",
-      "Could accelerate the depletion of the Social Security trust fund."
-    ]
-  },
-  "119/hr/3820": {
-    "pros": [
-      "Improves healthcare access and services for American veterans.",
-      "Honors the service of military members and their families."
-    ],
-    "cons": [
-      "Increases federal spending on veterans benefits programs.",
-      "May duplicate existing VA services and programs."
-    ]
-  },
-  "119/hr/3894": {
-    "pros": [
-      "Holds cities accountable for refusing to enforce federal law.",
-      "Provides transparency about jurisdictions that defy federal authority."
-    ],
-    "cons": [
-      "Could be used for political targeting of local governments.",
-      "May escalate federal-local tensions without solving crime."
-    ]
-  },
-  "119/hr/3937": {
-    "pros": [
-      "Supports local economic growth through federal land transfer.",
-      "Enables community-driven development of public land assets."
-    ],
-    "cons": [
-      "May reduce public access to federal recreational lands.",
-      "Could set precedent for privatizing national forest land."
-    ]
-  },
-  "119/hr/3967": {
-    "pros": [
-      "Encourages business investment in research and development.",
-      "Permanently allows R&D tax deductions for growing companies."
-    ],
-    "cons": [
-      "Reduces federal tax revenue available for other programs.",
-      "May primarily benefit large corporations over small businesses."
-    ]
-  },
-  "119/hr/4098": {
-    "pros": [
-      "Increases transparency in shareholder voting processes.",
-      "Reduces conflicts of interest in proxy advisory firms."
-    ],
-    "cons": [
-      "May limit the ability of investors to make informed votes.",
-      "Could increase compliance costs for publicly traded companies."
-    ]
-  },
-  "119/hr/4101": {
-    "pros": [
-      "Lowers out-of-pocket costs for life-saving cancer medications.",
-      "Ensures equitable access to oral and intravenous cancer drugs."
-    ],
-    "cons": [
-      "May increase overall healthcare insurance premiums.",
-      "Could lead to higher drug costs through expanded coverage mandates."
-    ]
-  },
-  "119/hr/4167": {
-    "pros": [
-      "Expands access to capital for small businesses and consumers.",
-      "Promotes financial inclusion through flexible lending options."
-    ],
-    "cons": [
-      "Could increase consumer debt levels if not properly regulated.",
-      "May weaken existing consumer protection standards."
-    ]
-  },
-  "119/hr/4604": {
-    "pros": [
-      "Improves access to federal lands by updating recreation fee policies.",
-      "Supports conservation efforts through enhanced land management tools."
-    ],
-    "cons": [
-      "Could increase costs for visitors to national parks and forests.",
-      "May reduce public access to recreational areas on federal lands."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Protecting America\u2019s Treasures by Raising Inflow from Overseas Tourists (PATRIOT) Parks Act",
-    "summary": "To amend the Federal Lands Recreation Enhancement Act to authorize the Secretary of the Interior to collect a surcharge from international visitors to units of the National Park System, and for other purposes.",
-    "congress": 119,
-    "type": "HR",
-    "number": "4604"
-  },
-  "119/hres/594": {
-    "pros": [
-      "Raises awareness of religious persecution worldwide.",
-      "Supports religious freedom as a fundamental human right."
-    ],
-    "cons": [
-      "Selectively focuses on one religion rather than all persecuted groups.",
-      "Non-binding resolutions have no direct policy impact."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Condemning the persecution of Christians in Muslim-majority countries.",
-    "summary": "Condemning the persecution of Christians in Muslim-majority countries. (H.Res. 594) - GovTrack.us",
-    "congress": 119,
-    "type": "HRES",
-    "number": "594"
-  },
-  "119/hres/412": {
-    "pros": [
-      "Recognizes the importance of religious institutions in global affairs.",
-      "Fosters goodwill between the United States and the Holy See."
-    ],
-    "cons": [
-      "Congressional time could focus on more substantive legislative matters.",
-      "Resolutions honoring individuals set precedents for selective recognition."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Congratulating His Holiness Pope Leo XIV on his historic election as the 267th pontiff of the Holy Roman Catholic Church and the first American pontiff.",
-    "summary": "Congratulating His Holiness Pope Leo XIV on his historic election as the 267th pontiff of the Holy Roman Catholic Church and the first American pontiff. (H.Res. 412) - GovTrack.us",
-    "congress": 119,
-    "type": "HRES",
-    "number": "412"
-  },
-  "119/hr/2951": {
-    "pros": [
-      "Recognizes the cultural significance of the Easter holiday.",
-      "Supports work-life balance for federal employees."
-    ],
-    "cons": [
-      "Adds another federal holiday without offsetting productivity loss.",
-      "Could set precedent for additional religious holiday designations."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Easter Monday Act of 2025",
-    "summary": "To amend title 5, United States Code, to designate Easter Monday as a legal public holiday.",
-    "congress": 119,
-    "type": "HR",
-    "number": "2951"
-  },
-  "119/hr/2732": {
-    "pros": [
-      "Protects the right of parents to take family leave without penalty.",
-      "Prevents employers from discriminating against parents on leave."
-    ],
-    "cons": [
-      "Could increase administrative burden on small businesses.",
-      "May be exploited by employees for leave not covered by FMLA."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Fairness for Stay-at-Home Parents Act",
-    "summary": "To amend the Family and Medical Leave Act of 1993 to prohibit an employer from recovering any health care premium paid by the employer for an employee if the employee fails to return to work due to the birth of a child, and for other purposes.",
-    "congress": 119,
-    "type": "HR",
-    "number": "2732"
-  },
-  "119/hr/2282": {
-    "pros": [
-      "Reauthorizes federal funding to improve childcare access nationwide.",
-      "Supports working families by strengthening childcare infrastructure."
-    ],
-    "cons": [
-      "Increases federal spending without guaranteed quality improvements.",
-      "May not reach families in underserved rural communities."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Respect Parents\u2019 Childcare Choices Act",
-    "summary": "To reauthorize the Child Care and Development Block Grant Act of 1990, to improve access to relative caregivers, and for other purposes.",
-    "congress": 119,
-    "type": "HR",
-    "number": "2282"
-  },
-  "119/hr/2147": {
-    "pros": [
-      "Addresses national security concerns regarding Chinese influence.",
-      "Restricts access for individuals affiliated with the CCP."
-    ],
-    "cons": [
-      "Could strain U.S.-China diplomatic and trade relations.",
-      "May be challenged as overly broad or discriminatory."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Stop CCP VISAs Act of 2025",
-    "summary": "To amend the Immigration and Nationality Act to prohibit the admission of Chinese nationals as nonimmigrant students, and for other purposes.",
-    "congress": 119,
-    "type": "HR",
-    "number": "2147"
-  },
-  "119/hr/1181": {
-    "pros": [
-      "Protects consumers from unwanted data collection practices.",
-      "Safeguards personal financial information from third parties."
-    ],
-    "cons": [
-      "Could increase compliance costs for small businesses.",
-      "May limit beneficial data-driven personalization services."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Protecting Privacy in Purchases Act",
-    "summary": "To prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes.",
-    "congress": 119,
-    "type": "HR",
-    "number": "1181"
-  },
-  "119/hr/735": {
-    "pros": [
-      "Levels the playing field for American exporters and manufacturers.",
-      "Encourages fair trade practices through reciprocal measures."
-    ],
-    "cons": [
-      "Could escalate trade disputes and trigger retaliatory tariffs.",
-      "May increase consumer prices on imported goods."
-    ],
-    "sponsor_name": "Moore, Riley M. (WV-2)",
-    "sponsor_bioguide": "M001235",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "United States Reciprocal Trade Act",
-    "summary": "To authorize the President to take certain actions relating to reciprocal trade, and for other purposes.",
-    "congress": 119,
-    "type": "HR",
-    "number": "735"
-  },
-  "119/s/2280": {
-    "pros": [
-      "Improves efficiency by consolidating federal land management.",
-      "Could enable local economic development on transferred parcels."
-    ],
-    "cons": [
-      "May reduce federal oversight of environmentally sensitive areas.",
-      "Could create interagency disputes over land management authority."
-    ],
-    "sponsor_name": "Justice, James C. (WV-Sen)",
-    "sponsor_bioguide": "J000312",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "A bill to transfer administrative jurisdiction over certain parcels of Federal land in Harpers Ferry, West Virginia, and for other purposes.",
-    "summary": "A bill to transfer administrative jurisdiction over certain parcels of Federal land in Harpers Ferry, West Virginia, and for other purposes. (S. 2280) - GovTrack.us",
-    "congress": 119,
-    "type": "S",
-    "number": "2280"
-  },
-  "119/s/1945": {
-    "pros": [
-      "Expands consumer choice in selecting energy providers.",
-      "Could lower energy costs through increased competition."
-    ],
-    "cons": [
-      "Preempts state and local authority over energy regulation.",
-      "May undermine state-level renewable energy and climate goals."
-    ],
-    "sponsor_name": "Justice, James C. (WV-Sen)",
-    "sponsor_bioguide": "J000312",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Energy Choice Act",
-    "summary": "A bill to prohibit States and local governments from prohibiting or limiting the connection, reconnection, modification, installation, transportation, distribution, or expansion of an energy service based on the type or source of energy to be delivered, and for other purposes.",
-    "congress": 119,
-    "type": "S",
-    "number": "1945"
-  },
-  "119/s/1295": {
-    "pros": [
-      "Improves prison security by screening incoming mail.",
-      "Protects correctional staff from contraband threats."
-    ],
-    "cons": [
-      "Could infringe on inmates' constitutional rights to correspondence.",
-      "May impose additional operational costs on the Bureau of Prisons."
-    ],
-    "sponsor_name": "Justice, James C. (WV-Sen)",
-    "sponsor_bioguide": "J000312",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "BOP SCAN Mail Act",
-    "summary": "A bill to require the Director of the Bureau of Prisons to develop and implement a strategy to interdict fentanyl and other synthetic drugs in the mail at Federal correctional facilities.",
-    "congress": 119,
-    "type": "S",
-    "number": "1295"
-  },
-  "119/s/858": {
-    "pros": [
-      "Honors the sacrifices of American military heroes.",
-      "Supports public recognition of Medal of Honor recipients."
-    ],
-    "cons": [
-      "Federal monument designations can delay local development projects.",
-      "Limited federal funds may be better allocated to veteran services."
-    ],
-    "sponsor_name": "Justice, James C. (WV-Sen)",
-    "sponsor_bioguide": "J000312",
-    "sponsor_chamber": "House",
-    "sponsor_state": "WV",
-    "title": "Hershel \u2018Woody' Williams National Medal of Honor Monument Location Act",
-    "summary": "A bill to authorize the National Medal of Honor Museum Foundation to establish a commemorative work on the National Mall to honor the extraordinary acts of valor, selfless service, and sacrifice displayed by Medal of Honor recipients.",
-    "congress": 119,
-    "type": "S",
-    "number": "858"
   }
 }
