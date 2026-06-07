@@ -211373,5 +211373,45 @@
     "congress": 119,
     "type": "hr",
     "number": "9170"
+  },
+  "119/hjres/192": {
+    "pros": [
+      "Provides congressional oversight of D.C. local government actions.",
+      "Ensures accountability in police arrest and body camera procedures."
+    ],
+    "cons": [
+      "May override D.C. home rule and local democratic decision-making.",
+      "Targets a narrow local issue better handled at the city level."
+    ]
+  },
+  "119/hjres/193": {
+    "pros": [
+      "Provides congressional oversight of D.C. local government actions.",
+      "Ensures accountability in police arrest and body camera procedures."
+    ],
+    "cons": [
+      "May override D.C. home rule and local democratic decision-making.",
+      "Targets a narrow local issue better handled at the city level."
+    ]
+  },
+  "119/s/4682": {
+    "pros": [
+      "Ensures human oversight of lethal autonomous weapon systems.",
+      "Prevents fully automated targeting decisions by the military."
+    ],
+    "cons": [
+      "May limit military flexibility in fast-paced combat situations.",
+      "Could slow adoption of advanced defensive autonomous technologies."
+    ]
+  },
+  "119/s/4683": {
+    "pros": [
+      "Evaluates how AI integration affects military personnel performance.",
+      "Ensures skill retention is considered before adopting new technologies."
+    ],
+    "cons": [
+      "Could delay critical AI modernization of defense capabilities.",
+      "May create additional bureaucratic reporting requirements for the Pentagon."
+    ]
   }
 }
