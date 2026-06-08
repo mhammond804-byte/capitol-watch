@@ -212228,5 +212228,25 @@
       "Authorizes new spending without clear funding sources.",
       "May overlap with existing NOAA and university research programs."
     ]
+  },
+  "118/hres/1317": {
+    "pros": [
+      "Promotes tire safety awareness to reduce accidents and fatalities.",
+      "Encourages vehicle maintenance education for all drivers."
+    ],
+    "cons": [
+      "Non-binding resolution has no direct legal impact.",
+      "Consumes legislative time without passing binding laws."
+    ]
+  },
+  "118/hres/1450": {
+    "pros": [
+      "Reaffirms House authority over federal spending decisions.",
+      "Emphasizes fiscal responsibility in the budget process."
+    ],
+    "cons": [
+      "May deepen partisan conflict over budget priorities.",
+      "Non-binding resolution carries no enforceable requirements."
+    ]
   }
 }
