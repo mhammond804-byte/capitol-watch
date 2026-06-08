@@ -211716,5 +211716,95 @@
       "Expands federal authority over local security programs.",
       "New reporting mandates may create bureaucratic delays."
     ]
+  },
+  "119/hr/2011": {
+    "pros": [
+      "Creates a clear framework for addressing this issue.",
+      "Strengthens existing systems for better outcomes."
+    ],
+    "cons": [
+      "May require significant taxpayer funding.",
+      "Could impose unfunded mandates on states."
+    ],
+    "summary": "<p><strong>Sarah Debbink Langenkamp Active Transportation Safety Act</strong></p><p>This bill expands the Highway Safety Improvement Program (HSIP) to include additional bicyclist and pedestrian&nbsp;safety measures and increases the federal cost share for certain safety projects.</p><p>Specifically",
+    "title": "Sarah Debbink Langenkamp Active Transportation Safety Act",
+    "sponsor_name": "Rep. Raskin, Jamie (MD-8)",
+    "sponsor_bioguide": "R000606",
+    "sponsor_chamber": "House",
+    "sponsor_state": "MD",
+    "introduced_date": "2025-03-10",
+    "policy_area": "Transportation and Public Works"
+  },
+  "119/hr/532": {
+    "pros": [
+      "Creates a clear framework for addressing this issue.",
+      "Strengthens existing systems for better outcomes."
+    ],
+    "cons": [
+      "May require significant taxpayer funding.",
+      "Could impose unfunded mandates on states."
+    ],
+    "summary": "<p><b>Handgun Permit to Purchase Act</b></p> <p>This bill authorizes a grant program for states, local governments, and Indian tribes to implement and evaluate handgun purchaser licensing requirements.</p>",
+    "title": "Handgun Permit to Purchase Act",
+    "sponsor_name": "Rep. Raskin, Jamie (MD-8)",
+    "sponsor_bioguide": "R000606",
+    "sponsor_chamber": "House",
+    "sponsor_state": "MD",
+    "introduced_date": "2025-01-16",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  "119/hres/376": {
+    "pros": [
+      "Creates a clear framework for addressing this issue.",
+      "Provides direct assistance to those affected."
+    ],
+    "cons": [
+      "May create new regulatory burdens.",
+      "Could impose unfunded mandates on states."
+    ],
+    "summary": "<p>This resolution supports the designation of a National Day of Reason and encourages everyone in the United States to uplift the central importance of reason, critical thought, the scientific method, and free inquiry to resolving social problems and promoting human welfare.</p>",
+    "title": "Expressing support for the designation of May 4, 2025, as a \"National Day of Reason\" and recognizing the central importance of reason in the betterment of humanity.",
+    "sponsor_name": "Rep. Raskin, Jamie (MD-8)",
+    "sponsor_bioguide": "R000606",
+    "sponsor_chamber": "House",
+    "sponsor_state": "MD",
+    "introduced_date": "2025-05-01",
+    "policy_area": "Government Operations and Politics"
+  },
+  "119/s/123": {
+    "pros": [
+      "Creates a clear framework for addressing this issue.",
+      "Strengthens existing systems for better outcomes."
+    ],
+    "cons": [
+      "May require significant taxpayer funding.",
+      "Could impose unfunded mandates on states."
+    ],
+    "summary": "<p><b>Handgun Permit to Purchase Act</b></p> <p>This bill authorizes a grant program for states, local governments, and Indian tribes to implement and evaluate handgun purchaser licensing requirements.</p>",
+    "title": "Handgun Permit to Purchase Act",
+    "sponsor_name": "Sen. Van Hollen, Chris (MD)",
+    "sponsor_bioguide": "V000128",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "MD",
+    "introduced_date": "2025-01-16",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  "119/s/2106": {
+    "pros": [
+      "Protects important public interests and safety.",
+      "Creates a clear framework for addressing this issue."
+    ],
+    "cons": [
+      "May require significant taxpayer funding.",
+      "Could impose unfunded mandates on states."
+    ],
+    "summary": "<p><strong>Safe Environment from Countries Under Repression and Emergency Act or the SECURE Act</strong></p><p>This bill allows qualified nationals of a country that has or had a temporary protected status designation&nbsp;(certain countries in which nationals experience conflict or other unsafe con",
+    "title": "SECURE Act",
+    "sponsor_name": "Sen. Van Hollen, Chris (MD)",
+    "sponsor_bioguide": "V000128",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "MD",
+    "introduced_date": "2025-06-18",
+    "policy_area": "Immigration"
   }
 }
