@@ -212088,5 +212088,145 @@
       "Could face First Amendment challenges on free speech grounds.",
       "May be difficult to enforce across rapidly evolving AI platforms."
     ]
+  },
+  "118/hr/9827": {
+    "pros": [
+      "Protects domestic industries from foreign competition through tariffs.",
+      "Encourages American manufacturing by making imports more expensive."
+    ],
+    "cons": [
+      "Could raise consumer prices on imported goods across sectors.",
+      "May trigger retaliatory tariffs harming U.S. exporters."
+    ]
+  },
+  "100/hr/4552": {
+    "pros": [
+      "Protects workers' right to strike without fear of permanent replacement.",
+      "Strengthens collective bargaining protections during labor disputes."
+    ],
+    "cons": [
+      "May reduce employer flexibility during prolonged strikes.",
+      "Could lead to increased operational costs for businesses."
+    ]
+  },
+  "100/hr/4525": {
+    "pros": [
+      "Honors a distinguished federal judge from Maine.",
+      "Provides official naming for the Portland federal courthouse."
+    ],
+    "cons": [
+      "Is a ceremonial designation with no substantive policy impact.",
+      "Uses legislative time that could address more pressing issues."
+    ]
+  },
+  "100/hr/4553": {
+    "pros": [
+      "Protects American lobster conservation efforts and sustainability.",
+      "Enforces import standards to prevent undersized lobster trafficking."
+    ],
+    "cons": [
+      "Could create trade friction with lobster-exporting nations.",
+      "Increases enforcement costs for customs agencies."
+    ]
+  },
+  "100/hr/4444": {
+    "pros": [
+      "Reduces tax burdens on diesel and aviation fuel sales.",
+      "Supports public transportation and aviation industries."
+    ],
+    "cons": [
+      "Could reduce federal revenue from fuel excise taxes.",
+      "May complicate tax administration with limited-exception rules."
+    ]
+  },
+  "100/hr/4231": {
+    "pros": [
+      "Establishes regional research centers for marine protection.",
+      "Supports coordinated scientific study of coastal ecosystems."
+    ],
+    "cons": [
+      "Creates new federal programs requiring ongoing appropriations.",
+      "May duplicate existing marine research efforts."
+    ]
+  },
+  "101/hr/5908": {
+    "pros": [
+      "Ensures prescription drug samples meet child safety standards.",
+      "Protects children from accidental poisoning by medication samples."
+    ],
+    "cons": [
+      "Adds compliance costs for pharmaceutical manufacturers.",
+      "May reduce distribution of free drug samples to doctors."
+    ]
+  },
+  "101/hr/5424": {
+    "pros": [
+      "Studies how Medicaid expansion affects healthcare access and costs.",
+      "Provides data to inform future federal health policy decisions."
+    ],
+    "cons": [
+      "Limited to two states, reducing national applicability of results.",
+      "Only a three-year window which may be too short for meaningful analysis."
+    ]
+  },
+  "101/hr/4419": {
+    "pros": [
+      "Continues funding for housing services for elderly and disabled.",
+      "Supports congregate housing that helps seniors age in place."
+    ],
+    "cons": [
+      "Increases federal spending without program reform.",
+      "Only authorizes one year, requiring annual reauthorization."
+    ]
+  },
+  "101/hr/3851": {
+    "pros": [
+      "Helps low-income families afford home heating during cold winters.",
+      "Targets aid to states with the highest home heating costs."
+    ],
+    "cons": [
+      "Increases federal deficit with supplemental appropriations.",
+      "May not reach families most in need of heating assistance."
+    ]
+  },
+  "101/hr/3698": {
+    "pros": [
+      "Supports environmental education infrastructure at Bowdoin College.",
+      "Invests in Maine's higher education and environmental research."
+    ],
+    "cons": [
+      "Funds a single institution rather than a broader federal program.",
+      "Sets a precedent for direct federal funding of local projects."
+    ]
+  },
+  "101/hr/2792": {
+    "pros": [
+      "Reimburses local law enforcement for presidential security costs.",
+      "Helps rural Maine communities afford security for national events."
+    ],
+    "cons": [
+      "Creates a narrow reimbursement program for only one jurisdiction.",
+      "Increases federal spending on what states normally fund."
+    ]
+  },
+  "101/hr/2115": {
+    "pros": [
+      "Helps consumers identify plastic types for recycling purposes.",
+      "Standardizes labeling requirements across plastic containers."
+    ],
+    "cons": [
+      "Adds compliance costs for plastic container manufacturers.",
+      "May be duplicative of existing voluntary recycling labels."
+    ]
+  },
+  "101/hr/1421": {
+    "pros": [
+      "Supports regional marine research programs across coastal areas.",
+      "Advances scientific understanding of marine ecosystems."
+    ],
+    "cons": [
+      "Authorizes new spending without clear funding sources.",
+      "May overlap with existing NOAA and university research programs."
+    ]
   }
 }
