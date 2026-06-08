@@ -211888,5 +211888,205 @@
       "Could escalate trade tensions with allied nations imposing digital taxes.",
       "May limit U.S. ability to negotiate multilateral tax agreements."
     ]
+  },
+  "119/hr/6757": {
+    "pros": [
+      "Helps protect coal miners' health and retirement benefits.",
+      "Provides compensation for miners with black lung disease."
+    ],
+    "cons": [
+      "May increase taxpayer burden for mining industry liabilities.",
+      "Could face implementation challenges in declining coal regions."
+    ]
+  },
+  "119/hr/5966": {
+    "pros": [
+      "Restores water quality and habitat along the Ohio River basin.",
+      "Supports local economies dependent on healthy waterways."
+    ],
+    "cons": [
+      "May impose costly regulations on industrial water users.",
+      "Could face funding shortfalls for full implementation."
+    ]
+  },
+  "119/hr/5001": {
+    "pros": [
+      "Strengthens oversight of small business innovation grants.",
+      "Helps ensure taxpayer dollars fund viable research projects."
+    ],
+    "cons": [
+      "Could add bureaucratic hurdles for small businesses seeking grants.",
+      "May slow down the grant application and approval process."
+    ]
+  },
+  "119/hr/4705": {
+    "pros": [
+      "Helps protect coal miners' health and retirement benefits.",
+      "Provides compensation for miners with black lung disease."
+    ],
+    "cons": [
+      "May increase taxpayer burden for mining industry liabilities.",
+      "Could face implementation challenges in declining coal regions."
+    ]
+  },
+  "119/hr/4569": {
+    "pros": [
+      "Expands access to affordable healthcare for American families.",
+      "Targets specific health challenges with evidence-based policy."
+    ],
+    "cons": [
+      "May increase federal healthcare spending without offsets.",
+      "Could add complexity to an already fragmented healthcare system."
+    ]
+  },
+  "119/hr/3116": {
+    "pros": [
+      "Creates a national savings vehicle for future fiscal stability.",
+      "Could generate returns from federal resource revenues."
+    ],
+    "cons": [
+      "Risk of political interference in investment decisions.",
+      "May not achieve promised returns in volatile markets."
+    ]
+  },
+  "119/hr/2303": {
+    "pros": [
+      "Helps reduce backlog of veterans' disability appeals.",
+      "Supports retention of experienced attorneys at the VA."
+    ],
+    "cons": [
+      "May not address root causes of VA staffing shortages.",
+      "Temporary fix without addressing systemic VA hiring challenges."
+    ]
+  },
+  "119/hr/7601": {
+    "pros": [
+      "Prevents federal funds from supporting toxic herbicide use.",
+      "Protects public health and the environment from glyphosate risks."
+    ],
+    "cons": [
+      "Could increase costs for farmers who rely on glyphosate.",
+      "May face legal challenges from agricultural industry groups."
+    ]
+  },
+  "119/hr/6508": {
+    "pros": [
+      "Reasserts congressional authority over treaty withdrawal decisions.",
+      "Prevents unilateral presidential action on NATO membership."
+    ],
+    "cons": [
+      "Could strain relations with key European allies.",
+      "Raises questions about burden-sharing among NATO members."
+    ]
+  },
+  "119/hr/5704": {
+    "pros": [
+      "Prevents the federal government from engaging in domestic propaganda.",
+      "Protects Americans' right to access independent information."
+    ],
+    "cons": [
+      "Could limit the government's ability to communicate with citizens.",
+      "May hinder public health and safety information campaigns."
+    ]
+  },
+  "119/s/4419": {
+    "pros": [
+      "Reduces compliance burden on US businesses reporting ownership.",
+      "Focuses anti-money laundering efforts on genuine foreign threats."
+    ],
+    "cons": [
+      "Could create loopholes for domestic shell company abuse.",
+      "May miss important financial crime indicators from US entities."
+    ]
+  },
+  "119/s/4379": {
+    "pros": [
+      "Holds Russia accountable for aggression against Ukraine.",
+      "Strengthens international alliances against authoritarian expansion."
+    ],
+    "cons": [
+      "Could escalate tensions and provoke retaliatory measures.",
+      "May have limited effectiveness without broader international cooperation."
+    ]
+  },
+  "119/s/4019": {
+    "pros": [
+      "Honors federal trust responsibilities to Native American communities.",
+      "Addresses longstanding inequities in tribal infrastructure funding."
+    ],
+    "cons": [
+      "May not provide sufficient funding for full implementation.",
+      "Could create administrative burdens on tribal governments."
+    ]
+  },
+  "119/s/3973": {
+    "pros": [
+      "Ensures first responders have critical training and resources.",
+      "Enhances nationwide capacity to respond to disasters."
+    ],
+    "cons": [
+      "May not adequately address evolving threats like cyberattacks.",
+      "Could create reliance on federal programs facing funding cuts."
+    ]
+  },
+  "119/s/3935": {
+    "pros": [
+      "Increases transparency in municipal bond markets.",
+      "Reduces risk for retail investors in municipal securities."
+    ],
+    "cons": [
+      "May increase compliance costs for smaller municipal issuers.",
+      "Could reduce access to capital for infrastructure projects."
+    ]
+  },
+  "119/s/3756": {
+    "pros": [
+      "Improves poverty data for more effective anti-poverty programs.",
+      "Ensures federal resources reach communities with greatest need."
+    ],
+    "cons": [
+      "May increase bureaucratic complexity in data collection.",
+      "Revised metrics could face political disputes over methodology."
+    ]
+  },
+  "119/s/3734": {
+    "pros": [
+      "Closes regulatory gaps in the shadow banking sector.",
+      "Protects financial system from unregulated lending risks."
+    ],
+    "cons": [
+      "Could drive financial activity further into unregulated markets.",
+      "May impose compliance costs on legitimate non-bank lenders."
+    ]
+  },
+  "119/sres/543": {
+    "pros": [
+      "Recognizes the contributions of Centenary College to Louisiana.",
+      "Honors longstanding educational institutions and traditions."
+    ],
+    "cons": [
+      "Congressional time could be spent on substantive legislation.",
+      "Resolutions recognizing single institutions set no policy precedent."
+    ]
+  },
+  "119/s/4689": {
+    "pros": [
+      "Invests in evidence-based literacy instruction for students.",
+      "Supports teacher preparation grounded in the science of reading."
+    ],
+    "cons": [
+      "May impose federal standards on locally controlled education.",
+      "Could require significant new funding without clear sustainability."
+    ]
+  },
+  "119/s/4678": {
+    "pros": [
+      "Protects minors from AI-generated sexually explicit content.",
+      "Closes legal gaps in regulating harmful chatbot technologies."
+    ],
+    "cons": [
+      "Could face First Amendment challenges on free speech grounds.",
+      "May be difficult to enforce across rapidly evolving AI platforms."
+    ]
   }
 }
