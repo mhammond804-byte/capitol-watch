@@ -211806,5 +211806,77 @@
     "sponsor_state": "MD",
     "introduced_date": "2025-06-18",
     "policy_area": "Immigration"
+  },
+  "119/hr/4305": {
+    "title": "DUMP Red Tape Act",
+    "summary": "<p><strong>Destroying Unnecessary, Misaligned, and Prohibitive Red Tape Act or the DUMP Red Tape Act</strong></p><p>This bill establishes a requirement for the Office of Advocacy of the Small Business Administration (SBA) to continue to operate and maintain the Red Tape Hotline, which receives no...",
+    "pros": [
+      "Reduces bureaucratic red tape for regulated entities.",
+      "Lowers compliance costs for businesses of all sizes."
+    ],
+    "cons": [
+      "May eliminate important health or safety regulations.",
+      "Could shift regulatory burdens to state governments."
+    ]
+  },
+  "119/hres/907": {
+    "title": "Honoring the victims of the devastating attack that took place at the Waukesha, Wisconsin, Christmas parade on November 21, 2021.",
+    "summary": "<p>This resolution honors the victims of an attack during a Christmas parade in Waukesha, Wisconsin, on November 21, 2021.</p>",
+    "pros": [
+      "Honors the contributions of deserving Americans.",
+      "Raises public awareness of important historical events."
+    ],
+    "cons": [
+      "Congressional time could be spent on broader policy issues.",
+      "May set precedent for additional commemorative legislation."
+    ]
+  },
+  "119/hr/6048": {
+    "title": "NDO Fairness Act",
+    "summary": "<p><strong>NDO Fairness Act</strong><br/>&nbsp;<br/>This bill increases the requirements the government must meet to obtain a nondisclosure order (NDO) under the Stored Communications Act (SCA).</p><p>The SCA generally prohibits providers of remote computing services or electronic communication s...",
+    "pros": [
+      "Provides clear legal standards to prevent harmful activity.",
+      "Strengthens enforcement capabilities for regulatory agencies."
+    ],
+    "cons": [
+      "May impose new compliance costs on legitimate businesses.",
+      "Could have unintended consequences on lawful activities."
+    ]
+  },
+  "119/hr/5877": {
+    "title": "Combatting Money Laundering in Cyber Crime Act of 2025",
+    "summary": "<p><strong>Combatting&nbsp;Money Laundering in Cyber Crime Act of 2025</strong></p><p>This bill expands the investigative authority of the U.S. Secret Service, extends reporting requirements related to public-private information sharing, and requires the Government Accountability Office (GAO) to ...",
+    "pros": [
+      "Strengthens enforcement against financial cybercrime.",
+      "Updates laws to address modern digital threats."
+    ],
+    "cons": [
+      "May impose new compliance costs on financial institutions.",
+      "Could create ambiguities in digital asset regulation."
+    ]
+  },
+  "119/hr/5262": {
+    "title": "Bank Competition Modernization Act",
+    "summary": "<p><strong>Bank Competition Modernization Act</strong></p><p>This bill allows financial regulators to approve certain bank mergers without&nbsp;considering if the merger is noncompetitive or monopolistic.</p><p>Currently, regulators are prohibited from approving a bank acquisition, merger, or con...",
+    "pros": [
+      "Modernizes banking regulations to increase competition.",
+      "Reduces compliance burden on community financial institutions."
+    ],
+    "cons": [
+      "Could weaken consumer financial protections.",
+      "May increase systemic risk in the banking sector."
+    ]
+  },
+  "119/hr/4658": {
+    "title": "STUDENT Act",
+    "summary": "<p><strong>Stopping Teachers Unions from Damaging Education Needs Today Act or the STUDENT Act</strong></p><p>This bill revises the federal charter for the National Education Association.</p><p>The bill specifies that&nbsp;the corporation and its state and local affiliates may only accept payment...",
+    "pros": [
+      "Addresses rising education costs for American students.",
+      "Provides relief for borrowers struggling with student debt."
+    ],
+    "cons": [
+      "May not address the root causes of rising tuition costs.",
+      "Could create moral hazard in the student lending market."
+    ]
   }
 }
