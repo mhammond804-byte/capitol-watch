@@ -212808,5 +212808,205 @@
     "congress": 96,
     "type": "hr",
     "number": "1150"
+  },
+  "118/hr/10149": {
+    "pros": [
+      "Expands access to the ballot for Americans with disabilities.",
+      "Strengthens the integrity of the voting process."
+    ],
+    "cons": [
+      "May impose unfunded mandates on state election officials.",
+      "Could lead to increased administrative complexity at polling places."
+    ]
+  },
+  "118/hr/10202": {
+    "pros": [
+      "Expands early detection screening for high-risk patients.",
+      "Could save lives through earlier cancer diagnosis."
+    ],
+    "cons": [
+      "Increases healthcare spending without guaranteed outcomes.",
+      "May lead to unnecessary follow-up procedures and patient anxiety."
+    ]
+  },
+  "118/hr/10450": {
+    "pros": [
+      "Protects attorney-client privilege for incarcerated individuals.",
+      "Ensures oversight of digital surveillance in correctional facilities."
+    ],
+    "cons": [
+      "Could limit legitimate security monitoring by prison officials.",
+      "May increase administrative burden on Bureau of Prisons."
+    ]
+  },
+  "118/hr/10540": {
+    "pros": [
+      "Protects consumers from unauthorized data sales.",
+      "Strengthens privacy safeguards for sensitive personal information."
+    ],
+    "cons": [
+      "Could disrupt legitimate data-driven business models.",
+      "Compliance costs may be passed on to consumers."
+    ]
+  },
+  "118/hr/4734": {
+    "pros": [
+      "Targets federal grants to underserved health professions.",
+      "Supports workforce development in critical healthcare fields."
+    ],
+    "cons": [
+      "Changes to grant preference criteria may disrupt existing programs.",
+      "Could reduce flexibility for grant administrators."
+    ]
+  },
+  "118/hr/4735": {
+    "pros": [
+      "Expands peer support services for vulnerable families.",
+      "Leverages community-based solutions for social services."
+    ],
+    "cons": [
+      "Increases federal spending on social programs.",
+      "Effectiveness of peer mentoring programs is hard to measure."
+    ]
+  },
+  "118/hr/6688": {
+    "pros": [
+      "Helps identify unidentified human remains and solve cold cases.",
+      "Provides closure for families of missing persons."
+    ],
+    "cons": [
+      "Expands federal grant scope without dedicated funding.",
+      "May divert resources from active criminal investigations."
+    ]
+  },
+  "118/hr/6873": {
+    "pros": [
+      "Addresses critical mental health needs among veterans.",
+      "Provides data to improve suicide prevention programs."
+    ],
+    "cons": [
+      "Data collection mandates may burden VA reporting systems.",
+      "Does not guarantee funding for new prevention services."
+    ]
+  },
+  "118/hr/7729": {
+    "pros": [
+      "Expands burial benefits for eligible veterans and families.",
+      "Honors the service of veterans and their loved ones."
+    ],
+    "cons": [
+      "Increases entitlement costs without new funding sources.",
+      "Could strain VA resources and processing times."
+    ]
+  },
+  "118/hr/7845": {
+    "pros": [
+      "Honors a former president with a major transportation landmark.",
+      "Could boost tourism and recognition for the Washington area."
+    ],
+    "cons": [
+      "Renaming the airport incurs significant administrative costs.",
+      "Partisan naming may be divisive and subject to future change."
+    ]
+  },
+  "118/hr/8445": {
+    "pros": [
+      "Extends employment protections to Americans serving in allied forces.",
+      "Recognizes overseas military service for reemployment rights."
+    ],
+    "cons": [
+      "Expands SCRA and USERRA benefits beyond U.S. armed forces.",
+      "Could create jurisdictional challenges for enforcement."
+    ]
+  },
+  "118/hr/9041": {
+    "pros": [
+      "Expands peer support services for vulnerable families.",
+      "Leverages community-based solutions for social services."
+    ],
+    "cons": [
+      "Increases federal spending on social programs.",
+      "Effectiveness of peer mentoring programs is hard to measure."
+    ]
+  },
+  "118/hr/9063": {
+    "pros": [
+      "Strengthens legal protections for children in foster care.",
+      "Promotes permanency and stability for vulnerable youth."
+    ],
+    "cons": [
+      "May increase state administrative costs without federal support.",
+      "Could create new mandates that delay case resolutions."
+    ]
+  },
+  "118/hr/9306": {
+    "pros": [
+      "Reduces traffic fatalities through targeted local grants.",
+      "Supports community-led road safety improvement projects."
+    ],
+    "cons": [
+      "Reducing the 40% funding limit may slow major infrastructure work.",
+      "Grant program changes could disrupt planned local projects."
+    ]
+  },
+  "118/hr/9432": {
+    "pros": [
+      "Preserves historical artifacts for future generations.",
+      "Ensures proper execution of ceremonial civic projects."
+    ],
+    "cons": [
+      "Spends federal funds on non-essential ceremonial projects.",
+      "Could face delays and cost overruns typical of commissions."
+    ]
+  },
+  "118/hr/9677": {
+    "pros": [
+      "Clarifies federal authority over cultural exchange programs.",
+      "Supports families relying on au pair childcare options."
+    ],
+    "cons": [
+      "May limit states' ability to regulate exchange programs.",
+      "Could reduce oversight of working conditions for au pairs."
+    ]
+  },
+  "118/hres/1009": {
+    "pros": [
+      "Boosts domestic energy production and export revenue.",
+      "Reduces reliance on foreign energy suppliers."
+    ],
+    "cons": [
+      "Increased natural gas exports could raise domestic prices.",
+      "May undermine climate goals by expanding fossil fuel use."
+    ]
+  },
+  "118/hres/1085": {
+    "pros": [
+      "Reduces regulatory burden on domestic energy producers.",
+      "Protects jobs in the oil and gas industry."
+    ],
+    "cons": [
+      "Repealing clean air provisions could harm public health.",
+      "Eliminates programs designed to reduce greenhouse gas emissions."
+    ]
+  },
+  "118/hres/1149": {
+    "pros": [
+      "Strengthens national security by maintaining Iran sanctions.",
+      "Prevents the executive branch from waiving sanctions unilaterally."
+    ],
+    "cons": [
+      "Limits diplomatic flexibility in negotiating with Iran.",
+      "Could escalate tensions in the Middle East region."
+    ]
+  },
+  "118/hres/1269": {
+    "pros": [
+      "Funds critical military construction and VA projects.",
+      "Ensures timely appropriations for veterans' services."
+    ],
+    "cons": [
+      "Increases federal spending and the national debt.",
+      "Packages unrelated policy riders with must-pass funding."
+    ]
   }
 }
