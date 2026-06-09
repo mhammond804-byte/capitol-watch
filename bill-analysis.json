@@ -213780,5 +213780,45 @@
       "May increase compliance burdens on small businesses.",
       "May have unintended economic consequences across sectors."
     ]
+  },
+  "119/hr/1904": {
+    "pros": [
+      "Updates regulations for modern technology challenges.",
+      "Protects consumer privacy and data security."
+    ],
+    "cons": [
+      "May stifle innovation with new regulations.",
+      "Could be difficult to enforce across complex systems."
+    ]
+  },
+  "119/hr/1652": {
+    "pros": [
+      "Addresses a specific issue identified by the sponsor.",
+      "Provides a focused legislative solution to a problem."
+    ],
+    "cons": [
+      "May create unintended regulatory or economic effects.",
+      "Could face implementation challenges or legal scrutiny."
+    ]
+  },
+  "119/s/1308": {
+    "pros": [
+      "Updates regulations for modern technology challenges.",
+      "Protects consumer privacy and data security."
+    ],
+    "cons": [
+      "May stifle innovation with new regulations.",
+      "Could be difficult to enforce across complex systems."
+    ]
+  },
+  "119/s/397": {
+    "pros": [
+      "Supports small business growth and job creation.",
+      "Addresses workforce development or worker protections."
+    ],
+    "cons": [
+      "Regulatory changes may burden small businesses.",
+      "Could have mixed effects on different industries."
+    ]
   }
 }
