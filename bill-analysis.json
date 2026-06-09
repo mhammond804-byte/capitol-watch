@@ -213008,5 +213008,113 @@
       "Increases federal spending and the national debt.",
       "Packages unrelated policy riders with must-pass funding."
     ]
+  },
+  "119/hjres/59": {
+    "pros": [
+      "Protects important public interests and safety.",
+      "Authorizes funding to support critical programs."
+    ],
+    "cons": [
+      "May require significant taxpayer funding.",
+      "May face legal challenges or implementation delays."
+    ],
+    "summary": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau titled <em>Overdraft Lending: Very Large Financial Institutions</em> and published on December 30, 2024. The rule revises provisions regarding charges for insufficient funds in a customer\u2019s bank acco",
+    "title": "Disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+    "sponsor_name": "Rep. Hill, J. French (AR-2)",
+    "sponsor_bioguide": "H001072",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "introduced_date": "2025-02-13",
+    "policy_area": "Finance and Financial Sector"
+  },
+  "119/hr/940": {
+    "pros": [
+      "Creates a clear framework for addressing this issue.",
+      "Provides direct assistance to those affected."
+    ],
+    "cons": [
+      "May expand federal oversight and bureaucracy.",
+      "May face legal challenges or implementation delays."
+    ],
+    "summary": "<p><strong>Fair Audits and Inspections for Regulators\u2019 Exams Act or the FAIR Exams Act</strong></p><p>This bill establishes new procedures related to the federal examination of financial intuitions. Specifically, the bill establishes the Office of Independent Examination Review within the Federal Fi",
+    "title": "FAIR Exams Act",
+    "sponsor_name": "Rep. Hill, J. French (AR-2)",
+    "sponsor_bioguide": "H001072",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "introduced_date": "2025-02-04",
+    "policy_area": "Finance and Financial Sector"
+  },
+  "119/hr/941": {
+    "pros": [
+      "Protects important public interests and safety.",
+      "Creates a clear framework for addressing this issue."
+    ],
+    "cons": [
+      "May expand federal oversight and bureaucracy.",
+      "Enforcement mechanisms may disproportionately impact certain groups."
+    ],
+    "summary": "<p><strong>Small Lenders Exempt from New Data and Excessive Reporting Act or the Small LENDER Act</strong></p><p>This bill modifies the requirements for financial institutions to&nbsp;report certain information about small business credit applications to the Consumer Financial Protection Bureau (CFP",
+    "title": "Small LENDER Act",
+    "sponsor_name": "Rep. Hill, J. French (AR-2)",
+    "sponsor_bioguide": "H001072",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "introduced_date": "2025-02-04",
+    "policy_area": "Commerce"
+  },
+  "119/hres/103": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Addresses an important policy issue needing legislative action."
+    ],
+    "cons": [
+      "May create new regulatory burdens.",
+      "May face legal challenges or implementation delays."
+    ],
+    "summary": "<p>This resolution provides amounts for the expenses of the House Committee on Financial Services for the 119th Congress.</p>",
+    "title": "Providing amounts for the expenses of the Committee on Financial Services in the One Hundred Nineteenth Congress.",
+    "sponsor_name": "Rep. Hill, J. French (AR-2)",
+    "sponsor_bioguide": "H001072",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AR",
+    "introduced_date": "2025-02-04",
+    "policy_area": "Congress"
+  },
+  "119/hres/126": {
+    "pros": [
+      "Provides direct assistance to those affected.",
+      "Strengthens existing systems for better outcomes."
+    ],
+    "cons": [
+      "May require significant taxpayer funding.",
+      "Could impose unfunded mandates on states."
+    ],
+    "summary": "<p>This resolution recognizes and celebrates the contributions of immigrants to the United States; condemns discrimination against immigrants; and supports comprehensive immigration reform that addresses the needs of the economy, strengthens communities, and reflects the values of compassion, fairne",
+    "title": "Celebrating the legacy and contributions of immigrants and opposing discriminatory immigration policies.",
+    "sponsor_name": "Rep. Ansari, Yassamin (AZ-3)",
+    "sponsor_bioguide": "A000381",
+    "sponsor_chamber": "House",
+    "sponsor_state": "AZ",
+    "introduced_date": "2025-02-12",
+    "policy_area": "Immigration"
+  },
+  "119/s/131": {
+    "pros": [
+      "Creates a clear framework for addressing this issue.",
+      "Authorizes funding to support critical programs."
+    ],
+    "cons": [
+      "May require significant taxpayer funding.",
+      "Could impose unfunded mandates on states."
+    ],
+    "summary": "<p><strong>Providing Real-World Education and Clinical Experience by Precepting Tomorrow's Nurses Act or the PRECEPT Nurses Act</strong></p><p>This bill establishes a new, nonrefundable tax credit for eligible nurse preceptors, subject to limitations. The bill also requires the Internal Revenue Serv",
+    "title": "PRECEPT Nurses Act",
+    "sponsor_name": "Sen. Kelly, Mark (AZ)",
+    "sponsor_bioguide": "K000377",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "AZ",
+    "introduced_date": "2025-01-16",
+    "policy_area": "Taxation"
   }
 }
