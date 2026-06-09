@@ -213910,5 +213910,75 @@
       "Tax credit bonds add to the federal deficit over time.",
       "May not reach school districts with the greatest needs."
     ]
+  },
+  "118/hr/10322": {
+    "pros": [
+      "Improves protection for female DHS agents with properly fitted body armor.",
+      "Ensures law enforcement personnel have access to gender-specific safety gear."
+    ],
+    "cons": [
+      "Adds to federal spending for specialized equipment procurement programs.",
+      "May face implementation delays due to procurement and sizing standards."
+    ]
+  },
+  "118/hr/9983": {
+    "pros": [
+      "Preserves historic military ships as educational and cultural assets.",
+      "Supports maritime heritage tourism and local economies near these ships."
+    ],
+    "cons": [
+      "Creates new federal grant spending for ship preservation programs.",
+      "May duplicate existing historic preservation funding sources."
+    ]
+  },
+  "118/hr/9635": {
+    "pros": [
+      "Supports students with epilepsy through school-based grant programs.",
+      "Raises awareness of seizure disorders in educational settings."
+    ],
+    "cons": [
+      "Creates unfunded mandates for schools to implement new programs.",
+      "May duplicate existing health awareness initiatives already in place."
+    ]
+  },
+  "119/hr/9202": {
+    "pros": [
+      "Increases transparency on fugitives evading justice from abroad.",
+      "Helps law enforcement track criminals who flee to other countries."
+    ],
+    "cons": [
+      "May strain diplomatic relations with countries harboring fugitives.",
+      "Could duplicate existing State Department reporting requirements."
+    ]
+  },
+  "118/s/2611": {
+    "pros": [
+      "Improves water supply forecasting for Northeastern states facing drought.",
+      "Supports agricultural planning with better snowpack data collection."
+    ],
+    "cons": [
+      "Expands federal bureaucracy with added survey infrastructure costs.",
+      "May duplicate existing NOAA and USGS water monitoring programs."
+    ]
+  },
+  "119/hr/9207": {
+    "pros": [
+      "Provides tax relief for retired members of the Armed Forces.",
+      "Recognizes military service with a targeted retirement benefit."
+    ],
+    "cons": [
+      "Reduces federal revenue by exempting certain pension income from taxes.",
+      "Creates an uneven tax benefit not available to other public servants."
+    ]
+  },
+  "119/hr/9208": {
+    "pros": [
+      "Helps law enforcement track and regulate firearm silencer ownership.",
+      "Addresses public safety concerns around unregulated gun accessories."
+    ],
+    "cons": [
+      "May infringe on Second Amendment rights of law-abiding gun owners.",
+      "Could impose burdensome compliance costs on firearm enthusiasts."
+    ]
   }
 }
