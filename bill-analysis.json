@@ -213670,5 +213670,25 @@
       "Could reduce federal revenue and increase the deficit.",
       "Benefits may not be distributed equitably across income."
     ]
+  },
+  "119/sres/757": {
+    "pros": [
+      "Celebrates a historic American fabric tradition and Southern culture.",
+      "Boosts local businesses that manufacture and sell seersucker clothing."
+    ],
+    "cons": [
+      "Uses legislative time that could address more pressing national issues.",
+      "Creates no tangible policy change or material benefit for citizens."
+    ]
+  },
+  "119/s/4684": {
+    "pros": [
+      "Ensures stable funding so the CFPB can protect consumers consistently.",
+      "Prevents political interference through guaranteed minimum budget levels."
+    ],
+    "cons": [
+      "Reduces congressional oversight by locking in mandatory funding levels.",
+      "Could limit flexibility to adjust CFPB funding during economic downturns."
+    ]
   }
 }
