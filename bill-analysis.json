@@ -213116,5 +213116,265 @@
     "sponsor_state": "AZ",
     "introduced_date": "2025-01-16",
     "policy_area": "Taxation"
+  },
+  "96/hjres/635": {
+    "pros": [
+      "Encourages renewed debate on the proper balance of state and federal powers.",
+      "Promotes civic engagement through a national convocation on federalism."
+    ],
+    "cons": [
+      "A convocation may produce symbolic recommendations with no binding effect.",
+      "Could distract from pressing legislative priorities already before Congress."
+    ],
+    "summary": "American Federalism Rejuvenation and Renaissance Resolution of 1980 - Directs the President, after consulting with Congress, to call a Convocation on American Federalism by January 1, 1981, in order to bring together elected officials of Federal, State, and local governments to stimulate a national",
+    "title": "American Federalism Rejuvenation And Renaissance Resolution of 1980",
+    "policyArea": "Government Operations and Politics"
+  },
+  "96/hr/2249": {
+    "pros": [
+      "Ends a long-dormant hydroelectric project with significant cost overruns.",
+      "Protects the natural flow of the Saint John River in Maine."
+    ],
+    "cons": [
+      "Terminating the project eliminates a potential clean energy source for the region.",
+      "May impact local jobs and economic development tied to the project area."
+    ],
+    "summary": "Terminates the Dickey-Lincoln School hydroelectric power project on the Saint John River, Maine.",
+    "title": "A bill to terminate the authorization of the Dickey-Lincoln School project, Saint John River, Maine.",
+    "policyArea": "Energy"
+  },
+  "96/hr/2531": {
+    "pros": [
+      "Resolves a long-standing individual claim against the federal government.",
+      "Provides a legislative remedy when executive branch resolution was impractical."
+    ],
+    "cons": [
+      "Sets a precedent that may invite other individual claims requiring congressional action.",
+      "Congressional time may be better spent on broader policy matters."
+    ],
+    "summary": "Directs the Secretary of the Treasury to pay a specified sum to a named individual in satisfaction of a claim against the United States.",
+    "title": "A bill for the relief of Russell W. Allen.",
+    "policyArea": "Private Legislation"
+  },
+  "96/hr/3214": {
+    "pros": [
+      "Provides direct financial relief to states facing fiscal challenges.",
+      "Helps maintain essential public services during economic downturns."
+    ],
+    "cons": [
+      "Increases federal spending at a time when deficit reduction may be needed.",
+      "May create state dependency on temporary federal assistance programs."
+    ],
+    "summary": "Intergovernmental Fiscal Assistance Amendments of 1979 - Amends the Public Works Employment Act of 1976 to authorize the Secretary of the Treasury, through a targeted fiscal assistance program, to make annual payments for fiscal years 1979 and 1980 to local governments with local unemployment rates",
+    "title": "Intergovernmental Fiscal Assistance Amendments of 1979",
+    "policyArea": "Government Operations and Politics"
+  },
+  "96/hr/4185": {
+    "pros": [
+      "Protects air service to small communities that could otherwise lose connections.",
+      "Ensures rural residents maintain access to the national air transportation system."
+    ],
+    "cons": [
+      "May force airlines to operate unprofitable routes at a financial loss.",
+      "Government mandates on service levels can distort competitive airline markets."
+    ],
+    "summary": "Amends the Federal Aviation Act of 1958 to prohibit an air carrier which is the sole certificated carrier to an eligible point to reduce its level of service to such point below the level of essential air transportation until January 1, 1982.  Allows the Civil Aeronautics Board to require air carrie",
+    "title": "A bill to amend the Federal Aviation Act of 1958 to require that under certain circumstances a certificated air carrier shall provide essential air transportation to an eligible point until January 1, 1982, and for other purposes.",
+    "policyArea": "Transportation and Public Works"
+  },
+  "96/hr/4790": {
+    "pros": [
+      "Honors the cultural heritage of Maine's fishing communities.",
+      "Supports youth organizations and their contributions to local history."
+    ],
+    "cons": [
+      "Using federal land for a private monument sets a questionable precedent.",
+      "Federal resources and oversight may be needed to maintain the monument site."
+    ],
+    "summary": "Authorizes the Camp Fire Girls of Cundys Harbor, Maine, to erect a monument on Maine Avenue in the District of Columbia entitled \"The Maine Lobsterman. Authorizes the Secretary of the Interior to select a suitable site for such memorial and makes the Secretary responsible for the maintenance and car",
+    "title": "A bill to authorize the Camp Fire Girls of Cundys Harbor, Maine, to erect a monument on Maine Avenue in the District of Columbia.",
+    "policyArea": "Arts, Culture, Religion"
+  },
+  "96/hr/4958": {
+    "pros": [
+      "Protects potato growers from excessive speculation in commodity markets.",
+      "Reduces price volatility that can harm small agricultural producers."
+    ],
+    "cons": [
+      "Government intervention in futures markets limits hedging options for farmers.",
+      "A targeted ban may simply shift speculation to other agricultural commodities."
+    ],
+    "summary": "Amends the Commodity Exchange Act to prohibit trading in potato (Solanum tuberosum) futures on commodity exchanges.",
+    "title": "A bill to prohibit trading in potato futures on commodity exchanges.",
+    "policyArea": "Agriculture and Food"
+  },
+  "96/hr/6064": {
+    "pros": [
+      "Dedicates oil tax revenues to mass transit and energy conservation programs.",
+      "Provides state flexibility to fund local transportation and energy priorities."
+    ],
+    "cons": [
+      "Redirecting tax revenues may not address the root causes of energy price spikes.",
+      "Adding earmarks to windfall tax revenues complicates the tax code unnecessarily."
+    ],
+    "summary": "Requires that at least one-third of the revenues from the windfall profit tax shall be available to the Secretary of Energy for grants to States to carry out programs of:  (1) mass transit; (2) business and residential energy conservation; and (3) incentives for the development and use of alternativ",
+    "title": "A bill to provide that at least one-third of the revenues from the windfall profit tax shall be payable to States for mass transit, business and residential energy conservation incentives, and incentives for the development and use of alternative sources of energy.",
+    "policyArea": "Taxation"
+  },
+  "96/hr/8205": {
+    "pros": [
+      "Gives citizens a stronger voice in federal agency rulemaking processes.",
+      "Extends the public comment period to ensure adequate time for input."
+    ],
+    "cons": [
+      "Longer comment periods can delay necessary regulations from taking effect.",
+      "Agencies may face increased administrative burdens processing more public submissions."
+    ],
+    "summary": "Public Right to Comment Act - Allows any person to participate in the rulemaking of a Federal agency by submitting written data, views, or arguments, within not less than 30 days after the publication in the Federal Register of general notice of the proposed rulemaking. Provides that any persons mak",
+    "title": "Public Right to Comment Act",
+    "policyArea": "Government Operations and Politics"
+  },
+  "101/hr/674": {
+    "pros": [
+      "Provides a systematic process for adjusting federal official salaries.",
+      "Helps attract and retain qualified talent in government leadership positions."
+    ],
+    "cons": [
+      "Automatic salary adjustments for officials may be unpopular with taxpayers.",
+      "Could reduce congressional accountability for compensation decisions."
+    ],
+    "summary": "Executive, Legislative, and Judicial Salary Act of 1989 - Amends the Federal Salary Act of 1967 to provide that the President's recommendations on executive, judicial, and legislative salaries shall become effective only after the enactment of a joint resolution by rollcall vote and at the beginning",
+    "title": "Executive, Legislative, and Judicial Salary Act of 1989",
+    "policyArea": "Government Operations and Politics"
+  },
+  "101/hr/675": {
+    "pros": [
+      "Eliminates potential conflicts of interest from outside payments to members.",
+      "Strengthens public trust by preventing appearance of paid influence."
+    ],
+    "cons": [
+      "Reduces income opportunities for members who rely on speaking fees.",
+      "May discourage members from participating in educational and civic events."
+    ],
+    "summary": "Member of Congress Honoraria Prohibition Act of 1989 - Amends the Supplemental Appropriations Act, 1983 to prohibit a Member of Congress from accepting an honorarium.",
+    "title": "Member of Congress Honoraria Prohibition Act of 1989",
+    "policyArea": "Congress"
+  },
+  "101/hr/1189": {
+    "pros": [
+      "Provides federal recognition and protection for an important Maine estuary.",
+      "Supports local efforts to monitor and improve coastal water quality."
+    ],
+    "cons": [
+      "Adds administrative requirements that may strain EPA resources.",
+      "Priority listing does not guarantee additional funding for clean-up efforts."
+    ],
+    "summary": "Amends the Federal Water Pollution Control Act to require the Administrator of the Environmental Protection Agency to give priority consideration to the inclusion of Casco Bay, Maine, in the National Estuary Program.",
+    "title": "To add Casco Bay, Maine to the list of estuaries that receive priority consideration under the Federal Water Pollution Control Act.",
+    "policyArea": "Environmental Protection"
+  },
+  "101/hr/1382": {
+    "pros": [
+      "Provides critical funding for healthcare services to military veterans.",
+      "Addresses potential shortfalls in the veterans health care budget."
+    ],
+    "cons": [
+      "Increases federal spending without identifying offsetting budget cuts.",
+      "Supplemental appropriations bypass regular budget oversight processes."
+    ],
+    "summary": "Makes supplemental appropriations for veterans' health care for FY 1989.",
+    "title": "To make supplemental appropriations for veterans health care for the fiscal year ending September 30, 1989.",
+    "policyArea": "Armed Forces and National Security"
+  },
+  "101/hr/1383": {
+    "pros": [
+      "Protects workers' right to strike without fear of permanent replacement.",
+      "Reduces employer leverage during labor contract negotiations."
+    ],
+    "cons": [
+      "May prolong strikes by reducing economic pressure on union workers.",
+      "Could discourage employers from offering voluntary replacement during walkouts."
+    ],
+    "summary": "Amends the National Labor Relations Act to make it an unfair labor practice for an employer to hire, or threaten to hire, permanent replacement workers during the first ten weeks of any strike (or to enter into agreements for such purposes).",
+    "title": "To amend the National Labor Relations Act to make it an unfair labor practice for an employer to hire, or threaten to hire, permanent replacement workers during the first 10 weeks of any strike.",
+    "policyArea": "Labor and Employment"
+  },
+  "111/s/800": {
+    "pros": [
+      "Increases transparency in how stimulus funds are spent at all government levels.",
+      "Helps local governments easily determine their eligibility for recovery funds."
+    ],
+    "cons": [
+      "May require significant administrative costs to maintain and update the website.",
+      "Could overlap with existing federal transparency reporting requirements."
+    ],
+    "summary": "Directs the President to modify and update the recovery.gov website to: (1) ensure that states, cities, and other general purpose political subdivisions of a state can easily ascertain whether such entity is eligible for any funds under the American Recovery and Reinvestment Act, any application dea",
+    "title": "A bill to require the President to update and modify the website recovery.gov.",
+    "policyArea": "Government Operations and Politics"
+  },
+  "111/s/899": {
+    "pros": [
+      "Helps households affected by the digital television transition maintain access.",
+      "Provides needed financial assistance for converter box equipment purchases."
+    ],
+    "cons": [
+      "The $125 million cap may not cover all eligible households needing assistance.",
+      "Temporary assistance does not solve long-term digital access challenges."
+    ],
+    "summary": "DTV Cliff Effect Assistance Act of 2009 - Directs the Assistant Secretary for Communications and Information of the Department of Commerce to make payments (not to exceed $125 million in the aggregate) during FY2009-FY2012 from the Digital Television Transition and Public Safety Fund for a program t",
+    "title": "DTV Cliff Effect Assistance Act of 2009",
+    "policyArea": "Science, Technology, Communications"
+  },
+  "111/s/1070": {
+    "pros": [
+      "Helps small businesses address growing cybersecurity threats with limited resources.",
+      "Creates a coordinated federal task force focused on small business needs."
+    ],
+    "cons": [
+      "A task force may produce recommendations without binding enforcement authority.",
+      "Small businesses may lack time to participate in yet another federal program."
+    ],
+    "summary": "Directs the Administrator of the Small Business Administration (SBA) to establish the Small Business Information Security Task Force to address the information technology security needs of small businesses and to help small businesses prevent the loss of credit card data. Requires the Task Force, am",
+    "title": "A bill to establish the Small Business Information Security Task Force to address information security concerns relating to credit card data and other proprietary information.",
+    "policyArea": "Commerce"
+  },
+  "111/s/3995": {
+    "pros": [
+      "Expands public access to high-speed internet in federal buildings nationwide.",
+      "Allows multiple carriers to compete, improving service quality and pricing."
+    ],
+    "cons": [
+      "Installation costs in older federal buildings may be substantial.",
+      "Private sector may already be meeting public wireless needs in many areas."
+    ],
+    "summary": "Federal Wi-Net Act - Requires the Administrator of the General Services Administration (GSA) to: (1) install or retrofit wireless Internet connections in federal buildings; and (2) allow eligible carriers, upon request, to install wireless neutral host systems in all publicly accessible federal buil",
+    "title": "Federal Wi-Net Act",
+    "policyArea": "Government Operations and Politics"
+  },
+  "112/s/319": {
+    "pros": [
+      "Reduces prescription drug costs by allowing safe importation from other countries.",
+      "Maintains FDA safety standards while expanding consumer access to medications."
+    ],
+    "cons": [
+      "Imported drugs may be harder to track in case of safety recalls.",
+      "Could reduce incentives for pharmaceutical innovation in the U.S. market."
+    ],
+    "summary": "Pharmaceutical Market Access and Drug Safety Act of 2011 - Amends the Federal Food, Drug, and Cosmetic Act (FFDCA) to revise provisions governing the importation of prescription drugs. Waives the limitation on importation of prescription drugs that have been exported from the United States. Prohibit",
+    "title": "Pharmaceutical Market Access and Drug Safety Act of 2011",
+    "policyArea": "Health"
+  },
+  "112/s/455": {
+    "pros": [
+      "Promotes more efficient use of valuable public airwaves and spectrum.",
+      "Encourages spectrum sharing between government and commercial users."
+    ],
+    "cons": [
+      "Spectual reallocation may disrupt existing government communications systems.",
+      "New sharing arrangements could create interference between users."
+    ],
+    "summary": "Reforming Airwaves by Developing Incentives and Opportunistic Sharing Act or the RADIOS Act - Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC), subject to specified national security, classified information, and public safety exceptions, and in consultatio",
+    "title": "RADIOS Act",
+    "policyArea": "Science, Technology, Communications"
   }
 }
