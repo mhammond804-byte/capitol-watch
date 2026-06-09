@@ -213820,5 +213820,95 @@
       "Regulatory changes may burden small businesses.",
       "Could have mixed effects on different industries."
     ]
+  },
+  "119/hr/9197": {
+    "pros": [
+      "Reduces long-term nuclear waste disposal challenges.",
+      "Promotes energy innovation through fuel recycling technology."
+    ],
+    "cons": [
+      "Nuclear fuel recycling raises serious proliferation concerns.",
+      "Study costs may divert funds from existing waste solutions."
+    ]
+  },
+  "118/hr/9519": {
+    "pros": [
+      "Helps control federal debt and long-term deficits.",
+      "Forces Congress to prioritize essential spending."
+    ],
+    "cons": [
+      "Rigid spending caps could harm essential services.",
+      "May trigger government shutdowns during budget disputes."
+    ]
+  },
+  "118/hr/9249": {
+    "pros": [
+      "Increases transparency in federal rulemaking processes.",
+      "Holds agencies accountable for evidence-based regulations."
+    ],
+    "cons": [
+      "Could delay important health and safety rulemaking.",
+      "May expose proprietary or confidential scientific data."
+    ]
+  },
+  "118/hr/9203": {
+    "pros": [
+      "Incentivizes cleanup of contaminated industrial sites.",
+      "Spurs economic development in distressed communities."
+    ],
+    "cons": [
+      "Tax breaks for brownfield investments reduce federal revenue.",
+      "Benefits may primarily flow to large investors, not locals."
+    ]
+  },
+  "118/hr/8840": {
+    "pros": [
+      "Prevents Congress from leaving without passing funding bills.",
+      "Increases accountability for timely budget approval."
+    ],
+    "cons": [
+      "Restricts Congress's ability to respond to emergencies.",
+      "Could force rushed, poorly crafted appropriations bills."
+    ]
+  },
+  "118/hr/8170": {
+    "pros": [
+      "Improves transportation access in rural Appalachian regions.",
+      "Supports economic development through better highway links."
+    ],
+    "cons": [
+      "Exceptions to mileage limits could increase project costs.",
+      "May divert highway funds from other needed infrastructure."
+    ]
+  },
+  "118/hr/10043": {
+    "pros": [
+      "Honors the contributions of emergency medical services.",
+      "Provides a lasting tribute in the nation's capital."
+    ],
+    "cons": [
+      "Extending the deadline adds to DC commemorative work clutter.",
+      "Private foundations should fund memorials, not federal extensions."
+    ]
+  },
+  "118/hr/9970": {
+    "pros": [
+      "Prevents overregulation based on contested climate models.",
+      "Ensures consistency with OMB guidance across agencies."
+    ],
+    "cons": [
+      "Ignores established economic costs of carbon emissions.",
+      "Weakens federal ability to address climate change risks."
+    ]
+  },
+  "118/hr/9698": {
+    "pros": [
+      "Helps finance critical school infrastructure improvements.",
+      "Leverages private investment through tax credit bonds."
+    ],
+    "cons": [
+      "Tax credit bonds add to the federal deficit over time.",
+      "May not reach school districts with the greatest needs."
+    ]
   }
 }
