@@ -215211,5 +215211,155 @@
       "May have unintended economic consequences across sectors.",
       "Lacks sufficient detail to fully assess its impact."
     ]
+  },
+  "118/hjres/168": {
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ],
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ]
+  },
+  "118/hr/10183": {
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ],
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ]
+  },
+  "118/hr/5840": {
+    "pros": [
+      "Invests in critical transportation infrastructure and safety.",
+      "Improves mobility and connectivity for communities."
+    ],
+    "cons": [
+      "May increase federal infrastructure spending without clear funding.",
+      "Could create delays through new administrative requirements."
+    ]
+  },
+  "118/hr/6008": {
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ],
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ]
+  },
+  "118/hr/6083": {
+    "pros": [
+      "Expands benefits and support for military veterans and their families.",
+      "Ensures timely access to earned benefits and healthcare services."
+    ],
+    "cons": [
+      "May increase federal spending on benefit programs without offsets.",
+      "Could create administrative burdens for the VA or other agencies."
+    ]
+  },
+  "118/hr/6084": {
+    "pros": [
+      "Provides relief for communities affected by natural disasters.",
+      "Speeds up recovery and rebuilding efforts for impacted areas."
+    ],
+    "cons": [
+      "Increases federal spending without offsetting cuts elsewhere.",
+      "Aid distribution may face bureaucratic delays and inefficiencies."
+    ]
+  },
+  "118/hr/6814": {
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ],
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ]
+  },
+  "118/hr/8705": {
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ],
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ]
+  },
+  "118/hr/8728": {
+    "pros": [
+      "Provides relief for communities affected by natural disasters.",
+      "Speeds up recovery and rebuilding efforts for impacted areas."
+    ],
+    "cons": [
+      "Increases federal spending without offsetting cuts elsewhere.",
+      "Aid distribution may face bureaucratic delays and inefficiencies."
+    ]
+  },
+  "118/hr/9921": {
+    "pros": [
+      "Supports economic development in the Louisiana Delta region.",
+      "Provides targeted federal assistance to Louisiana communities."
+    ],
+    "cons": [
+      "Funding may not reach the most affected communities effectively.",
+      "Could duplicate existing regional development programs."
+    ]
+  },
+  "118/hres/1225": {
+    "pros": [
+      "Expands benefits and support for military veterans and their families.",
+      "Ensures timely access to earned benefits and healthcare services."
+    ],
+    "cons": [
+      "May increase federal spending on benefit programs without offsets.",
+      "Could create administrative burdens for the VA or other agencies."
+    ]
+  },
+  "118/hres/1410": {
+    "pros": [
+      "Addresses an important procedural matter for floor consideration.",
+      "Reflects the chamber priorities and values."
+    ],
+    "cons": [
+      "No direct impact on law or government operations.",
+      "Consumes legislative resources without binding effect."
+    ]
+  },
+  "118/hres/1611": {
+    "pros": [
+      "Improves existing federal programs and statutory frameworks.",
+      "Addresses identified gaps in current law and policy."
+    ],
+    "cons": [
+      "May create new complexities in an already intricate legal framework.",
+      "Could have unintended consequences not fully analyzed yet."
+    ]
+  },
+  "119/hr/9223": {
+    "pros": [
+      "Invests in education and workforce development programs.",
+      "Helps make education more accessible and affordable for students."
+    ],
+    "cons": [
+      "May increase federal spending on education without clear outcomes.",
+      "Could impose new requirements on educational institutions."
+    ]
+  },
+  "119/hr/9226": {
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ],
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ]
   }
 }
