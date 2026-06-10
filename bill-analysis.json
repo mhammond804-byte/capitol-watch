@@ -215381,5 +215381,44 @@
       "May oversimplify the complex relationship between social media and mental health.",
       "Could divert attention from concrete policy solutions addressing platform regulation."
     ]
+  },
+  "119/hr/9228": {
+    "title": "To amend the Employee Retirement Income Security Act of 1974 to ensure plan fiduciaries have access to de-identified information relating to health claims, and for other purposes.",
+    "pros": [
+      "Could improve retirement plan transparency for participants.",
+      "May help fiduciaries make better investment decisions."
+    ],
+    "cons": [
+      "May increase administrative costs for plan sponsors.",
+      "Could lead to privacy concerns about health data access."
+    ],
+    "summary": "",
+    "processed_date": "2026-06-10T14:01:58.895444"
+  },
+  "119/hr/9212": {
+    "title": "To amend title 38, United States Code, to reimburse veterans for the cost of emergency medical transportation to a Federal facility, and for other purposes.",
+    "pros": [
+      "Could address important policy concerns identified by Congress.",
+      "May provide needed improvements to current regulations."
+    ],
+    "cons": [
+      "May have unintended consequences that require further study.",
+      "Could face implementation or funding challenges."
+    ],
+    "summary": "",
+    "processed_date": "2026-06-10T14:02:24.676924"
+  },
+  "119/hr/9180": {
+    "title": "To require the Secretary of Housing and Urban Development to access unmet community development-related needs in areas impacted by disasters on an ongoing basis, and for other purposes.",
+    "pros": [
+      "Could address important policy concerns identified by Congress.",
+      "May provide needed improvements to current regulations."
+    ],
+    "cons": [
+      "May have unintended consequences that require further study.",
+      "Could face implementation or funding challenges."
+    ],
+    "summary": "",
+    "processed_date": "2026-06-10T14:02:30.168207"
   }
 }
