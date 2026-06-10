@@ -214156,5 +214156,65 @@
       "Lacks sufficient detail to fully assess its impact."
     ],
     "summary": "<p>This resolution expresses that the House of Representatives reaffirms its commitment to the Ukrainian people and strong support for Ukraine as it defends itself against Russia. The resolution condemns Vladimir Putin and expresses solidarity with the Ukrainian people in commemoration of the cost U"
+  },
+  "118/hr/4618": {
+    "pros": [
+      "Supports coastal economies and commercial fishing industries.",
+      "Improves port safety and efficiency for maritime commerce."
+    ],
+    "cons": [
+      "May divert funds from other critical infrastructure needs.",
+      "Could benefit large operators more than small fishing businesses."
+    ]
+  },
+  "118/hr/4870": {
+    "pros": [
+      "Reduces excessive high-frequency trading and market speculation.",
+      "Generates revenue that could fund public services and programs."
+    ],
+    "cons": [
+      "May reduce market liquidity and increase costs for investors.",
+      "Could drive trading activity to less regulated overseas markets."
+    ]
+  },
+  "118/hr/6970": {
+    "pros": [
+      "Expands access to affordable housing for low-income families.",
+      "Provides grants and tax credits to spur housing construction."
+    ],
+    "cons": [
+      "Increases federal spending and could add to the national debt.",
+      "May distort local housing markets with federal intervention."
+    ]
+  },
+  "118/hr/7326": {
+    "pros": [
+      "Strengthens oversight of federal agencies and advisory committees.",
+      "Modernizes outdated government management procedures."
+    ],
+    "cons": [
+      "May increase administrative burdens on federal agencies.",
+      "Could add costs without measurable improvements in efficiency."
+    ]
+  },
+  "118/hr/7938": {
+    "pros": [
+      "Addresses long-standing water allocation conflicts in the Klamath Basin.",
+      "Supports agricultural and tribal water needs with federal backing."
+    ],
+    "cons": [
+      "Could impact endangered species protections in the watershed.",
+      "May not fully resolve competing water rights among stakeholders."
+    ]
+  },
+  "118/hr/9541": {
+    "pros": [
+      "Strengthens the electrical grid against extreme weather events.",
+      "Promotes investment in reliable and resilient power infrastructure."
+    ],
+    "cons": [
+      "May increase electricity costs for consumers and businesses.",
+      "Could duplicate existing state and local grid modernization efforts."
+    ]
   }
 }
