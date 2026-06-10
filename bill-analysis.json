@@ -214356,5 +214356,185 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "118/hr/10084": {
+    "pros": [
+      "Addresses a specific policy concern through targeted legislation.",
+      "Provides a framework for addressing an identified public issue."
+    ],
+    "cons": [
+      "May have unintended effects beyond its stated purpose.",
+      "Could require additional legislation to address gaps or oversights."
+    ]
+  },
+  "118/hr/9727": {
+    "pros": [
+      "Expands voter access and strengthens election participation.",
+      "Modernizes voter registration systems for greater accessibility."
+    ],
+    "cons": [
+      "May increase federal mandates on state election administration.",
+      "Could raise concerns about voter fraud prevention measures."
+    ]
+  },
+  "118/hr/8607": {
+    "pros": [
+      "Addresses housing affordability and expands access to housing.",
+      "Provides relief for renters and homeowners facing cost burdens."
+    ],
+    "cons": [
+      "May increase federal spending on housing assistance programs.",
+      "Could create market distortions that affect housing supply."
+    ]
+  },
+  "118/hr/6239": {
+    "pros": [
+      "Honors a local figure by naming a postal facility after them.",
+      "Provides recognition for community service and contributions."
+    ],
+    "cons": [
+      "Does not address broader operational issues at the Postal Service.",
+      "Spends legislative time on a naming measure rather than policy."
+    ]
+  },
+  "118/hr/3849": {
+    "pros": [
+      "Supports American farmers and strengthens agricultural communities.",
+      "Enhances food security and rural economic development."
+    ],
+    "cons": [
+      "May increase federal spending on agricultural programs.",
+      "Could create trade tensions with international agricultural partners."
+    ]
+  },
+  "118/hres/453": {
+    "pros": [
+      "Enhances public safety through responsible firearm regulations.",
+      "Respects Second Amendment rights while addressing gun violence."
+    ],
+    "cons": [
+      "May face legal challenges over constitutional protections.",
+      "Could impose burdens on lawful gun owners and dealers."
+    ]
+  },
+  "118/hr/2883": {
+    "pros": [
+      "Invests in domestic manufacturing and clean energy jobs.",
+      "Reduces reliance on foreign supply chains for key industries."
+    ],
+    "cons": [
+      "May significantly increase federal spending on industrial policy.",
+      "Could create market distortions in manufacturing sectors."
+    ]
+  },
+  "118/hr/2403": {
+    "pros": [
+      "Enhances public safety through responsible firearm regulations.",
+      "Respects Second Amendment rights while addressing gun violence."
+    ],
+    "cons": [
+      "May face legal challenges over constitutional protections.",
+      "Could impose burdens on lawful gun owners and dealers."
+    ]
+  },
+  "117/hr/9466": {
+    "pros": [
+      "Addresses housing affordability and expands access to housing.",
+      "Coordinates federal housing policy through an interagency council."
+    ],
+    "cons": [
+      "May increase federal spending on housing assistance programs.",
+      "Could add bureaucratic layers without directly building housing."
+    ]
+  },
+  "117/hr/9097": {
+    "pros": [
+      "Improves compensation and benefits for federal employees.",
+      "Helps recruit and retain talented public sector workers."
+    ],
+    "cons": [
+      "Increases federal spending on employee compensation.",
+      "May not address performance or accountability concerns."
+    ]
+  },
+  "117/hr/9098": {
+    "pros": [
+      "Promotes domestic nuclear energy development and exports.",
+      "Strengthens international cooperation on nuclear regulation."
+    ],
+    "cons": [
+      "May raise proliferation concerns with international agreements.",
+      "Could face regulatory and safety challenges in implementation."
+    ]
+  },
+  "117/hr/9041": {
+    "pros": [
+      "Invests in domestic manufacturing and clean energy jobs.",
+      "Reduces reliance on foreign supply chains for key industries."
+    ],
+    "cons": [
+      "May significantly increase federal spending on industrial policy.",
+      "Could create market distortions in manufacturing sectors."
+    ]
+  },
+  "117/hr/6531": {
+    "pros": [
+      "Provides targeted tax credits to support underserved communities.",
+      "Encourages economic investment in areas with high need."
+    ],
+    "cons": [
+      "May reduce federal revenue through new tax credit provisions.",
+      "Could be difficult to administer and verify eligibility."
+    ]
+  },
+  "117/hres/861": {
+    "pros": [
+      "Addresses a specific policy concern through targeted legislation.",
+      "Provides a framework for addressing an identified public issue."
+    ],
+    "cons": [
+      "May have unintended effects beyond its stated purpose.",
+      "Could require additional legislation to address gaps or oversights."
+    ]
+  },
+  "117/hres/863": {
+    "pros": [
+      "Establishes the House meeting schedule for legislative business.",
+      "Provides procedural clarity for the day's floor proceedings."
+    ],
+    "cons": [
+      "Is a procedural matter with limited substantive policy impact.",
+      "Uses legislative floor time that could address more pressing issues."
+    ]
+  },
+  "117/hres/862": {
+    "pros": [
+      "Addresses a specific policy concern through targeted legislation.",
+      "Provides a framework for addressing an identified public issue."
+    ],
+    "cons": [
+      "May have unintended effects beyond its stated purpose.",
+      "Could require additional legislation to address gaps or oversights."
+    ]
+  },
+  "117/hr/5349": {
+    "pros": [
+      "Invests in transportation infrastructure and improves safety.",
+      "Reduces congestion and enhances economic connectivity."
+    ],
+    "cons": [
+      "May significantly increase federal infrastructure spending.",
+      "Could create delays in project permitting and environmental review."
+    ]
+  },
+  "117/hr/2358": {
+    "pros": [
+      "Expands voter access and strengthens election participation.",
+      "Modernizes voter registration systems for greater accessibility."
+    ],
+    "cons": [
+      "May increase federal mandates on state election administration.",
+      "Could raise concerns about voter fraud prevention measures."
+    ]
   }
 }
