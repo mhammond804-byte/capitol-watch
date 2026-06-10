@@ -214536,5 +214536,82 @@
       "May increase federal mandates on state election administration.",
       "Could raise concerns about voter fraud prevention measures."
     ]
+  },
+  "119/hr/9172": {
+    "title": "Applying Existing Tax Anti-Abuse Rules to Digital Assets Act",
+    "pros": [
+      "Closes tax loopholes for cryptocurrency and digital asset transactions.",
+      "Treats digital assets consistently with traditional financial instruments."
+    ],
+    "cons": [
+      "May stifle innovation in the digital asset and blockchain industry.",
+      "Creates new compliance burdens for crypto businesses and investors."
+    ]
+  },
+  "119/hr/9176": {
+    "title": "PAR Act",
+    "pros": [
+      "Streamlines federal pension administration and reporting requirements.",
+      "Reduces administrative costs for employer-sponsored retirement plans."
+    ],
+    "cons": [
+      "Could reduce transparency in pension fund management.",
+      "May weaken worker protections in multi-employer pension plans."
+    ]
+  },
+  "119/hr/9186": {
+    "title": "Controlled Substances Act Clarification in Sciences Act of 2026",
+    "pros": [
+      "Clarifies legal pathways for scientific research on controlled substances.",
+      "Removes unnecessary barriers for academic and medical researchers."
+    ],
+    "cons": [
+      "Could inadvertently weaken federal drug enforcement authority.",
+      "Raises concerns about diversion of research substances to illicit use."
+    ]
+  },
+  "119/hr/9190": {
+    "title": "To amend the Federal Food, Drug, and Cosmetic Act to authorize the use of investigational individualized medical treatments by patients diagnosed with a life-threatening disease or condition",
+    "pros": [
+      "Expands access to experimental treatments for terminally ill patients.",
+      "Gives patients with life-threatening conditions more medical options."
+    ],
+    "cons": [
+      "May undermine FDA safety and efficacy review processes for new treatments.",
+      "Could expose vulnerable patients to unproven and potentially harmful therapies."
+    ]
+  },
+  "119/hr/9192": {
+    "title": "To amend ERISA, the Public Health Service Act, and the Internal Revenue Code to require health insurance coverage of drugs indicated for certain conditions",
+    "pros": [
+      "Ensures patients can access prescribed medications through insurance coverage.",
+      "Reduces out-of-pocket costs for essential prescription drugs."
+    ],
+    "cons": [
+      "Increases health insurance premiums for all policyholders.",
+      "Mandates coverage that may include expensive drugs with limited effectiveness."
+    ]
+  },
+  "119/hr/9199": {
+    "title": "To secure the borders of the United States, and for other purposes.",
+    "pros": [
+      "Strengthens national security by tightening border enforcement measures.",
+      "Aims to reduce illegal immigration through enhanced border controls."
+    ],
+    "cons": [
+      "Could lead to costly and logistically challenging implementation.",
+      "May negatively impact legal trade and travel across U.S. borders."
+    ]
+  },
+  "119/hr/9200": {
+    "title": "To secure the borders of the United States, and for other purposes.",
+    "pros": [
+      "Strengthens border security with enhanced enforcement mechanisms.",
+      "Addresses immigration enforcement gaps across multiple federal agencies."
+    ],
+    "cons": [
+      "Raises significant costs for expanded enforcement and detention infrastructure.",
+      "Could strain relationships with neighboring countries on trade matters."
+    ]
   }
 }
