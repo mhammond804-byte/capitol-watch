@@ -215740,5 +215740,20 @@
       "May face implementation challenges without proper funding.",
       "Could create additional regulatory burden on affected parties."
     ]
+  },
+  "119/hr/9232": {
+    "pros": [
+      "Enhances security at critical infrastructure sites",
+      "Provides tools to counter growing drone threats"
+    ],
+    "cons": [
+      "Could raise privacy and civil liberties concerns",
+      "May create conflicts with aviation regulations"
+    ],
+    "generated": "2026-06-11T01:02:29.802946",
+    "congress": "119",
+    "type": "hr",
+    "number": "9232",
+    "title": "To grant authority to use counter-unmanned aircraft system technologies to private owners of critical infrastructure facilities"
   }
 }
