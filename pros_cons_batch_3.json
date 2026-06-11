@@ -1,0 +1,142 @@
+{
+  "119/hr/7508": {
+    "pros": [
+      "Improves transparency by modernizing how financial disclosures are filed and accessed.",
+      "Reduces paperwork burden on officials through streamlined electronic reporting."
+    ],
+    "cons": [
+      "Modernization costs may strain agency budgets in the short term.",
+      "Electronic disclosure systems could introduce new cybersecurity risks for sensitive data."
+    ]
+  },
+  "119/hr/6883": {
+    "pros": [
+      "Helps victims of reproductive coercion access critical support and legal protections.",
+      "Raises awareness about a form of domestic abuse that is often overlooked."
+    ],
+    "cons": [
+      "May expand federal oversight into areas traditionally regulated by states.",
+      "Could face constitutional challenges regarding reproductive health definitions."
+    ]
+  },
+  "119/hr/6658": {
+    "pros": [
+      "Simplifies federal regulations to reduce compliance costs for small businesses.",
+      "Promotes clearer standards that make government programs more accessible."
+    ],
+    "cons": [
+      "Deregulation could weaken important consumer and environmental protections.",
+      "Broad acronym bills may include provisions that receive insufficient scrutiny."
+    ]
+  },
+  "119/hr/6469": {
+    "pros": [
+      "Expands individual liberties by reducing unnecessary government restrictions.",
+      "Promotes economic freedom and innovation through regulatory relief."
+    ],
+    "cons": [
+      "Broad freedom-themed bills may contain provisions with unintended consequences.",
+      "Could reduce oversight that protects public health and safety."
+    ]
+  },
+  "119/hr/6154": {
+    "pros": [
+      "Strengthens regional collaboration to improve wildland fire research efforts.",
+      "Helps develop better prevention and response strategies for wildfires."
+    ],
+    "cons": [
+      "May duplicate existing federal fire research programs and waste resources.",
+      "Regional focus could create uneven funding distribution across affected areas."
+    ]
+  },
+  "119/hr/5028": {
+    "pros": [
+      "Enhances public safety through targeted measures against identified risks.",
+      "Provides law enforcement with clearer tools to prevent threats."
+    ],
+    "cons": [
+      "Vague acronym titles can obscure the bill's full scope and impact.",
+      "Security-focused legislation may expand surveillance powers without oversight."
+    ]
+  },
+  "119/hr/4859": {
+    "pros": [
+      "Creates a structured framework for federal agreements and economic partnerships.",
+      "Promotes efficient deal-making processes that benefit taxpayers."
+    ],
+    "cons": [
+      "Could prioritize executive agreements over congressional oversight.",
+      "May reduce public input on major federal contracts and decisions."
+    ]
+  },
+  "119/hr/7969": {
+    "pros": [
+      "Protects national security by addressing foreign influence from China.",
+      "Safeguards American technology and intellectual property from theft."
+    ],
+    "cons": [
+      "Could harm economic ties and trade relations with China.",
+      "May lead to overbroad restrictions affecting innocent researchers and businesses."
+    ]
+  },
+  "119/hr/6902": {
+    "pros": [
+      "Invests in education programs to reduce youth substance use and addiction.",
+      "Provides schools and communities with resources for prevention strategies."
+    ],
+    "cons": [
+      "Federal prevention programs often duplicate existing state and local efforts.",
+      "Effectiveness of awareness campaigns on youth behavior is difficult to measure."
+    ]
+  },
+  "119/hres/948": {
+    "pros": [
+      "Honors the contributions of Southeast Asian Americans to the nation.",
+      "Promotes cultural awareness and recognition of refugee resettlement history."
+    ],
+    "cons": [
+      "As a resolution, it expresses sentiment without creating binding policy changes.",
+      "Commemorative measures may divert attention from substantive legislative action."
+    ]
+  },
+  "119/hr/6678": {
+    "pros": [
+      "Provides free legal assistance to seniors who cannot afford an attorney.",
+      "Helps older adults navigate complex legal issues like housing and benefits."
+    ],
+    "cons": [
+      "May strain federal funding for existing legal aid programs.",
+      "Could face high demand that exceeds the capacity of hotline services."
+    ]
+  },
+  "119/hr/5788": {
+    "pros": [
+      "Requires annual risk analysis to identify vulnerabilities in SBA 504 loans.",
+      "Helps protect taxpayer money by ensuring small business loans are sound."
+    ],
+    "cons": [
+      "Adds reporting requirements that increase administrative burdens on the SBA.",
+      "Risk analysis results may not lead to timely corrective actions."
+    ]
+  },
+  "119/hconres/50": {
+    "pros": [
+      "Recognizes the cultural significance of the Vietnamese Heritage Flag.",
+      "Supports Vietnamese American communities and their heritage preservation."
+    ],
+    "cons": [
+      "As a concurrent resolution, it has no force of law.",
+      "May be seen as taking sides in complex historical and political disputes."
+    ]
+  },
+  "119/hr/4775": {
+    "pros": [
+      "Prevents foreign adversaries from stealing US research through SBIR and STTR programs.",
+      "Protects taxpayer-funded innovation in small business research grants."
+    ],
+    "cons": [
+      "Could reduce collaboration with qualified foreign researchers and institutions.",
+      "Added screening requirements may slow down grant processing for small businesses."
+    ]
+  }
+}

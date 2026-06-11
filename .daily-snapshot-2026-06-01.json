@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-01",
+  "total_bills": 2601,
+  "congresses": {
+    "119": 2502,
+    "118": 85,
+    "117": 12,
+    "116": 2
+  },
+  "breakdown": {
+    "hr": 1916,
+    "hres": 274,
+    "s": 271,
+    "hjres": 53,
+    "hconres": 26,
+    "sres": 45,
+    "sjres": 10,
+    "sconres": 5,
+    "hrres": 1
+  },
+  "placeholder_119_hr_0": 1,
+  "last_modified": "Tue, 02 Jun 2026 00:58:39 GMT",
+  "homepage_size_bytes": 77933,
+  "homepage_sha256": "c4c78c15f18d2b3ad6064b585625daabe5d1f527fbb1cf4656e0f9f278e9eb47",
+  "server_ips": ["172.67.154.180", "104.21.5.145"]
+}

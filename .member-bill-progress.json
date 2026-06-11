@@ -1,0 +1,14 @@
+{
+  "last_run": "2026-06-02",
+  "states_processed": ["HI", "RI", "MT"],
+  "bills_added": 107,
+  "cache_total_after": 4663,
+  "remaining_gaps": {
+    "ME": 30,
+    "NH": 28,
+    "WY": 25,
+    "ID": 25,
+    "SD": 14
+  },
+  "next_targets": ["ME", "NH", "WY"]
+}

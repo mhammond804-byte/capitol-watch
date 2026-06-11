@@ -1,0 +1,162 @@
+{
+  "119/hr/8976": {
+    "pros": [
+      "Improves protections for women facing discrimination in the legal system.",
+      "Ensures more equitable treatment of female defendants and litigants."
+    ],
+    "cons": [
+      "May increase administrative burdens on courts and legal staff.",
+      "Could lead to more litigation over procedural compliance."
+    ]
+  },
+  "119/hr/8690": {
+    "pros": [
+      "Establishes specific protections for pregnant individuals in custody.",
+      "Ensures access to prenatal and postpartum healthcare for inmates."
+    ],
+    "cons": [
+      "May impose new compliance costs on correctional facilities.",
+      "Could face implementation challenges in underfunded jails."
+    ]
+  },
+  "119/hr/8547": {
+    "pros": [
+      "Provides rehabilitation services for children directly impacted by crime.",
+      "Prioritizes safety and well-being for at-risk youth."
+    ],
+    "cons": [
+      "May require significant federal funding to implement programs.",
+      "Could overlap with existing state child welfare services."
+    ]
+  },
+  "119/hr/8549": {
+    "pros": [
+      "Allows judges to reconsider long sentences after time served.",
+      "Promotes second chances and reduces mass incarceration."
+    ],
+    "cons": [
+      "May reopen cases and burden courts with resentencing hearings.",
+      "Could reduce deterrence effects of lengthy sentences."
+    ]
+  },
+  "119/hr/8548": {
+    "pros": [
+      "Streamlines reentry services for formerly incarcerated individuals.",
+      "Reduces recidivism by connecting people to housing and jobs."
+    ],
+    "cons": [
+      "May require coordination across multiple federal agencies.",
+      "Could face funding shortfalls for community-based programs."
+    ]
+  },
+  "119/hr/8105": {
+    "pros": [
+      "Honors Jerry T. Hodges Jr. with a permanent memorial in Los Angeles.",
+      "Recognizes local community service through a federal facility naming."
+    ],
+    "cons": [
+      "Does not address any substantive postal or policy issues.",
+      "Considers congressional time for a single building name change."
+    ]
+  },
+  "119/hr/7669": {
+    "pros": [
+      "Protects the rights and safety of Afghan women and girls.",
+      "Opposes Taliban policies that erase women from public life."
+    ],
+    "cons": [
+      "May be difficult to enforce without on-the-ground presence in Afghanistan.",
+      "Could strain diplomatic relations with the Taliban government."
+    ]
+  },
+  "119/hr/5955": {
+    "pros": [
+      "Prevents the Bureau of Industry and Security from charging license fees.",
+      "Reduces financial barriers for exporters seeking BIS approvals."
+    ],
+    "cons": [
+      "May reduce funding for BIS enforcement and compliance programs.",
+      "Could lead to increased frivolous export license applications."
+    ]
+  },
+  "119/hr/5583": {
+    "pros": [
+      "Prioritizes placement of foster children with relatives over strangers.",
+      "Strengthens kinship families through support services and funding."
+    ],
+    "cons": [
+      "May not provide enough financial aid to kinship caregivers.",
+      "Could strain state child welfare systems with new requirements."
+    ]
+  },
+  "119/hr/5319": {
+    "pros": [
+      "Modernizes the legal framework for immigration and nationality rules.",
+      "Streamlines visa processing and naturalization procedures."
+    ],
+    "cons": [
+      "May create new categories that complicate immigration law.",
+      "Could face opposition over changes to legal immigration limits."
+    ]
+  },
+  "119/hr/5185": {
+    "pros": [
+      "Converts Title 41 into a cohesive positive law title for clarity.",
+      "Removes obsolete or redundant sections from the United States Code."
+    ],
+    "cons": [
+      "Requires extensive legal review and may introduce drafting errors.",
+      "Offers no substantive policy changes, only technical reorganization."
+    ]
+  },
+  "119/hr/5021": {
+    "pros": [
+      "Designates a decade to promote youth sports and physical activity.",
+      "Encourages federal investment in community sports programs."
+    ],
+    "cons": [
+      "May not include dedicated funding for implementation.",
+      "Could be seen as a symbolic designation with limited impact."
+    ]
+  },
+  "119/hr/4995": {
+    "pros": [
+      "Provides long-term welcome and resettlement support for refugees.",
+      "Strengthens community sponsorship and integration programs."
+    ],
+    "cons": [
+      "May increase federal spending on refugee assistance programs.",
+      "Could face political opposition over refugee admissions levels."
+    ]
+  },
+  "119/hres/626": {
+    "pros": [
+      "Recognizes hip hop's cultural impact and fiftieth anniversary legacy.",
+      "Designates official days and months to celebrate hip hop history."
+    ],
+    "cons": [
+      "Is a non-binding resolution with no legislative effect.",
+      "Does not provide any funding for hip hop education programs."
+    ]
+  },
+  "119/hr/4682": {
+    "pros": [
+      "Restricts solitary confinement in federal facilities except for emergencies.",
+      "Requires at least 14 hours of out-of-cell interaction daily."
+    ],
+    "cons": [
+      "May limit prison administrators' ability to isolate violent inmates.",
+      "Could impose costly facility redesigns to meet new standards."
+    ]
+  },
+  "119/hr/4505": {
+    "pros": [
+      "Strengthens enforcement of export controls on sensitive technologies.",
+      "Protects national security by cracking down on illegal exports."
+    ],
+    "cons": [
+      "May increase compliance burdens on technology companies.",
+      "Could reduce legitimate exports and harm global competitiveness."
+    ]
+  }
+}

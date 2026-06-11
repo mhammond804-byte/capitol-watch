@@ -1,0 +1,370 @@
+[
+  {
+    "key": "119/hr/4504",
+    "congress": 119,
+    "type": "hr",
+    "number": "4504",
+    "title": "INSURE Act",
+    "_summary_file": "/tmp/summary_119_hr_4504.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/4504": {
+        "pros": [
+          "INSURE Act would expand insurance options for uninsured Americans.",
+          "The bill aims to lower healthcare costs through increased market competition."
+        ],
+        "cons": [
+          "INSURE Act may increase federal spending on insurance subsidies.",
+          "Private insurers could face new regulatory burdens under the act."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4650",
+    "congress": 119,
+    "type": "s",
+    "number": "4650",
+    "title": "A bill to amend the Plant Protection Act to improve plant pest and disease preparedness for specialty crops.",
+    "_summary_file": "/tmp/summary_119_s_4650.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4650": {
+        "pros": [
+          "Improves readiness against pests that threaten specialty crop production.",
+          "Protects farmers from costly disease outbreaks in fruits and vegetables."
+        ],
+        "cons": [
+          "New preparedness requirements may add costs for specialty crop growers.",
+          "Federal oversight could duplicate existing state-level plant protection efforts."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4652",
+    "congress": 119,
+    "type": "s",
+    "number": "4652",
+    "title": "A bill to amend the Agricultural Research, Extension, and Education Reform Act of 1998 to reauthorize the specialty crop research initiative and establish a specialty crop mechanization and automation research and development program, and for other purposes.",
+    "_summary_file": "/tmp/summary_119_s_4652.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4652": {
+        "pros": [
+          "Reauthorizes federal research funding for specialty crop innovation.",
+          "Creates a new program for mechanization and automation of specialty farming."
+        ],
+        "cons": [
+          "New federal program may add to taxpayer costs for agricultural research.",
+          "Automation funding could displace labor workers in specialty crop sectors."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4654",
+    "congress": 119,
+    "type": "s",
+    "number": "4654",
+    "title": "A bill to amend the Agricultural Trade Act of 1978 to expand agricultural market access, and for other purposes.",
+    "_summary_file": "/tmp/summary_119_s_4654.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4654": {
+        "pros": [
+          "Expands foreign market opportunities for American agricultural exports.",
+          "Helps farmers increase revenues by reducing international trade barriers."
+        ],
+        "cons": [
+          "Expanded market access may benefit large agribusinesses over small farms.",
+          "New trade provisions could weaken domestic food safety standards."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4651",
+    "congress": 119,
+    "type": "s",
+    "number": "4651",
+    "title": "A bill to amend the Federal Crop Insurance Act to increase access to Federal crop insurance for specialty crops.",
+    "_summary_file": "/tmp/summary_119_s_4651.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4651": {
+        "pros": [
+          "Expands federal crop insurance access for specialty crop growers.",
+          "Reduces financial risk for farmers of fruits, vegetables, and nuts."
+        ],
+        "cons": [
+          "Expanding crop insurance could increase federal subsidy obligations.",
+          "May encourage farming in areas that are too risky to insure naturally."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4660",
+    "congress": 119,
+    "type": "s",
+    "number": "4660",
+    "title": "A bill to provide appropriations to the Secretary of Agriculture to make payments to producers of specialty crops.",
+    "_summary_file": "/tmp/summary_119_s_4660.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4660": {
+        "pros": [
+          "Provides direct financial payments to support specialty crop producers.",
+          "Helps stabilize farm income during periods of low crop prices."
+        ],
+        "cons": [
+          "Direct payments to producers add to federal budget deficit spending.",
+          "Subsidies may distort market prices for specialty crops."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4661",
+    "congress": 119,
+    "type": "s",
+    "number": "4661",
+    "title": "A bill to amend the Federal Agriculture Improvement and Reform Act of 1996 to provide permanent disaster assistance for specialty crops, and for other purposes.",
+    "_summary_file": "/tmp/summary_119_s_4661.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4661": {
+        "pros": [
+          "Establishes permanent disaster aid for specialty crop losses.",
+          "Gives specialty farmers predictable relief after natural disasters."
+        ],
+        "cons": [
+          "Permanent disaster assistance removes congressional oversight each year.",
+          "May reduce incentive for growers to purchase private crop insurance."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4453",
+    "congress": 119,
+    "type": "s",
+    "number": "4453",
+    "title": "LINK Act",
+    "_summary_file": "/tmp/summary_119_s_4453.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4453": {
+        "pros": [
+          "LINK Act would improve coordination across federal data systems.",
+          "The bill aims to streamline information sharing between agencies."
+        ],
+        "cons": [
+          "LINK Act may raise privacy concerns about increased data integration.",
+          "Interagency data linking could expand government surveillance capabilities."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/s/4402",
+    "congress": 119,
+    "type": "s",
+    "number": "4402",
+    "title": "A bill to require a report on the use of artificial intelligence with respect to access to unminimized information collected pursuant to the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
+    "_summary_file": "/tmp/summary_119_s_4402.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/s/4402": {
+        "pros": [
+          "Requires transparency on how AI is used with FISA surveillance data.",
+          "Helps Congress oversee AI applications in intelligence collection."
+        ],
+        "cons": [
+          "Reporting requirements may slow intelligence agencies' AI adoption.",
+          "Classified report details may still hide problematic AI surveillance uses."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/hr/9034",
+    "congress": 119,
+    "type": "hr",
+    "number": "9034",
+    "title": "To amend the Outer Continental Shelf Lands Act to establish fitness to operate standards and decommissioning escrow accounts for offshore oil and gas operators, and for other purposes.",
+    "_summary_file": "/tmp/summary_119_hr_9034.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/9034": {
+        "pros": [
+          "Ensures offshore operators meet fitness standards before drilling.",
+          "Requires escrow accounts to fund proper decommissioning of platforms."
+        ],
+        "cons": [
+          "New escrow requirements raise operating costs for offshore energy firms.",
+          "Fitness standards could reduce the number of active offshore operators."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/hr/8699",
+    "congress": 119,
+    "type": "hr",
+    "number": "8699",
+    "title": "Safe Transit for All Act of 2026",
+    "_summary_file": "/tmp/summary_119_hr_8699.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/8699": {
+        "pros": [
+          "Improves safety standards for public transit systems nationwide.",
+          "Protects riders by requiring better security on buses and trains."
+        ],
+        "cons": [
+          "Safety mandates could increase transit agency operating costs.",
+          "Federal requirements may strain already underfunded local transit budgets."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/hr/8584",
+    "congress": 119,
+    "type": "hr",
+    "number": "8584",
+    "title": "Indo-Pacific Space Partnership Act of 2026",
+    "_summary_file": "/tmp/summary_119_hr_8584.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/8584": {
+        "pros": [
+          "Strengthens U.S.-allied space cooperation in the Indo-Pacific region.",
+          "Advances shared space exploration and security goals with partners."
+        ],
+        "cons": [
+          "Partnership costs may divert funding from NASA's domestic programs.",
+          "Technology sharing with allies risks proliferation of sensitive space tech."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/hr/8223",
+    "congress": 119,
+    "type": "hr",
+    "number": "8223",
+    "title": "RECOUP Act of 2026",
+    "_summary_file": "/tmp/summary_119_hr_8223.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/8223": {
+        "pros": [
+          "RECOUP Act would recover taxpayer funds from corporate bailouts.",
+          "Holds companies accountable for repaying federal financial assistance."
+        ],
+        "cons": [
+          "Recovery clawbacks could discourage companies from seeking aid.",
+          "Legal battles over recoupment may cost more than funds recovered."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/hr/8059",
+    "congress": 119,
+    "type": "hr",
+    "number": "8059",
+    "title": "Unserialized Firearm Harm Oversight and Serialization Act of 2026",
+    "_summary_file": "/tmp/summary_119_hr_8059.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/8059": {
+        "pros": [
+          "Requires serialization of unserialized firearms for law enforcement tracing.",
+          "Helps police track crime guns by closing the ghost gun loophole."
+        ],
+        "cons": [
+          "Mandatory serialization burdens gun owners and small firearms manufacturers.",
+          "New requirements could be challenged as exceeding federal commerce authority."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/hr/7984",
+    "congress": 119,
+    "type": "hr",
+    "number": "7984",
+    "title": "DHS Use of Force Transparency Act of 2026",
+    "_summary_file": "/tmp/summary_119_hr_7984.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/7984": {
+        "pros": [
+          "Increases public transparency on DHS use-of-force incidents.",
+          "Builds trust between communities and federal law enforcement agencies."
+        ],
+        "cons": [
+          "Transparency mandates may expose sensitive tactical information.",
+          "Reporting requirements add administrative burdens on DHS officers."
+        ]
+      }
+    }
+  },
+  {
+    "key": "119/hr/7839",
+    "congress": 119,
+    "type": "hr",
+    "number": "7839",
+    "title": "Safe SPEEDS Act",
+    "_summary_file": "/tmp/summary_119_hr_7839.json",
+    "summary": "",
+    "bioguide": "",
+    "member": "",
+    "pros_cons": {
+      "119/hr/7839": {
+        "pros": [
+          "Safe SPEEDS Act would reduce speed-related traffic fatalities.",
+          "Encourages safer driving through updated speed limit regulations."
+        ],
+        "cons": [
+          "Lower speed limits may increase travel times for commuters.",
+          "Federal speed mandates could preempt state and local traffic laws."
+        ]
+      }
+    }
+  }
+]
