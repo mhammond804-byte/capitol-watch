@@ -48909,6 +48909,17 @@
       "Provides funding to Bureau of Reclamation and Western Area Power Administration."
     ]
   },
+  "117/hr/9289": {
+    "cons": [
+      "Reduces federal tax revenue through electric vehicle subsidies.",
+      "May primarily benefit higher-income households able to purchase new vehicles."
+    ],
+    "pros": [
+      "Promotes clean transportation and reduces vehicle emissions.",
+      "Makes electric vehicles more affordable through tax incentives."
+    ],
+    "title": "Affordable Electric Vehicles for America Act of 2022"
+  },
   "117/hr/9309": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -48978,6 +48989,17 @@
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
     ]
+  },
+  "117/hr/9462": {
+    "cons": [
+      "Requires new federal program administration and regulatory framework.",
+      "May compete with existing employer-sponsored retirement plans."
+    ],
+    "pros": [
+      "Expands retirement savings opportunities for American workers.",
+      "Creates portable retirement accounts to improve benefit portability."
+    ],
+    "title": "Retirement Savings for Americans Act of 2022"
   },
   "117/hr/9466": {
     "cons": [
@@ -49182,6 +49204,17 @@
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
     ]
+  },
+  "117/hr/9668": {
+    "cons": [
+      "Reduces federal tax revenue through new incentive programs.",
+      "May primarily benefit wealthy investors rather than broader public interest."
+    ],
+    "pros": [
+      "Provides tax incentives to encourage infrastructure investment.",
+      "Creates market-based approach to funding critical infrastructure projects."
+    ],
+    "title": "SIFIA Act"
   },
   "117/hr/9684": {
     "cons": [
@@ -50398,7 +50431,7 @@
     ],
     "sponsor_bioguide": "G000551",
     "sponsor_chamber": "House",
-    "sponsor_name": "Rep. Grijalva, Raúl M. (AZ-7)",
+    "sponsor_name": "Rep. Grijalva, Ra\u00fal M. (AZ-7)",
     "sponsor_state": "AZ",
     "summary": "This concurrent resolution commends and expresses solidarity with environmental defenders. Condemning the targeting, harassment, and unlawful detention of any individual or group for exercising rights of free association and expression, the resol...",
     "title": "Highlighting the risks that environmental defenders face around the world and commending their role in defending human rights, combating climate chaos, and supporting a clean, healthy, and sustainable environment.",
@@ -50522,7 +50555,7 @@
     "sponsor_chamber": "House",
     "sponsor_name": "Rep. Biggs, Andy (AZ-5)",
     "sponsor_state": "AZ",
-    "summary": "This joint resolution proposes a constitutional amendment requiring the Supreme Court to consist of nine Justices—one Chief Justice and eight Associate Justices.",
+    "summary": "This joint resolution proposes a constitutional amendment requiring the Supreme Court to consist of nine Justices\u2014one Chief Justice and eight Associate Justices.",
     "title": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
     "type": "hjres"
   },
@@ -50607,6 +50640,28 @@
       "Promotes environmental conservation and clean energy development.",
       "Protects natural resources for future generations."
     ]
+  },
+  "118/hjres/172": {
+    "cons": [
+      "Could weaken environmental protections for air quality and public health.",
+      "May increase health risks from particulate matter and toxic emissions."
+    ],
+    "pros": [
+      "Reduces regulatory burden on electric utilities and energy producers.",
+      "May help maintain affordable electricity prices for consumers."
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units Review of the Residual Risk and Technology Review."
+  },
+  "118/hjres/180": {
+    "cons": [
+      "Eliminates energy efficiency requirements that could reduce long-term costs.",
+      "Undermines federal leadership on clean energy and climate initiatives."
+    ],
+    "pros": [
+      "Reduces federal construction costs by removing clean energy mandates.",
+      "Provides more flexibility in federal building design and energy systems."
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to Clean Energy for New Federal Buildings and Major Renovations of Federal Buildings."
   },
   "118/hjres/200": {
     "cons": [
@@ -51217,7 +51272,7 @@
     "sponsor_name": "Rep. Lesko, Debbie (AZ-8)",
     "sponsor_state": "AZ",
     "summary": "Stop China's IP Theft Act This bill directs the Department of State and the Department of Homeland Security to deny entry into the United States to senior Chinese Communist Party officials, the spouses and children of such officials, members of the cabinet of the Chinese governm...",
-    "title": "Stop China’s IP Theft Act",
+    "title": "Stop China\u2019s IP Theft Act",
     "type": "hr"
   },
   "118/hr/10168": {
@@ -51514,7 +51569,7 @@
     "sponsor_name": "H. Hayes, Jahana (CT-5)",
     "sponsor_state": "CT",
     "summary": "",
-    "title": "Helping America’s Farmers Act",
+    "title": "Helping America\u2019s Farmers Act",
     "type": "hr"
   },
   "118/hr/10393": {
@@ -51832,6 +51887,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "118/hr/10503": {
+    "cons": [
+      "Primarily benefits one territory over others or mainland areas.",
+      "May not address root causes of territorial economic issues."
+    ],
+    "pros": [
+      "Addresses economic challenges specific to Virgin Islands.",
+      "Could help territory recover from natural disasters faster."
     ]
   },
   "118/hr/10507": {
@@ -52170,7 +52235,7 @@
     ],
     "sponsor_bioguide": "G000551",
     "sponsor_chamber": "House",
-    "sponsor_name": "Rep. Grijalva, Raúl M. (AZ-7)",
+    "sponsor_name": "Rep. Grijalva, Ra\u00fal M. (AZ-7)",
     "sponsor_state": "AZ",
     "summary": "Restoring Effective Science-based Conservation Under Environmental laws protecting Whales Act of 2023 or the RESCUE Whales Act of 2023 This bill repeals provisions under the Consolidated Appropriations Act, 2023 that (1) postpone a 2022 rule proposed by the National Marine Fishe...",
     "title": "RESCUE Whales Act of 2023",
@@ -52274,7 +52339,7 @@
     ],
     "sponsor_bioguide": "G000551",
     "sponsor_chamber": "House",
-    "sponsor_name": "Rep. Grijalva, Raúl M. (AZ-7)",
+    "sponsor_name": "Rep. Grijalva, Ra\u00fal M. (AZ-7)",
     "sponsor_state": "AZ",
     "summary": "Save Oak Flat From Foreign Mining Act This bill withdraws Oak Flat (which consists of 2,422 acres of Forest System land in the Tonto National Forest in southeastern Arizona) from mining activity. The bill repeals authorization for Oak Flat to be exchanged for land held...",
     "title": "Save Oak Flat From Foreign Mining Act",
@@ -52319,7 +52384,7 @@
     "sponsor_name": "Rep. Ciscomani, Juan (AZ-6)",
     "sponsor_state": "AZ",
     "summary": "Veterans' Appeals Backlog Improvement Act This bill requires the Department of Veterans Affairs (VA) to establish programs that provide employment opportunities within the VA and the Board of Veterans' Appeals (BVA). Specifically, the bill requires the VA to establish a c...",
-    "title": "Veterans’ Appeals Backlog Improvement Act",
+    "title": "Veterans\u2019 Appeals Backlog Improvement Act",
     "type": "hr"
   },
   "118/hr/1388": {
@@ -52384,7 +52449,7 @@
       "Improves healthcare access or affordability."
     ],
     "summary": "<p><b>Boxing Therapy for Parkinson's Access Act of 2023</b></p> <p>This bill requires the Department of Veterans Affairs (VA) to furnish boxing-based exercise classes to veterans who (1) are enrolled in the VA health care system, (2) have been diagnosed with Parkinson's disease (or a similar movemen",
-    "title": "Boxing Therapy for Parkinson’s Access Act of 2023"
+    "title": "Boxing Therapy for Parkinson\u2019s Access Act of 2023"
   },
   "118/hr/1407": {
     "cons": [
@@ -52549,6 +52614,17 @@
     "summary": "This bill reauthorizes through FY2028 and revises the Energy Efficiency and Conservation Block Grant Program. Under the program, the Department of Energy provides grants to local governments, states, and Indian tribes for energy efficiency and conservation projects and programs. This bill exp...",
     "title": "To amend the Energy Independence and Security Act of 2007 to reauthorize the Energy Efficiency and Conservation Block Grant Program, and for other purposes.",
     "type": "hr"
+  },
+  "118/hr/1531": {
+    "cons": [
+      "Ties border wall funding to military deployment in potentially controversial way.",
+      "May face legal challenges over use of National Guard for border enforcement."
+    ],
+    "pros": [
+      "Provides border security funding linked to National Guard deployment.",
+      "Creates mechanism to resume border infrastructure construction."
+    ],
+    "title": "To provide for the renewed availability of funds to construct the border wall upon the deployment of the National Guard to the southern land border of the United States, and for other purposes."
   },
   "118/hr/1533": {
     "cons": [
@@ -53077,6 +53153,17 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "118/hr/2389": {
+    "cons": [
+      "Requires significant increase in Medicare funding for graduate medical education.",
+      "May take years to produce meaningful impact on physician availability."
+    ],
+    "pros": [
+      "Addresses critical shortage of trained physicians in American healthcare system.",
+      "Increases Medicare-funded residency positions to improve medical training capacity."
+    ],
+    "title": "Resident Physician Shortage Reduction Act of 2023"
+  },
   "118/hr/2394": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -53413,6 +53500,17 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "118/hr/2787": {
+    "cons": [
+      "Increases federal spending on rural development programs.",
+      "May face funding competition with other infrastructure priorities."
+    ],
+    "pros": [
+      "Improves access to clean water in rural communities and underserved areas.",
+      "Supports agricultural communities with essential water infrastructure."
+    ],
+    "title": "To amend the Consolidated Farm and Rural Development Act to modify provisions relating to rural decentralized water systems grants."
+  },
   "118/hr/2789": {
     "congress": 118,
     "cons": [
@@ -53685,7 +53783,7 @@
     "sponsor_name": "H. Courtney, Joe (CT-2)",
     "sponsor_state": "CT",
     "summary": "Protecting America's Workers Act This bill expands the coverage of requirements governing workplace safety and health to include protection for federal, state, and local government employees. However, the bill does not cover working conditions otherwise covered by federal requirements for mine sa...",
-    "title": "Protecting America’s Workers Act",
+    "title": "Protecting America\u2019s Workers Act",
     "type": "hr"
   },
   "118/hr/3004": {
@@ -53727,6 +53825,28 @@
       "Evaluates US pandemic response to improve future readiness",
       "Provides structured analysis of COVID-19 lessons learned"
     ]
+  },
+  "118/hr/3069": {
+    "cons": [
+      "Increases federal healthcare spending during period of budget constraints.",
+      "May face implementation challenges in existing Medicare and Medicaid systems."
+    ],
+    "pros": [
+      "Expands healthcare access and reduces disparities in Medicare and Medicaid.",
+      "Honors civil rights legacy while improving healthcare equity."
+    ],
+    "title": "John Lewis Equality in Medicare and Medicaid Treatment Act of 2023"
+  },
+  "118/hr/308": {
+    "cons": [
+      "Creates another federal observance when calendar is already crowded.",
+      "Uses legislative time on symbolic action rather than substantive civil rights policy."
+    ],
+    "pros": [
+      "Honors important civil rights leader and historical figure.",
+      "Promotes awareness of civil rights history and ongoing equality efforts."
+    ],
+    "title": "Rosa Parks Day Act"
   },
   "118/hr/3080": {
     "cons": [
@@ -53869,6 +53989,17 @@
       "Addresses a specific policy issue requiring legislative action.",
       "Provides a targeted solution to a defined problem."
     ]
+  },
+  "118/hr/3201": {
+    "cons": [
+      "Uses limited congressional time on individual case rather than broader reform.",
+      "May set precedent encouraging more private immigration relief requests."
+    ],
+    "pros": [
+      "Provides immigration relief for individual facing deportation or legal challenges.",
+      "Addresses specific humanitarian circumstances through private bill process."
+    ],
+    "title": "For the relief of Cristina Martin."
   },
   "118/hr/3211": {
     "cons": [
@@ -54083,6 +54214,17 @@
       "Improves access to healthcare services and treatment options.",
       "Addresses critical public health needs through targeted programming."
     ]
+  },
+  "118/hr/3357": {
+    "cons": [
+      "May restrict beneficial foreign investment in U.S. agricultural sector.",
+      "Could face implementation challenges and legal disputes over definitions."
+    ],
+    "pros": [
+      "Protects critical agricultural resources from foreign acquisition and influence.",
+      "Safeguards food security and agricultural independence."
+    ],
+    "title": "Protecting America's Agricultural Land from Foreign Harm Act of 2023"
   },
   "118/hr/3364": {
     "congress": 118,
@@ -54596,7 +54738,7 @@
     "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
     "sponsor_state": "GA",
     "summary": "Improving Social Security's Service to Victims of Identity Theft Act This bill requires the Social Security Administration to provide a single point of contact for any individual whose Social Security account number has been misused. The single point of contact must track the in...",
-    "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
+    "title": "Improving Social Security\u2019s Service to Victims of Identity Theft Act",
     "type": "hr"
   },
   "118/hr/3784": {
@@ -54617,7 +54759,7 @@
     "sponsor_name": "H. Ferguson, A. Drew (GA-3)",
     "sponsor_state": "GA",
     "summary": "Improving Social Security's Service to Victims of Identity Theft Act This bill requires the Social Security Administration (SSA) to provide a single point of contact for any individual whose Social Security account number has been misused or whose Social Security card has been l...",
-    "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
+    "title": "Improving Social Security\u2019s Service to Victims of Identity Theft Act",
     "type": "hr"
   },
   "118/hr/3795": {
@@ -55912,6 +56054,17 @@
     "title": "American Apprenticeship Act",
     "type": "hr"
   },
+  "118/hr/5130": {
+    "cons": [
+      "May require additional appropriations during tight federal budget constraints.",
+      "Could face delays if project scope or priorities need reassessment."
+    ],
+    "pros": [
+      "Provides resources to complete important national security initiatives.",
+      "Ensures continuity of critical defense and infrastructure projects."
+    ],
+    "title": "Finish It Act"
+  },
   "118/hr/5138": {
     "congress": 118,
     "cons": [
@@ -55951,7 +56104,7 @@
     "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
     "sponsor_state": "CT",
     "summary": "",
-    "title": "Strengthening America’s Families Act of 2023",
+    "title": "Strengthening America\u2019s Families Act of 2023",
     "type": "hr"
   },
   "118/hr/5156": {
@@ -56299,7 +56452,7 @@
     "sponsor_chamber": "House",
     "sponsor_name": "H. Hayes, Jahana (CT-5)",
     "sponsor_state": "CT",
-    "summary": "Green Ribbon Act of 2023 This bill provides statutory authority for and expands the Department of Education’s (ED’s) Green Ribbon Schools program. (This program was established in 2011 to recognize early learning centers, schools, districts, and postsecondary institutions for excellence in reduci...",
+    "summary": "Green Ribbon Act of 2023 This bill provides statutory authority for and expands the Department of Education\u2019s (ED\u2019s) Green Ribbon Schools program. (This program was established in 2011 to recognize early learning centers, schools, districts, and postsecondary institutions for excellence in reduci...",
     "title": "Green Ribbon Act of 2023",
     "type": "hr"
   },
@@ -56437,6 +56590,17 @@
     ],
     "summary": "<p>This bill makes tire articles ineligible to receive duty-free treatment under the Generalized System of Preferences (GSP) trade program.&nbsp;</p><p>The GSP is a trade program that provides preferential duty-free treatment for certain products from designated beneficiary countries. Certain produc",
     "title": "To amend the Trade Act of 1974 to exempt from the Generalized System of Preferences certain tire articles, and for other purposes."
+  },
+  "118/hr/5609": {
+    "cons": [
+      "Could leave former public health officials vulnerable to security threats.",
+      "Sets precedent that might discourage qualified individuals from public service."
+    ],
+    "pros": [
+      "Reduces federal spending on security details for former officials.",
+      "Addresses concerns about appropriate use of taxpayer funds for protection services."
+    ],
+    "title": "To prohibit the use of Federal funds for security protection for the former Director of the National Institute of Allergy and Infectious Diseases who served between January 1984 and December 2022."
   },
   "118/hr/5612": {
     "cons": [
@@ -56639,7 +56803,7 @@
     "sponsor_name": "H. DeLauro, Rosa L. (CT-3)",
     "sponsor_state": "CT",
     "summary": "Johanna's Law Reauthorization Act This bill reauthorizes through FY2026 and otherwise revises the Centers for Disease Control and Prevention (CDC) national awareness campaign regarding gynecologic cancers. The CDC must target specified populations of women at higher risk for gynecologic cancers i...",
-    "title": "Johanna’s Law Reauthorization Act",
+    "title": "Johanna\u2019s Law Reauthorization Act",
     "type": "hr"
   },
   "118/hr/5840": {
@@ -56840,7 +57004,7 @@
     "sponsor_name": "H. Simpson, Michael K. (ID-2)",
     "sponsor_state": "ID",
     "summary": "",
-    "title": "Don’t DO IT Act",
+    "title": "Don\u2019t DO IT Act",
     "type": "hr"
   },
   "118/hr/6070": {
@@ -56974,6 +57138,17 @@
       "Requires tribal consultation before federal land disposals.",
       "Protects tribal interests in public land and National Forest System land."
     ]
+  },
+  "118/hr/6174": {
+    "cons": [
+      "Requires substantial investment in new detection technologies and equipment.",
+      "May raise privacy concerns about expanded government surveillance capabilities."
+    ],
+    "pros": [
+      "Enhances national security by improving biological threat detection capabilities.",
+      "Modernizes homeland security infrastructure for emerging biosecurity threats."
+    ],
+    "title": "DHS Biodetection Improvement Act"
   },
   "118/hr/6176": {
     "cons": [
@@ -57175,6 +57350,17 @@
       "Requires NRC to report on regulatory changes made during the COVID-19 emergency.",
       "Promotes transparency in nuclear reactor and materials oversight adjustments."
     ]
+  },
+  "118/hr/6351": {
+    "cons": [
+      "Establishes new bureaucracy that may duplicate existing government functions.",
+      "Could delay action while commission conducts lengthy study process."
+    ],
+    "pros": [
+      "Creates oversight mechanism to study important policy issues.",
+      "Brings expert analysis to complex government challenges."
+    ],
+    "title": "To establish the Commission on"
   },
   "118/hr/6372": {
     "cons": [
@@ -58091,6 +58277,17 @@
       "Addresses a specific policy issue requiring legislative action.",
       "Provides a targeted solution to a defined problem."
     ]
+  },
+  "118/hr/7177": {
+    "cons": [
+      "May increase travel distances for some litigants and legal professionals.",
+      "Could reduce local access to federal courts for certain communities."
+    ],
+    "pros": [
+      "Streamlines federal court operations and improves administrative efficiency.",
+      "Reduces costs by consolidating overlapping judicial divisions."
+    ],
+    "title": "To amend title 28, United States Code, to consolidate certain divisions in the Northern District of Alabama."
   },
   "118/hr/7218": {
     "cons": [
@@ -59193,6 +59390,17 @@
       "Builds resilience in rural communities during emergencies."
     ]
   },
+  "118/hr/8140": {
+    "cons": [
+      "Implementation costs may strain local and federal budgets.",
+      "Could face resistance from communities skeptical of expanded law enforcement."
+    ],
+    "pros": [
+      "Enhances public safety by improving law enforcement services.",
+      "Provides structured framework for addressing community safety needs."
+    ],
+    "title": "SERVICE Act of 2024"
+  },
   "118/hr/8149": {
     "congress": 118,
     "cons": [
@@ -59847,6 +60055,17 @@
       "Strengthens military readiness and national defense capabilities.",
       "Ensures the Department of Defense can adapt to new threats."
     ]
+  },
+  "118/hr/8590": {
+    "cons": [
+      "Requires significant federal funding for new training infrastructure.",
+      "May face challenges in keeping pace with rapidly evolving drone technology."
+    ],
+    "pros": [
+      "Strengthens national security by providing training for counter-drone capabilities.",
+      "Creates specialized facility to address growing threats from unmanned aircraft."
+    ],
+    "title": "National Training Center for Counter-Unmanned Aircraft Systems Act"
   },
   "118/hr/8597": {
     "cons": [
@@ -62602,7 +62821,7 @@
     ],
     "pros": [
       "Affirms US support for democratic election results in Venezuela.",
-      "Encourages international recognition of Edmundo González's legitimate victory."
+      "Encourages international recognition of Edmundo Gonz\u00e1lez's legitimate victory."
     ]
   },
   "118/hres/1404": {
@@ -63458,6 +63677,17 @@
       "Signals priorities without requiring presidential action."
     ]
   },
+  "118/hres/482": {
+    "cons": [
+      "Uses legislative time on ceremonial matters rather than substantive policy.",
+      "May be viewed as partisan given current political debates over border policy."
+    ],
+    "pros": [
+      "Recognizes dedicated public service and leadership in border security.",
+      "Acknowledges contributions to national homeland security efforts."
+    ],
+    "title": "Commending United States Border Patrol Chief Raul L. Ortiz on his retirement after 32 years of public service."
+  },
   "118/hres/5": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -63771,7 +64001,7 @@
     ],
     "pros": [
       "Recognizes cultural contributions of Mexicans and Mexican Americans to the U.S.",
-      "Honors the annual Día de los Muertos celebration nationwide."
+      "Honors the annual D\u00eda de los Muertos celebration nationwide."
     ]
   },
   "118/hres/834": {
@@ -65337,7 +65567,7 @@
       "A constitutional balanced budget requirement lacks flexibility for emergencies, such as wars, natural disaster."
     ],
     "pros": [
-      "Similar to HJRES 3 — would constitutionally require the federal budget to be balanced, curbing the growth of t.",
+      "Similar to HJRES 3 \u2014 would constitutionally require the federal budget to be balanced, curbing the growth of t.",
       "Provides a clear, enforceable rule that holds Congress accountable for spending beyond available revenue."
     ]
   },
@@ -66399,7 +66629,7 @@
     "sponsor_chamber": "House",
     "sponsor_name": "H. Fulcher, Russ (ID-1)",
     "sponsor_state": "ID",
-    "summary": "This joint resolution nullifies the Environmental Protection Agency (EPA) rule titled Greenhouse Gas Emissions Standards for Heavy-Duty Vehicles—Phase 3 and published on April 22, 2024. Heavy-duty vehicles generally include vocational vehicles (such as public utility trucks and s...",
+    "summary": "This joint resolution nullifies the Environmental Protection Agency (EPA) rule titled Greenhouse Gas Emissions Standards for Heavy-Duty Vehicles\u2014Phase 3 and published on April 22, 2024. Heavy-duty vehicles generally include vocational vehicles (such as public utility trucks and s...",
     "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Greenhouse Gas Emissions Standards for",
     "type": "hjres"
   },
@@ -66719,7 +66949,7 @@
     "sponsor_chamber": "House",
     "sponsor_name": "Rep. Hill, J. French (AR-2)",
     "sponsor_state": "AR",
-    "summary": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau titled <em>Overdraft Lending: Very Large Financial Institutions</em> and published on December 30, 2024. The rule revises provisions regarding charges for insufficient funds in a customer’s bank acco",
+    "summary": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau titled <em>Overdraft Lending: Very Large Financial Institutions</em> and published on December 30, 2024. The rule revises provisions regarding charges for insufficient funds in a customer\u2019s bank acco",
     "title": "Disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\"."
   },
   "119/hjres/6": {
@@ -66775,7 +67005,7 @@
   "119/hjres/7": {
     "cons": [
       "A constitutional amendment is extremely difficult to pass, requiring a two-thirds vote in both chambers and ra.",
-      "During government shutdowns, essential services already continue — this amendment would punish lawmakers perso."
+      "During government shutdowns, essential services already continue \u2014 this amendment would punish lawmakers perso."
     ],
     "pros": [
       "Creates a powerful incentive for Congress to pass a budget on time by tying lawmakers' own pay to meeting budg.",
@@ -68082,7 +68312,7 @@
   },
   "119/hr/115": {
     "cons": [
-      "Could penalize vulnerable public housing residents — including elderly, disabled, and caregiving tenants — who.",
+      "Could penalize vulnerable public housing residents \u2014 including elderly, disabled, and caregiving tenants \u2014 who.",
       "Creates additional administrative burden for local public housing agencies, which would need to track and repo."
     ],
     "pros": [
@@ -69272,7 +69502,7 @@
       "Expands access to essential healthcare services for Americans.",
       "Addresses specific health policy gaps to improve patient outcomes."
     ],
-    "title": "Protecting America’s Seniors’ Access to Care Act",
+    "title": "Protecting America\u2019s Seniors\u2019 Access to Care Act",
     "type": "hr"
   },
   "119/hr/1305": {
@@ -69454,7 +69684,7 @@
     ],
     "pros": [
       "Prevents a President from unilaterally banning hydraulic fracturing (fracking) without congressional approval,.",
-      "Reaffirms that states — not the federal government — have primary authority to regulate fracking on state and ."
+      "Reaffirms that states \u2014 not the federal government \u2014 have primary authority to regulate fracking on state and ."
     ]
   },
   "119/hr/1332": {
@@ -69560,7 +69790,7 @@
   "119/hr/135": {
     "cons": [
       "Adding the manatee to the endangered species list could impose new restrictions on boat speeds, coastal develo.",
-      "The West Indian manatee has already been listed as threatened under the ESA — upgrading it to endangered would."
+      "The West Indian manatee has already been listed as threatened under the ESA \u2014 upgrading it to endangered would."
     ],
     "pros": [
       "Provides the West Indian manatee with full Endangered Species Act protections, helping to reverse population d.",
@@ -70442,7 +70672,7 @@
     ],
     "pros": [
       "Requires Members of Congress and their staff to obtain healthcare through the VA system beginning in 2027, ens.",
-      "Could serve as a powerful accountability mechanism — if the VA system is good enough for Members of Congress, ."
+      "Could serve as a powerful accountability mechanism \u2014 if the VA system is good enough for Members of Congress, ."
     ]
   },
   "119/hr/1493": {
@@ -70825,7 +71055,7 @@
   "119/hr/155": {
     "cons": [
       "Allows unaffiliated voters to participate in primary elections they may have no ongoing connection to, potenti.",
-      "Withholds federal election administration funds from states that permit noncitizen voting in local elections —."
+      "Withholds federal election administration funds from states that permit noncitizen voting in local elections \u2014."
     ],
     "pros": [
       "Expands democratic participation by requiring states to allow unaffiliated voters (who make up a growing share.",
@@ -71363,7 +71593,7 @@
   "119/hr/163": {
     "cons": [
       "Forces continued construction of border barriers regardless of whether current conditions or assessments justi.",
-      "Environmental impacts of border wall construction — including disruption of wildlife habitats, river flows, an."
+      "Environmental impacts of border wall construction \u2014 including disruption of wildlife habitats, river flows, an."
     ],
     "pros": [
       "Requires the Department of Homeland Security to resume border wall construction that was underway as of Januar.",
@@ -71457,7 +71687,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "title": "A–PLUS Act",
+    "title": "A\u2013PLUS Act",
     "type": "hr"
   },
   "119/hr/1649": {
@@ -72171,6 +72401,16 @@
       "Helps close the digital divide and expand internet access."
     ]
   },
+  "119/hr/1737": {
+    "cons": [
+      "Requires significant feasibility study costs with uncertain outcomes.",
+      "May compete with private sector telecommunications projects."
+    ],
+    "pros": [
+      "Assesses strategic value of international connectivity project.",
+      "Could strengthen U.S. ties with African nations."
+    ]
+  },
   "119/hr/1738": {
     "cons": [
       "Purely symbolic naming with no policy change",
@@ -72184,7 +72424,7 @@
   "119/hr/174": {
     "cons": [
       "Adding criminal convictions as grounds for deportation for fraud offenses could result in the removal of long-.",
-      "COVID-19 assistance fraud includes a broad range of offenses — some involving small amounts during a confusing."
+      "COVID-19 assistance fraud includes a broad range of offenses \u2014 some involving small amounts during a confusing."
     ],
     "pros": [
       "Makes individuals convicted of Social Security fraud, identification document fraud, or COVID-19 assistance fr.",
@@ -72987,6 +73227,16 @@
     "title": "Timely Departure Act",
     "type": "hr"
   },
+  "119/hr/1838": {
+    "cons": [
+      "Focuses federal broadband resources on narrow geographic areas.",
+      "May duplicate existing programs or private sector initiatives."
+    ],
+    "pros": [
+      "Improves internet access for small port communities.",
+      "Could enhance economic competitiveness of coastal areas."
+    ]
+  },
   "119/hr/184": {
     "cons": [
       "Restricting environmental impact studies to only two alternatives may rule out better solutions that fall some.",
@@ -73089,7 +73339,7 @@
   },
   "119/hr/185": {
     "cons": [
-      "Combines multiple unrelated policy changes — retirement accounts, criminal penalties, foreign investment, and .",
+      "Combines multiple unrelated policy changes \u2014 retirement accounts, criminal penalties, foreign investment, and .",
       "Higher Roth IRA contribution limits primarily benefit higher-income individuals who can afford to max out thei."
     ],
     "pros": [
@@ -74630,7 +74880,7 @@
       "Focuses narrowly on a specific niche issue affecting recreational and commercial fishing rather than broader o."
     ],
     "pros": [
-      "Establishes a task force to study shark depredation — sharks removing fish from fishing lines — which is a gro.",
+      "Establishes a task force to study shark depredation \u2014 sharks removing fish from fishing lines \u2014 which is a gro.",
       "Brings together scientists, fishermen, and conservation groups to develop evidence-based strategies for managi."
     ]
   },
@@ -74706,7 +74956,7 @@
     ],
     "pros": [
       "Withholds the salaries of Members of Congress if their chamber fails to pass a budget resolution by the April .",
-      "Focuses accountability on the core duty of Congress — passing a budget — which is supposed to be completed eve."
+      "Focuses accountability on the core duty of Congress \u2014 passing a budget \u2014 which is supposed to be completed eve."
     ]
   },
   "119/hr/2080": {
@@ -74863,7 +75113,7 @@
     ],
     "pros": [
       "Provides dental care benefits to veterans through the VA, addressing a significant gap in current veteran heal.",
-      "Dental health is linked to overall health — poor dental care can lead to serious medical conditions."
+      "Dental health is linked to overall health \u2014 poor dental care can lead to serious medical conditions."
     ]
   },
   "119/hr/2100": {
@@ -75153,12 +75403,12 @@
   },
   "119/hr/214": {
     "cons": [
-      "The Constitution gives Congress authority over the federal district — critics argue D.C. home rule requires a .",
+      "The Constitution gives Congress authority over the federal district \u2014 critics argue D.C. home rule requires a .",
       "Could create conflicts between D.C. laws and federal interests in the nation's capital."
     ],
     "pros": [
       "Returns greater autonomy to the District of Columbia over its local laws and governance, reflecting principles.",
-      "D.C. residents pay federal taxes but lack full voting representation in Congress — this bill addresses that imbalance."
+      "D.C. residents pay federal taxes but lack full voting representation in Congress \u2014 this bill addresses that imbalance."
     ]
   },
   "119/hr/2140": {
@@ -75345,7 +75595,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "title": "BO’s Act",
+    "title": "BO\u2019s Act",
     "type": "hr"
   },
   "119/hr/217": {
@@ -75534,7 +75784,7 @@
       "Implementation costs for new verification systems could be significant and may face legal challenges over priv."
     ],
     "pros": [
-      "The SAVE Act typically addresses immigration enforcement or identification requirements — proponents argue it .",
+      "The SAVE Act typically addresses immigration enforcement or identification requirements \u2014 proponents argue it .",
       "Could improve verification systems to prevent ineligible individuals from accessing federal benefits or voting."
     ]
   },
@@ -75585,7 +75835,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "title": "Saving DOE’s Workforce Act",
+    "title": "Saving DOE\u2019s Workforce Act",
     "type": "hr"
   },
   "119/hr/2208": {
@@ -75600,7 +75850,7 @@
       "Advances scientific research and technological innovation.",
       "Strengthens American competitiveness in global technology markets."
     ],
-    "title": "Saving NSF’s Workforce Act",
+    "title": "Saving NSF\u2019s Workforce Act",
     "type": "hr"
   },
   "119/hr/2209": {
@@ -75615,7 +75865,7 @@
       "Advances scientific research and technological innovation.",
       "Strengthens American competitiveness in global technology markets."
     ],
-    "title": "Saving NIST’s Workforce Act",
+    "title": "Saving NIST\u2019s Workforce Act",
     "type": "hr"
   },
   "119/hr/221": {
@@ -75640,7 +75890,7 @@
       "Advances scientific research and technological innovation.",
       "Strengthens American competitiveness in global technology markets."
     ],
-    "title": "Saving NASA’s Workforce Act",
+    "title": "Saving NASA\u2019s Workforce Act",
     "type": "hr"
   },
   "119/hr/2211": {
@@ -75655,7 +75905,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "title": "Saving NOAA’s Workforce Act",
+    "title": "Saving NOAA\u2019s Workforce Act",
     "type": "hr"
   },
   "119/hr/2212": {
@@ -75692,7 +75942,7 @@
   },
   "119/hr/222": {
     "cons": [
-      "Creates a new commission without giving it binding authority — past fiscal commissions have produced recommend.",
+      "Creates a new commission without giving it binding authority \u2014 past fiscal commissions have produced recommend.",
       "The study and recommendation process could take years, delaying any meaningful action on the growing national ."
     ],
     "pros": [
@@ -75892,7 +76142,7 @@
   },
   "119/hr/225": {
     "cons": [
-      "The HUD Inspector General already provides regular reports to Congress — this bill mandates in-person testimon.",
+      "The HUD Inspector General already provides regular reports to Congress \u2014 this bill mandates in-person testimon.",
       "Additional congressional testimony requirements consume time from both IG staff and congressional committees w."
     ],
     "pros": [
@@ -75998,7 +76248,7 @@
       "The bill addresses a specific land claim for one tribe in one county, setting a precedent for federal action o."
     ],
     "pros": [
-      "Returns historic Cherokee lands in Monroe County, Tennessee — including the Sequoyah Museum and Chota Memorial.",
+      "Returns historic Cherokee lands in Monroe County, Tennessee \u2014 including the Sequoyah Museum and Chota Memorial.",
       "Preserves culturally and historically significant sites for the Cherokee people by placing them into federal t."
     ]
   },
@@ -76040,7 +76290,7 @@
   "119/hr/227": {
     "cons": [
       "If large numbers of clergy opt into Social Security, it could reduce the system's overall revenue if the newly.",
-      "The two-year window is limited — clergy who miss the window would remain permanently locked out, which some mi."
+      "The two-year window is limited \u2014 clergy who miss the window would remain permanently locked out, which some mi."
     ],
     "pros": [
       "Creates a two-year window for clergy and Christian Science practitioners to revoke their exemption from Social.",
@@ -76196,7 +76446,7 @@
     "sponsor_name": "Moore, Riley M. (WV-2)",
     "sponsor_state": "WV",
     "summary": "To reauthorize the Child Care and Development Block Grant Act of 1990, to improve access to relative caregivers, and for other purposes.",
-    "title": "Respect Parents’ Childcare Choices Act",
+    "title": "Respect Parents\u2019 Childcare Choices Act",
     "type": "HR"
   },
   "119/hr/2283": {
@@ -76337,7 +76587,7 @@
   },
   "119/hr/230": {
     "cons": [
-      "The Buffalo Field Office manages over 780,000 acres of public lands — blocking the management plan leaves thes.",
+      "The Buffalo Field Office manages over 780,000 acres of public lands \u2014 blocking the management plan leaves thes.",
       "Congressional intervention in a specific BLM planning decision could create uncertainty for all ongoing land m."
     ],
     "pros": [
@@ -76503,7 +76753,7 @@
   },
   "119/hr/232": {
     "cons": [
-      "The SALT deduction primarily benefits high-income households in expensive coastal states — this large increase.",
+      "The SALT deduction primarily benefits high-income households in expensive coastal states \u2014 this large increase.",
       "Increasing the cap to $100,000 would cost an estimated hundreds of billions of dollars over a decade, requirin."
     ],
     "pros": [
@@ -76758,7 +77008,7 @@
   },
   "119/hr/235": {
     "cons": [
-      "The designation is largely symbolic — it does not provide federal funding for the museum or guarantee its long.",
+      "The designation is largely symbolic \u2014 it does not provide federal funding for the museum or guarantee its long.",
       "Using the 'National Museum' designation for a pre-existing private museum that was not originally established ."
     ],
     "pros": [
@@ -76988,7 +77238,7 @@
   },
   "119/hr/238": {
     "cons": [
-      "Allowing AI to prescribe drugs raises serious patient safety concerns — AI systems may miss clinical nuances, .",
+      "Allowing AI to prescribe drugs raises serious patient safety concerns \u2014 AI systems may miss clinical nuances, .",
       "The regulatory framework for AI prescribing is not established, and this bill does not specify what qualificat."
     ],
     "pros": [
@@ -77066,7 +77316,7 @@
   },
   "119/hr/239": {
     "cons": [
-      "Most JFK assassination records have already been released — this bill may cover only a small number of remaini.",
+      "Most JFK assassination records have already been released \u2014 this bill may cover only a small number of remaini.",
       "Forces disclosure of records from multiple agencies on an accelerated timeline without allowing for national s."
     ],
     "pros": [
@@ -77189,7 +77439,7 @@
   },
   "119/hr/240": {
     "cons": [
-      "Overrides state laws designed to protect farmworkers from excessive work hours — agricultural work is physical.",
+      "Overrides state laws designed to protect farmworkers from excessive work hours \u2014 agricultural work is physical.",
       "Preempting stronger state labor protections for agricultural workers could affect a workforce that is already ."
     ],
     "pros": [
@@ -77968,7 +78218,7 @@
       "The bill would terminate the sales tax if the Sixteenth Amendment (authorizing income tax) is not repealed wit."
     ],
     "pros": [
-      "Replaces the complex federal income tax system — including income, payroll, estate, and gift taxes — with a si.",
+      "Replaces the complex federal income tax system \u2014 including income, payroll, estate, and gift taxes \u2014 with a si.",
       "Eliminates the Internal Revenue Service after FY2029, replacing it with smaller Excise Tax and Sales Tax burea.",
       "Includes a monthly rebate to families based on the federal poverty level, which could protect low-income house."
     ]
@@ -79658,7 +79908,7 @@
   "119/hr/273": {
     "cons": [
       "Forces asylum seekers to wait in dangerous border cities in Mexico, where they face heightened risks of violen.",
-      "Mexico must consent to accepting returned migrants — if Mexico refuses cooperation, DHS would be required to i."
+      "Mexico must consent to accepting returned migrants \u2014 if Mexico refuses cooperation, DHS would be required to i."
     ],
     "pros": [
       "Requires DHS to reinstate the Migrant Protection Protocols (the 'Remain in Mexico' policy), which required asy.",
@@ -80736,7 +80986,7 @@
       "The bill does not address the underlying causes of swatting, such as online harassment and doxxing, which may ."
     ],
     "pros": [
-      "Creates a federal criminal penalty specifically for swatting — falsely reporting an emergency to trigger a pol.",
+      "Creates a federal criminal penalty specifically for swatting \u2014 falsely reporting an emergency to trigger a pol.",
       "Protects public safety by reducing the risk of armed police responding to false emergencies, which can lead to."
     ]
   },
@@ -81128,7 +81378,7 @@
   "119/hr/291": {
     "cons": [
       "The reauthorization does not provide specific funding levels, so the program's impact depends on annual approp.",
-      "Rural economic development programs have mixed track records — without clear performance metrics, it's difficu."
+      "Rural economic development programs have mixed track records \u2014 without clear performance metrics, it's difficu."
     ],
     "pros": [
       "Reauthorizes the Rural Innovation Stronger Economy (RISE) Grant Program, which supports job creation and econo.",
@@ -81864,7 +82114,7 @@
   "119/hr/30": {
     "cons": [
       "The expansion of deportable offenses could apply to individuals with minor or older convictions who have since.",
-      "Overlaps with existing law — many of the specified crimes already lead to deportation under current immigratio."
+      "Overlaps with existing law \u2014 many of the specified crimes already lead to deportation under current immigratio."
     ],
     "pros": [
       "Makes non-citizens convicted of domestic violence, stalking, child abuse, and similar crimes deportable and in.",
@@ -81874,7 +82124,7 @@
   "119/hr/300": {
     "cons": [
       "Without a federal uniform time standard, states could end up in different time zones at different times of yea.",
-      "States that adopt permanent DST would have very late winter sunrises — for example, sunrise after 9:00 AM in n."
+      "States that adopt permanent DST would have very late winter sunrises \u2014 for example, sunrise after 9:00 AM in n."
     ],
     "pros": [
       "Allows states to observe daylight saving time year-round, ending the twice-yearly clock change that many Ameri.",
@@ -83326,7 +83576,7 @@
       "Improves transparency in federal operations and spending."
     ],
     "summary": "Improving Access to Workers' Compensation for Injured Federal Workers Act&nbsp;of 2025This bill expands the role of nurse practitioners and physician assistants in providing services to injured federal workers under the federal workers' compensation program.Specifically, under the program, nurse ...",
-    "title": "Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
+    "title": "Improving Access to Workers\u2019 Compensation for Injured Federal Workers Act of 2025",
     "type": "hr"
   },
   "119/hr/3172": {
@@ -83988,7 +84238,7 @@
   },
   "119/hr/324": {
     "cons": [
-      "Many PPP loans were forgiven years ago — compiling lists of recipients' payroll tax withholding status may not.",
+      "Many PPP loans were forgiven years ago \u2014 compiling lists of recipients' payroll tax withholding status may not.",
       "Some PPP borrowers may have valid reasons for not withholding payroll taxes (e.g., sole proprietors, independe."
     ],
     "pros": [
@@ -84153,7 +84403,7 @@
   },
   "119/hr/327": {
     "cons": [
-      "Stolen valor cases are relatively rare — increasing penalties addresses a small problem with disproportionatel.",
+      "Stolen valor cases are relatively rare \u2014 increasing penalties addresses a small problem with disproportionatel.",
       "Longer prison sentences will increase federal incarceration costs without necessarily addressing the underlyin."
     ],
     "pros": [
@@ -87147,7 +87397,7 @@
       "Provides a targeted legislative solution to a defined issue."
     ],
     "summary": "Securing America's Critical Minerals Supply ActThis bill requires the Department of Energy (DOE) to secure the supply of critical energy resources that are essential to the energy security of the United States. A&nbsp;critical energy resource means an energy resource (1) that is essential to the ...",
-    "title": "Securing America’s Critical Minerals Supply Act",
+    "title": "Securing America\u2019s Critical Minerals Supply Act",
     "type": "hr"
   },
   "119/hr/3618": {
@@ -87166,13 +87416,13 @@
     "type": "hr"
   },
   "119/hr/362": {
-    "pros": [
-      "Promotes tourism and economic development in Virgin Islands.",
-      "Simplifies travel for international visitors to territory."
-    ],
     "cons": [
       "May raise security concerns about visa-free travel.",
       "Could strain immigration processing and border control resources."
+    ],
+    "pros": [
+      "Promotes tourism and economic development in Virgin Islands.",
+      "Simplifies travel for international visitors to territory."
     ]
   },
   "119/hr/3620": {
@@ -87246,13 +87496,13 @@
     ]
   },
   "119/hr/363": {
-    "pros": [
-      "Provides economic relief to struggling territorial economies.",
-      "Could create jobs and boost local business activity."
-    ],
     "cons": [
       "Increases federal spending during tight budget constraints.",
       "May not address underlying structural economic problems."
+    ],
+    "pros": [
+      "Provides economic relief to struggling territorial economies.",
+      "Could create jobs and boost local business activity."
     ]
   },
   "119/hr/3630": {
@@ -87324,13 +87574,13 @@
     ]
   },
   "119/hr/364": {
-    "pros": [
-      "Stimulates territorial economic growth through tax incentives.",
-      "Could attract investment and job creation."
-    ],
     "cons": [
       "Reduces federal tax collections from territories.",
       "May benefit wealthy residents more than working families."
+    ],
+    "pros": [
+      "Stimulates territorial economic growth through tax incentives.",
+      "Could attract investment and job creation."
     ]
   },
   "119/hr/3640": {
@@ -87384,13 +87634,13 @@
     ]
   },
   "119/hr/365": {
-    "pros": [
-      "Simplifies territorial tax compliance and reduces burden.",
-      "Could encourage business investment in territories."
-    ],
     "cons": [
       "May reduce territorial government revenue streams.",
       "Could create unfair competitive advantage over mainland businesses."
+    ],
+    "pros": [
+      "Simplifies territorial tax compliance and reduces burden.",
+      "Could encourage business investment in territories."
     ]
   },
   "119/hr/3650": {
@@ -87507,13 +87757,13 @@
     ]
   },
   "119/hr/366": {
-    "pros": [
-      "Ensures territorial benefits from local fuel production.",
-      "Promotes energy independence in Virgin Islands."
-    ],
     "cons": [
       "Reduces federal revenue from territorial fuel taxes.",
       "May encourage over-reliance on local fuel production."
+    ],
+    "pros": [
+      "Ensures territorial benefits from local fuel production.",
+      "Promotes energy independence in Virgin Islands."
     ]
   },
   "119/hr/3660": {
@@ -87599,13 +87849,13 @@
     "summary": "To amend the REAL ID Act of 2005 to allow States to determine whether to require licenses and other identification to list a gender or sex, and for other purposes."
   },
   "119/hr/367": {
-    "pros": [
-      "Clarifies complex territorial tax laws for better compliance.",
-      "Could reduce tax disputes and administrative confusion."
-    ],
     "cons": [
       "May inadvertently create new loopholes or inequities.",
       "Implementation requires extensive regulatory rewriting."
+    ],
+    "pros": [
+      "Clarifies complex territorial tax laws for better compliance.",
+      "Could reduce tax disputes and administrative confusion."
     ]
   },
   "119/hr/3670": {
@@ -87660,7 +87910,7 @@
       "Strengthens American foreign policy and global leadership.",
       "Promotes international cooperation on shared challenges."
     ],
-    "title": "Global Alzheimer’s Initiative Now Act",
+    "title": "Global Alzheimer\u2019s Initiative Now Act",
     "type": "hr"
   },
   "119/hr/3678": {
@@ -87684,13 +87934,13 @@
     ]
   },
   "119/hr/368": {
-    "pros": [
-      "Creates tax equity between territories and mainland states.",
-      "Could stimulate economic growth in U.S. territories."
-    ],
     "cons": [
       "Reduces federal tax revenue from territorial sources.",
       "May create complex tax administration challenges."
+    ],
+    "pros": [
+      "Creates tax equity between territories and mainland states.",
+      "Could stimulate economic growth in U.S. territories."
     ]
   },
   "119/hr/3680": {
@@ -88447,7 +88697,7 @@
       "Expands access to essential healthcare services for Americans.",
       "Addresses specific health policy gaps to improve patient outcomes."
     ],
-    "title": "Workers’ Disability Benefits Parity Act of 2025",
+    "title": "Workers\u2019 Disability Benefits Parity Act of 2025",
     "type": "hr"
   },
   "119/hr/3759": {
@@ -90451,7 +90701,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "title": "Preserving Great Americans’ Legacies Act of 2025",
+    "title": "Preserving Great Americans\u2019 Legacies Act of 2025",
     "type": "hr"
   },
   "119/hr/3995": {
@@ -91255,7 +91505,7 @@
       "Honors and supports those who have served in the armed forces.",
       "Strengthens military readiness and national security."
     ],
-    "title": "Marshall ‘Major’ Taylor Congressional Gold Medal Act",
+    "title": "Marshall \u2018Major\u2019 Taylor Congressional Gold Medal Act",
     "type": "hr"
   },
   "119/hr/4084": {
@@ -91711,7 +91961,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "summary": "Restoring Judicial Separation of Powers ActThis bill revises the federal statutory framework that confers appellate jurisdiction to courts.Among the changes, the bill grants the U.S. Court of Appeals for the D.C. Circuit—not the Supreme Court—jurisdiction overdirect appeals from final decisions o...",
+    "summary": "Restoring Judicial Separation of Powers ActThis bill revises the federal statutory framework that confers appellate jurisdiction to courts.Among the changes, the bill grants the U.S. Court of Appeals for the D.C. Circuit\u2014not the Supreme Court\u2014jurisdiction overdirect appeals from final decisions o...",
     "title": "Restoring Judicial Separation of Powers Act",
     "type": "hr"
   },
@@ -92280,7 +92530,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "title": "Canyon’s Law",
+    "title": "Canyon\u2019s Law",
     "type": "hr"
   },
   "119/hr/4181": {
@@ -92355,7 +92605,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "summary": "Mapping America’s Pharmaceutical Supply Act or the MAPS ActThis bill requires the Food and Drug Administration (FDA) to continually update its essential medicines list and identify risks and vulnerabilities in the associated supply chains.In 2020, in response to an executive order, the FDA publis...",
+    "summary": "Mapping America\u2019s Pharmaceutical Supply Act or the MAPS ActThis bill requires the Food and Drug Administration (FDA) to continually update its essential medicines list and identify risks and vulnerabilities in the associated supply chains.In 2020, in response to an executive order, the FDA publis...",
     "title": "MAPS Act",
     "type": "hr"
   },
@@ -92406,7 +92656,7 @@
   },
   "119/hr/42": {
     "cons": [
-      "Already signed into law (Public Law 119-22), so this analysis is historical — the bill has already taken effec.",
+      "Already signed into law (Public Law 119-22), so this analysis is historical \u2014 the bill has already taken effec.",
       "The bill specifically benefits Alaska Natives and descendants who are aged, blind, or disabled, but does not a."
     ],
     "pros": [
@@ -93289,6 +93539,16 @@
       "Reduces compliance confusion for businesses operating internationally."
     ]
   },
+  "119/hr/4292": {
+    "cons": [
+      "Creates new congressional entity with unclear scope and cost.",
+      "May raise constitutional questions about territorial voting rights."
+    ],
+    "pros": [
+      "Examines voting rights issues affecting territorial residents.",
+      "Could inform future policy on territorial representation."
+    ]
+  },
   "119/hr/4293": {
     "cons": [
       "Could weaken environmental oversight of military training lands.",
@@ -94164,7 +94424,7 @@
       "Strengthens financial market oversight and consumer protections.",
       "Promotes fiscal responsibility and sustainable economic policy."
     ],
-    "title": "America’s Olympic and Paralympic Games Commemorative Coins Act",
+    "title": "America\u2019s Olympic and Paralympic Games Commemorative Coins Act",
     "type": "hr"
   },
   "119/hr/4383": {
@@ -94203,7 +94463,7 @@
       "Could create unintended regulatory or administrative burdens."
     ],
     "pros": [
-      "Provides a legislative framework addressing people’s policy issues.",
+      "Provides a legislative framework addressing people\u2019s policy issues.",
       "Offers a targeted federal response to a specific policy need."
     ]
   },
@@ -96206,7 +96466,7 @@
     "sponsor_name": "Moore, Riley M. (WV-2)",
     "sponsor_state": "WV",
     "summary": "To amend the Federal Lands Recreation Enhancement Act to authorize the Secretary of the Interior to collect a surcharge from international visitors to units of the National Park System, and for other purposes.",
-    "title": "Protecting America’s Treasures by Raising Inflow from Overseas Tourists (PATRIOT) Parks Act",
+    "title": "Protecting America\u2019s Treasures by Raising Inflow from Overseas Tourists (PATRIOT) Parks Act",
     "type": "HR"
   },
   "119/hr/4605": {
@@ -96867,7 +97127,7 @@
       "Addresses a specific policy need identified in the 119th Congress.",
       "Provides a targeted legislative solution to a defined issue."
     ],
-    "summary": "Fixing Emergency Management for Americans Act of 2025 or the FEMA Act of 2025This bill reestablishes the Federal Emergency Management Agency (FEMA) (currently within the Department of Homeland Security) as an independent, cabinet-level agency. It also makes broad changes to&nbsp;FEMA’s disaster a...",
+    "summary": "Fixing Emergency Management for Americans Act of 2025 or the FEMA Act of 2025This bill reestablishes the Federal Emergency Management Agency (FEMA) (currently within the Department of Homeland Security) as an independent, cabinet-level agency. It also makes broad changes to&nbsp;FEMA\u2019s disaster a...",
     "title": "FEMA Act of 2025",
     "type": "hr"
   },
@@ -99819,7 +100079,7 @@
       "Without detailed text available, the bill could contain provisions that differ significantly from the impressi."
     ],
     "pros": [
-      "The full text would clarify its purpose — typically such acronym-named bills target specific programs that spo.",
+      "The full text would clarify its purpose \u2014 typically such acronym-named bills target specific programs that spo.",
       "Acronym-based bills often focus on narrowly defined issues that can be addressed efficiently without broad leg."
     ]
   },
@@ -100723,7 +100983,7 @@
       "Opponents argue the bill is a partisan maneuver to add two Democratic Senators to Congress, and creating a new."
     ],
     "pros": [
-      "Grants the more than 700,000 residents of Washington, D.C. full voting representation in Congress — two Senato.",
+      "Grants the more than 700,000 residents of Washington, D.C. full voting representation in Congress \u2014 two Senato.",
       "Preserves a small Capital district encompassing the federal buildings and monuments as the seat of government,."
     ]
   },
@@ -101619,7 +101879,7 @@
       "Invests in critical infrastructure to improve safety and efficiency.",
       "Creates construction jobs and stimulates local economies."
     ],
-    "summary": "Kari's Law Reporting ActThis bill requires the Federal Communications Commission (FCC) to publish a report on the enforcement of Kari’s Law, which requires multiline telephone systems to be preconfigured to allow users to dial 9-1-1 directly from any phone without dialing any additional code or p...",
+    "summary": "Kari's Law Reporting ActThis bill requires the Federal Communications Commission (FCC) to publish a report on the enforcement of Kari\u2019s Law, which requires multiline telephone systems to be preconfigured to allow users to dial 9-1-1 directly from any phone without dialing any additional code or p...",
     "title": "Kari's Law Reporting Act",
     "type": "hr"
   },
@@ -101676,6 +101936,16 @@
     "pros": [
       "Establishes clear emergency protocols for the nation's capital.",
       "Improves coordination among DC-area law enforcement agencies."
+    ]
+  },
+  "119/hr/5209": {
+    "cons": [
+      "May favor specific region over broader national interests.",
+      "Implementation depends on unstable political conditions in Haiti."
+    ],
+    "pros": [
+      "Supports economic development in Caribbean region.",
+      "Could create trade and employment opportunities."
     ]
   },
   "119/hr/521": {
@@ -103435,6 +103705,16 @@
       "Strengthens the American middle class through better wages."
     ]
   },
+  "119/hr/5409": {
+    "cons": [
+      "Increases federal spending on territory-specific programs.",
+      "May require complex coordination between federal and local agencies."
+    ],
+    "pros": [
+      "Addresses unique health needs of U.S. territorial residents.",
+      "Could reduce health care costs through preventive measures."
+    ]
+  },
   "119/hr/5410": {
     "cons": [
       "Research outcomes are uncertain and may not yield commercial results.",
@@ -104328,7 +104608,7 @@
       "Historical interpretations of the war may spark controversy over its commemoration."
     ],
     "pros": [
-      "Honors the historical legacy of the United States–Mexican War with a memorial.",
+      "Honors the historical legacy of the United States\u2013Mexican War with a memorial.",
       "Strengthens cultural ties and bilateral commemoration between the US and Mexico."
     ]
   },
@@ -105687,6 +105967,16 @@
     "pros": [
       "Invests in education and workforce development.",
       "Expands opportunities for students and teachers."
+    ]
+  },
+  "119/hr/5656": {
+    "cons": [
+      "Requires new regulatory framework and oversight systems.",
+      "May face interstate commerce and jurisdictional complications."
+    ],
+    "pros": [
+      "Equalizes commercial driver licensing opportunities for territories.",
+      "Could boost economic opportunities in transportation sector."
     ]
   },
   "119/hr/5657": {
@@ -109539,6 +109829,16 @@
       "Could improve management of historic Harpers Ferry sites."
     ]
   },
+  "119/hr/6065": {
+    "cons": [
+      "Adds administrative burden and costs to school districts.",
+      "May face logistical challenges in rural or remote areas."
+    ],
+    "pros": [
+      "Connects students with local food sources and nutrition education.",
+      "Supports local farmers and agricultural sustainability."
+    ]
+  },
   "119/hr/6066": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -112387,7 +112687,7 @@
     "sponsor_name": "H. Hinson, Ashley (IA-2)",
     "sponsor_state": "IA",
     "summary": "Pregnant Students' Rights Act This bill requires each institution of higher education (IHE) that participates in federal student aid programs to provide certain information to prospective and enrolled students on the rights and resources for pregnant students to carry a baby to t...",
-    "title": "Pregnant Students’ Rights Act",
+    "title": "Pregnant Students\u2019 Rights Act",
     "type": "hr"
   },
   "119/hr/6360": {
@@ -113712,6 +114012,16 @@
     "pros": [
       "Tightens enforcement of immigration laws at the border.",
       "Provides clearer pathways for deportation of violent offenders."
+    ]
+  },
+  "119/hr/6494": {
+    "cons": [
+      "May significantly increase federal health care spending.",
+      "Implementation complexity could delay actual benefit delivery."
+    ],
+    "pros": [
+      "Addresses health care disparities affecting U.S. territories.",
+      "Could improve medical access in underserved island communities."
     ]
   },
   "119/hr/6495": {
@@ -116996,7 +117306,7 @@
       "Honors treaty obligations and supports tribal sovereignty.",
       "Addresses longstanding disparities in Native American communities."
     ],
-    "title": "To amend the Act of August 9, 1955 (commonly known as the “Long-Term Leasing Act”), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
+    "title": "To amend the Act of August 9, 1955 (commonly known as the \u201cLong-Term Leasing Act\u201d), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
     "type": "hr"
   },
   "119/hr/6810": {
@@ -119932,7 +120242,7 @@
       "A pilot program that lasts four years before becoming permanent is a slow implementation timeline for veterans."
     ],
     "pros": [
-      "Creates a three-year pilot program allowing veterans to choose any health care provider — VA facilities, commu.",
+      "Creates a three-year pilot program allowing veterans to choose any health care provider \u2014 VA facilities, commu.",
       "After four years, permanently phases out location-based requirements for community care, giving veterans the f."
     ]
   },
@@ -120068,7 +120378,7 @@
     "sponsor_name": "H. Miller-Meeks, Mariannette (IA-1)",
     "sponsor_state": "IA",
     "summary": "",
-    "title": "Veterans’ Bill of Rights Act of 2026",
+    "title": "Veterans\u2019 Bill of Rights Act of 2026",
     "type": "hr"
   },
   "119/hr/7113": {
@@ -126177,7 +126487,7 @@
     ],
     "pros": [
       "Allows Congress to disapprove multiple last-minute regulations from an outgoing administration in a single res.",
-      "Provides a check on so-called midnight regulations — rules rushed through at the end of a president's term — b."
+      "Provides a check on so-called midnight regulations \u2014 rules rushed through at the end of a president's term \u2014 b."
     ]
   },
   "119/hr/7700": {
@@ -128639,6 +128949,16 @@
       "Increases government transparency for taxpayer-funded settlements."
     ]
   },
+  "119/hr/7935": {
+    "cons": [
+      "Could weaken public safety gun regulations unnecessarily.",
+      "May conflict with state and local firearm laws."
+    ],
+    "pros": [
+      "Strengthens Second Amendment constitutional protections.",
+      "Reduces regulatory burden on law-abiding gun owners."
+    ]
+  },
   "119/hr/7936": {
     "cons": [
       "May impose costly regulations on businesses and industry.",
@@ -130599,6 +130919,16 @@
       "Expands critical benefits and support services for veterans."
     ]
   },
+  "119/hr/8121": {
+    "cons": [
+      "Uses federal resources for local commemorative purposes.",
+      "May set precedent for numerous naming requests at federal sites."
+    ],
+    "pros": [
+      "Honors a local historical figure important to Virgin Islands community.",
+      "Preserves cultural heritage through commemorative naming at historic site."
+    ]
+  },
   "119/hr/8122": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -131118,13 +131448,13 @@
     ]
   },
   "119/hr/8170": {
-    "pros": [
-      "Streamlines arms export processes for allied nations.",
-      "Could boost U.S. defense industry competitiveness."
-    ],
     "cons": [
       "May weaken oversight of sensitive weapons transfers.",
       "Could accelerate arms proliferation to unstable regions."
+    ],
+    "pros": [
+      "Streamlines arms export processes for allied nations.",
+      "Could boost U.S. defense industry competitiveness."
     ]
   },
   "119/hr/8171": {
@@ -131378,13 +131708,13 @@
     ]
   },
   "119/hr/8196": {
-    "pros": [
-      "Improves workforce data to better match skills with jobs.",
-      "Could reduce unemployment and skills gaps."
-    ],
     "cons": [
       "Requires significant data collection infrastructure investment.",
       "May raise privacy concerns about worker information tracking."
+    ],
+    "pros": [
+      "Improves workforce data to better match skills with jobs.",
+      "Could reduce unemployment and skills gaps."
     ]
   },
   "119/hr/8197": {
@@ -131419,7 +131749,7 @@
   },
   "119/hr/82": {
     "cons": [
-      "Ends federal support for a wide range of humanities programs — including history, literature, philosophy, and .",
+      "Ends federal support for a wide range of humanities programs \u2014 including history, literature, philosophy, and .",
       "The NEH's annual budget is very small (roughly $200 million, about 0.003% of the federal budget), so the savin."
     ],
     "pros": [
@@ -133370,7 +133700,7 @@
     "sponsor_name": "H. Nunn, Zachary (IA-3)",
     "sponsor_state": "IA",
     "summary": "",
-    "title": "Protecting Americans’ Savings Act",
+    "title": "Protecting Americans\u2019 Savings Act",
     "type": "hr"
   },
   "119/hr/8384": {
@@ -138301,6 +138631,16 @@
       "Provides a targeted solution to a specific problem"
     ]
   },
+  "119/hr/8843": {
+    "cons": [
+      "Unclear policy implications without detailed bill text.",
+      "May be viewed as overly provocative or unprofessional."
+    ],
+    "pros": [
+      "Could address accountability for harmful actions.",
+      "May strengthen deterrent effects for wrongdoing."
+    ]
+  },
   "119/hr/8844": {
     "cons": [
       "Narrow technical corrections bill addresses very limited scope of issues.",
@@ -142018,6 +142358,26 @@
       "Helps law enforcement track criminals who flee to other countries."
     ]
   },
+  "119/hr/9204": {
+    "cons": [
+      "Federal grants may create dependency without lasting solutions.",
+      "Implementation costs could strain government resources."
+    ],
+    "pros": [
+      "Promotes development of safer firearm storage technology.",
+      "Could reduce accidental gun deaths and child access."
+    ]
+  },
+  "119/hr/9205": {
+    "cons": [
+      "May create overly broad restrictions affecting lawful gun owners.",
+      "Could face constitutional challenges over Second Amendment rights."
+    ],
+    "pros": [
+      "Enhances school safety by expanding gun-free zones.",
+      "Provides additional protection for students and educators."
+    ]
+  },
   "119/hr/9206": {
     "cons": [
       "Lacks sufficient detail to fully assess its impact.",
@@ -142304,7 +142664,7 @@
     "sponsor_chamber": "House",
     "sponsor_name": "Rep. Hill, J. French (AR-2)",
     "sponsor_state": "AR",
-    "summary": "<p><strong>Fair Audits and Inspections for Regulators’ Exams Act or the FAIR Exams Act</strong></p><p>This bill establishes new procedures related to the federal examination of financial intuitions. Specifically, the bill establishes the Office of Independent Examination Review within the Federal Fi",
+    "summary": "<p><strong>Fair Audits and Inspections for Regulators\u2019 Exams Act or the FAIR Exams Act</strong></p><p>This bill establishes new procedures related to the federal examination of financial intuitions. Specifically, the bill establishes the Office of Independent Examination Review within the Federal Fi",
     "title": "FAIR Exams Act"
   },
   "119/hr/941": {
@@ -143400,6 +143760,16 @@
       "Promotes bodily autonomy and human rights for intersex people."
     ]
   },
+  "119/hres/1053": {
+    "cons": [
+      "Ceremonial resolutions consume legislative time and resources.",
+      "May not address pressing policy issues."
+    ],
+    "pros": [
+      "Honors educational institutions and their contributions.",
+      "Celebrates important milestones in American higher education."
+    ]
+  },
   "119/hres/1054": {
     "cons": [
       "Uses congressional time for non-binding resolutions.",
@@ -143862,7 +144232,7 @@
   },
   "119/hres/11": {
     "cons": [
-      "This resolution only directs committees to study and recommend changes — it does not actually change any laws .",
+      "This resolution only directs committees to study and recommend changes \u2014 it does not actually change any laws .",
       "Broad reviews across 16 committees could produce thousands of recommendations with no guarantee that Congress ."
     ],
     "pros": [
@@ -144487,7 +144857,7 @@
     ],
     "pros": [
       "Promotes public education on the health benefits of sleep.",
-      "Addresses a widespread public health issue — sleep deprivation."
+      "Addresses a widespread public health issue \u2014 sleep deprivation."
     ]
   },
   "119/hres/1159": {
@@ -144933,7 +145303,7 @@
   },
   "119/hres/12": {
     "cons": [
-      "This is a House internal rule, not a law, so it does not apply to the Senate — meaning even if the House passe.",
+      "This is a House internal rule, not a law, so it does not apply to the Senate \u2014 meaning even if the House passe.",
       "Keeping the House in session through August does not guarantee that appropriations bills will pass, as the Hou."
     ],
     "pros": [
@@ -146677,7 +147047,7 @@
   },
   "119/hres/16": {
     "cons": [
-      "This is a non-binding resolution with no legal force — it expresses congressional opinion but does not change .",
+      "This is a non-binding resolution with no legal force \u2014 it expresses congressional opinion but does not change .",
       "Labeling the conflict a genocide could complicate future diplomatic negotiations to end the war."
     ],
     "pros": [
@@ -146838,7 +147208,7 @@
   "119/hres/18": {
     "cons": [
       "As a non-binding resolution, this has no force of law and does not require any action by the United Kingdom or.",
-      "Addresses a cultural dispute between Greece and the United Kingdom — a matter in which the U.S. Congress has n."
+      "Addresses a cultural dispute between Greece and the United Kingdom \u2014 a matter in which the U.S. Congress has n."
     ],
     "pros": [
       "Calls for the return of the Parthenon Marbles to Greece, supporting cultural heritage repatriation and acknowl.",
@@ -146917,7 +147287,7 @@
   },
   "119/hres/19": {
     "cons": [
-      "As a sense-of-the-House resolution, it is non-binding and has no enforcement mechanism — members can vote for .",
+      "As a sense-of-the-House resolution, it is non-binding and has no enforcement mechanism \u2014 members can vote for .",
       "Keeping the House in session without a deadline mechanism could lead to stays that produce no results, as has ."
     ],
     "pros": [
@@ -147177,7 +147547,7 @@
   },
   "119/hres/22": {
     "cons": [
-      "This is a routine administrative resolution with no substantive policy impact — it simply assigns members to c.",
+      "This is a routine administrative resolution with no substantive policy impact \u2014 it simply assigns members to c.",
       "Committee assignments are typically negotiated by party leadership behind closed doors, so this resolution mer."
     ],
     "pros": [
@@ -148175,6 +148545,16 @@
     "pros": [
       "Establishes a House committee to identify underperforming or nonessential federal programs, pursuing governmen.",
       "Could identify significant taxpayer savings by systematically reviewing programs for potential elimination or reform."
+    ]
+  },
+  "119/hres/360": {
+    "cons": [
+      "Adds to proliferation of designated awareness days.",
+      "May not translate into concrete medical research or funding."
+    ],
+    "pros": [
+      "Raises awareness about specific kidney disease affecting minorities.",
+      "Could lead to increased research funding and medical attention."
     ]
   },
   "119/hres/361": {
@@ -149931,7 +150311,7 @@
   },
   "119/hres/579": {
     "cons": [
-      "No legislative teeth — does not fund research or improve care access.",
+      "No legislative teeth \u2014 does not fund research or improve care access.",
       "Another awareness resolution adds to a crowded calendar of symbolic designations."
     ],
     "pros": [
@@ -150152,7 +150532,7 @@
   "119/hres/6": {
     "cons": [
       "This is a purely procedural resolution about House meeting times with no direct impact on legislation, policy,.",
-      "The schedule does not guarantee productivity — the House could meet at these times without making progress on ."
+      "The schedule does not guarantee productivity \u2014 the House could meet at these times without making progress on ."
     ],
     "pros": [
       "Establishes a predictable daily schedule for the House of Representatives, helping lawmakers, staff, and the p.",
@@ -151041,7 +151421,7 @@
   },
   "119/hres/7": {
     "cons": [
-      "This is a non-binding resolution with no legal force — it expresses an opinion but does not fund, expand, or c.",
+      "This is a non-binding resolution with no legal force \u2014 it expresses an opinion but does not fund, expand, or c.",
       "The resolution's general language does not specify what 'comprehensive' or 'life-affirming' care means in prac."
     ],
     "pros": [
@@ -151966,7 +152346,7 @@
   },
   "119/hres/8": {
     "cons": [
-      "This is a non-binding resolution expressing opinion only — it does not change any law or require any action, s.",
+      "This is a non-binding resolution expressing opinion only \u2014 it does not change any law or require any action, s.",
       "Recognizing photo ID as a 'fundamental component' of secure elections could be cited to support stricter voter."
     ],
     "pros": [
@@ -152501,7 +152881,7 @@
   "119/hres/85": {
     "cons": [
       "Authorizes taxpayer money for routine operations.",
-      "No substantive policy change — purely administrative."
+      "No substantive policy change \u2014 purely administrative."
     ],
     "pros": [
       "Funds critical committee oversight of energy policy.",
@@ -157617,7 +157997,7 @@
       "Promotes innovation in emerging technologies and digital infrastructure.",
       "Helps close the digital divide and expand internet access."
     ],
-    "sponsorName": "Ben Ray Luján",
+    "sponsorName": "Ben Ray Luj\u00e1n",
     "title": "Gas Pipeline Leak Detection and Repair Act of 2025"
   },
   "119/s/2511": {
@@ -159648,7 +160028,7 @@
   "119/s/3100": {
     "cons": [
       "May require significant upfront investment.",
-      "Could lead to postal service restructuring or裁员 layoffs."
+      "Could lead to postal service restructuring or\u88c1\u5458 layoffs."
     ],
     "pros": [
       "Modernizes postal operations for 21st century service.",
@@ -160094,7 +160474,7 @@
   "119/s/32": {
     "cons": [
       "Adds administrative costs for new court locations.",
-      "Limited impact — affects only two Texas divisions."
+      "Limited impact \u2014 affects only two Texas divisions."
     ],
     "pros": [
       "Adds College Station and El Centro to federal court locations.",
@@ -166704,6 +167084,16 @@
       "Establishes a national museum to preserve their legacy."
     ]
   },
+  "119/s/4283": {
+    "cons": [
+      "Requires significant federal spending during tight budget times.",
+      "Benefits may be concentrated in already well-funded health sectors."
+    ],
+    "pros": [
+      "Addresses critical public health workforce shortages through loan relief.",
+      "Strengthens America's biodefense preparedness capabilities."
+    ]
+  },
   "119/s/4286": {
     "cons": [
       "Could increase the size and cost of the federal government.",
@@ -166856,6 +167246,16 @@
     "pros": [
       "Provides job training opportunities for workers transitioning from fossil fuel industries.",
       "Supports energy sector workforce development for a cleaner energy future."
+    ]
+  },
+  "119/s/4301": {
+    "cons": [
+      "May create regulatory burden for legitimate ticket resellers.",
+      "Could face strong opposition from entertainment industry lobbyists."
+    ],
+    "pros": [
+      "Provides consumer protection against predatory ticketing practices.",
+      "Increases transparency in sports event ticket pricing and fees."
     ]
   },
   "119/s/4303": {
@@ -167700,6 +168100,16 @@
       "Reduces dependence on adversarial energy supply chains."
     ]
   },
+  "119/s/4393": {
+    "cons": [
+      "May increase government contracting costs and project delays.",
+      "Could create additional bureaucratic burden for federal agencies."
+    ],
+    "pros": [
+      "Strengthens domestic manufacturing and protects American jobs.",
+      "Improves compliance oversight for Buy America procurement rules."
+    ]
+  },
   "119/s/4394": {
     "cons": [
       "May have broader economic or regulatory implications.",
@@ -168084,7 +168494,7 @@
   "119/s/4430": {
     "cons": [
       "$400 million appropriation adds to the federal deficit.",
-      "Scope limited to East Wing — other security gaps may remain."
+      "Scope limited to East Wing \u2014 other security gaps may remain."
     ],
     "pros": [
       "Funds critical security upgrades for the White House complex.",
@@ -168169,6 +168579,16 @@
     "pros": [
       "Modernizes aging infrastructure and transportation networks.",
       "Creates jobs and stimulates economic activity."
+    ]
+  },
+  "119/s/4439": {
+    "cons": [
+      "May increase manufacturing costs and product prices for consumers.",
+      "Could stifle innovation by imposing rigid durability requirements."
+    ],
+    "pros": [
+      "Promotes durable technology standards for long-term industry reliability.",
+      "Could reduce electronic waste through improved product longevity requirements."
     ]
   },
   "119/s/4440": {
@@ -172159,7 +172579,7 @@
     "sponsor_name": "Justice, James C. (WV-Sen)",
     "sponsor_state": "WV",
     "summary": "A bill to authorize the National Medal of Honor Museum Foundation to establish a commemorative work on the National Mall to honor the extraordinary acts of valor, selfless service, and sacrifice displayed by Medal of Honor recipients.",
-    "title": "Hershel ‘Woody' Williams National Medal of Honor Monument Location Act",
+    "title": "Hershel \u2018Woody' Williams National Medal of Honor Monument Location Act",
     "type": "S"
   },
   "119/s/859": {
@@ -176471,7 +176891,7 @@
   },
   "119/sres/726": {
     "cons": [
-      "No binding action — only a symbolic resolution.",
+      "No binding action \u2014 only a symbolic resolution.",
       "Does not allocate funding for prevention or justice programs."
     ],
     "pros": [
@@ -176801,6 +177221,16 @@
       "Boosts local businesses that manufacture and sell seersucker clothing."
     ]
   },
+  "119/sres/758": {
+    "cons": [
+      "Limited impact without accompanying funding.",
+      "Awareness alone may not address root causes."
+    ],
+    "pros": [
+      "Raises awareness of veterans' PTSD struggles.",
+      "Promotes mental health support and resources."
+    ]
+  },
   "119/sres/759": {
     "cons": [
       "May face implementation challenges without proper funding.",
@@ -176829,6 +177259,16 @@
     "pros": [
       "Raises awareness about the harmful effects of social media on vulnerable users.",
       "Honors victims who have suffered from social media-related harms."
+    ]
+  },
+  "119/sres/763": {
+    "cons": [
+      "May increase military tensions in Arctic.",
+      "Could strain resources on remote operations."
+    ],
+    "pros": [
+      "Strengthens Arctic security partnerships.",
+      "Supports Alaska's strategic importance in defense."
     ]
   },
   "119/sres/764": {
@@ -215774,426 +216214,6 @@
     "pros": [
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
-    ]
-  },
-  "119/hr/9205": {
-    "cons": [
-      "May create overly broad restrictions affecting lawful gun owners.",
-      "Could face constitutional challenges over Second Amendment rights."
-    ],
-    "pros": [
-      "Enhances school safety by expanding gun-free zones.",
-      "Provides additional protection for students and educators."
-    ]
-  },
-  "119/hr/9204": {
-    "cons": [
-      "Federal grants may create dependency without lasting solutions.",
-      "Implementation costs could strain government resources."
-    ],
-    "pros": [
-      "Promotes development of safer firearm storage technology.",
-      "Could reduce accidental gun deaths and child access."
-    ]
-  },
-  "119/hr/8843": {
-    "cons": [
-      "Unclear policy implications without detailed bill text.",
-      "May be viewed as overly provocative or unprofessional."
-    ],
-    "pros": [
-      "Could address accountability for harmful actions.",
-      "May strengthen deterrent effects for wrongdoing."
-    ]
-  },
-  "119/hr/7935": {
-    "cons": [
-      "Could weaken public safety gun regulations unnecessarily.",
-      "May conflict with state and local firearm laws."
-    ],
-    "pros": [
-      "Strengthens Second Amendment constitutional protections.",
-      "Reduces regulatory burden on law-abiding gun owners."
-    ]
-  },
-  "119/hres/1053": {
-    "cons": [
-      "Ceremonial resolutions consume legislative time and resources.",
-      "May not address pressing policy issues."
-    ],
-    "pros": [
-      "Honors educational institutions and their contributions.",
-      "Celebrates important milestones in American higher education."
-    ]
-  },
-  "119/hr/8121": {
-    "pros": [
-      "Honors a local historical figure important to Virgin Islands community.",
-      "Preserves cultural heritage through commemorative naming at historic site."
-    ],
-    "cons": [
-      "Uses federal resources for local commemorative purposes.",
-      "May set precedent for numerous naming requests at federal sites."
-    ]
-  },
-  "119/hr/6494": {
-    "pros": [
-      "Addresses health care disparities affecting U.S. territories.",
-      "Could improve medical access in underserved island communities."
-    ],
-    "cons": [
-      "May significantly increase federal health care spending.",
-      "Implementation complexity could delay actual benefit delivery."
-    ]
-  },
-  "119/hr/6065": {
-    "pros": [
-      "Connects students with local food sources and nutrition education.",
-      "Supports local farmers and agricultural sustainability."
-    ],
-    "cons": [
-      "Adds administrative burden and costs to school districts.",
-      "May face logistical challenges in rural or remote areas."
-    ]
-  },
-  "119/hr/5656": {
-    "pros": [
-      "Equalizes commercial driver licensing opportunities for territories.",
-      "Could boost economic opportunities in transportation sector."
-    ],
-    "cons": [
-      "Requires new regulatory framework and oversight systems.",
-      "May face interstate commerce and jurisdictional complications."
-    ]
-  },
-  "119/hr/5409": {
-    "pros": [
-      "Addresses unique health needs of U.S. territorial residents.",
-      "Could reduce health care costs through preventive measures."
-    ],
-    "cons": [
-      "Increases federal spending on territory-specific programs.",
-      "May require complex coordination between federal and local agencies."
-    ]
-  },
-  "119/hr/5209": {
-    "pros": [
-      "Supports economic development in Caribbean region.",
-      "Could create trade and employment opportunities."
-    ],
-    "cons": [
-      "May favor specific region over broader national interests.",
-      "Implementation depends on unstable political conditions in Haiti."
-    ]
-  },
-  "119/hr/4292": {
-    "pros": [
-      "Examines voting rights issues affecting territorial residents.",
-      "Could inform future policy on territorial representation."
-    ],
-    "cons": [
-      "Creates new congressional entity with unclear scope and cost.",
-      "May raise constitutional questions about territorial voting rights."
-    ]
-  },
-  "119/hres/360": {
-    "pros": [
-      "Raises awareness about specific kidney disease affecting minorities.",
-      "Could lead to increased research funding and medical attention."
-    ],
-    "cons": [
-      "Adds to proliferation of designated awareness days.",
-      "May not translate into concrete medical research or funding."
-    ]
-  },
-  "119/hr/1838": {
-    "pros": [
-      "Improves internet access for small port communities.",
-      "Could enhance economic competitiveness of coastal areas."
-    ],
-    "cons": [
-      "Focuses federal broadband resources on narrow geographic areas.",
-      "May duplicate existing programs or private sector initiatives."
-    ]
-  },
-  "119/hr/1737": {
-    "pros": [
-      "Assesses strategic value of international connectivity project.",
-      "Could strengthen U.S. ties with African nations."
-    ],
-    "cons": [
-      "Requires significant feasibility study costs with uncertain outcomes.",
-      "May compete with private sector telecommunications projects."
-    ]
-  },
-  "118/hr/10503": {
-    "pros": [
-      "Addresses economic challenges specific to Virgin Islands.",
-      "Could help territory recover from natural disasters faster."
-    ],
-    "cons": [
-      "Primarily benefits one territory over others or mainland areas.",
-      "May not address root causes of territorial economic issues."
-    ]
-  },
-  "119/s/4439": {
-    "pros": [
-      "Promotes durable technology standards for long-term industry reliability.",
-      "Could reduce electronic waste through improved product longevity requirements."
-    ],
-    "cons": [
-      "May increase manufacturing costs and product prices for consumers.",
-      "Could stifle innovation by imposing rigid durability requirements."
-    ]
-  },
-  "119/s/4393": {
-    "pros": [
-      "Strengthens domestic manufacturing and protects American jobs.",
-      "Improves compliance oversight for Buy America procurement rules."
-    ],
-    "cons": [
-      "May increase government contracting costs and project delays.",
-      "Could create additional bureaucratic burden for federal agencies."
-    ]
-  },
-  "119/s/4301": {
-    "pros": [
-      "Provides consumer protection against predatory ticketing practices.",
-      "Increases transparency in sports event ticket pricing and fees."
-    ],
-    "cons": [
-      "May create regulatory burden for legitimate ticket resellers.",
-      "Could face strong opposition from entertainment industry lobbyists."
-    ]
-  },
-  "119/s/4283": {
-    "pros": [
-      "Addresses critical public health workforce shortages through loan relief.",
-      "Strengthens America's biodefense preparedness capabilities."
-    ],
-    "cons": [
-      "Requires significant federal spending during tight budget times.",
-      "Benefits may be concentrated in already well-funded health sectors."
-    ]
-  },
-  "118/hr/8590": {
-    "title": "National Training Center for Counter-Unmanned Aircraft Systems Act",
-    "pros": [
-      "Strengthens national security by providing training for counter-drone capabilities.",
-      "Creates specialized facility to address growing threats from unmanned aircraft."
-    ],
-    "cons": [
-      "Requires significant federal funding for new training infrastructure.",
-      "May face challenges in keeping pace with rapidly evolving drone technology."
-    ]
-  },
-  "118/hr/8140": {
-    "title": "SERVICE Act of 2024",
-    "pros": [
-      "Enhances public safety by improving law enforcement services.",
-      "Provides structured framework for addressing community safety needs."
-    ],
-    "cons": [
-      "Implementation costs may strain local and federal budgets.",
-      "Could face resistance from communities skeptical of expanded law enforcement."
-    ]
-  },
-  "118/hr/7177": {
-    "title": "To amend title 28, United States Code, to consolidate certain divisions in the Northern District of Alabama.",
-    "pros": [
-      "Streamlines federal court operations and improves administrative efficiency.",
-      "Reduces costs by consolidating overlapping judicial divisions."
-    ],
-    "cons": [
-      "May increase travel distances for some litigants and legal professionals.",
-      "Could reduce local access to federal courts for certain communities."
-    ]
-  },
-  "118/hr/6174": {
-    "title": "DHS Biodetection Improvement Act",
-    "pros": [
-      "Enhances national security by improving biological threat detection capabilities.",
-      "Modernizes homeland security infrastructure for emerging biosecurity threats."
-    ],
-    "cons": [
-      "Requires substantial investment in new detection technologies and equipment.",
-      "May raise privacy concerns about expanded government surveillance capabilities."
-    ]
-  },
-  "118/hr/5609": {
-    "title": "To prohibit the use of Federal funds for security protection for the former Director of the National Institute of Allergy and Infectious Diseases who served between January 1984 and December 2022.",
-    "pros": [
-      "Reduces federal spending on security details for former officials.",
-      "Addresses concerns about appropriate use of taxpayer funds for protection services."
-    ],
-    "cons": [
-      "Could leave former public health officials vulnerable to security threats.",
-      "Sets precedent that might discourage qualified individuals from public service."
-    ]
-  },
-  "118/hr/5130": {
-    "title": "Finish It Act",
-    "pros": [
-      "Provides resources to complete important national security initiatives.",
-      "Ensures continuity of critical defense and infrastructure projects."
-    ],
-    "cons": [
-      "May require additional appropriations during tight federal budget constraints.",
-      "Could face delays if project scope or priorities need reassessment."
-    ]
-  },
-  "118/hres/482": {
-    "title": "Commending United States Border Patrol Chief Raul L. Ortiz on his retirement after 32 years of public service.",
-    "pros": [
-      "Recognizes dedicated public service and leadership in border security.",
-      "Acknowledges contributions to national homeland security efforts."
-    ],
-    "cons": [
-      "Uses legislative time on ceremonial matters rather than substantive policy.",
-      "May be viewed as partisan given current political debates over border policy."
-    ]
-  },
-  "118/hr/3357": {
-    "title": "Protecting America's Agricultural Land from Foreign Harm Act of 2023",
-    "pros": [
-      "Protects critical agricultural resources from foreign acquisition and influence.",
-      "Safeguards food security and agricultural independence."
-    ],
-    "cons": [
-      "May restrict beneficial foreign investment in U.S. agricultural sector.",
-      "Could face implementation challenges and legal disputes over definitions."
-    ]
-  },
-  "118/hr/1531": {
-    "title": "To provide for the renewed availability of funds to construct the border wall upon the deployment of the National Guard to the southern land border of the United States, and for other purposes.",
-    "pros": [
-      "Provides border security funding linked to National Guard deployment.",
-      "Creates mechanism to resume border infrastructure construction."
-    ],
-    "cons": [
-      "Ties border wall funding to military deployment in potentially controversial way.",
-      "May face legal challenges over use of National Guard for border enforcement."
-    ]
-  },
-  "118/hjres/172": {
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units Review of the Residual Risk and Technology Review.",
-    "pros": [
-      "Reduces regulatory burden on electric utilities and energy producers.",
-      "May help maintain affordable electricity prices for consumers."
-    ],
-    "cons": [
-      "Could weaken environmental protections for air quality and public health.",
-      "May increase health risks from particulate matter and toxic emissions."
-    ]
-  },
-  "118/hjres/180": {
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to Clean Energy for New Federal Buildings and Major Renovations of Federal Buildings.",
-    "pros": [
-      "Reduces federal construction costs by removing clean energy mandates.",
-      "Provides more flexibility in federal building design and energy systems."
-    ],
-    "cons": [
-      "Eliminates energy efficiency requirements that could reduce long-term costs.",
-      "Undermines federal leadership on clean energy and climate initiatives."
-    ]
-  },
-  "118/hr/6351": {
-    "title": "To establish the Commission on",
-    "pros": [
-      "Creates oversight mechanism to study important policy issues.",
-      "Brings expert analysis to complex government challenges."
-    ],
-    "cons": [
-      "Establishes new bureaucracy that may duplicate existing government functions.",
-      "Could delay action while commission conducts lengthy study process."
-    ]
-  },
-  "118/hr/3201": {
-    "title": "For the relief of Cristina Martin.",
-    "pros": [
-      "Provides immigration relief for individual facing deportation or legal challenges.",
-      "Addresses specific humanitarian circumstances through private bill process."
-    ],
-    "cons": [
-      "Uses limited congressional time on individual case rather than broader reform.",
-      "May set precedent encouraging more private immigration relief requests."
-    ]
-  },
-  "118/hr/3069": {
-    "title": "John Lewis Equality in Medicare and Medicaid Treatment Act of 2023",
-    "pros": [
-      "Expands healthcare access and reduces disparities in Medicare and Medicaid.",
-      "Honors civil rights legacy while improving healthcare equity."
-    ],
-    "cons": [
-      "Increases federal healthcare spending during period of budget constraints.",
-      "May face implementation challenges in existing Medicare and Medicaid systems."
-    ]
-  },
-  "118/hr/2787": {
-    "title": "To amend the Consolidated Farm and Rural Development Act to modify provisions relating to rural decentralized water systems grants.",
-    "pros": [
-      "Improves access to clean water in rural communities and underserved areas.",
-      "Supports agricultural communities with essential water infrastructure."
-    ],
-    "cons": [
-      "Increases federal spending on rural development programs.",
-      "May face funding competition with other infrastructure priorities."
-    ]
-  },
-  "118/hr/2389": {
-    "title": "Resident Physician Shortage Reduction Act of 2023",
-    "pros": [
-      "Addresses critical shortage of trained physicians in American healthcare system.",
-      "Increases Medicare-funded residency positions to improve medical training capacity."
-    ],
-    "cons": [
-      "Requires significant increase in Medicare funding for graduate medical education.",
-      "May take years to produce meaningful impact on physician availability."
-    ]
-  },
-  "118/hr/308": {
-    "title": "Rosa Parks Day Act",
-    "pros": [
-      "Honors important civil rights leader and historical figure.",
-      "Promotes awareness of civil rights history and ongoing equality efforts."
-    ],
-    "cons": [
-      "Creates another federal observance when calendar is already crowded.",
-      "Uses legislative time on symbolic action rather than substantive civil rights policy."
-    ]
-  },
-  "117/hr/9668": {
-    "title": "SIFIA Act",
-    "pros": [
-      "Provides tax incentives to encourage infrastructure investment.",
-      "Creates market-based approach to funding critical infrastructure projects."
-    ],
-    "cons": [
-      "Reduces federal tax revenue through new incentive programs.",
-      "May primarily benefit wealthy investors rather than broader public interest."
-    ]
-  },
-  "117/hr/9462": {
-    "title": "Retirement Savings for Americans Act of 2022",
-    "pros": [
-      "Expands retirement savings opportunities for American workers.",
-      "Creates portable retirement accounts to improve benefit portability."
-    ],
-    "cons": [
-      "Requires new federal program administration and regulatory framework.",
-      "May compete with existing employer-sponsored retirement plans."
-    ]
-  },
-  "117/hr/9289": {
-    "title": "Affordable Electric Vehicles for America Act of 2022",
-    "pros": [
-      "Promotes clean transportation and reduces vehicle emissions.",
-      "Makes electric vehicles more affordable through tax incentives."
-    ],
-    "cons": [
-      "Reduces federal tax revenue through electric vehicle subsidies.",
-      "May primarily benefit higher-income households able to purchase new vehicles."
     ]
   }
 }
