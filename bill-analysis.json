@@ -216255,5 +216255,29 @@
     "sponsor_bioguide": "F000485",
     "sponsor_state": "GA",
     "sponsor_chamber": "House"
+  },
+  "119/s/4726": {
+    "title": "A bill to promote efforts to bring about stability and security in Sudan, and for other purposes.",
+    "sponsor": "Risch",
+    "pros": [
+      "Addresses urgent humanitarian crisis and promotes regional stability in Sudan.",
+      "Could support diplomatic efforts to resolve ongoing conflict in the region."
+    ],
+    "cons": [
+      "May involve costly international commitments without clear outcomes.",
+      "Could be seen as overextension of U.S. foreign policy priorities."
+    ]
+  },
+  "119/sres/756": {
+    "title": "A resolution expressing support for the designation of June 5, 2026, as \"National Gun Violence Awareness Day\" and June 2026 as \"National Gun Violence Awareness Month\".",
+    "sponsor": "Durbin",
+    "pros": [
+      "Raises public awareness about gun violence prevention and safety measures.",
+      "Honors victims of gun violence and supports affected communities."
+    ],
+    "cons": [
+      "Symbolic resolution without concrete policy changes or funding.",
+      "May be viewed as politically motivated rather than substantive action."
+    ]
   }
 }
