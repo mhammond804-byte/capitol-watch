@@ -216279,5 +216279,55 @@
       "Symbolic resolution without concrete policy changes or funding.",
       "May be viewed as politically motivated rather than substantive action."
     ]
+  },
+  "119/hr/9236": {
+    "pros": [
+      "Could help locate missing persons more quickly through improved alert systems.",
+      "Provides standardized guidelines for high-risk missing person cases."
+    ],
+    "cons": [
+      "May increase administrative burden on law enforcement agencies.",
+      "Could lead to alert fatigue if minimum standards are too broad."
+    ]
+  },
+  "119/hr/9247": {
+    "pros": [
+      "Ensures 24/7 access to suicide prevention services for veterans at all VA centers.",
+      "Could save lives by providing immediate mental health support when needed."
+    ],
+    "cons": [
+      "Would significantly increase staffing costs for VA medical centers.",
+      "Implementation challenges for smaller rural VA facilities with limited resources."
+    ]
+  },
+  "119/s/4746": {
+    "pros": [
+      "Would protect users from discriminatory practices by large tech platforms.",
+      "Creates legal framework to hold major platforms accountable for bias."
+    ],
+    "cons": [
+      "Could face legal challenges regarding free speech and platform autonomy.",
+      "May be difficult to enforce consistently across diverse platform types."
+    ]
+  },
+  "119/s/4712": {
+    "pros": [
+      "Strengthens oversight of intelligence agencies through enhanced IG authority.",
+      "Improves accountability and investigation capacity within intelligence community."
+    ],
+    "cons": [
+      "Could create jurisdictional conflicts with existing law enforcement agencies.",
+      "May face resistance from intelligence agencies concerned about operational security."
+    ]
+  },
+  "119/s/4747": {
+    "pros": [
+      "Provides government flexibility to manage payments during emergencies or fraud detection.",
+      "Could help prevent improper payments and reduce financial waste."
+    ],
+    "cons": [
+      "May delay legitimate payments to beneficiaries who depend on timely disbursements.",
+      "Could create additional bureaucratic complexity in payment processing systems."
+    ]
   }
 }
