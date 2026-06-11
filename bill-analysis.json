@@ -216235,5 +216235,25 @@
     "sponsor_bioguide": "P000622",
     "sponsor_state": "FL",
     "sponsor_chamber": "House"
+  },
+  "119/hres/1346": {
+    "pros": [
+      "Ensures judicial accountability and maintains public trust in the court system.",
+      "Provides constitutional mechanism to remove judges who commit serious misconduct."
+    ],
+    "cons": [
+      "Could undermine judicial independence and discourage bold legal decisions.",
+      "May set precedent for politically motivated attacks on federal judges."
+    ],
+    "title": "Impeaching Eleanor L. Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
+    "summary": "",
+    "policy_area": "",
+    "congress": 119,
+    "type": "hres",
+    "number": "1346",
+    "sponsor_name": "Clay Fuller",
+    "sponsor_bioguide": "F000485",
+    "sponsor_state": "GA",
+    "sponsor_chamber": "House"
   }
 }
