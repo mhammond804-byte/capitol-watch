@@ -216329,5 +216329,45 @@
       "May delay legitimate payments to beneficiaries who depend on timely disbursements.",
       "Could create additional bureaucratic complexity in payment processing systems."
     ]
+  },
+  "119/hr/9225": {
+    "pros": [
+      "Improves aviation safety by studying aircraft certification standards.",
+      "Could modernize regulations for small aircraft operations."
+    ],
+    "cons": [
+      "May require costly changes to existing aviation regulations.",
+      "Could delay implementation of needed safety improvements."
+    ]
+  },
+  "119/hr/9194": {
+    "pros": [
+      "Clarifies requirements for Buy America compliance documentation.",
+      "Reduces regulatory uncertainty for manufacturers and contractors."
+    ],
+    "cons": [
+      "May increase paperwork burden on smaller businesses.",
+      "Could complicate procurement processes for federal agencies."
+    ]
+  },
+  "119/hr/9196": {
+    "pros": [
+      "Ensures quality special education services for deafblind children.",
+      "Addresses significant gaps in specialized educational support."
+    ],
+    "cons": [
+      "May require substantial new federal education funding.",
+      "Could strain resources at schools lacking specialized staff."
+    ]
+  },
+  "119/hr/9195": {
+    "pros": [
+      "Expands deaf education programs and workforce development.",
+      "Strengthens support for students with hearing disabilities."
+    ],
+    "cons": [
+      "Requires significant increase in specialized education funding.",
+      "May face implementation challenges in rural school districts."
+    ]
   }
 }
