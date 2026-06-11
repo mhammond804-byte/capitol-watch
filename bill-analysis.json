@@ -216215,5 +216215,25 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "119/hr/9229": {
+    "pros": [
+      "Addresses an important policy area that needs attention.",
+      "Provides a legislative framework for necessary reforms."
+    ],
+    "cons": [
+      "May have unintended consequences that need careful review.",
+      "Could increase federal spending or regulatory burden."
+    ],
+    "title": "To protect seaports from unmanned aircraft systems, and for other purposes.",
+    "summary": "",
+    "policy_area": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "9229",
+    "sponsor_name": " ",
+    "sponsor_bioguide": "P000622",
+    "sponsor_state": "FL",
+    "sponsor_chamber": "House"
   }
 }
