@@ -30212,6 +30212,16 @@
       "Supports veterans and active-duty service members."
     ]
   },
+  "113/hr/3230": {
+    "cons": [
+      "May increase federal spending on benefit programs without offsets.",
+      "Could create administrative burdens for the VA or other agencies."
+    ],
+    "pros": [
+      "Expands benefits and support for military veterans and their families.",
+      "Ensures timely access to earned benefits and healthcare services."
+    ]
+  },
   "113/hr/3235": {
     "cons": [
       "Increases federal spending and the national debt.",
@@ -31365,6 +31375,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "113/hr/4152": {
+    "cons": [
+      "Increases U.S. taxpayer exposure to foreign loan defaults.",
+      "May escalate tensions with Russia without clear diplomatic strategy."
+    ],
+    "pros": [
+      "Supports Ukraine's sovereignty and economic stability through loan guarantees.",
+      "Strengthens a strategic ally against external aggression."
     ]
   },
   "113/hr/4158": {
@@ -33121,6 +33141,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "113/hr/5230": {
+    "cons": [
+      "Increases federal spending without offsetting revenue measures.",
+      "May include earmarks or pet projects that bypass merit review."
+    ],
+    "pros": [
+      "Provides necessary funding for essential government operations.",
+      "Ensures continuity of federal programs and services."
+    ]
+  },
   "113/hr/5231": {
     "cons": [
       "Increases military spending at the expense of domestic programs.",
@@ -34312,6 +34342,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "113/hr/933": {
+    "cons": [
+      "Increases federal spending without offsetting revenue measures.",
+      "May include earmarks or pet projects that bypass merit review."
+    ],
+    "pros": [
+      "Provides necessary funding for essential government operations.",
+      "Ensures continuity of federal programs and services."
     ]
   },
   "113/hr/939": {
@@ -39794,6 +39834,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "116/hr/5305": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ]
+  },
   "116/hr/5327": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -43662,6 +43712,16 @@
       "Strengthens cybersecurity and protects consumer data."
     ]
   },
+  "117/hr/2358": {
+    "cons": [
+      "May increase federal mandates on state election administration.",
+      "Could raise concerns about voter fraud prevention measures."
+    ],
+    "pros": [
+      "Expands voter access and strengthens election participation.",
+      "Modernizes voter registration systems for greater accessibility."
+    ]
+  },
   "117/hr/2402": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -45736,6 +45796,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "117/hr/5349": {
+    "cons": [
+      "May significantly increase federal infrastructure spending.",
+      "Could create delays in project permitting and environmental review."
+    ],
+    "pros": [
+      "Invests in transportation infrastructure and improves safety.",
+      "Reduces congestion and enhances economic connectivity."
+    ]
+  },
   "117/hr/5354": {
     "cons": [
       "Increases military spending at the expense of domestic programs.",
@@ -46688,6 +46758,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "117/hr/6531": {
+    "cons": [
+      "May reduce federal revenue through new tax credit provisions.",
+      "Could be difficult to administer and verify eligibility."
+    ],
+    "pros": [
+      "Provides targeted tax credits to support underserved communities.",
+      "Encourages economic investment in areas with high need."
+    ]
+  },
   "117/hr/6539": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -46887,6 +46967,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "117/hr/6791": {
+    "cons": [
+      "May increase federal spending on benefit programs without offsets.",
+      "Could create administrative burdens for the VA or other agencies."
+    ],
+    "pros": [
+      "Expands benefits and support for military veterans and their families.",
+      "Ensures timely access to earned benefits and healthcare services."
     ]
   },
   "117/hr/6803": {
@@ -47883,6 +47973,17 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "117/hr/7927": {
+    "cons": [
+      "Could hamper U.S. leadership in global pandemic preparedness efforts.",
+      "May slow international response to future health emergencies."
+    ],
+    "pros": [
+      "Protects U.S. sovereignty over international health policy decisions.",
+      "Prevents executive branch from ceding authority without congressional approval."
+    ],
+    "summary": "This bill prohibits the federal government from proposing any agreement among World Health Organization (WHO) member states that would modify authorities under U.S. law unless the proposal is authorized in advance by an act of Congress. The bill also prohibits the federal government from"
+  },
   "117/hr/7958": {
     "cons": [
       "Increases federal spending and the national debt.",
@@ -48213,6 +48314,17 @@
       "Strengthens cybersecurity and protects consumer data."
     ]
   },
+  "117/hr/8389": {
+    "cons": [
+      "Authorizes study but does not guarantee actual restoration funding.",
+      "Army Corps involvement may slow action with lengthy feasibility studies."
+    ],
+    "pros": [
+      "Authorizes study of critically endangered saline lake ecosystems.",
+      "Supports ecosystem restoration and drought mitigation planning."
+    ],
+    "summary": "Great Salt Lake Recovery Act This bill authorizes the U.S. Army Corps of Engineers to study the hydrology of saline lake ecosystems in the Great Basin, including the Great Salt Lake, Utah, as well as to investigate the feasibility of a project for ecosystem restoration and drought"
+  },
   "117/hr/8401": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -48261,6 +48373,17 @@
       "Reduces tax burden on individuals and businesses.",
       "Provides targeted incentives for economic growth."
     ]
+  },
+  "117/hr/8451": {
+    "cons": [
+      "Creates new federal program costs without specified funding source.",
+      "May overlap with existing state and local search and rescue efforts."
+    ],
+    "pros": [
+      "Funds critical search and rescue operations on federal lands.",
+      "Coordinates resources across Interior and Agriculture departments."
+    ],
+    "summary": "Public Land Search and Rescue Act of 2022 This bill directs the Department of Justice (DOJ) to establish a program to allocate resources to remote search and rescue activities conducted on lands under the jurisdiction of the Department of Agriculture or the Department of"
   },
   "117/hr/8467": {
     "cons": [
@@ -48474,6 +48597,17 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "117/hr/8726": {
+    "cons": [
+      "Could undermine Ukraine's ability to defend against Russian aggression.",
+      "Adds bureaucratic certification requirements that slow critical aid."
+    ],
+    "pros": [
+      "Prevents U.S. intelligence from indirectly aiding China's interests.",
+      "Ensures Ukraine is not receiving support while helping adversaries."
+    ],
+    "summary": "This bill prohibits the federal government from sharing intelligence with or providing security assistance to Ukraine in the absence of a certification that Ukraine is not accepting or attempting to secure bilateral assistance from China."
+  },
   "117/hr/8761": {
     "cons": [
       "May separate families or limit humanitarian protections.",
@@ -48615,6 +48749,16 @@
       "Protects patients and improves health outcomes."
     ]
   },
+  "117/hr/9041": {
+    "cons": [
+      "May significantly increase federal spending on industrial policy.",
+      "Could create market distortions in manufacturing sectors."
+    ],
+    "pros": [
+      "Invests in domestic manufacturing and clean energy jobs.",
+      "Reduces reliance on foreign supply chains for key industries."
+    ]
+  },
   "117/hr/9053": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -48653,6 +48797,26 @@
     "pros": [
       "Establishes a federal grant program to improve tribal law enforcement capabilities.",
       "Directs the Department of Interior to administer the program for tribes."
+    ]
+  },
+  "117/hr/9097": {
+    "cons": [
+      "Increases federal spending on employee compensation.",
+      "May not address performance or accountability concerns."
+    ],
+    "pros": [
+      "Improves compensation and benefits for federal employees.",
+      "Helps recruit and retain talented public sector workers."
+    ]
+  },
+  "117/hr/9098": {
+    "cons": [
+      "May raise proliferation concerns with international agreements.",
+      "Could face regulatory and safety challenges in implementation."
+    ],
+    "pros": [
+      "Promotes domestic nuclear energy development and exports.",
+      "Strengthens international cooperation on nuclear regulation."
     ]
   },
   "117/hr/9138": {
@@ -48815,6 +48979,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "117/hr/9466": {
+    "cons": [
+      "May increase federal spending on housing assistance programs.",
+      "Could add bureaucratic layers without directly building housing."
+    ],
+    "pros": [
+      "Addresses housing affordability and expands access to housing.",
+      "Coordinates federal housing policy through an interagency council."
+    ]
+  },
   "117/hr/9475": {
     "cons": [
       "Grant funding flows through state agencies, adding administrative overhead.",
@@ -48906,6 +49080,28 @@
     "summary": "This bill expands eligibility for the Bureau of Reclamation's competitive grant program for small water storage and groundwater storage projects. Under the bill, eligible projects must have a capacity of not less than 200 acre-feet (AF) of water. Current law requires an eligible project to ha...",
     "title": "To amend the Infrastructure Investment and Jobs Act to modify the eligibility requirements for certain small water storage and groundwater storage projects and to authorize the use of funds for certai",
     "type": "hr"
+  },
+  "117/hr/9521": {
+    "cons": [
+      "Could hinder legitimate international scientific collaboration.",
+      "May be difficult to enforce without harming broader research ties."
+    ],
+    "pros": [
+      "Prevents taxpayer funds from supporting foreign adversary laboratories.",
+      "Strengthens national security by restricting risky research funding."
+    ],
+    "summary": "Stop Adversarial Funding Expenditures for Laboratories Act or the SAFE Laboratories Act This bill prohibits federal assistance to the Wuhan Institute of Virology or any other laboratory located in a country determined to be a foreign adversary, including China, Russia, North Korea,"
+  },
+  "117/hr/9563": {
+    "cons": [
+      "Reduces revenue available for maintaining federal hydroelectric infrastructure.",
+      "May create budget shortfalls for the Western Area Power Administration."
+    ],
+    "pros": [
+      "Protects customers from paying for hydropower shortfalls they didn't cause.",
+      "Provides financial relief during drought-related generation decreases."
+    ],
+    "summary": "This bill requires the Western Area Power Administration to provide customers with a credit that reflects decreased hydropower output from specified projects until December 31, 2026."
   },
   "117/hr/9586": {
     "cons": [
@@ -49847,6 +50043,36 @@
       "Enables timely consideration of important legislation."
     ]
   },
+  "117/hres/861": {
+    "cons": [
+      "May have unintended effects beyond its stated purpose.",
+      "Could require additional legislation to address gaps or oversights."
+    ],
+    "pros": [
+      "Addresses a specific policy concern through targeted legislation.",
+      "Provides a framework for addressing an identified public issue."
+    ]
+  },
+  "117/hres/862": {
+    "cons": [
+      "May have unintended effects beyond its stated purpose.",
+      "Could require additional legislation to address gaps or oversights."
+    ],
+    "pros": [
+      "Addresses a specific policy concern through targeted legislation.",
+      "Provides a framework for addressing an identified public issue."
+    ]
+  },
+  "117/hres/863": {
+    "cons": [
+      "Is a procedural matter with limited substantive policy impact.",
+      "Uses legislative floor time that could address more pressing issues."
+    ],
+    "pros": [
+      "Establishes the House meeting schedule for legislative business.",
+      "Provides procedural clarity for the day's floor proceedings."
+    ]
+  },
   "117/hres/866": {
     "cons": [
       "Uses congressional time for non-binding resolutions.",
@@ -50372,6 +50598,16 @@
       "Preserves free market for internet providers."
     ]
   },
+  "118/hjres/168": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ]
+  },
   "118/hjres/200": {
     "cons": [
       "Increases government spending on healthcare programs.",
@@ -50380,6 +50616,16 @@
     "pros": [
       "Expands access to affordable healthcare services.",
       "Lowers out-of-pocket costs for patients."
+    ]
+  },
+  "118/hjres/204": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
     ]
   },
   "118/hjres/218": {
@@ -50669,6 +50915,16 @@
       "Strengthens energy security for allied nations."
     ]
   },
+  "118/hr/10016": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ]
+  },
   "118/hr/10023": {
     "congress": 118,
     "cons": [
@@ -50768,6 +51024,26 @@
     "pros": [
       "Removes non-citizens who vote illegally from the electorate.",
       "Strengthens election integrity by enforcing existing voting laws."
+    ]
+  },
+  "118/hr/10082": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "118/hr/10084": {
+    "cons": [
+      "May have unintended effects beyond its stated purpose.",
+      "Could require additional legislation to address gaps or oversights."
+    ],
+    "pros": [
+      "Addresses a specific policy concern through targeted legislation.",
+      "Provides a framework for addressing an identified public issue."
     ]
   },
   "118/hr/10086": {
@@ -50973,6 +51249,16 @@
     "pros": [
       "Expands access to affordable housing options.",
       "Helps families achieve homeownership and stability."
+    ]
+  },
+  "118/hr/10183": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
     ]
   },
   "118/hr/10184": {
@@ -51313,6 +51599,16 @@
       "Strengthens legal safeguards for vulnerable minors."
     ]
   },
+  "118/hr/10432": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ]
+  },
   "118/hr/10433": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -51589,6 +51885,16 @@
     "summary": "",
     "title": "Medicare for America Act of 2024",
     "type": "hr"
+  },
+  "118/hr/10536": {
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ]
   },
   "118/hr/10540": {
     "cons": [
@@ -51983,6 +52289,17 @@
       "Protects young children in low-income housing from dangerous lead exposure.",
       "Requires targeted risk assessments of federally assisted housing properties."
     ]
+  },
+  "118/hr/1373": {
+    "cons": [
+      "Could hinder legitimate international scientific collaboration.",
+      "May be difficult to enforce without harming broader research ties."
+    ],
+    "pros": [
+      "Prevents taxpayer funds from supporting foreign adversary laboratories.",
+      "Strengthens national security by restricting risky research funding."
+    ],
+    "summary": "Stop Adversarial Funding Expenditures for Laboratories Act or the SAFE Laboratories Act This bill prohibits federal assistance to the Wuhan Institute of Virology or any other laboratory located in a country determined to be a foreign adversary, including China, Russia, North Korea,"
   },
   "118/hr/1378": {
     "congress": 118,
@@ -52780,6 +53097,16 @@
       "Helps families achieve homeownership and stability."
     ]
   },
+  "118/hr/2403": {
+    "cons": [
+      "May face legal challenges over constitutional protections.",
+      "Could impose burdens on lawful gun owners and dealers."
+    ],
+    "pros": [
+      "Enhances public safety through responsible firearm regulations.",
+      "Respects Second Amendment rights while addressing gun violence."
+    ]
+  },
   "118/hr/2411": {
     "cons": [
       "Pilot program scope may be too limited to have broad impact.",
@@ -53196,6 +53523,27 @@
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
     ]
+  },
+  "118/hr/2883": {
+    "cons": [
+      "May significantly increase federal spending on industrial policy.",
+      "Could create market distortions in manufacturing sectors."
+    ],
+    "pros": [
+      "Invests in domestic manufacturing and clean energy jobs.",
+      "Reduces reliance on foreign supply chains for key industries."
+    ]
+  },
+  "118/hr/2910": {
+    "cons": [
+      "Adds administrative costs for the federal court system.",
+      "May not see enough caseload to justify new court locations."
+    ],
+    "pros": [
+      "Improves access to federal courts for rural Utah communities.",
+      "Saves travel time and expense for residents of Moab and Monticello."
+    ],
+    "summary": "This bill adds Moab and Monticello to the list of places where court must be held in the Central Division of the U.S. District Court of Utah."
   },
   "118/hr/2912": {
     "cons": [
@@ -53726,6 +54074,16 @@
       "Creates jobs and stimulates economic activity."
     ]
   },
+  "118/hr/3355": {
+    "cons": [
+      "May increase federal healthcare spending without funding offsets.",
+      "Could create regulatory burdens for healthcare providers."
+    ],
+    "pros": [
+      "Improves access to healthcare services and treatment options.",
+      "Addresses critical public health needs through targeted programming."
+    ]
+  },
   "118/hr/3364": {
     "congress": 118,
     "cons": [
@@ -53899,6 +54257,17 @@
       "Offers back pay and benefits to those separated under the COVID-19 mandate."
     ]
   },
+  "118/hr/3460": {
+    "cons": [
+      "May reduce transparency by merging defense funds into military budgets.",
+      "Could crowd out funding for other Department of Defense priorities."
+    ],
+    "pros": [
+      "Streamlines budgeting for critical chemical and biological defense programs.",
+      "Ensures military departments can adequately fund defense against bioweapons."
+    ],
+    "summary": "Chemical and Biological Defense Program Improvement Act of 2023This bill allows the Department of Defense to include funding requests for the chemical and biological defense program within the budget accounts of the military departments."
+  },
   "118/hr/3481": {
     "congress": 118,
     "cons": [
@@ -54002,6 +54371,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "118/hr/3576": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hr/3578": {
     "cons": [
       "Government regulation may slow technological progress.",
@@ -54021,6 +54400,28 @@
       "Provides funding for essential government programs.",
       "Supports critical infrastructure and public services."
     ]
+  },
+  "118/hr/3594": {
+    "cons": [
+      "Could reduce transportation funding available for urban infrastructure.",
+      "May add complexity to DOT's existing grant allocation formulas."
+    ],
+    "pros": [
+      "Improves transportation funding access for rural public land counties.",
+      "Expands tribal and local government participation in DOT grant programs."
+    ],
+    "summary": "More Opportunities for Rural Economies from DOT Grants Act or the MORE DOT Grants Act This bill revises the process for awarding grants to high-density public land counties and any units of tribal or local governments within such counties under certain Department of Transpo"
+  },
+  "118/hr/3595": {
+    "cons": [
+      "May redirect USDA grant funds away from non-rural agricultural needs.",
+      "Could increase federal bureaucracy in the grant application process."
+    ],
+    "pros": [
+      "Helps rural counties with high public land density access federal grants.",
+      "Includes tribal governments in grant eligibility for rural development."
+    ],
+    "summary": "More Opportunities for Rural Economies from USDA Grants Act or the MORE USDA Grants Act This bill revises the process for awarding grants under certain programs of the Department of Agriculture (USDA) to high-density public land counties and any units of tribal or local gov"
   },
   "118/hr/3616": {
     "cons": [
@@ -54062,6 +54463,28 @@
     "summary": "Save Rural Hospitals Act of 2023 This bill establishes an area wage adjustment floor for Medicare hospital payments in states that are not frontier states. The Centers for Medicare & Medicaid Services must establish a maximum rate to preserve budget neutrality.",
     "title": "Save Rural Hospitals Act of 2023",
     "type": "hr"
+  },
+  "118/hr/364": {
+    "cons": [
+      "Could create time zone chaos with neighboring states on different schedules.",
+      "May disrupt interstate commerce and transportation schedules."
+    ],
+    "pros": [
+      "Allows states to choose year-round daylight saving time.",
+      "Gives states more flexibility over their time zone policies."
+    ],
+    "summary": "Daylight Act This bill allows states to observe daylight savings time year-round. (States may already choose to observe standard time year-round.)"
+  },
+  "118/hr/365": {
+    "cons": [
+      "Gives away federal property without compensation to taxpayers.",
+      "Sets a precedent for other universities seeking land transfers."
+    ],
+    "pros": [
+      "Transfers unused federal land to the University of Utah for beneficial use.",
+      "Eliminates federal maintenance costs on non-essential land holdings."
+    ],
+    "summary": "This bill releases to the University of Utah, without consideration, the reversionary interest of the United States in approximately 593 acres of specified nonfederal land."
   },
   "118/hr/3651": {
     "cons": [
@@ -54245,6 +54668,16 @@
     "pros": [
       "Invests in education and workforce development.",
       "Expands opportunities for students and teachers."
+    ]
+  },
+  "118/hr/3849": {
+    "cons": [
+      "May increase federal spending on agricultural programs.",
+      "Could create trade tensions with international agricultural partners."
+    ],
+    "pros": [
+      "Supports American farmers and strengthens agricultural communities.",
+      "Enhances food security and rural economic development."
     ]
   },
   "118/hr/3870": {
@@ -54469,6 +54902,16 @@
     "pros": [
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
+    ]
+  },
+  "118/hr/4079": {
+    "cons": [
+      "May increase federal healthcare spending without funding offsets.",
+      "Could create regulatory burdens for healthcare providers."
+    ],
+    "pros": [
+      "Improves access to healthcare services and treatment options.",
+      "Addresses critical public health needs through targeted programming."
     ]
   },
   "118/hr/4105": {
@@ -54724,6 +55167,28 @@
       "Provides manufacturers more time to comply with changing efficiency requirements."
     ]
   },
+  "118/hr/438": {
+    "cons": [
+      "Could be misleading without context of government benefits received.",
+      "Adds administrative burden to the President's budget preparation."
+    ],
+    "pros": [
+      "Increases transparency by showing taxpayers the cost of government.",
+      "Helps citizens understand their share of national debt and deficits."
+    ],
+    "summary": "True Cost Act This bill requires the President's annual budget submission to Congress to include estimates of the cost per individual taxpayer for (1) the public debt, and (2) any projected budget deficit for a fiscal year."
+  },
+  "118/hr/439": {
+    "cons": [
+      "Creates new federal program costs without specified funding source.",
+      "May overlap with existing state and local search and rescue efforts."
+    ],
+    "pros": [
+      "Funds critical search and rescue operations on federal lands.",
+      "Coordinates resources across Interior and Agriculture departments."
+    ],
+    "summary": "Public Land Search and Rescue Act This bill directs the Department of the Interior to establish a program to allocate resources to remote search and rescue activities conducted on lands under the jurisdiction of the Department of Agriculture or Interior. Interior"
+  },
   "118/hr/4427": {
     "cons": [
       "Reduces funding for highway safety and infrastructure in affected states.",
@@ -54752,6 +55217,16 @@
     "pros": [
       "Reduces tax burden on individuals and businesses.",
       "Provides targeted incentives for economic growth."
+    ]
+  },
+  "118/hr/4490": {
+    "cons": [
+      "May increase federal healthcare spending without funding offsets.",
+      "Could create regulatory burdens for healthcare providers."
+    ],
+    "pros": [
+      "Improves access to healthcare services and treatment options.",
+      "Addresses critical public health needs through targeted programming."
     ]
   },
   "118/hr/4491": {
@@ -55346,6 +55821,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "118/hr/5004": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hr/5021": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -55623,6 +56108,16 @@
       "Protects patients and improves health outcomes."
     ]
   },
+  "118/hr/5389": {
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
+    ]
+  },
   "118/hr/5396": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -55827,6 +56322,17 @@
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
     ]
+  },
+  "118/hr/5514": {
+    "cons": [
+      "Adds to federal spending without a guaranteed reduction in suicide rates.",
+      "May duplicate existing state-level suicide prevention efforts."
+    ],
+    "pros": [
+      "Could save lives by expanding suicide surveillance and prevention programs.",
+      "Funds state and local health departments to address self-harm trends."
+    ],
+    "summary": "Suicide Prevention Act This bill establishes two grant programs to prevent self-harm and suicide. The Centers for Disease Control and Prevention must award grants to state, local, and tribal health departments to expand surveillance of self-harm, and the Substance Abuse and Me"
   },
   "118/hr/5522": {
     "cons": [
@@ -56136,6 +56642,16 @@
     "title": "Johanna\u2019s Law Reauthorization Act",
     "type": "hr"
   },
+  "118/hr/5840": {
+    "cons": [
+      "May increase federal infrastructure spending without clear funding.",
+      "Could create delays through new administrative requirements."
+    ],
+    "pros": [
+      "Invests in critical transportation infrastructure and safety.",
+      "Improves mobility and connectivity for communities."
+    ]
+  },
   "118/hr/5844": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -56194,6 +56710,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "118/hr/5893": {
+    "cons": [
+      "Increases federal spending without offsetting revenue measures.",
+      "May include earmarks or pet projects that bypass merit review."
+    ],
+    "pros": [
+      "Provides necessary funding for essential government operations.",
+      "Ensures continuity of federal programs and services."
     ]
   },
   "118/hr/5894": {
@@ -56264,6 +56790,16 @@
     "pros": [
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
+    ]
+  },
+  "118/hr/6008": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
     ]
   },
   "118/hr/6015": {
@@ -56337,6 +56873,26 @@
     "summary": "",
     "title": "CHILD Labor Act",
     "type": "hr"
+  },
+  "118/hr/6083": {
+    "cons": [
+      "May increase federal spending on benefit programs without offsets.",
+      "Could create administrative burdens for the VA or other agencies."
+    ],
+    "pros": [
+      "Expands benefits and support for military veterans and their families.",
+      "Ensures timely access to earned benefits and healthcare services."
+    ]
+  },
+  "118/hr/6084": {
+    "cons": [
+      "Increases federal spending without offsetting cuts elsewhere.",
+      "Aid distribution may face bureaucratic delays and inefficiencies."
+    ],
+    "pros": [
+      "Provides relief for communities affected by natural disasters.",
+      "Speeds up recovery and rebuilding efforts for impacted areas."
+    ]
   },
   "118/hr/6097": {
     "cons": [
@@ -56530,6 +57086,16 @@
       "Strengthens cybersecurity and protects consumer data."
     ]
   },
+  "118/hr/6239": {
+    "cons": [
+      "Does not address broader operational issues at the Postal Service.",
+      "Spends legislative time on a naming measure rather than policy."
+    ],
+    "pros": [
+      "Honors a local figure by naming a postal facility after them.",
+      "Provides recognition for community service and contributions."
+    ]
+  },
   "118/hr/6240": {
     "cons": [
       "May have broader economic or regulatory implications.",
@@ -56570,6 +57136,16 @@
       "Strengthens cybersecurity and protects consumer data."
     ]
   },
+  "118/hr/6268": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ]
+  },
   "118/hr/6326": {
     "cons": [
       "Increases federal control over local education decisions.",
@@ -56608,6 +57184,16 @@
     "pros": [
       "Addresses a specific policy issue requiring legislative action.",
       "Provides a targeted solution to a defined problem."
+    ]
+  },
+  "118/hr/6375": {
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
     ]
   },
   "118/hr/6377": {
@@ -56690,6 +57276,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "118/hr/6525": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hr/6527": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -56708,6 +57304,16 @@
     "pros": [
       "Protects natural resources and public health.",
       "Promotes clean energy and environmental sustainability."
+    ]
+  },
+  "118/hr/6546": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Promotes environmental protection and sustainability.",
+      "Could help address climate change and reduce emissions."
     ]
   },
   "118/hr/6571": {
@@ -56748,6 +57354,16 @@
     "pros": [
       "Addresses a specific policy issue requiring legislative action.",
       "Provides a targeted solution to a defined problem."
+    ]
+  },
+  "118/hr/6595": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "118/hr/660": {
@@ -56860,6 +57476,16 @@
     "pros": [
       "Provides grants to support community development projects",
       "Targets federal funding to high-need areas"
+    ]
+  },
+  "118/hr/6644": {
+    "cons": [
+      "May increase federal spending on benefit programs without offsets.",
+      "Could create administrative burdens for the VA or other agencies."
+    ],
+    "pros": [
+      "Expands benefits and support for military veterans and their families.",
+      "Ensures timely access to earned benefits and healthcare services."
     ]
   },
   "118/hr/6672": {
@@ -57082,6 +57708,16 @@
     "pros": [
       "Honors a local hero and preserves community historical legacy.",
       "No cost to taxpayers for a simple post office name designation."
+    ]
+  },
+  "118/hr/6814": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
     ]
   },
   "118/hr/6823": {
@@ -57456,6 +58092,16 @@
       "Provides a targeted solution to a defined problem."
     ]
   },
+  "118/hr/7218": {
+    "cons": [
+      "May increase federal healthcare spending without funding offsets.",
+      "Could create regulatory burdens for healthcare providers."
+    ],
+    "pros": [
+      "Improves access to healthcare services and treatment options.",
+      "Addresses critical public health needs through targeted programming."
+    ]
+  },
   "118/hr/7285": {
     "congress": 118,
     "cons": [
@@ -57789,6 +58435,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "118/hr/7532": {
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "pros": [
+      "Addresses a targeted policy issue needing legislative action.",
+      "Provides a structured approach to a specific problem."
     ]
   },
   "118/hr/7534": {
@@ -58629,6 +59285,17 @@
       "Protects local hunting and fishing traditions from wilderness restrictions."
     ]
   },
+  "118/hr/821": {
+    "cons": [
+      "Raises privacy concerns around mandatory age verification systems.",
+      "Could restrict teens' access to positive online communities."
+    ],
+    "pros": [
+      "Protects children under 16 from harmful social media content.",
+      "Requires age verification to enforce child safety standards."
+    ],
+    "summary": "Social Media Child Protection Act This bill limits access to social media platforms by children and requires all individuals to verify their age before accessing such platforms. Specifically, a social media platform may not permit children under the age of 16 to access the p"
+  },
   "118/hr/8211": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -58658,6 +59325,17 @@
       "Ensures only U.S. citizens can vote in D.C. local elections.",
       "Aligns D.C. election laws with federal citizenship requirements."
     ]
+  },
+  "118/hr/822": {
+    "cons": [
+      "Increases federal spending on grant programs without proven outcomes.",
+      "May overlap with existing school-based mental health services."
+    ],
+    "pros": [
+      "Provides free mental health support to students in crisis.",
+      "Expands access via phone and digital communication platforms."
+    ],
+    "summary": "Student Mental Health Helpline Act This bill authorizes grants to support student mental health and safety helplines (i.e., a free, confidential service that is accessible via telephone and other communication platforms that assists students facing challenges with abuse,"
   },
   "118/hr/8220": {
     "cons": [
@@ -58737,6 +59415,16 @@
     "pros": [
       "Reduces tax burden on individuals and businesses.",
       "Provides targeted incentives for economic growth."
+    ]
+  },
+  "118/hr/8296": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "118/hr/8303": {
@@ -59180,6 +59868,16 @@
       "Could lower housing costs by streamlining approval processes."
     ]
   },
+  "118/hr/8607": {
+    "cons": [
+      "May increase federal spending on housing assistance programs.",
+      "Could create market distortions that affect housing supply."
+    ],
+    "pros": [
+      "Addresses housing affordability and expands access to housing.",
+      "Provides relief for renters and homeowners facing cost burdens."
+    ]
+  },
   "118/hr/8608": {
     "cons": [
       "May impose additional paperwork burdens on law-abiding gun owners.",
@@ -59282,6 +59980,16 @@
     "title": "Financial Reporting Threshold Modernization Act",
     "type": "hr"
   },
+  "118/hr/8705": {
+    "cons": [
+      "May impose regulatory costs on businesses and industry.",
+      "Could increase energy costs for consumers and ratepayers."
+    ],
+    "pros": [
+      "Promotes environmental conservation and clean energy development.",
+      "Protects natural resources for future generations."
+    ]
+  },
   "118/hr/8715": {
     "cons": [
       "Creates a new federal program with uncertain long-term costs.",
@@ -59322,6 +60030,16 @@
     "summary": "",
     "title": "American Business for American Companies Act of 2024",
     "type": "hr"
+  },
+  "118/hr/8728": {
+    "cons": [
+      "Increases federal spending without offsetting cuts elsewhere.",
+      "Aid distribution may face bureaucratic delays and inefficiencies."
+    ],
+    "pros": [
+      "Provides relief for communities affected by natural disasters.",
+      "Speeds up recovery and rebuilding efforts for impacted areas."
+    ]
   },
   "118/hr/8731": {
     "congress": 118,
@@ -60897,6 +61615,16 @@
       "Supports veterans and active-duty service members."
     ]
   },
+  "118/hr/9727": {
+    "cons": [
+      "May increase federal mandates on state election administration.",
+      "Could raise concerns about voter fraud prevention measures."
+    ],
+    "pros": [
+      "Expands voter access and strengthens election participation.",
+      "Modernizes voter registration systems for greater accessibility."
+    ]
+  },
   "118/hr/9730": {
     "cons": [
       "Raises privacy concerns about continuous surveillance of airport public spaces.",
@@ -61301,6 +62029,16 @@
       "Reduces bureaucratic red tape and waste."
     ]
   },
+  "118/hr/9921": {
+    "cons": [
+      "Benefits a single parish rather than nationwide impact.",
+      "Increases federal spending on regional development."
+    ],
+    "pros": [
+      "Expands economic development opportunities in Louisiana.",
+      "Provides federal resources for Terrebonne Parish growth."
+    ]
+  },
   "118/hr/9938": {
     "cons": [
       "Reduces safety oversight for experimental therapies",
@@ -61604,6 +62342,16 @@
       "Provides official recognition through congressional action."
     ]
   },
+  "118/hres/1225": {
+    "cons": [
+      "May increase federal spending on benefit programs without offsets.",
+      "Could create administrative burdens for the VA or other agencies."
+    ],
+    "pros": [
+      "Expands benefits and support for military veterans and their families.",
+      "Ensures timely access to earned benefits and healthcare services."
+    ]
+  },
   "118/hres/1226": {
     "cons": [
       "No direct impact on law or government operations.",
@@ -61817,6 +62565,16 @@
     "summary": "<p>This resolution impeaches Justice Samuel Alito, Jr. for high crimes and misdemeanors for (1) refusing to disqualify himself from proceedings in which his impartiality might reasonably be questioned, and (2) failing to disclose certain gifts (i.e., travel) in required financial disclosure reports.",
     "title": "Impeaching Samuel Alito, Jr., Associate Justice of the Supreme Court of the United States, for high crimes and misdemeanors."
   },
+  "118/hres/1376": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hres/1381": {
     "cons": [
       "Non-binding resolution has no legislative effect",
@@ -61867,6 +62625,16 @@
     "summary": "This resolution expresses the sense that federal funds should not be used to (1) arm school personnel with firearms, or (2) train school personnel in the use of firearms.",
     "title": "Expressing support for keeping guns out of classrooms.",
     "type": "hres"
+  },
+  "118/hres/1410": {
+    "cons": [
+      "No direct impact on law or government operations.",
+      "Consumes legislative resources without binding effect."
+    ],
+    "pros": [
+      "Advances consideration of Social Security reform legislation.",
+      "Addresses retirement income inequities for public workers."
+    ]
   },
   "118/hres/1419": {
     "cons": [
@@ -62210,6 +62978,16 @@
       "Reflects the chamber's priorities and values."
     ]
   },
+  "118/hres/1565": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hres/1566": {
     "cons": [
       "Uses congressional time for non-binding resolutions.",
@@ -62270,6 +63048,16 @@
       "Supports congressional investigation capacity."
     ]
   },
+  "118/hres/1591": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hres/1592": {
     "cons": [
       "No direct impact on law or government operations.",
@@ -62288,6 +63076,26 @@
     "pros": [
       "Expresses the chamber's official position on an issue.",
       "Signals priorities without requiring presidential action."
+    ]
+  },
+  "118/hres/1595": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "118/hres/1611": {
+    "cons": [
+      "No direct impact on law or government operations.",
+      "Consumes legislative resources without binding effect."
+    ],
+    "pros": [
+      "Updates House rules for improved legislative procedures.",
+      "Ensures current and accurate parliamentary guidance."
     ]
   },
   "118/hres/178": {
@@ -62588,6 +63396,16 @@
     "pros": [
       "Highlights importance of rural news and farming information",
       "Supports media access for underserved agricultural communities"
+    ]
+  },
+  "118/hres/453": {
+    "cons": [
+      "May face legal challenges over constitutional protections.",
+      "Could impose burdens on lawful gun owners and dealers."
+    ],
+    "pros": [
+      "Enhances public safety through responsible firearm regulations.",
+      "Respects Second Amendment rights while addressing gun violence."
     ]
   },
   "118/hres/464": {
@@ -63026,6 +63844,26 @@
       "Reflects the chamber's priorities and values."
     ]
   },
+  "118/hres/891": {
+    "cons": [
+      "May increase government spending and fiscal burden.",
+      "Could have unintended economic consequences."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "118/hres/898": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hres/900": {
     "cons": [
       "Simple resolution has no binding policy or funding effects.",
@@ -63074,6 +63912,16 @@
     "pros": [
       "Condemning sexual violence as a weapon of war upholds international human rights.",
       "Calling on nations to criminalize sexual assault strengthens global accountability."
+    ]
+  },
+  "118/hres/979": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Could improve healthcare access and quality for Americans.",
+      "May reduce healthcare costs and administrative burden."
     ]
   },
   "118/hres/982": {
@@ -63166,6 +64014,16 @@
     "pros": [
       "Allows remote online notarization, increasing convenience for users.",
       "Facilitates commerce by enabling electronic notarization across state lines."
+    ]
+  },
+  "118/s/1323": {
+    "cons": [
+      "May impose additional regulatory burdens on businesses.",
+      "Could face implementation challenges and compliance costs."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "118/s/1358": {
@@ -91636,6 +92494,16 @@
       "Protects patients and improves health outcomes."
     ]
   },
+  "119/hr/4207": {
+    "cons": [
+      "Could delay U.S. participation in global pandemic response efforts.",
+      "May weaken international cooperation on public health threats."
+    ],
+    "pros": [
+      "Preserves Senate authority over international treaty ratification.",
+      "Prevents executive overreach in global health commitments."
+    ]
+  },
   "119/hr/4208": {
     "cons": [
       "Reduces federal revenue and increases the deficit.",
@@ -92281,6 +93149,26 @@
     "pros": [
       "Provides financial stability for rural emergency hospitals at risk of closure.",
       "Ensures continued access to emergency care in remote areas."
+    ]
+  },
+  "119/hr/4278": {
+    "cons": [
+      "Could complicate international business operations and compliance.",
+      "May add new reporting burdens on American companies."
+    ],
+    "pros": [
+      "Protects U.S. companies from unfair foreign taxation practices.",
+      "Increases accountability and transparency in tax administration."
+    ]
+  },
+  "119/hr/4279": {
+    "cons": [
+      "May isolate US firms from global ESG and sustainability standards.",
+      "Could disadvantage American companies in international trade."
+    ],
+    "pros": [
+      "Protects US companies from costly foreign regulatory compliance.",
+      "Preserves American sovereignty over corporate governance standards."
     ]
   },
   "119/hr/428": {
@@ -94016,6 +94904,16 @@
       "Boosts local tourism in the Vicksburg region."
     ]
   },
+  "119/hr/4468": {
+    "cons": [
+      "Could hinder law enforcement investigations and prosecutions.",
+      "May create legal loopholes that delay justice proceedings."
+    ],
+    "pros": [
+      "Protects individual rights during federal investigations.",
+      "Ensures fair treatment of persons interviewed by federal agencies."
+    ]
+  },
   "119/hr/4469": {
     "cons": [
       "Could reduce federal revenue without corresponding spending reductions.",
@@ -94720,6 +95618,16 @@
     "pros": [
       "Protects the Everglades ecosystem from industrial encroachment.",
       "Prevents animal confinement facilities in sensitive wetlands."
+    ]
+  },
+  "119/hr/4546": {
+    "cons": [
+      "Could undermine state and local efforts to reduce gun violence.",
+      "May allow high-capacity magazines used in mass shootings."
+    ],
+    "pros": [
+      "Protects the Second Amendment rights of law-abiding gun owners.",
+      "Prevents arbitrary limits on standard-capacity firearm magazines."
     ]
   },
   "119/hr/4547": {
@@ -95454,6 +96362,16 @@
     "pros": [
       "Honors the service and sacrifice of American heroes.",
       "Preserves important historical memory and recognition."
+    ]
+  },
+  "119/hr/4622": {
+    "cons": [
+      "Adds to the administrative burden on the VA benefits system.",
+      "May create eligibility discrepancies among different veteran groups."
+    ],
+    "pros": [
+      "Expands benefits and recognition for military veterans.",
+      "Ensures veterans receive proper acknowledgment for their service."
     ]
   },
   "119/hr/4623": {
@@ -96571,6 +97489,16 @@
     "pros": [
       "Strengthens border security and immigration enforcement measures.",
       "Creates a more orderly and lawful immigration system."
+    ]
+  },
+  "119/hr/4743": {
+    "cons": [
+      "Could reduce legal immigration pathways for certain applicants.",
+      "May have unintended consequences on family-based immigration."
+    ],
+    "pros": [
+      "Reforms immigration law to better align with national interests.",
+      "Eliminates outdated provisions that may hinder enforcement."
     ]
   },
   "119/hr/4744": {
@@ -100370,6 +101298,16 @@
       "Provides law enforcement a clear tool to manage public property use in the District."
     ]
   },
+  "119/hr/5165": {
+    "cons": [
+      "Is largely ceremonial with no substantive policy changes.",
+      "Uses legislative resources on symbolic measures."
+    ],
+    "pros": [
+      "Recognizes important cultural and recreational activities.",
+      "Supports local economies through sports and outdoor recreation."
+    ]
+  },
   "119/hr/5166": {
     "cons": [
       "Omnibus appropriations bills attract unrelated policy riders.",
@@ -101916,6 +102854,16 @@
       "Addresses the financial security needs of aging Americans."
     ]
   },
+  "119/hr/5346": {
+    "cons": [
+      "Could complicate international business operations and compliance.",
+      "May add new reporting burdens on American companies."
+    ],
+    "pros": [
+      "Protects U.S. companies from unfair foreign taxation practices.",
+      "Increases accountability and transparency in tax administration."
+    ]
+  },
   "119/hr/5347": {
     "cons": [
       "Could weaken patient protections and care quality standards.",
@@ -103232,6 +104180,16 @@
     "pros": [
       "Denies U.S. entry to individuals sanctioned under Executive Order 13876.",
       "Strengthens enforcement of sanctions against Iranian regime officials."
+    ]
+  },
+  "119/hr/5497": {
+    "cons": [
+      "May restrict commercial activities like logging and mining.",
+      "Could limit local economic development near park boundaries."
+    ],
+    "pros": [
+      "Protects natural landscapes and public lands for future generations.",
+      "Boosts tourism and outdoor recreation opportunities."
     ]
   },
   "119/hr/5498": {
@@ -105977,6 +106935,16 @@
     "pros": [
       "Honors a former president with a prestigious congressional gold medal.",
       "Provides lasting historical recognition in the U.S. Capitol."
+    ]
+  },
+  "119/hr/5791": {
+    "cons": [
+      "May impose new regulatory requirements on blood collection centers.",
+      "Could increase operational costs for healthcare facilities."
+    ],
+    "pros": [
+      "Strengthens the nation's blood supply and healthcare infrastructure.",
+      "Supports critical medical services for communities in need."
     ]
   },
   "119/hr/5792": {
@@ -120156,6 +121124,16 @@
       "Supports domestic energy production to power armed forces operations."
     ]
   },
+  "119/hr/7213": {
+    "cons": [
+      "May add bureaucratic hurdles for legitimate benefit recipients.",
+      "Could reduce access to critical support programs."
+    ],
+    "pros": [
+      "Protects essential benefits for vulnerable Americans.",
+      "Safeguards taxpayer funds from waste and improper payments."
+    ]
+  },
   "119/hr/7214": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -121707,6 +122685,16 @@
     "pros": [
       "Addresses a specific policy issue requiring legislative action.",
       "Provides a targeted solution to a defined problem."
+    ]
+  },
+  "119/hr/7362": {
+    "cons": [
+      "May reduce transparency in retirement plan disclosures.",
+      "Could weaken oversight of employee benefit plans."
+    ],
+    "pros": [
+      "Simplifies regulatory compliance for retirement plan administrators.",
+      "Reduces paperwork burdens on businesses and financial firms."
     ]
   },
   "119/hr/7363": {
@@ -123525,6 +124513,16 @@
     "pros": [
       "Targets corporate fraud and abuse that harms patient healthcare.",
       "Deters bad actors through stronger penalties and enforcement mechanisms."
+    ]
+  },
+  "119/hr/7538": {
+    "cons": [
+      "Could separate families and reduce legal immigration pathways.",
+      "May overwhelm already strained immigration processing systems."
+    ],
+    "pros": [
+      "Enhances border security and immigration enforcement measures.",
+      "Protects vulnerable migrant populations from exploitation."
     ]
   },
   "119/hr/7539": {
@@ -125400,6 +126398,16 @@
     "pros": [
       "Reduces waste and fraud in taxpayer-funded child care assistance programs.",
       "Protects funds intended for low-income families from being misused."
+    ]
+  },
+  "119/hr/7721": {
+    "cons": [
+      "Could expand federal power at the expense of civil liberties.",
+      "May disproportionately affect disadvantaged communities."
+    ],
+    "pros": [
+      "Strengthens law enforcement tools to combat criminal activity.",
+      "Deters illegal behavior through tougher penalties and oversight."
     ]
   },
   "119/hr/7722": {
@@ -139947,6 +140955,26 @@
       "Expands critical benefits and support services for veterans."
     ]
   },
+  "119/hr/9092": {
+    "cons": [
+      "May discourage foreign investment in the U.S. economy.",
+      "Could strain diplomatic relationships with allied nations."
+    ],
+    "pros": [
+      "Strengthens national security by restricting adversary investments.",
+      "Protects critical American industries from foreign influence."
+    ]
+  },
+  "119/hr/9093": {
+    "cons": [
+      "May escalate tensions with China without clear diplomatic benefit.",
+      "Could harm American business interests in overseas markets."
+    ],
+    "pros": [
+      "Exposes Chinese Communist Party influence operations abroad.",
+      "Safeguards the US-led international order from adversarial expansion."
+    ]
+  },
   "119/hr/9094": {
     "cons": [
       "Increases federal spending without offsetting cuts.",
@@ -140458,6 +141486,26 @@
       "Provides a necessary legislative fix to improve federal policy."
     ]
   },
+  "119/hr/9142": {
+    "cons": [
+      "May restrict legitimate patent filings by research institutions.",
+      "Could slow down innovation in international collaborations."
+    ],
+    "pros": [
+      "Protects American intellectual property and innovation.",
+      "Strengthens national security by limiting patent access to adversaries."
+    ]
+  },
+  "119/hr/9143": {
+    "cons": [
+      "May restrict legitimate patent filings by research institutions.",
+      "Could slow down innovation in international collaborations."
+    ],
+    "pros": [
+      "Protects American intellectual property and innovation.",
+      "Strengthens national security by limiting patent access to adversaries."
+    ]
+  },
   "119/hr/9144": {
     "cons": [
       "Could increase federal housing assistance costs significantly.",
@@ -140764,6 +141812,38 @@
       "Supports environmental protection programs and conservation efforts nationwide."
     ]
   },
+  "119/hr/9172": {
+    "cons": [
+      "May stifle innovation in the digital asset and blockchain industry.",
+      "Creates new compliance burdens for crypto businesses and investors."
+    ],
+    "pros": [
+      "Closes tax loopholes for cryptocurrency and digital asset transactions.",
+      "Treats digital assets consistently with traditional financial instruments."
+    ],
+    "title": "Applying Existing Tax Anti-Abuse Rules to Digital Assets Act"
+  },
+  "119/hr/9173": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/hr/9176": {
+    "cons": [
+      "Could reduce transparency in pension fund management.",
+      "May weaken worker protections in multi-employer pension plans."
+    ],
+    "pros": [
+      "Streamlines federal pension administration and reporting requirements.",
+      "Reduces administrative costs for employer-sponsored retirement plans."
+    ],
+    "title": "PAR Act"
+  },
   "119/hr/9178": {
     "cons": [
       "Could disproportionately benefit higher-income brackets.",
@@ -140787,6 +141867,30 @@
       "Helps middle-income homeowners below the $109,000 phaseout."
     ]
   },
+  "119/hr/9180": {
+    "cons": [
+      "May have unintended consequences that require further study.",
+      "Could face implementation or funding challenges."
+    ],
+    "processed_date": "2026-06-10T14:02:30.168207",
+    "pros": [
+      "Could address important policy concerns identified by Congress.",
+      "May provide needed improvements to current regulations."
+    ],
+    "summary": "",
+    "title": "To require the Secretary of Housing and Urban Development to access unmet community development-related needs in areas impacted by disasters on an ongoing basis, and for other purposes."
+  },
+  "119/hr/9186": {
+    "cons": [
+      "Could inadvertently weaken federal drug enforcement authority.",
+      "Raises concerns about diversion of research substances to illicit use."
+    ],
+    "pros": [
+      "Clarifies legal pathways for scientific research on controlled substances.",
+      "Removes unnecessary barriers for academic and medical researchers."
+    ],
+    "title": "Controlled Substances Act Clarification in Sciences Act of 2026"
+  },
   "119/hr/9188": {
     "cons": [
       "Increases military spending at the expense of other programs.",
@@ -140807,6 +141911,17 @@
       "Addresses the specific policy issue described in the bill."
     ]
   },
+  "119/hr/9190": {
+    "cons": [
+      "May undermine FDA safety and efficacy review processes for new treatments.",
+      "Could expose vulnerable patients to unproven and potentially harmful therapies."
+    ],
+    "pros": [
+      "Expands access to experimental treatments for terminally ill patients.",
+      "Gives patients with life-threatening conditions more medical options."
+    ],
+    "title": "To amend the Federal Food, Drug, and Cosmetic Act to authorize the use of investigational individualized medical treatments by patients diagnosed with a life-threatening disease or condition"
+  },
   "119/hr/9191": {
     "cons": [
       "May increase bureaucracy without clear cost savings.",
@@ -140820,6 +141935,27 @@
     "summary": "To amend chapter 3 of title 36, United States Code, to designate the American mastodon as the national fossil mammal and the Tyrannosaurus rex as the national fossil dinosaur of the United States, and for other purposes.",
     "title": "To amend chapter 3 of title 36, United States Code, to designate the American mastodon as the national fossil mammal and the Tyrannosaurus rex as the national fossil dinosaur of the United States, and for other purposes."
   },
+  "119/hr/9192": {
+    "cons": [
+      "Increases health insurance premiums for all policyholders.",
+      "Mandates coverage that may include expensive drugs with limited effectiveness."
+    ],
+    "pros": [
+      "Ensures patients can access prescribed medications through insurance coverage.",
+      "Reduces out-of-pocket costs for essential prescription drugs."
+    ],
+    "title": "To amend ERISA, the Public Health Service Act, and the Internal Revenue Code to require health insurance coverage of drugs indicated for certain conditions"
+  },
+  "119/hr/9193": {
+    "cons": [
+      "Nuclear technology raises safety and development costs.",
+      "May divert resources from other NASA priorities."
+    ],
+    "pros": [
+      "Advances America's leadership in space exploration technology.",
+      "Enables faster and more capable deep space missions."
+    ]
+  },
   "119/hr/9197": {
     "cons": [
       "Nuclear fuel recycling raises serious proliferation concerns.",
@@ -140829,6 +141965,17 @@
       "Reduces long-term nuclear waste disposal challenges.",
       "Promotes energy innovation through fuel recycling technology."
     ]
+  },
+  "119/hr/9199": {
+    "cons": [
+      "Could lead to costly and logistically challenging implementation.",
+      "May negatively impact legal trade and travel across U.S. borders."
+    ],
+    "pros": [
+      "Strengthens national security by tightening border enforcement measures.",
+      "Aims to reduce illegal immigration through enhanced border controls."
+    ],
+    "title": "To secure the borders of the United States, and for other purposes."
   },
   "119/hr/92": {
     "cons": [
@@ -140849,6 +141996,17 @@
       "Lets fentanyl victims sue traffickers for damages.",
       "Expands law enforcement tools against fentanyl networks."
     ]
+  },
+  "119/hr/9200": {
+    "cons": [
+      "Raises significant costs for expanded enforcement and detention infrastructure.",
+      "Could strain relationships with neighboring countries on trade matters."
+    ],
+    "pros": [
+      "Strengthens border security with enhanced enforcement mechanisms.",
+      "Addresses immigration enforcement gaps across multiple federal agencies."
+    ],
+    "title": "To secure the borders of the United States, and for other purposes."
   },
   "119/hr/9202": {
     "cons": [
@@ -140888,6 +142046,107 @@
     "pros": [
       "Helps law enforcement track and regulate firearm silencer ownership.",
       "Addresses public safety concerns around unregulated gun accessories."
+    ]
+  },
+  "119/hr/9210": {
+    "cons": [
+      "May have unintended consequences that need careful consideration.",
+      "Could face implementation challenges or funding constraints."
+    ],
+    "pros": [
+      "Addresses an important policy area that needs attention.",
+      "Could provide benefits if implemented effectively."
+    ]
+  },
+  "119/hr/9212": {
+    "cons": [
+      "May have unintended consequences that require further study.",
+      "Could face implementation or funding challenges."
+    ],
+    "processed_date": "2026-06-10T14:02:24.676924",
+    "pros": [
+      "Could address important policy concerns identified by Congress.",
+      "May provide needed improvements to current regulations."
+    ],
+    "summary": "",
+    "title": "To amend title 38, United States Code, to reimburse veterans for the cost of emergency medical transportation to a Federal facility, and for other purposes."
+  },
+  "119/hr/9221": {
+    "cons": [
+      "May conflict with conservation or private property rights.",
+      "Could create maintenance costs for federal agencies."
+    ],
+    "pros": [
+      "Protects public access to recreational lands and resources.",
+      "Supports outdoor recreation and tourism economies."
+    ]
+  },
+  "119/hr/9223": {
+    "cons": [
+      "May reduce oversight of disability education services.",
+      "Could lead to inconsistent special education standards."
+    ],
+    "pros": [
+      "Reduces administrative burden on special education programs.",
+      "Provides flexibility during emergencies and disasters."
+    ]
+  },
+  "119/hr/9224": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/hr/9226": {
+    "cons": [
+      "Increases federal spending on environmental programs.",
+      "May impose regulations on local communities and businesses."
+    ],
+    "pros": [
+      "Protects Connecticut River watershed across five states.",
+      "Promotes regional environmental coordination and restoration."
+    ]
+  },
+  "119/hr/9228": {
+    "cons": [
+      "May increase administrative costs for plan sponsors.",
+      "Could lead to privacy concerns about health data access."
+    ],
+    "processed_date": "2026-06-10T14:01:58.895444",
+    "pros": [
+      "Could improve retirement plan transparency for participants.",
+      "May help fiduciaries make better investment decisions."
+    ],
+    "summary": "",
+    "title": "To amend the Employee Retirement Income Security Act of 1974 to ensure plan fiduciaries have access to de-identified information relating to health claims, and for other purposes."
+  },
+  "119/hr/9232": {
+    "congress": "119",
+    "cons": [
+      "Could raise privacy and civil liberties concerns",
+      "May create conflicts with aviation regulations"
+    ],
+    "generated": "2026-06-11T01:02:29.802946",
+    "number": "9232",
+    "pros": [
+      "Enhances security at critical infrastructure sites",
+      "Provides tools to counter growing drone threats"
+    ],
+    "title": "To grant authority to use counter-unmanned aircraft system technologies to private owners of critical infrastructure facilities",
+    "type": "hr"
+  },
+  "119/hr/9234": {
+    "cons": [
+      "May reduce wages for domestic care workers through increased competition.",
+      "Could create dependency on foreign workers rather than improving working conditions."
+    ],
+    "pros": [
+      "Addresses critical labor shortages in eldercare and childcare industries.",
+      "Provides essential workers with legal immigration pathway."
     ]
   },
   "119/hr/925": {
@@ -145233,6 +146492,16 @@
       "Supports communities affected by gun-related tragedies."
     ]
   },
+  "119/hres/1343": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "119/hres/1344": {
     "cons": [
       "Increases federal spending without dedicated funding.",
@@ -145254,6 +146523,16 @@
     "pros": [
       "Supports American workers with better wages and protections.",
       "Addresses an important policy area needing federal action."
+    ]
+  },
+  "119/hres/1349": {
+    "cons": [
+      "Symbolic resolution with no binding legal or policy impact.",
+      "Adds yet another awareness week without funding for actual safety measures."
+    ],
+    "pros": [
+      "Raises awareness about road safety issues and traffic accident prevention.",
+      "Encourages public education on safe driving practices and infrastructure improvements."
     ]
   },
   "119/hres/137": {
@@ -149078,6 +150357,16 @@
     "pros": [
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
+    ]
+  },
+  "119/hres/622": {
+    "cons": [
+      "Is largely ceremonial with no substantive policy changes.",
+      "Uses legislative resources on symbolic measures."
+    ],
+    "pros": [
+      "Recognizes important cultural and recreational activities.",
+      "Supports local economies through sports and outdoor recreation."
     ]
   },
   "119/hres/623": {
@@ -169540,6 +170829,76 @@
       "Expands access to safe and affordable housing options."
     ]
   },
+  "119/s/4701": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4703": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4704": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4705": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4709": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4711": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4714": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "119/s/472": {
     "cons": [
       "Accelerates coal plant closures, impacting mining communities.",
@@ -169548,6 +170907,26 @@
     "pros": [
       "Reduces harmful sulfur dioxide emissions from coal plants.",
       "Improves air quality and public health outcomes."
+    ]
+  },
+  "119/s/4720": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4721": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative action.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "119/s/473": {
@@ -175420,6 +176799,46 @@
     "pros": [
       "Celebrates a historic American fabric tradition and Southern culture.",
       "Boosts local businesses that manufacture and sell seersucker clothing."
+    ]
+  },
+  "119/sres/759": {
+    "cons": [
+      "May face implementation challenges without proper funding.",
+      "Could create additional regulatory burden on affected parties."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative attention.",
+      "Provides congressional oversight and accountability measures."
+    ]
+  },
+  "119/sres/760": {
+    "cons": [
+      "May have unintended consequences requiring future amendments.",
+      "Could create additional regulatory or administrative burden."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/sres/761": {
+    "cons": [
+      "May oversimplify the complex relationship between social media and mental health.",
+      "Could divert attention from concrete policy solutions addressing platform regulation."
+    ],
+    "pros": [
+      "Raises awareness about the harmful effects of social media on vulnerable users.",
+      "Honors victims who have suffered from social media-related harms."
+    ]
+  },
+  "119/sres/764": {
+    "cons": [
+      "May face implementation challenges without proper funding.",
+      "Could create additional regulatory burden on affected parties."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring legislative attention.",
+      "Provides congressional oversight and accountability measures."
     ]
   },
   "119/sres/79": {
@@ -214356,1404 +215775,5 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
-  },
-  "118/hr/10084": {
-    "pros": [
-      "Addresses a specific policy concern through targeted legislation.",
-      "Provides a framework for addressing an identified public issue."
-    ],
-    "cons": [
-      "May have unintended effects beyond its stated purpose.",
-      "Could require additional legislation to address gaps or oversights."
-    ]
-  },
-  "118/hr/9727": {
-    "pros": [
-      "Expands voter access and strengthens election participation.",
-      "Modernizes voter registration systems for greater accessibility."
-    ],
-    "cons": [
-      "May increase federal mandates on state election administration.",
-      "Could raise concerns about voter fraud prevention measures."
-    ]
-  },
-  "118/hr/8607": {
-    "pros": [
-      "Addresses housing affordability and expands access to housing.",
-      "Provides relief for renters and homeowners facing cost burdens."
-    ],
-    "cons": [
-      "May increase federal spending on housing assistance programs.",
-      "Could create market distortions that affect housing supply."
-    ]
-  },
-  "118/hr/6239": {
-    "pros": [
-      "Honors a local figure by naming a postal facility after them.",
-      "Provides recognition for community service and contributions."
-    ],
-    "cons": [
-      "Does not address broader operational issues at the Postal Service.",
-      "Spends legislative time on a naming measure rather than policy."
-    ]
-  },
-  "118/hr/3849": {
-    "pros": [
-      "Supports American farmers and strengthens agricultural communities.",
-      "Enhances food security and rural economic development."
-    ],
-    "cons": [
-      "May increase federal spending on agricultural programs.",
-      "Could create trade tensions with international agricultural partners."
-    ]
-  },
-  "118/hres/453": {
-    "pros": [
-      "Enhances public safety through responsible firearm regulations.",
-      "Respects Second Amendment rights while addressing gun violence."
-    ],
-    "cons": [
-      "May face legal challenges over constitutional protections.",
-      "Could impose burdens on lawful gun owners and dealers."
-    ]
-  },
-  "118/hr/2883": {
-    "pros": [
-      "Invests in domestic manufacturing and clean energy jobs.",
-      "Reduces reliance on foreign supply chains for key industries."
-    ],
-    "cons": [
-      "May significantly increase federal spending on industrial policy.",
-      "Could create market distortions in manufacturing sectors."
-    ]
-  },
-  "118/hr/2403": {
-    "pros": [
-      "Enhances public safety through responsible firearm regulations.",
-      "Respects Second Amendment rights while addressing gun violence."
-    ],
-    "cons": [
-      "May face legal challenges over constitutional protections.",
-      "Could impose burdens on lawful gun owners and dealers."
-    ]
-  },
-  "117/hr/9466": {
-    "pros": [
-      "Addresses housing affordability and expands access to housing.",
-      "Coordinates federal housing policy through an interagency council."
-    ],
-    "cons": [
-      "May increase federal spending on housing assistance programs.",
-      "Could add bureaucratic layers without directly building housing."
-    ]
-  },
-  "117/hr/9097": {
-    "pros": [
-      "Improves compensation and benefits for federal employees.",
-      "Helps recruit and retain talented public sector workers."
-    ],
-    "cons": [
-      "Increases federal spending on employee compensation.",
-      "May not address performance or accountability concerns."
-    ]
-  },
-  "117/hr/9098": {
-    "pros": [
-      "Promotes domestic nuclear energy development and exports.",
-      "Strengthens international cooperation on nuclear regulation."
-    ],
-    "cons": [
-      "May raise proliferation concerns with international agreements.",
-      "Could face regulatory and safety challenges in implementation."
-    ]
-  },
-  "117/hr/9041": {
-    "pros": [
-      "Invests in domestic manufacturing and clean energy jobs.",
-      "Reduces reliance on foreign supply chains for key industries."
-    ],
-    "cons": [
-      "May significantly increase federal spending on industrial policy.",
-      "Could create market distortions in manufacturing sectors."
-    ]
-  },
-  "117/hr/6531": {
-    "pros": [
-      "Provides targeted tax credits to support underserved communities.",
-      "Encourages economic investment in areas with high need."
-    ],
-    "cons": [
-      "May reduce federal revenue through new tax credit provisions.",
-      "Could be difficult to administer and verify eligibility."
-    ]
-  },
-  "117/hres/861": {
-    "pros": [
-      "Addresses a specific policy concern through targeted legislation.",
-      "Provides a framework for addressing an identified public issue."
-    ],
-    "cons": [
-      "May have unintended effects beyond its stated purpose.",
-      "Could require additional legislation to address gaps or oversights."
-    ]
-  },
-  "117/hres/863": {
-    "pros": [
-      "Establishes the House meeting schedule for legislative business.",
-      "Provides procedural clarity for the day's floor proceedings."
-    ],
-    "cons": [
-      "Is a procedural matter with limited substantive policy impact.",
-      "Uses legislative floor time that could address more pressing issues."
-    ]
-  },
-  "117/hres/862": {
-    "pros": [
-      "Addresses a specific policy concern through targeted legislation.",
-      "Provides a framework for addressing an identified public issue."
-    ],
-    "cons": [
-      "May have unintended effects beyond its stated purpose.",
-      "Could require additional legislation to address gaps or oversights."
-    ]
-  },
-  "117/hr/5349": {
-    "pros": [
-      "Invests in transportation infrastructure and improves safety.",
-      "Reduces congestion and enhances economic connectivity."
-    ],
-    "cons": [
-      "May significantly increase federal infrastructure spending.",
-      "Could create delays in project permitting and environmental review."
-    ]
-  },
-  "117/hr/2358": {
-    "pros": [
-      "Expands voter access and strengthens election participation.",
-      "Modernizes voter registration systems for greater accessibility."
-    ],
-    "cons": [
-      "May increase federal mandates on state election administration.",
-      "Could raise concerns about voter fraud prevention measures."
-    ]
-  },
-  "119/hr/9172": {
-    "title": "Applying Existing Tax Anti-Abuse Rules to Digital Assets Act",
-    "pros": [
-      "Closes tax loopholes for cryptocurrency and digital asset transactions.",
-      "Treats digital assets consistently with traditional financial instruments."
-    ],
-    "cons": [
-      "May stifle innovation in the digital asset and blockchain industry.",
-      "Creates new compliance burdens for crypto businesses and investors."
-    ]
-  },
-  "119/hr/9176": {
-    "title": "PAR Act",
-    "pros": [
-      "Streamlines federal pension administration and reporting requirements.",
-      "Reduces administrative costs for employer-sponsored retirement plans."
-    ],
-    "cons": [
-      "Could reduce transparency in pension fund management.",
-      "May weaken worker protections in multi-employer pension plans."
-    ]
-  },
-  "119/hr/9186": {
-    "title": "Controlled Substances Act Clarification in Sciences Act of 2026",
-    "pros": [
-      "Clarifies legal pathways for scientific research on controlled substances.",
-      "Removes unnecessary barriers for academic and medical researchers."
-    ],
-    "cons": [
-      "Could inadvertently weaken federal drug enforcement authority.",
-      "Raises concerns about diversion of research substances to illicit use."
-    ]
-  },
-  "119/hr/9190": {
-    "title": "To amend the Federal Food, Drug, and Cosmetic Act to authorize the use of investigational individualized medical treatments by patients diagnosed with a life-threatening disease or condition",
-    "pros": [
-      "Expands access to experimental treatments for terminally ill patients.",
-      "Gives patients with life-threatening conditions more medical options."
-    ],
-    "cons": [
-      "May undermine FDA safety and efficacy review processes for new treatments.",
-      "Could expose vulnerable patients to unproven and potentially harmful therapies."
-    ]
-  },
-  "119/hr/9192": {
-    "title": "To amend ERISA, the Public Health Service Act, and the Internal Revenue Code to require health insurance coverage of drugs indicated for certain conditions",
-    "pros": [
-      "Ensures patients can access prescribed medications through insurance coverage.",
-      "Reduces out-of-pocket costs for essential prescription drugs."
-    ],
-    "cons": [
-      "Increases health insurance premiums for all policyholders.",
-      "Mandates coverage that may include expensive drugs with limited effectiveness."
-    ]
-  },
-  "119/hr/9199": {
-    "title": "To secure the borders of the United States, and for other purposes.",
-    "pros": [
-      "Strengthens national security by tightening border enforcement measures.",
-      "Aims to reduce illegal immigration through enhanced border controls."
-    ],
-    "cons": [
-      "Could lead to costly and logistically challenging implementation.",
-      "May negatively impact legal trade and travel across U.S. borders."
-    ]
-  },
-  "119/hr/9200": {
-    "title": "To secure the borders of the United States, and for other purposes.",
-    "pros": [
-      "Strengthens border security with enhanced enforcement mechanisms.",
-      "Addresses immigration enforcement gaps across multiple federal agencies."
-    ],
-    "cons": [
-      "Raises significant costs for expanded enforcement and detention infrastructure.",
-      "Could strain relationships with neighboring countries on trade matters."
-    ]
-  },
-  "118/hr/5514": {
-    "pros": [
-      "Could save lives by expanding suicide surveillance and prevention programs.",
-      "Funds state and local health departments to address self-harm trends."
-    ],
-    "cons": [
-      "Adds to federal spending without a guaranteed reduction in suicide rates.",
-      "May duplicate existing state-level suicide prevention efforts."
-    ],
-    "summary": "Suicide Prevention Act This bill establishes two grant programs to prevent self-harm and suicide. The Centers for Disease Control and Prevention must award grants to state, local, and tribal health departments to expand surveillance of self-harm, and the Substance Abuse and Me"
-  },
-  "118/hr/3595": {
-    "pros": [
-      "Helps rural counties with high public land density access federal grants.",
-      "Includes tribal governments in grant eligibility for rural development."
-    ],
-    "cons": [
-      "May redirect USDA grant funds away from non-rural agricultural needs.",
-      "Could increase federal bureaucracy in the grant application process."
-    ],
-    "summary": "More Opportunities for Rural Economies from USDA Grants Act or the MORE USDA Grants Act This bill revises the process for awarding grants under certain programs of the Department of Agriculture (USDA) to high-density public land counties and any units of tribal or local gov"
-  },
-  "118/hr/3594": {
-    "pros": [
-      "Improves transportation funding access for rural public land counties.",
-      "Expands tribal and local government participation in DOT grant programs."
-    ],
-    "cons": [
-      "Could reduce transportation funding available for urban infrastructure.",
-      "May add complexity to DOT's existing grant allocation formulas."
-    ],
-    "summary": "More Opportunities for Rural Economies from DOT Grants Act or the MORE DOT Grants Act This bill revises the process for awarding grants to high-density public land counties and any units of tribal or local governments within such counties under certain Department of Transpo"
-  },
-  "118/hr/3460": {
-    "pros": [
-      "Streamlines budgeting for critical chemical and biological defense programs.",
-      "Ensures military departments can adequately fund defense against bioweapons."
-    ],
-    "cons": [
-      "May reduce transparency by merging defense funds into military budgets.",
-      "Could crowd out funding for other Department of Defense priorities."
-    ],
-    "summary": "Chemical and Biological Defense Program Improvement Act of 2023This bill allows the Department of Defense to include funding requests for the chemical and biological defense program within the budget accounts of the military departments."
-  },
-  "118/hr/2910": {
-    "pros": [
-      "Improves access to federal courts for rural Utah communities.",
-      "Saves travel time and expense for residents of Moab and Monticello."
-    ],
-    "cons": [
-      "Adds administrative costs for the federal court system.",
-      "May not see enough caseload to justify new court locations."
-    ],
-    "summary": "This bill adds Moab and Monticello to the list of places where court must be held in the Central Division of the U.S. District Court of Utah."
-  },
-  "118/hr/1373": {
-    "pros": [
-      "Prevents taxpayer funds from supporting foreign adversary laboratories.",
-      "Strengthens national security by restricting risky research funding."
-    ],
-    "cons": [
-      "Could hinder legitimate international scientific collaboration.",
-      "May be difficult to enforce without harming broader research ties."
-    ],
-    "summary": "Stop Adversarial Funding Expenditures for Laboratories Act or the SAFE Laboratories Act This bill prohibits federal assistance to the Wuhan Institute of Virology or any other laboratory located in a country determined to be a foreign adversary, including China, Russia, North Korea,"
-  },
-  "118/hr/822": {
-    "pros": [
-      "Provides free mental health support to students in crisis.",
-      "Expands access via phone and digital communication platforms."
-    ],
-    "cons": [
-      "Increases federal spending on grant programs without proven outcomes.",
-      "May overlap with existing school-based mental health services."
-    ],
-    "summary": "Student Mental Health Helpline Act This bill authorizes grants to support student mental health and safety helplines (i.e., a free, confidential service that is accessible via telephone and other communication platforms that assists students facing challenges with abuse,"
-  },
-  "118/hr/821": {
-    "pros": [
-      "Protects children under 16 from harmful social media content.",
-      "Requires age verification to enforce child safety standards."
-    ],
-    "cons": [
-      "Raises privacy concerns around mandatory age verification systems.",
-      "Could restrict teens' access to positive online communities."
-    ],
-    "summary": "Social Media Child Protection Act This bill limits access to social media platforms by children and requires all individuals to verify their age before accessing such platforms. Specifically, a social media platform may not permit children under the age of 16 to access the p"
-  },
-  "118/hr/438": {
-    "pros": [
-      "Increases transparency by showing taxpayers the cost of government.",
-      "Helps citizens understand their share of national debt and deficits."
-    ],
-    "cons": [
-      "Could be misleading without context of government benefits received.",
-      "Adds administrative burden to the President's budget preparation."
-    ],
-    "summary": "True Cost Act This bill requires the President's annual budget submission to Congress to include estimates of the cost per individual taxpayer for (1) the public debt, and (2) any projected budget deficit for a fiscal year."
-  },
-  "118/hr/439": {
-    "pros": [
-      "Funds critical search and rescue operations on federal lands.",
-      "Coordinates resources across Interior and Agriculture departments."
-    ],
-    "cons": [
-      "Creates new federal program costs without specified funding source.",
-      "May overlap with existing state and local search and rescue efforts."
-    ],
-    "summary": "Public Land Search and Rescue Act This bill directs the Department of the Interior to establish a program to allocate resources to remote search and rescue activities conducted on lands under the jurisdiction of the Department of Agriculture or Interior. Interior"
-  },
-  "118/hr/365": {
-    "pros": [
-      "Transfers unused federal land to the University of Utah for beneficial use.",
-      "Eliminates federal maintenance costs on non-essential land holdings."
-    ],
-    "cons": [
-      "Gives away federal property without compensation to taxpayers.",
-      "Sets a precedent for other universities seeking land transfers."
-    ],
-    "summary": "This bill releases to the University of Utah, without consideration, the reversionary interest of the United States in approximately 593 acres of specified nonfederal land."
-  },
-  "118/hr/364": {
-    "pros": [
-      "Allows states to choose year-round daylight saving time.",
-      "Gives states more flexibility over their time zone policies."
-    ],
-    "cons": [
-      "Could create time zone chaos with neighboring states on different schedules.",
-      "May disrupt interstate commerce and transportation schedules."
-    ],
-    "summary": "Daylight Act This bill allows states to observe daylight savings time year-round. (States may already choose to observe standard time year-round.)"
-  },
-  "117/hr/9563": {
-    "pros": [
-      "Protects customers from paying for hydropower shortfalls they didn't cause.",
-      "Provides financial relief during drought-related generation decreases."
-    ],
-    "cons": [
-      "Reduces revenue available for maintaining federal hydroelectric infrastructure.",
-      "May create budget shortfalls for the Western Area Power Administration."
-    ],
-    "summary": "This bill requires the Western Area Power Administration to provide customers with a credit that reflects decreased hydropower output from specified projects until December 31, 2026."
-  },
-  "117/hr/9521": {
-    "pros": [
-      "Prevents taxpayer funds from supporting foreign adversary laboratories.",
-      "Strengthens national security by restricting risky research funding."
-    ],
-    "cons": [
-      "Could hinder legitimate international scientific collaboration.",
-      "May be difficult to enforce without harming broader research ties."
-    ],
-    "summary": "Stop Adversarial Funding Expenditures for Laboratories Act or the SAFE Laboratories Act This bill prohibits federal assistance to the Wuhan Institute of Virology or any other laboratory located in a country determined to be a foreign adversary, including China, Russia, North Korea,"
-  },
-  "117/hr/8726": {
-    "pros": [
-      "Prevents U.S. intelligence from indirectly aiding China's interests.",
-      "Ensures Ukraine is not receiving support while helping adversaries."
-    ],
-    "cons": [
-      "Could undermine Ukraine's ability to defend against Russian aggression.",
-      "Adds bureaucratic certification requirements that slow critical aid."
-    ],
-    "summary": "This bill prohibits the federal government from sharing intelligence with or providing security assistance to Ukraine in the absence of a certification that Ukraine is not accepting or attempting to secure bilateral assistance from China."
-  },
-  "117/hr/8451": {
-    "pros": [
-      "Funds critical search and rescue operations on federal lands.",
-      "Coordinates resources across Interior and Agriculture departments."
-    ],
-    "cons": [
-      "Creates new federal program costs without specified funding source.",
-      "May overlap with existing state and local search and rescue efforts."
-    ],
-    "summary": "Public Land Search and Rescue Act of 2022 This bill directs the Department of Justice (DOJ) to establish a program to allocate resources to remote search and rescue activities conducted on lands under the jurisdiction of the Department of Agriculture or the Department of"
-  },
-  "117/hr/8389": {
-    "pros": [
-      "Authorizes study of critically endangered saline lake ecosystems.",
-      "Supports ecosystem restoration and drought mitigation planning."
-    ],
-    "cons": [
-      "Authorizes study but does not guarantee actual restoration funding.",
-      "Army Corps involvement may slow action with lengthy feasibility studies."
-    ],
-    "summary": "Great Salt Lake Recovery Act This bill authorizes the U.S. Army Corps of Engineers to study the hydrology of saline lake ecosystems in the Great Basin, including the Great Salt Lake, Utah, as well as to investigate the feasibility of a project for ecosystem restoration and drought"
-  },
-  "117/hr/7927": {
-    "pros": [
-      "Protects U.S. sovereignty over international health policy decisions.",
-      "Prevents executive branch from ceding authority without congressional approval."
-    ],
-    "cons": [
-      "Could hamper U.S. leadership in global pandemic preparedness efforts.",
-      "May slow international response to future health emergencies."
-    ],
-    "summary": "This bill prohibits the federal government from proposing any agreement among World Health Organization (WHO) member states that would modify authorities under U.S. law unless the proposal is authorized in advance by an act of Congress. The bill also prohibits the federal government from"
-  },
-  "119/hr/5791": {
-    "pros": [
-      "Strengthens the nation's blood supply and healthcare infrastructure.",
-      "Supports critical medical services for communities in need."
-    ],
-    "cons": [
-      "May impose new regulatory requirements on blood collection centers.",
-      "Could increase operational costs for healthcare facilities."
-    ]
-  },
-  "119/hr/5165": {
-    "pros": [
-      "Recognizes important cultural and recreational activities.",
-      "Supports local economies through sports and outdoor recreation."
-    ],
-    "cons": [
-      "Is largely ceremonial with no substantive policy changes.",
-      "Uses legislative resources on symbolic measures."
-    ]
-  },
-  "119/hres/622": {
-    "pros": [
-      "Recognizes important cultural and recreational activities.",
-      "Supports local economies through sports and outdoor recreation."
-    ],
-    "cons": [
-      "Is largely ceremonial with no substantive policy changes.",
-      "Uses legislative resources on symbolic measures."
-    ]
-  },
-  "119/hr/4622": {
-    "pros": [
-      "Expands benefits and recognition for military veterans.",
-      "Ensures veterans receive proper acknowledgment for their service."
-    ],
-    "cons": [
-      "Adds to the administrative burden on the VA benefits system.",
-      "May create eligibility discrepancies among different veteran groups."
-    ]
-  },
-  "119/hr/4546": {
-    "pros": [
-      "Protects the Second Amendment rights of law-abiding gun owners.",
-      "Prevents arbitrary limits on standard-capacity firearm magazines."
-    ],
-    "cons": [
-      "Could undermine state and local efforts to reduce gun violence.",
-      "May allow high-capacity magazines used in mass shootings."
-    ]
-  },
-  "119/hr/9143": {
-    "pros": [
-      "Protects American intellectual property and innovation.",
-      "Strengthens national security by limiting patent access to adversaries."
-    ],
-    "cons": [
-      "May restrict legitimate patent filings by research institutions.",
-      "Could slow down innovation in international collaborations."
-    ]
-  },
-  "119/hr/9142": {
-    "pros": [
-      "Protects American intellectual property and innovation.",
-      "Strengthens national security by limiting patent access to adversaries."
-    ],
-    "cons": [
-      "May restrict legitimate patent filings by research institutions.",
-      "Could slow down innovation in international collaborations."
-    ]
-  },
-  "119/hr/9092": {
-    "pros": [
-      "Strengthens national security by restricting adversary investments.",
-      "Protects critical American industries from foreign influence."
-    ],
-    "cons": [
-      "May discourage foreign investment in the U.S. economy.",
-      "Could strain diplomatic relationships with allied nations."
-    ]
-  },
-  "119/hr/9093": {
-    "pros": [
-      "Exposes Chinese Communist Party influence operations abroad.",
-      "Safeguards the US-led international order from adversarial expansion."
-    ],
-    "cons": [
-      "May escalate tensions with China without clear diplomatic benefit.",
-      "Could harm American business interests in overseas markets."
-    ]
-  },
-  "119/hr/4278": {
-    "pros": [
-      "Protects U.S. companies from unfair foreign taxation practices.",
-      "Increases accountability and transparency in tax administration."
-    ],
-    "cons": [
-      "Could complicate international business operations and compliance.",
-      "May add new reporting burdens on American companies."
-    ]
-  },
-  "119/hr/4279": {
-    "pros": [
-      "Protects US companies from costly foreign regulatory compliance.",
-      "Preserves American sovereignty over corporate governance standards."
-    ],
-    "cons": [
-      "May isolate US firms from global ESG and sustainability standards.",
-      "Could disadvantage American companies in international trade."
-    ]
-  },
-  "119/hr/5497": {
-    "pros": [
-      "Protects natural landscapes and public lands for future generations.",
-      "Boosts tourism and outdoor recreation opportunities."
-    ],
-    "cons": [
-      "May restrict commercial activities like logging and mining.",
-      "Could limit local economic development near park boundaries."
-    ]
-  },
-  "119/hr/4743": {
-    "pros": [
-      "Reforms immigration law to better align with national interests.",
-      "Eliminates outdated provisions that may hinder enforcement."
-    ],
-    "cons": [
-      "Could reduce legal immigration pathways for certain applicants.",
-      "May have unintended consequences on family-based immigration."
-    ]
-  },
-  "119/hr/4468": {
-    "pros": [
-      "Protects individual rights during federal investigations.",
-      "Ensures fair treatment of persons interviewed by federal agencies."
-    ],
-    "cons": [
-      "Could hinder law enforcement investigations and prosecutions.",
-      "May create legal loopholes that delay justice proceedings."
-    ]
-  },
-  "119/hr/4207": {
-    "pros": [
-      "Preserves Senate authority over international treaty ratification.",
-      "Prevents executive overreach in global health commitments."
-    ],
-    "cons": [
-      "Could delay U.S. participation in global pandemic response efforts.",
-      "May weaken international cooperation on public health threats."
-    ]
-  },
-  "119/hr/7721": {
-    "pros": [
-      "Strengthens law enforcement tools to combat criminal activity.",
-      "Deters illegal behavior through tougher penalties and oversight."
-    ],
-    "cons": [
-      "Could expand federal power at the expense of civil liberties.",
-      "May disproportionately affect disadvantaged communities."
-    ]
-  },
-  "119/hr/7538": {
-    "pros": [
-      "Enhances border security and immigration enforcement measures.",
-      "Protects vulnerable migrant populations from exploitation."
-    ],
-    "cons": [
-      "Could separate families and reduce legal immigration pathways.",
-      "May overwhelm already strained immigration processing systems."
-    ]
-  },
-  "119/hr/7362": {
-    "pros": [
-      "Simplifies regulatory compliance for retirement plan administrators.",
-      "Reduces paperwork burdens on businesses and financial firms."
-    ],
-    "cons": [
-      "May reduce transparency in retirement plan disclosures.",
-      "Could weaken oversight of employee benefit plans."
-    ]
-  },
-  "119/hr/7213": {
-    "pros": [
-      "Protects essential benefits for vulnerable Americans.",
-      "Safeguards taxpayer funds from waste and improper payments."
-    ],
-    "cons": [
-      "May add bureaucratic hurdles for legitimate benefit recipients.",
-      "Could reduce access to critical support programs."
-    ]
-  },
-  "119/hr/5346": {
-    "pros": [
-      "Protects U.S. companies from unfair foreign taxation practices.",
-      "Increases accountability and transparency in tax administration."
-    ],
-    "cons": [
-      "Could complicate international business operations and compliance.",
-      "May add new reporting burdens on American companies."
-    ]
-  },
-  "113/hr/3230": {
-    "pros": [
-      "Expands benefits and support for military veterans and their families.",
-      "Ensures timely access to earned benefits and healthcare services."
-    ],
-    "cons": [
-      "May increase federal spending on benefit programs without offsets.",
-      "Could create administrative burdens for the VA or other agencies."
-    ]
-  },
-  "113/hr/4152": {
-    "pros": [
-      "Supports Ukraine's sovereignty and economic stability through loan guarantees.",
-      "Strengthens a strategic ally against external aggression."
-    ],
-    "cons": [
-      "Increases U.S. taxpayer exposure to foreign loan defaults.",
-      "May escalate tensions with Russia without clear diplomatic strategy."
-    ]
-  },
-  "113/hr/5230": {
-    "pros": [
-      "Provides necessary funding for essential government operations.",
-      "Ensures continuity of federal programs and services."
-    ],
-    "cons": [
-      "Increases federal spending without offsetting revenue measures.",
-      "May include earmarks or pet projects that bypass merit review."
-    ]
-  },
-  "113/hr/933": {
-    "pros": [
-      "Provides necessary funding for essential government operations.",
-      "Ensures continuity of federal programs and services."
-    ],
-    "cons": [
-      "Increases federal spending without offsetting revenue measures.",
-      "May include earmarks or pet projects that bypass merit review."
-    ]
-  },
-  "116/hr/5305": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "117/hr/6791": {
-    "pros": [
-      "Expands benefits and support for military veterans and their families.",
-      "Ensures timely access to earned benefits and healthcare services."
-    ],
-    "cons": [
-      "May increase federal spending on benefit programs without offsets.",
-      "Could create administrative burdens for the VA or other agencies."
-    ]
-  },
-  "118/hjres/204": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/10016": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/10432": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/10536": {
-    "pros": [
-      "Addresses a targeted policy issue needing legislative action.",
-      "Provides a structured approach to a specific problem."
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
-    ]
-  },
-  "118/hr/3355": {
-    "pros": [
-      "Improves access to healthcare services and treatment options.",
-      "Addresses critical public health needs through targeted programming."
-    ],
-    "cons": [
-      "May increase federal healthcare spending without funding offsets.",
-      "Could create regulatory burdens for healthcare providers."
-    ]
-  },
-  "118/hr/4079": {
-    "pros": [
-      "Improves access to healthcare services and treatment options.",
-      "Addresses critical public health needs through targeted programming."
-    ],
-    "cons": [
-      "May increase federal healthcare spending without funding offsets.",
-      "Could create regulatory burdens for healthcare providers."
-    ]
-  },
-  "118/hr/4490": {
-    "pros": [
-      "Improves access to healthcare services and treatment options.",
-      "Addresses critical public health needs through targeted programming."
-    ],
-    "cons": [
-      "May increase federal healthcare spending without funding offsets.",
-      "Could create regulatory burdens for healthcare providers."
-    ]
-  },
-  "118/hr/5389": {
-    "pros": [
-      "Addresses a targeted policy issue needing legislative action.",
-      "Provides a structured approach to a specific problem."
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
-    ]
-  },
-  "118/hr/5893": {
-    "pros": [
-      "Provides necessary funding for essential government operations.",
-      "Ensures continuity of federal programs and services."
-    ],
-    "cons": [
-      "Increases federal spending without offsetting revenue measures.",
-      "May include earmarks or pet projects that bypass merit review."
-    ]
-  },
-  "118/hr/6268": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/6375": {
-    "pros": [
-      "Addresses a targeted policy issue needing legislative action.",
-      "Provides a structured approach to a specific problem."
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
-    ]
-  },
-  "118/hr/6644": {
-    "pros": [
-      "Expands benefits and support for military veterans and their families.",
-      "Ensures timely access to earned benefits and healthcare services."
-    ],
-    "cons": [
-      "May increase federal spending on benefit programs without offsets.",
-      "Could create administrative burdens for the VA or other agencies."
-    ]
-  },
-  "118/hr/7218": {
-    "pros": [
-      "Improves access to healthcare services and treatment options.",
-      "Addresses critical public health needs through targeted programming."
-    ],
-    "cons": [
-      "May increase federal healthcare spending without funding offsets.",
-      "Could create regulatory burdens for healthcare providers."
-    ]
-  },
-  "118/hr/7532": {
-    "pros": [
-      "Addresses a targeted policy issue needing legislative action.",
-      "Provides a structured approach to a specific problem."
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
-    ]
-  },
-  "118/hjres/168": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/10183": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/5840": {
-    "pros": [
-      "Invests in critical transportation infrastructure and safety.",
-      "Improves mobility and connectivity for communities."
-    ],
-    "cons": [
-      "May increase federal infrastructure spending without clear funding.",
-      "Could create delays through new administrative requirements."
-    ]
-  },
-  "118/hr/6008": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/6083": {
-    "pros": [
-      "Expands benefits and support for military veterans and their families.",
-      "Ensures timely access to earned benefits and healthcare services."
-    ],
-    "cons": [
-      "May increase federal spending on benefit programs without offsets.",
-      "Could create administrative burdens for the VA or other agencies."
-    ]
-  },
-  "118/hr/6084": {
-    "pros": [
-      "Provides relief for communities affected by natural disasters.",
-      "Speeds up recovery and rebuilding efforts for impacted areas."
-    ],
-    "cons": [
-      "Increases federal spending without offsetting cuts elsewhere.",
-      "Aid distribution may face bureaucratic delays and inefficiencies."
-    ]
-  },
-  "118/hr/6814": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/8705": {
-    "pros": [
-      "Promotes environmental conservation and clean energy development.",
-      "Protects natural resources for future generations."
-    ],
-    "cons": [
-      "May impose regulatory costs on businesses and industry.",
-      "Could increase energy costs for consumers and ratepayers."
-    ]
-  },
-  "118/hr/8728": {
-    "pros": [
-      "Provides relief for communities affected by natural disasters.",
-      "Speeds up recovery and rebuilding efforts for impacted areas."
-    ],
-    "cons": [
-      "Increases federal spending without offsetting cuts elsewhere.",
-      "Aid distribution may face bureaucratic delays and inefficiencies."
-    ]
-  },
-  "118/hr/9921": {
-    "pros": [
-      "Expands economic development opportunities in Louisiana.",
-      "Provides federal resources for Terrebonne Parish growth."
-    ],
-    "cons": [
-      "Benefits a single parish rather than nationwide impact.",
-      "Increases federal spending on regional development."
-    ]
-  },
-  "118/hres/1225": {
-    "pros": [
-      "Expands benefits and support for military veterans and their families.",
-      "Ensures timely access to earned benefits and healthcare services."
-    ],
-    "cons": [
-      "May increase federal spending on benefit programs without offsets.",
-      "Could create administrative burdens for the VA or other agencies."
-    ]
-  },
-  "118/hres/1410": {
-    "pros": [
-      "Advances consideration of Social Security reform legislation.",
-      "Addresses retirement income inequities for public workers."
-    ],
-    "cons": [
-      "No direct impact on law or government operations.",
-      "Consumes legislative resources without binding effect."
-    ]
-  },
-  "118/hres/1611": {
-    "pros": [
-      "Updates House rules for improved legislative procedures.",
-      "Ensures current and accurate parliamentary guidance."
-    ],
-    "cons": [
-      "No direct impact on law or government operations.",
-      "Consumes legislative resources without binding effect."
-    ]
-  },
-  "119/hr/9223": {
-    "pros": [
-      "Reduces administrative burden on special education programs.",
-      "Provides flexibility during emergencies and disasters."
-    ],
-    "cons": [
-      "May reduce oversight of disability education services.",
-      "Could lead to inconsistent special education standards."
-    ]
-  },
-  "119/hr/9226": {
-    "pros": [
-      "Protects Connecticut River watershed across five states.",
-      "Promotes regional environmental coordination and restoration."
-    ],
-    "cons": [
-      "Increases federal spending on environmental programs.",
-      "May impose regulations on local communities and businesses."
-    ]
-  },
-  "119/hr/9210": {
-    "pros": [
-      "Addresses an important policy area that needs attention.",
-      "Could provide benefits if implemented effectively."
-    ],
-    "cons": [
-      "May have unintended consequences that need careful consideration.",
-      "Could face implementation challenges or funding constraints."
-    ]
-  },
-  "119/sres/761": {
-    "pros": [
-      "Raises awareness about the harmful effects of social media on vulnerable users.",
-      "Honors victims who have suffered from social media-related harms."
-    ],
-    "cons": [
-      "May oversimplify the complex relationship between social media and mental health.",
-      "Could divert attention from concrete policy solutions addressing platform regulation."
-    ]
-  },
-  "119/hr/9228": {
-    "title": "To amend the Employee Retirement Income Security Act of 1974 to ensure plan fiduciaries have access to de-identified information relating to health claims, and for other purposes.",
-    "pros": [
-      "Could improve retirement plan transparency for participants.",
-      "May help fiduciaries make better investment decisions."
-    ],
-    "cons": [
-      "May increase administrative costs for plan sponsors.",
-      "Could lead to privacy concerns about health data access."
-    ],
-    "summary": "",
-    "processed_date": "2026-06-10T14:01:58.895444"
-  },
-  "119/hr/9212": {
-    "title": "To amend title 38, United States Code, to reimburse veterans for the cost of emergency medical transportation to a Federal facility, and for other purposes.",
-    "pros": [
-      "Could address important policy concerns identified by Congress.",
-      "May provide needed improvements to current regulations."
-    ],
-    "cons": [
-      "May have unintended consequences that require further study.",
-      "Could face implementation or funding challenges."
-    ],
-    "summary": "",
-    "processed_date": "2026-06-10T14:02:24.676924"
-  },
-  "119/hr/9180": {
-    "title": "To require the Secretary of Housing and Urban Development to access unmet community development-related needs in areas impacted by disasters on an ongoing basis, and for other purposes.",
-    "pros": [
-      "Could address important policy concerns identified by Congress.",
-      "May provide needed improvements to current regulations."
-    ],
-    "cons": [
-      "May have unintended consequences that require further study.",
-      "Could face implementation or funding challenges."
-    ],
-    "summary": "",
-    "processed_date": "2026-06-10T14:02:30.168207"
-  },
-  "119/s/4714": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/s/4709": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/sres/760": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/s/4711": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/s/4705": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/s/4704": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/s/4703": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/s/4701": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Could create additional regulatory or administrative burden."
-    ]
-  },
-  "119/hr/9234": {
-    "cons": [
-      "May reduce wages for domestic care workers through increased competition.",
-      "Could create dependency on foreign workers rather than improving working conditions."
-    ],
-    "pros": [
-      "Addresses critical labor shortages in eldercare and childcare industries.",
-      "Provides essential workers with legal immigration pathway."
-    ]
-  },
-  "119/hres/1349": {
-    "pros": [
-      "Raises awareness about road safety issues and traffic accident prevention.",
-      "Encourages public education on safe driving practices and infrastructure improvements."
-    ],
-    "cons": [
-      "Symbolic resolution with no binding legal or policy impact.",
-      "Adds yet another awareness week without funding for actual safety measures."
-    ]
-  },
-  "118/hr/6595": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hr/6525": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hr/5004": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hr/3576": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hr/10082": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hr/8296": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hr/6546": {
-    "pros": [
-      "Promotes environmental protection and sustainability.",
-      "Could help address climate change and reduce emissions."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "119/hres/1343": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "119/s/4721": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "119/s/4720": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/s/1323": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May impose additional regulatory burdens on businesses.",
-      "Could face implementation challenges and compliance costs."
-    ]
-  },
-  "119/hr/9224": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hres/1376": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hres/979": {
-    "pros": [
-      "Could improve healthcare access and quality for Americans.",
-      "May reduce healthcare costs and administrative burden."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hres/891": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May increase government spending and fiscal burden.",
-      "Could have unintended economic consequences."
-    ]
-  },
-  "118/hres/1565": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hres/1591": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hres/898": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "118/hres/1595": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "119/hr/9173": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative action.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future amendments.",
-      "Implementation costs and timeline remain unclear."
-    ]
-  },
-  "119/sres/759": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative attention.",
-      "Provides congressional oversight and accountability measures."
-    ],
-    "cons": [
-      "May face implementation challenges without proper funding.",
-      "Could create additional regulatory burden on affected parties."
-    ]
-  },
-  "119/sres/764": {
-    "pros": [
-      "Addresses an important policy issue requiring legislative attention.",
-      "Provides congressional oversight and accountability measures."
-    ],
-    "cons": [
-      "May face implementation challenges without proper funding.",
-      "Could create additional regulatory burden on affected parties."
-    ]
-  },
-  "119/hr/9232": {
-    "pros": [
-      "Enhances security at critical infrastructure sites",
-      "Provides tools to counter growing drone threats"
-    ],
-    "cons": [
-      "Could raise privacy and civil liberties concerns",
-      "May create conflicts with aviation regulations"
-    ],
-    "generated": "2026-06-11T01:02:29.802946",
-    "congress": "119",
-    "type": "hr",
-    "number": "9232",
-    "title": "To grant authority to use counter-unmanned aircraft system technologies to private owners of critical infrastructure facilities"
   }
 }
