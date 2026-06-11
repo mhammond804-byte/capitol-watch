@@ -215775,5 +215775,55 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "119/hr/9205": {
+    "cons": [
+      "May create overly broad restrictions affecting lawful gun owners.",
+      "Could face constitutional challenges over Second Amendment rights."
+    ],
+    "pros": [
+      "Enhances school safety by expanding gun-free zones.",
+      "Provides additional protection for students and educators."
+    ]
+  },
+  "119/hr/9204": {
+    "cons": [
+      "Federal grants may create dependency without lasting solutions.",
+      "Implementation costs could strain government resources."
+    ],
+    "pros": [
+      "Promotes development of safer firearm storage technology.",
+      "Could reduce accidental gun deaths and child access."
+    ]
+  },
+  "119/hr/8843": {
+    "cons": [
+      "Unclear policy implications without detailed bill text.",
+      "May be viewed as overly provocative or unprofessional."
+    ],
+    "pros": [
+      "Could address accountability for harmful actions.",
+      "May strengthen deterrent effects for wrongdoing."
+    ]
+  },
+  "119/hr/7935": {
+    "cons": [
+      "Could weaken public safety gun regulations unnecessarily.",
+      "May conflict with state and local firearm laws."
+    ],
+    "pros": [
+      "Strengthens Second Amendment constitutional protections.",
+      "Reduces regulatory burden on law-abiding gun owners."
+    ]
+  },
+  "119/hres/1053": {
+    "cons": [
+      "Ceremonial resolutions consume legislative time and resources.",
+      "May not address pressing policy issues."
+    ],
+    "pros": [
+      "Honors educational institutions and their contributions.",
+      "Celebrates important milestones in American higher education."
+    ]
   }
 }
