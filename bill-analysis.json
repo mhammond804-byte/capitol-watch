@@ -75598,6 +75598,16 @@
     "title": "BO\u2019s Act",
     "type": "hr"
   },
+  "119/hr/2169": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
+    ]
+  },
   "119/hr/217": {
     "cons": [
       "Accepting property donations could lead to the VA taking on facilities that are substandard or have high maint.",
@@ -80069,6 +80079,16 @@
       "Ensures continued healthcare and food access"
     ]
   },
+  "119/hr/2755": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
+    ]
+  },
   "119/hr/2756": {
     "cons": [
       "Creates another federal program with unclear oversight.",
@@ -82913,6 +82933,16 @@
     ],
     "sponsorName": "Bonnie Watson Coleman",
     "title": "Civil Rights Cold Case Records Collection Reauthorization Act"
+  },
+  "119/hr/3088": {
+    "cons": [
+      "May increase federal spending on defense programs",
+      "Could create administrative burdens for implementation"
+    ],
+    "pros": [
+      "Supports veterans and military personnel needs",
+      "Strengthens national security infrastructure"
+    ]
   },
   "119/hr/3089": {
     "cons": [
@@ -86355,6 +86385,16 @@
       "Protects patients and improves health outcomes."
     ]
   },
+  "119/hr/3483": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
+    ]
+  },
   "119/hr/3484": {
     "cons": [
       "Could reduce consumer protections in the name of deregulation.",
@@ -87414,6 +87454,16 @@
     ],
     "title": "American Land and Property Protection Act",
     "type": "hr"
+  },
+  "119/hr/3619": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
+    ]
   },
   "119/hr/362": {
     "cons": [
@@ -89265,6 +89315,16 @@
     "pros": [
       "Strengthens support systems for American families and children.",
       "Addresses critical needs of vulnerable populations."
+    ]
+  },
+  "119/hr/3833": {
+    "cons": [
+      "May increase federal spending on defense programs",
+      "Could create administrative burdens for implementation"
+    ],
+    "pros": [
+      "Supports veterans and military personnel needs",
+      "Strengthens national security infrastructure"
     ]
   },
   "119/hr/3834": {
@@ -95264,6 +95324,16 @@
       "Addresses local infrastructure or economic development needs."
     ]
   },
+  "119/hr/4480": {
+    "cons": [
+      "May increase federal spending on defense programs",
+      "Could create administrative burdens for implementation"
+    ],
+    "pros": [
+      "Supports veterans and military personnel needs",
+      "Strengthens national security infrastructure"
+    ]
+  },
   "119/hr/4481": {
     "cons": [
       "Risks escalating regional conflicts with increased arms proliferation.",
@@ -98532,6 +98602,16 @@
     "pros": [
       "Promotes innovation in emerging technologies and digital infrastructure.",
       "Helps close the digital divide and expand internet access."
+    ]
+  },
+  "119/hr/4824": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
     ]
   },
   "119/hr/4827": {
@@ -103793,6 +103873,16 @@
     "pros": [
       "Addresses important policy issues in the Public Lands and Natural Resources area.",
       "Provides a clear legislative framework to address a pressing national need."
+    ]
+  },
+  "119/hr/5420": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
     ]
   },
   "119/hr/5421": {
@@ -117539,6 +117629,16 @@
       "Provides a targeted solution to a defined problem."
     ]
   },
+  "119/hr/6833": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
+    ]
+  },
   "119/hr/6834": {
     "cons": [
       "May have broader economic implications that require further study.",
@@ -119312,6 +119412,16 @@
       "Restores public trust in government by closing insider trading loopholes."
     ]
   },
+  "119/hr/7009": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
+    ]
+  },
   "119/hr/701": {
     "cons": [
       "Tax credits may reduce federal revenue without guaranteed price drops.",
@@ -120053,6 +120163,16 @@
     "pros": [
       "Invests in educational opportunities and supports student success.",
       "Strengthens support systems for children and working families."
+    ]
+  },
+  "119/hr/7083": {
+    "cons": [
+      "May have unintended economic consequences across sectors",
+      "Implementation costs and complexity could be significant"
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action",
+      "Provides targeted solutions to specific problems"
     ]
   },
   "119/hr/7084": {
@@ -142296,6 +142416,36 @@
       "Enables faster and more capable deep space missions."
     ]
   },
+  "119/hr/9194": {
+    "cons": [
+      "May increase paperwork burden on smaller businesses.",
+      "Could complicate procurement processes for federal agencies."
+    ],
+    "pros": [
+      "Clarifies requirements for Buy America compliance documentation.",
+      "Reduces regulatory uncertainty for manufacturers and contractors."
+    ]
+  },
+  "119/hr/9195": {
+    "cons": [
+      "Requires significant increase in specialized education funding.",
+      "May face implementation challenges in rural school districts."
+    ],
+    "pros": [
+      "Expands deaf education programs and workforce development.",
+      "Strengthens support for students with hearing disabilities."
+    ]
+  },
+  "119/hr/9196": {
+    "cons": [
+      "May require substantial new federal education funding.",
+      "Could strain resources at schools lacking specialized staff."
+    ],
+    "pros": [
+      "Ensures quality special education services for deafblind children.",
+      "Addresses significant gaps in specialized educational support."
+    ]
+  },
   "119/hr/9197": {
     "cons": [
       "Nuclear fuel recycling raises serious proliferation concerns.",
@@ -142431,6 +142581,16 @@
     "summary": "",
     "title": "To amend title 38, United States Code, to reimburse veterans for the cost of emergency medical transportation to a Federal facility, and for other purposes."
   },
+  "119/hr/9218": {
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ]
+  },
   "119/hr/9221": {
     "cons": [
       "May conflict with conservation or private property rights.",
@@ -142461,6 +142621,16 @@
       "Could provide targeted solutions to specific problems."
     ]
   },
+  "119/hr/9225": {
+    "cons": [
+      "May require costly changes to existing aviation regulations.",
+      "Could delay implementation of needed safety improvements."
+    ],
+    "pros": [
+      "Improves aviation safety by studying aircraft certification standards.",
+      "Could modernize regulations for small aircraft operations."
+    ]
+  },
   "119/hr/9226": {
     "cons": [
       "Increases federal spending on environmental programs.",
@@ -142483,6 +142653,26 @@
     ],
     "summary": "",
     "title": "To amend the Employee Retirement Income Security Act of 1974 to ensure plan fiduciaries have access to de-identified information relating to health claims, and for other purposes."
+  },
+  "119/hr/9229": {
+    "congress": 119,
+    "cons": [
+      "May have unintended consequences that need careful review.",
+      "Could increase federal spending or regulatory burden."
+    ],
+    "number": "9229",
+    "policy_area": "",
+    "pros": [
+      "Addresses an important policy area that needs attention.",
+      "Provides a legislative framework for necessary reforms."
+    ],
+    "sponsor_bioguide": "P000622",
+    "sponsor_chamber": "House",
+    "sponsor_name": " ",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "To protect seaports from unmanned aircraft systems, and for other purposes.",
+    "type": "hr"
   },
   "119/hr/9232": {
     "congress": "119",
@@ -142509,6 +142699,26 @@
       "Provides essential workers with legal immigration pathway."
     ]
   },
+  "119/hr/9236": {
+    "cons": [
+      "May increase administrative burden on law enforcement agencies.",
+      "Could lead to alert fatigue if minimum standards are too broad."
+    ],
+    "pros": [
+      "Could help locate missing persons more quickly through improved alert systems.",
+      "Provides standardized guidelines for high-risk missing person cases."
+    ]
+  },
+  "119/hr/9247": {
+    "cons": [
+      "Would significantly increase staffing costs for VA medical centers.",
+      "Implementation challenges for smaller rural VA facilities with limited resources."
+    ],
+    "pros": [
+      "Ensures 24/7 access to suicide prevention services for veterans at all VA centers.",
+      "Could save lives by providing immediate mental health support when needed."
+    ]
+  },
   "119/hr/925": {
     "cons": [
       "May have broader economic or regulatory implications.",
@@ -142517,6 +142727,16 @@
     "pros": [
       "Addresses a specific policy issue requiring legislative action.",
       "Provides a targeted solution to a defined problem."
+    ]
+  },
+  "119/hr/9251": {
+    "cons": [
+      "May increase government healthcare spending significantly",
+      "Could face resistance from private insurance industry"
+    ],
+    "pros": [
+      "Improves healthcare access and quality for Americans",
+      "Reduces healthcare costs and administrative burdens"
     ]
   },
   "119/hr/927": {
@@ -146885,6 +147105,26 @@
     "summary": "Expressing support for the designation of the week of June 7 through June 13, 2026, as \"National Trailer Safety Week\" in the United States, and supporting the goals and ideals of National Trailer Safety Week to educate American motorists about the importance of proper towing techniques and maintenan",
     "title": "Expressing support for the designation of the week of June 7 through June 13, 2026, as \"National Trailer Safety Week\" in the United States, and supporting the goals and ideals of National Trailer Safety Week to educate American motorists about the importance of proper towing techniques and maintenance."
   },
+  "119/hres/1346": {
+    "congress": 119,
+    "cons": [
+      "Could undermine judicial independence and discourage bold legal decisions.",
+      "May set precedent for politically motivated attacks on federal judges."
+    ],
+    "number": "1346",
+    "policy_area": "",
+    "pros": [
+      "Ensures judicial accountability and maintains public trust in the court system.",
+      "Provides constitutional mechanism to remove judges who commit serious misconduct."
+    ],
+    "sponsor_bioguide": "F000485",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Clay Fuller",
+    "sponsor_state": "GA",
+    "summary": "",
+    "title": "Impeaching Eleanor L. Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
+    "type": "hres"
+  },
   "119/hres/1347": {
     "cons": [
       "May increase compliance burdens on small businesses.",
@@ -146903,6 +147143,17 @@
     "pros": [
       "Raises awareness about road safety issues and traffic accident prevention.",
       "Encourages public education on safe driving practices and infrastructure improvements."
+    ]
+  },
+  "119/hres/1355": {
+    "cons": [
+      "Implementation details remain unclear or incomplete.",
+      "Could face political opposition limiting effectiveness."
+    ],
+    "date_added": "2026-06-11T15:02:57.003560",
+    "pros": [
+      "Could improve health outcomes for affected populations.",
+      "Provides legislative framework for needed reforms."
     ]
   },
   "119/hres/137": {
@@ -171309,6 +171560,16 @@
       "Could provide targeted solutions to specific problems."
     ]
   },
+  "119/s/4712": {
+    "cons": [
+      "Could create jurisdictional conflicts with existing law enforcement agencies.",
+      "May face resistance from intelligence agencies concerned about operational security."
+    ],
+    "pros": [
+      "Strengthens oversight of intelligence agencies through enhanced IG authority.",
+      "Improves accountability and investigation capacity within intelligence community."
+    ]
+  },
   "119/s/4714": {
     "cons": [
       "May have unintended consequences requiring future amendments.",
@@ -171349,6 +171610,18 @@
       "Could provide targeted solutions to specific problems."
     ]
   },
+  "119/s/4726": {
+    "cons": [
+      "May involve costly international commitments without clear outcomes.",
+      "Could be seen as overextension of U.S. foreign policy priorities."
+    ],
+    "pros": [
+      "Addresses urgent humanitarian crisis and promotes regional stability in Sudan.",
+      "Could support diplomatic efforts to resolve ongoing conflict in the region."
+    ],
+    "sponsor": "Risch",
+    "title": "A bill to promote efforts to bring about stability and security in Sudan, and for other purposes."
+  },
   "119/s/473": {
     "cons": [
       "Adds to federal budget deficits without reforms.",
@@ -171357,6 +171630,46 @@
     "pros": [
       "Directs funding toward important national priorities.",
       "Addresses the specific policy issue described in the bill."
+    ]
+  },
+  "119/s/4731": {
+    "cons": [
+      "Requires significant federal investment.",
+      "May face construction delays and cost overruns."
+    ],
+    "pros": [
+      "Improves transportation infrastructure and safety.",
+      "Creates jobs and economic opportunities."
+    ]
+  },
+  "119/s/4736": {
+    "cons": [
+      "May have unintended consequences across affected sectors.",
+      "Implementation costs and timeline remain unclear."
+    ],
+    "pros": [
+      "Addresses important policy issue requiring legislative solution.",
+      "Provides targeted approach to specific problem area."
+    ]
+  },
+  "119/s/4746": {
+    "cons": [
+      "Could face legal challenges regarding free speech and platform autonomy.",
+      "May be difficult to enforce consistently across diverse platform types."
+    ],
+    "pros": [
+      "Would protect users from discriminatory practices by large tech platforms.",
+      "Creates legal framework to hold major platforms accountable for bias."
+    ]
+  },
+  "119/s/4747": {
+    "cons": [
+      "May delay legitimate payments to beneficiaries who depend on timely disbursements.",
+      "Could create additional bureaucratic complexity in payment processing systems."
+    ],
+    "pros": [
+      "Provides government flexibility to manage payments during emergencies or fraud detection.",
+      "Could help prevent improper payments and reduce financial waste."
     ]
   },
   "119/s/4757": {
@@ -177211,6 +177524,18 @@
       "Provides official recognition through congressional action."
     ]
   },
+  "119/sres/756": {
+    "cons": [
+      "Symbolic resolution without concrete policy changes or funding.",
+      "May be viewed as politically motivated rather than substantive action."
+    ],
+    "pros": [
+      "Raises public awareness about gun violence prevention and safety measures.",
+      "Honors victims of gun violence and supports affected communities."
+    ],
+    "sponsor": "Durbin",
+    "title": "A resolution expressing support for the designation of June 5, 2026, as \"National Gun Violence Awareness Day\" and June 2026 as \"National Gun Violence Awareness Month\"."
+  },
   "119/sres/757": {
     "cons": [
       "Uses legislative time that could address more pressing national issues.",
@@ -177259,6 +177584,16 @@
     "pros": [
       "Raises awareness about the harmful effects of social media on vulnerable users.",
       "Honors victims who have suffered from social media-related harms."
+    ]
+  },
+  "119/sres/762": {
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
     ]
   },
   "119/sres/763": {
@@ -216214,311 +216549,6 @@
     "pros": [
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
-    ]
-  },
-  "119/hr/9229": {
-    "pros": [
-      "Addresses an important policy area that needs attention.",
-      "Provides a legislative framework for necessary reforms."
-    ],
-    "cons": [
-      "May have unintended consequences that need careful review.",
-      "Could increase federal spending or regulatory burden."
-    ],
-    "title": "To protect seaports from unmanned aircraft systems, and for other purposes.",
-    "summary": "",
-    "policy_area": "",
-    "congress": 119,
-    "type": "hr",
-    "number": "9229",
-    "sponsor_name": " ",
-    "sponsor_bioguide": "P000622",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House"
-  },
-  "119/hres/1346": {
-    "pros": [
-      "Ensures judicial accountability and maintains public trust in the court system.",
-      "Provides constitutional mechanism to remove judges who commit serious misconduct."
-    ],
-    "cons": [
-      "Could undermine judicial independence and discourage bold legal decisions.",
-      "May set precedent for politically motivated attacks on federal judges."
-    ],
-    "title": "Impeaching Eleanor L. Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
-    "summary": "",
-    "policy_area": "",
-    "congress": 119,
-    "type": "hres",
-    "number": "1346",
-    "sponsor_name": "Clay Fuller",
-    "sponsor_bioguide": "F000485",
-    "sponsor_state": "GA",
-    "sponsor_chamber": "House"
-  },
-  "119/s/4726": {
-    "title": "A bill to promote efforts to bring about stability and security in Sudan, and for other purposes.",
-    "sponsor": "Risch",
-    "pros": [
-      "Addresses urgent humanitarian crisis and promotes regional stability in Sudan.",
-      "Could support diplomatic efforts to resolve ongoing conflict in the region."
-    ],
-    "cons": [
-      "May involve costly international commitments without clear outcomes.",
-      "Could be seen as overextension of U.S. foreign policy priorities."
-    ]
-  },
-  "119/sres/756": {
-    "title": "A resolution expressing support for the designation of June 5, 2026, as \"National Gun Violence Awareness Day\" and June 2026 as \"National Gun Violence Awareness Month\".",
-    "sponsor": "Durbin",
-    "pros": [
-      "Raises public awareness about gun violence prevention and safety measures.",
-      "Honors victims of gun violence and supports affected communities."
-    ],
-    "cons": [
-      "Symbolic resolution without concrete policy changes or funding.",
-      "May be viewed as politically motivated rather than substantive action."
-    ]
-  },
-  "119/hr/9236": {
-    "pros": [
-      "Could help locate missing persons more quickly through improved alert systems.",
-      "Provides standardized guidelines for high-risk missing person cases."
-    ],
-    "cons": [
-      "May increase administrative burden on law enforcement agencies.",
-      "Could lead to alert fatigue if minimum standards are too broad."
-    ]
-  },
-  "119/hr/9247": {
-    "pros": [
-      "Ensures 24/7 access to suicide prevention services for veterans at all VA centers.",
-      "Could save lives by providing immediate mental health support when needed."
-    ],
-    "cons": [
-      "Would significantly increase staffing costs for VA medical centers.",
-      "Implementation challenges for smaller rural VA facilities with limited resources."
-    ]
-  },
-  "119/s/4746": {
-    "pros": [
-      "Would protect users from discriminatory practices by large tech platforms.",
-      "Creates legal framework to hold major platforms accountable for bias."
-    ],
-    "cons": [
-      "Could face legal challenges regarding free speech and platform autonomy.",
-      "May be difficult to enforce consistently across diverse platform types."
-    ]
-  },
-  "119/s/4712": {
-    "pros": [
-      "Strengthens oversight of intelligence agencies through enhanced IG authority.",
-      "Improves accountability and investigation capacity within intelligence community."
-    ],
-    "cons": [
-      "Could create jurisdictional conflicts with existing law enforcement agencies.",
-      "May face resistance from intelligence agencies concerned about operational security."
-    ]
-  },
-  "119/s/4747": {
-    "pros": [
-      "Provides government flexibility to manage payments during emergencies or fraud detection.",
-      "Could help prevent improper payments and reduce financial waste."
-    ],
-    "cons": [
-      "May delay legitimate payments to beneficiaries who depend on timely disbursements.",
-      "Could create additional bureaucratic complexity in payment processing systems."
-    ]
-  },
-  "119/hr/9225": {
-    "pros": [
-      "Improves aviation safety by studying aircraft certification standards.",
-      "Could modernize regulations for small aircraft operations."
-    ],
-    "cons": [
-      "May require costly changes to existing aviation regulations.",
-      "Could delay implementation of needed safety improvements."
-    ]
-  },
-  "119/hr/9194": {
-    "pros": [
-      "Clarifies requirements for Buy America compliance documentation.",
-      "Reduces regulatory uncertainty for manufacturers and contractors."
-    ],
-    "cons": [
-      "May increase paperwork burden on smaller businesses.",
-      "Could complicate procurement processes for federal agencies."
-    ]
-  },
-  "119/hr/9196": {
-    "pros": [
-      "Ensures quality special education services for deafblind children.",
-      "Addresses significant gaps in specialized educational support."
-    ],
-    "cons": [
-      "May require substantial new federal education funding.",
-      "Could strain resources at schools lacking specialized staff."
-    ]
-  },
-  "119/hr/9195": {
-    "pros": [
-      "Expands deaf education programs and workforce development.",
-      "Strengthens support for students with hearing disabilities."
-    ],
-    "cons": [
-      "Requires significant increase in specialized education funding.",
-      "May face implementation challenges in rural school districts."
-    ]
-  },
-  "119/hres/1355": {
-    "pros": [
-      "Could improve health outcomes for affected populations.",
-      "Provides legislative framework for needed reforms."
-    ],
-    "cons": [
-      "Implementation details remain unclear or incomplete.",
-      "Could face political opposition limiting effectiveness."
-    ],
-    "date_added": "2026-06-11T15:02:57.003560"
-  },
-  "119/hr/7083": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/7009": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/6833": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/5420": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/4480": {
-    "pros": [
-      "Supports veterans and military personnel needs",
-      "Strengthens national security infrastructure"
-    ],
-    "cons": [
-      "May increase federal spending on defense programs",
-      "Could create administrative burdens for implementation"
-    ]
-  },
-  "119/hr/3833": {
-    "pros": [
-      "Supports veterans and military personnel needs",
-      "Strengthens national security infrastructure"
-    ],
-    "cons": [
-      "May increase federal spending on defense programs",
-      "Could create administrative burdens for implementation"
-    ]
-  },
-  "119/hr/3619": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/3483": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/3088": {
-    "pros": [
-      "Supports veterans and military personnel needs",
-      "Strengthens national security infrastructure"
-    ],
-    "cons": [
-      "May increase federal spending on defense programs",
-      "Could create administrative burdens for implementation"
-    ]
-  },
-  "119/hr/2755": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/2169": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/hr/9251": {
-    "pros": [
-      "Improves healthcare access and quality for Americans",
-      "Reduces healthcare costs and administrative burdens"
-    ],
-    "cons": [
-      "May increase government healthcare spending significantly",
-      "Could face resistance from private insurance industry"
-    ]
-  },
-  "119/hr/4824": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action",
-      "Provides targeted solutions to specific problems"
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors",
-      "Implementation costs and complexity could be significant"
-    ]
-  },
-  "119/s/4736": {
-    "pros": [
-      "Addresses important policy issue requiring legislative solution.",
-      "Provides targeted approach to specific problem area."
-    ],
-    "cons": [
-      "May have unintended consequences across affected sectors.",
-      "Implementation costs and timeline remain unclear."
     ]
   }
 }
