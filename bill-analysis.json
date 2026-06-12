@@ -216950,5 +216950,45 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "119/hres/1351": {
+    "pros": [
+      "Addresses an identified policy concern in the legislation.",
+      "Could provide targeted solutions to specific issues."
+    ],
+    "cons": [
+      "May have unintended consequences that need careful review.",
+      "Implementation costs and effectiveness remain uncertain."
+    ],
+    "sponsor_name": "Member C001116",
+    "sponsor_bioguide": "C001116",
+    "sponsor_chamber": "House",
+    "sponsor_state": "GA",
+    "title": "Impeaching Eleanor Louise Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
+    "summary": "",
+    "policy_area": "Various",
+    "congress": 119,
+    "type": "hres",
+    "number": "1351"
+  },
+  "119/s/4695": {
+    "pros": [
+      "Addresses an identified policy concern in the legislation.",
+      "Could provide targeted solutions to specific issues."
+    ],
+    "cons": [
+      "May have unintended consequences that need careful review.",
+      "Implementation costs and effectiveness remain uncertain."
+    ],
+    "sponsor_name": "Member S001194",
+    "sponsor_bioguide": "S001194",
+    "sponsor_chamber": "Senate",
+    "sponsor_state": "HI",
+    "title": "A bill to establish a private right of action against a person who transmits unsolicited intimate visual depictions.",
+    "summary": "",
+    "policy_area": "Various",
+    "congress": 119,
+    "type": "s",
+    "number": "4695"
   }
 }
