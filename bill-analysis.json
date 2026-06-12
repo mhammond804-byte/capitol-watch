@@ -217510,5 +217510,35 @@
       "Could reduce federal revenue and increase the deficit.",
       "May primarily benefit higher-income taxpayers."
     ]
+  },
+  "119/hr/9272": {
+    "pros": [
+      "Supports quality education and workforce development.",
+      "Could help address critical skills shortages."
+    ],
+    "cons": [
+      "May require significant new funding sources.",
+      "Implementation timeline could be challenging."
+    ]
+  },
+  "119/hr/9257": {
+    "pros": [
+      "Improves access to important healthcare services.",
+      "Could help save lives through early detection."
+    ],
+    "cons": [
+      "May increase costs for healthcare system.",
+      "Implementation could face logistical challenges."
+    ]
+  },
+  "119/hr/9231": {
+    "pros": [
+      "Addresses an important policy issue facing Americans.",
+      "Could improve government efficiency and effectiveness."
+    ],
+    "cons": [
+      "May have unintended consequences requiring future fixes.",
+      "Implementation could face practical challenges."
+    ]
   }
 }
