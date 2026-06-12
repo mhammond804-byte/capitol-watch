@@ -3,8 +3,42 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Capitol Watch tracks how your members of Congress vote on every bill. Get plain-language analysis of both sides — free, nonpartisan, live data from Congress.gov.">
+  <meta name="keywords" content="Congress, bills, votes, representatives, senators, legislation, Congress.gov, nonpartisan, transparency">
+  <meta name="author" content="Capitol Watch">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://capitolwatch.us/">
+  <meta name="theme-color" content="#07090f">
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://capitolwatch.us/">
+  <meta property="og:title" content="Capitol Watch — Track How Congress Votes">
+  <meta property="og:description" content="Free, nonpartisan tool to track how your representatives vote. Plain-language bill breakdowns, both sides, no spin.">
+  <meta property="og:site_name" content="Capitol Watch">
+  <meta property="og:locale" content="en_US">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Capitol Watch — Track How Congress Votes">
+  <meta name="twitter:description" content="Free, nonpartisan tool to track how your representatives vote. Plain-language bill breakdowns, both sides, no spin.">
+  <!-- Favicon — small flag emoji as ICO -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏛️</text></svg>">
   <title>Capitol Watch — Track How Congress Votes</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Schema.org structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Capitol Watch",
+    "url": "https://capitolwatch.us/",
+    "description": "Free, nonpartisan tool to track how your representatives vote in Congress.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://capitolwatch.us/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
   <style>
     :root {
       --bg: #07090f;
@@ -522,13 +556,17 @@
       <button class="nav-link" onclick="showAbout()">About</button>
       <button class="nav-link" onclick="showAlerts()" style="color:var(--green)">🔔 Get Alerts</button>
       <div class="nav-search">
-        <input type="text" id="navSearchInput" placeholder="Search bills..." maxlength="100" onkeydown="if(event.key==='Enter')navSearch()" />
+        <input type="text" id="navSearchInput" placeholder="Search bills..." maxlength="100" aria-label="Search bills" onkeydown="if(event.key==='Enter')navSearch()" />
         <button class="nav-search-btn" onclick="navSearch()">🔍</button>
       </div>
     </nav>
   </div>
 </header>
 
+<!-- Skip to main content — accessibility -->
+<a href="#main-content" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:10000;background:var(--accent);color:white;padding:8px 16px;border-radius:4px;font-weight:600;text-decoration:none" onfocus="this.style.left='0';this.style.width='auto';this.style.height='auto';this.style.clip='auto'" onblur="this.style.left='-9999px';this.style.width='1px';this.style.height='1px';this.style.clip='rect(0,0,0,0)'">Skip to main content</a>
+
+<main id="main-content">
 <div class="container">
   <div class="hero" id="heroSection">
     <div class="hero-eyebrow">🇺🇸 Nonpartisan &nbsp;·&nbsp; Free &nbsp;·&nbsp; Live Data &nbsp;·&nbsp; For the People</div>
@@ -539,7 +577,7 @@
     <div class="search-hero">
       <div class="search-hero-input-wrap">
         <span class="search-hero-icon">📍</span>
-        <input type="text" class="zip-input" id="zipInput" placeholder="e.g. 33601" maxlength="5" inputmode="numeric" />
+        <input type="text" class="zip-input" id="zipInput" placeholder="e.g. 33601" maxlength="5" inputmode="numeric" aria-label="Enter your zip code to find your representatives" />
         <button class="zip-go-btn" id="zipBtn" onclick="lookupByZip()">Find My Reps →</button>
       </div>
     </div>
@@ -567,6 +605,7 @@
     </div>
   </div>
 </div>
+</main>
 
 <footer>
   <div class="footer-inner">
@@ -575,6 +614,8 @@
     Data from <a href="https://congress.gov" target="_blank">Congress.gov</a>
     <span class="footer-dots">·</span>
     Nonpartisan &amp; free
+    <span class="footer-dots">·</span>
+    <a href="mailto:mhammond8808@tampamulti.com" style="color:var(--text-muted)">Contact</a>
   </div>
   <div class="footer-signup">
     <h4>📬 Stay informed</h4>
@@ -1181,7 +1222,7 @@ async function loadRecentBillsIntoSingleView() {
     let html = `<button class="back-btn" onclick="goHome()">← Home</button>
       <div class="section-title" style="margin-top:0">🇺🇸 Recent Bills in Congress</div>
       <div class="search-bar-wrap bill-search-row" style="margin-bottom:20px;display:flex;gap:10px">
-        <input class="search-bar" id="billSearchInput" placeholder="Search bills by keyword..." style="flex:1" onkeydown="if(event.key==='Enter')searchBills()" />
+        <input class="search-bar" id="billSearchInput" placeholder="Search bills by keyword..." style="flex:1" aria-label="Search bills by keyword" onkeydown="if(event.key==='Enter')searchBills()" />
         <button class="btn" onclick="searchBills()" style="white-space:nowrap">Search</button>
       </div>
       <div id="billResults">`;
