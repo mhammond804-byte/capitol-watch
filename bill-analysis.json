@@ -216550,5 +216550,45 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "119/hr/9179": {
+    "pros": [
+      "Could reduce tax burden for individuals and businesses.",
+      "May simplify tax compliance and administration."
+    ],
+    "cons": [
+      "Could reduce government revenue for essential services.",
+      "Benefits might not reach those who need them most."
+    ],
+    "sponsor_name": "G000602 (NY)",
+    "sponsor_bioguide": "G000602",
+    "sponsor_chamber": "House",
+    "sponsor_state": "NY",
+    "title": "To amend the Internal Revenue Code of 1986 to provide for adjustments in the individual income tax rates to reflect regional differences in the cost-of-living.",
+    "summary": "Summary not available.",
+    "policy_area": "Legislative",
+    "congress": 119,
+    "type": "hr",
+    "number": 9179
+  },
+  "119/hr/9244": {
+    "pros": [
+      "Could reduce tax burden for individuals and businesses.",
+      "May simplify tax compliance and administration."
+    ],
+    "cons": [
+      "Could reduce government revenue for essential services.",
+      "Benefits might not reach those who need them most."
+    ],
+    "sponsor_name": "H001101 (NC)",
+    "sponsor_bioguide": "H001101",
+    "sponsor_chamber": "House",
+    "sponsor_state": "NC",
+    "title": "To regulate certain State taxation of interstate commerce, and for other purposes.",
+    "summary": "Summary not available.",
+    "policy_area": "Legislative",
+    "congress": 119,
+    "type": "hr",
+    "number": 9244
   }
 }
