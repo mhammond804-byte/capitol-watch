@@ -217250,5 +217250,45 @@
       "May have unintended consequences requiring oversight.",
       "Could face implementation and funding challenges."
     ]
+  },
+  "119/s/4724": {
+    "pros": [
+      "Supports agricultural communities and food security.",
+      "Promotes sustainable farming practices."
+    ],
+    "cons": [
+      "May increase costs for agricultural programs.",
+      "Could impact food prices for consumers."
+    ]
+  },
+  "119/s/4700": {
+    "pros": [
+      "Addresses an important policy issue requiring action.",
+      "Provides targeted solutions to specific problems."
+    ],
+    "cons": [
+      "May have unintended economic consequences.",
+      "Lacks sufficient detail for full impact assessment."
+    ]
+  },
+  "119/s/4696": {
+    "pros": [
+      "Addresses an important policy issue requiring action.",
+      "Provides targeted solutions to specific problems."
+    ],
+    "cons": [
+      "May have unintended economic consequences.",
+      "Lacks sufficient detail for full impact assessment."
+    ]
+  },
+  "119/s/4707": {
+    "pros": [
+      "Addresses an important policy issue requiring action.",
+      "Provides targeted solutions to specific problems."
+    ],
+    "cons": [
+      "May have unintended economic consequences.",
+      "Lacks sufficient detail for full impact assessment."
+    ]
   }
 }
