@@ -217540,5 +217540,80 @@
       "May have unintended consequences requiring future fixes.",
       "Implementation could face practical challenges."
     ]
+  },
+  "119/hr/9258": {
+    "pros": [
+      "Provides tax relief or incentives for taxpayers.",
+      "Simplifies the tax code for easier compliance."
+    ],
+    "cons": [
+      "May reduce federal tax revenue significantly.",
+      "Benefits could favor higher-income earners."
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to impose a mileage-based user fee for mobile mounted concrete boom pumps in lieu of the tax on taxable fuels, and for other purposes.",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "9258"
+  },
+  "119/hr/9265": {
+    "pros": [
+      "Addresses an important policy issue facing the nation.",
+      "Provides a legislative solution to a defined problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "To amend the Richard B. Russell National School Lunch Act to require participation in the summer EBT program as a condition of participating in the school lunch program, and for other purposes.",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "9265"
+  },
+  "119/s/4751": {
+    "pros": [
+      "Addresses an important policy issue facing the nation.",
+      "Provides a legislative solution to a defined problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "title": "A bill to prevent, treat, and cure tuberculosis globally.",
+    "summary": "",
+    "congress": 119,
+    "type": "s",
+    "number": "4751"
+  },
+  "119/s/4770": {
+    "pros": [
+      "Promotes clean energy and environmental protection.",
+      "Reduces dependence on foreign energy sources."
+    ],
+    "cons": [
+      "May increase costs for businesses and consumers.",
+      "Could impact traditional energy sector jobs."
+    ],
+    "title": "A bill to require the Secretary of Energy to establish a centralized resource for access to data to facilitate biological research through enabling advanced computational methods such as artificial intelligence, and for other purposes.",
+    "summary": "",
+    "congress": 119,
+    "type": "s",
+    "number": "4770"
+  },
+  "119/hr/9280": {
+    "pros": [
+      "Supports veterans and military families.",
+      "Honors service members' sacrifices and contributions."
+    ],
+    "cons": [
+      "Increases federal spending on veteran programs.",
+      "May strain existing VA resources and capacity."
+    ],
+    "title": "To direct the Secretary of Veterans Affairs to develop an action plan to help veterans obtain employment in advanced manufacturing, and for other purposes.",
+    "summary": "",
+    "congress": 119,
+    "type": "hr",
+    "number": "9280"
   }
 }
