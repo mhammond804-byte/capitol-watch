@@ -25200,6 +25200,56 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "112/hr/5105": {
+    "cons": [
+      "Lost tariff revenue for government",
+      "May hurt domestic chemical producers"
+    ],
+    "pros": [
+      "Reduces costs for industries needing carbonic dihydrazide",
+      "Supports manufacturing competitiveness"
+    ]
+  },
+  "112/hr/5106": {
+    "cons": [
+      "Reduces government tariff income",
+      "Could undercut domestic hydrazine producers"
+    ],
+    "pros": [
+      "Lower costs for hydrazine hydrate industrial users",
+      "Boosts sectors requiring this chemical"
+    ]
+  },
+  "112/hr/5107": {
+    "cons": [
+      "Lost customs revenue for Treasury",
+      "May harm domestic acrylic fiber industry"
+    ],
+    "pros": [
+      "Benefits textile and fiber manufacturing",
+      "Reduces production costs for acrylic products"
+    ]
+  },
+  "112/hr/5111": {
+    "cons": [
+      "Reduces federal tariff collections",
+      "Could disadvantage US copper peptide makers"
+    ],
+    "pros": [
+      "Supports cosmetic and pharmaceutical industries",
+      "Lowers costs for anti-aging product makers"
+    ]
+  },
+  "112/hr/5112": {
+    "cons": [
+      "Government loses tariff revenue",
+      "May hurt domestic peptide manufacturers"
+    ],
+    "pros": [
+      "Benefits skincare and medical device sectors",
+      "Reduces import costs for specialized peptides"
+    ]
+  },
   "112/hr/524": {
     "cons": [
       "Increases government involvement in healthcare decisions.",
@@ -25218,6 +25268,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "112/hr/5323": {
+    "cons": [
+      "Complex administrative burden for customs",
+      "May set precedent for other trade disputes"
+    ],
+    "pros": [
+      "Resolves past trade classification disputes",
+      "Provides certainty for Korean cookware imports"
     ]
   },
   "112/hr/5350": {
@@ -25428,6 +25488,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "112/hr/5615": {
+    "cons": [
+      "Reduces state tax revenue",
+      "Complex enforcement challenges"
+    ],
+    "pros": [
+      "Prevents double taxation for remote workers",
+      "Encourages telecommuting flexibility"
     ]
   },
   "112/hr/5649": {
@@ -25968,6 +26038,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "112/hr/6187": {
+    "cons": [
+      "Requires significant federal investment",
+      "No guarantee of successful outcomes"
+    ],
+    "pros": [
+      "Accelerates HIV/AIDS cure research",
+      "Could save millions of lives globally"
     ]
   },
   "112/hr/6188": {
@@ -30694,6 +30774,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "113/hr/3630": {
+    "cons": [
+      "High cost for taxpayers",
+      "Research timeline uncertain"
+    ],
+    "pros": [
+      "Funds critical HIV/AIDS research",
+      "Targets elimination of deadly disease"
+    ]
+  },
   "113/hr/3635": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -30995,6 +31085,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "113/hr/3779": {
+    "cons": [
+      "May compromise sensitive operations",
+      "Creates additional bureaucratic burden"
+    ],
+    "pros": [
+      "Increases intelligence community accountability",
+      "Enhances congressional oversight"
+    ]
+  },
   "113/hr/3800": {
     "cons": [
       "Increases military spending at the expense of domestic programs.",
@@ -31175,6 +31275,26 @@
       "Strengthens cybersecurity and protects consumer data."
     ]
   },
+  "113/hr/3983": {
+    "cons": [
+      "Expensive new education mandates",
+      "Implementation complexity for schools"
+    ],
+    "pros": [
+      "Supports comprehensive education reform",
+      "Addresses diverse learning needs"
+    ]
+  },
+  "113/hr/3984": {
+    "cons": [
+      "Significant federal spending increase",
+      "Quality control challenges"
+    ],
+    "pros": [
+      "Invests in early childhood development",
+      "Could improve long-term education outcomes"
+    ]
+  },
   "113/hr/3985": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -31315,6 +31435,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "113/hr/4085": {
+    "cons": [
+      "Complex interstate coordination required",
+      "Potential state revenue losses"
+    ],
+    "pros": [
+      "Simplifies taxes for multi-state workers",
+      "Reduces compliance burden"
     ]
   },
   "113/hr/4099": {
@@ -31897,6 +32027,16 @@
       "Supports critical infrastructure and public services."
     ]
   },
+  "113/hr/4499": {
+    "cons": [
+      "May slow national security operations",
+      "Creates additional compliance costs"
+    ],
+    "pros": [
+      "Strengthens civil liberties protection",
+      "Enhances oversight of government surveillance"
+    ]
+  },
   "113/hr/45": {
     "cons": [
       "Increases government involvement in healthcare decisions.",
@@ -31965,6 +32105,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "113/hr/4552": {
+    "cons": [
+      "New regulatory burden on industry",
+      "Enforcement challenges for agencies"
+    ],
+    "pros": [
+      "Improves equestrian safety standards",
+      "Could prevent serious head injuries"
     ]
   },
   "113/hr/4555": {
@@ -32725,6 +32875,16 @@
     "pros": [
       "Promotes innovation in technology and digital infrastructure.",
       "Strengthens cybersecurity and protects consumer data."
+    ]
+  },
+  "113/hr/5004": {
+    "cons": [
+      "Higher upfront costs for property owners",
+      "Complex implementation requirements"
+    ],
+    "pros": [
+      "Reduces energy costs for renters",
+      "Creates green jobs and efficiency"
     ]
   },
   "113/hr/5008": {
@@ -33763,6 +33923,16 @@
       "Protects patients and improves health outcomes."
     ]
   },
+  "113/hr/5674": {
+    "cons": [
+      "Expensive new federal programs",
+      "May not address root cost issues"
+    ],
+    "pros": [
+      "Makes college more affordable",
+      "Encourages educational innovation"
+    ]
+  },
   "113/hr/5675": {
     "cons": [
       "May have unintended economic consequences across sectors.",
@@ -34574,6 +34744,16 @@
       "Reflects the chamber's priorities and values."
     ]
   },
+  "113/hres/237": {
+    "cons": [
+      "Symbolic resolution with no action",
+      "Uses legislative time for awareness"
+    ],
+    "pros": [
+      "Raises awareness of pediatric stroke",
+      "Encourages research funding"
+    ]
+  },
   "113/hres/24": {
     "cons": [
       "Non-binding resolution with no force of law.",
@@ -34953,6 +35133,16 @@
     "pros": [
       "Addresses an important procedural or ceremonial matter.",
       "Reflects the chamber's priorities and values."
+    ]
+  },
+  "113/hres/598": {
+    "cons": [
+      "Repetitive symbolic measure",
+      "No concrete policy changes"
+    ],
+    "pros": [
+      "Continues pediatric stroke awareness",
+      "Maintains focus on children's health"
     ]
   },
   "113/hres/601": {
@@ -37901,6 +38091,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "116/hconres/111": {
+    "cons": [
+      "Highly partisan political move",
+      "Could escalate constitutional crisis"
+    ],
+    "pros": [
+      "Strengthens congressional authority",
+      "Clarifies impeachment standards"
     ]
   },
   "116/hconres/122": {
@@ -48144,6 +48344,16 @@
       "Creates jobs and stimulates economic activity."
     ]
   },
+  "117/hr/8112": {
+    "cons": [
+      "Requires federal investment in education programs.",
+      "Implementation may vary significantly across districts."
+    ],
+    "pros": [
+      "Could improve educational opportunities and outcomes.",
+      "May provide additional resources for students and schools."
+    ]
+  },
   "117/hr/8137": {
     "cons": [
       "Increases federal control over local education decisions.",
@@ -51274,6 +51484,16 @@
     "summary": "Stop China's IP Theft Act This bill directs the Department of State and the Department of Homeland Security to deny entry into the United States to senior Chinese Communist Party officials, the spouses and children of such officials, members of the cabinet of the Chinese governm...",
     "title": "Stop China\u2019s IP Theft Act",
     "type": "hr"
+  },
+  "118/hr/10167": {
+    "cons": [
+      "May require additional resources for implementation.",
+      "Could face procedural challenges during passage."
+    ],
+    "pros": [
+      "Addresses legislative needs for the current session.",
+      "Provides structured approach to policy implementation."
+    ]
   },
   "118/hr/10168": {
     "congress": 118,
@@ -59158,6 +59378,16 @@
     "title": "To amend the Federal Food, Drug, and Cosmetic Act to encourage the development of vaccines to prevent, treat, or mitigate opioid, cocaine, methamphetamine, or alcohol use disorder, to establish an x-prize for the development of such a vaccine, and for other purposes.",
     "type": "hr"
   },
+  "118/hr/7836": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hr/7845": {
     "cons": [
       "Renaming the airport incurs significant administrative costs.",
@@ -59865,6 +60095,16 @@
       "Provides a targeted solution to a specific problem."
     ]
   },
+  "118/hr/8324": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hr/8340": {
     "cons": [
       "Increases military spending at the expense of domestic programs.",
@@ -60123,6 +60363,16 @@
     "pros": [
       "Expands Buy Indian Act benefits to agriculture contracts.",
       "Supports Native American economic development opportunities."
+    ]
+  },
+  "118/hr/8489": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "118/hr/8507": {
@@ -60935,6 +61185,16 @@
       "Increases accountability of federal programs to taxpayers."
     ]
   },
+  "118/hr/9026": {
+    "cons": [
+      "Could raise civil liberties and privacy concerns.",
+      "Implementation may require significant funding."
+    ],
+    "pros": [
+      "Could enhance public safety and crime prevention.",
+      "May improve law enforcement capabilities."
+    ]
+  },
   "118/hr/9027": {
     "cons": [
       "Increases federal spending and the national debt.",
@@ -61003,6 +61263,26 @@
     "pros": [
       "Provides updated intelligence assessment of Cuban security threats to the US.",
       "Informs policymakers on Cuban military and cyber activities."
+    ]
+  },
+  "118/hr/9067": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "118/hr/9077": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "118/hr/9078": {
@@ -61175,6 +61455,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "118/hr/9184": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "118/hr/9187": {
@@ -61804,6 +62094,26 @@
       "Protects patients and improves health outcomes."
     ]
   },
+  "118/hr/9632": {
+    "cons": [
+      "Direct cash programs can be expensive to administer.",
+      "May have limited long-term economic impact."
+    ],
+    "pros": [
+      "Could improve financial accessibility for citizens.",
+      "May stimulate economic activity through direct assistance."
+    ]
+  },
+  "118/hr/9633": {
+    "cons": [
+      "Additional regulations can burden financial institutions.",
+      "May increase compliance costs for businesses."
+    ],
+    "pros": [
+      "Enhances financial system stability and oversight.",
+      "May prevent future financial crises or misconduct."
+    ]
+  },
   "118/hr/9635": {
     "cons": [
       "Creates unfunded mandates for schools to implement new programs.",
@@ -62216,6 +62526,16 @@
       "Creates jobs and stimulates economic activity."
     ]
   },
+  "118/hr/9812": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hr/9817": {
     "congress": 118,
     "cons": [
@@ -62426,6 +62746,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Provides a targeted solution to a specific problem."
+    ]
+  },
+  "118/hr/9898": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "118/hr/9907": {
@@ -63737,6 +64067,16 @@
       "Signals priorities without requiring presidential action."
     ]
   },
+  "118/hres/4": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
   "118/hres/414": {
     "cons": [
       "Uses congressional time for non-binding resolutions.",
@@ -63898,6 +64238,16 @@
       "Provides a legislative solution to a defined problem."
     ],
     "summary": " <p>This resolution establishes the rules of the House of Representatives for the 118th Congress by adopting and modifying the rules from the 117th Congress; it also adopts other procedural orders.</p> <p>Specific changes include</p> <ul> <li>permitting a single Member to call for a vote to remove t"
+  },
+  "118/hres/501": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
   },
   "118/hres/56": {
     "cons": [
@@ -64898,6 +65248,26 @@
       "Could bring US troops home sooner."
     ],
     "title": "Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities in Lebanon."
+  },
+  "119/hconres/109": {
+    "congress": 119,
+    "cons": [
+      "Uses taxpayer resources for ceremonial rather than legislative purposes.",
+      "May set precedent for frequent use of Capitol for non-legislative events."
+    ],
+    "number": "109",
+    "policy_area": "Government Operations and Politics",
+    "pros": [
+      "Creates a meaningful commemoration for the 250th anniversary of America.",
+      "Uses Capitol facilities for an appropriate historical celebration."
+    ],
+    "sponsor_bioguide": "S000168",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Salazar, Maria Elvira",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "Allowing Emancipation Hall to be used for a ceremony to dedicate the Semiquincentennial Congressional Time Capsule on Wednesday, June 24, 2026.",
+    "type": "hconres"
   },
   "119/hconres/12": {
     "cons": [
@@ -142493,6 +142863,26 @@
       "Could provide targeted solutions to specific problems."
     ]
   },
+  "119/hr/9174": {
+    "congress": 119,
+    "cons": [
+      "May not provide sufficient incentives for voluntary compliance.",
+      "Could be seen as legitimizing previous tax avoidance behavior."
+    ],
+    "number": "9174",
+    "policy_area": "Taxation",
+    "pros": [
+      "Encourages taxpayer compliance through voluntary disclosure of crypto assets.",
+      "Could increase tax revenue and reduce underground digital asset activity."
+    ],
+    "sponsor_bioguide": "B001314",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Bean, Aaron",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "Digital Assets Voluntary Disclosure Program Act",
+    "type": "hr"
+  },
   "119/hr/9176": {
     "cons": [
       "Could reduce transparency in pension fund management.",
@@ -142571,6 +142961,16 @@
     ],
     "title": "Controlled Substances Act Clarification in Sciences Act of 2026"
   },
+  "119/hr/9187": {
+    "cons": [
+      "Social Security changes are politically sensitive.",
+      "May require difficult benefit or tax adjustments."
+    ],
+    "pros": [
+      "Addresses critical long-term fiscal sustainability issues.",
+      "Could ensure benefits for future generations."
+    ]
+  },
   "119/hr/9188": {
     "cons": [
       "Increases military spending at the expense of other programs.",
@@ -142580,6 +142980,26 @@
       "Strengthens support for military veterans and families.",
       "Enhances national security and defense capabilities."
     ]
+  },
+  "119/hr/9189": {
+    "congress": 119,
+    "cons": [
+      "May create interference with legitimate police investigations and operations.",
+      "Could lead to increased confrontations between officers and civilians."
+    ],
+    "number": "9189",
+    "policy_area": "Law",
+    "pros": [
+      "Protects First Amendment rights to record police activities in public.",
+      "Provides legal recourse for citizens when their recording rights are violated."
+    ],
+    "sponsor_bioguide": "F000476",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Frost, Maxwell",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "To establish an express cause of action for violations of the right to record, observe, or peacefully protest law enforcement activities, and for other purposes.",
+    "type": "hr"
   },
   "119/hr/919": {
     "cons": [
@@ -142675,6 +143095,26 @@
       "Reduces long-term nuclear waste disposal challenges.",
       "Promotes energy innovation through fuel recycling technology."
     ]
+  },
+  "119/hr/9198": {
+    "congress": 119,
+    "cons": [
+      "May create another federal commission without clear enforcement powers.",
+      "Could duplicate existing oversight mechanisms already in place."
+    ],
+    "number": "9198",
+    "policy_area": "Labor and Employment",
+    "pros": [
+      "Would establish expert oversight to address widespread workplace harassment issues.",
+      "Could develop comprehensive federal strategies to protect workers nationwide."
+    ],
+    "sponsor_bioguide": "N000147",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Norton, Eleanor Holmes",
+    "sponsor_state": "DC",
+    "summary": "",
+    "title": "To create a national commission to combat workplace sexual harassment, and for other purposes.",
+    "type": "hr"
   },
   "119/hr/9199": {
     "cons": [
@@ -142808,6 +143248,16 @@
       "Could provide benefits if implemented effectively."
     ]
   },
+  "119/hr/9211": {
+    "cons": [
+      "May duplicate existing hate crime prevention programs unnecessarily.",
+      "Could divert resources from other important civil rights priorities."
+    ],
+    "pros": [
+      "Strengthens federal resources to combat rising antisemitic incidents.",
+      "Provides better protection for vulnerable Jewish communities nationwide."
+    ]
+  },
   "119/hr/9212": {
     "cons": [
       "May have unintended consequences that require further study.",
@@ -142881,6 +143331,16 @@
       "Promotes regional environmental coordination and restoration."
     ]
   },
+  "119/hr/9227": {
+    "cons": [
+      "Could reduce government revenue for services.",
+      "May have unintended economic consequences."
+    ],
+    "pros": [
+      "Could provide financial relief to targeted groups.",
+      "May simplify tax compliance and reduce burden."
+    ]
+  },
   "119/hr/9228": {
     "cons": [
       "May increase administrative costs for plan sponsors.",
@@ -142913,6 +143373,16 @@
     "summary": "",
     "title": "To protect seaports from unmanned aircraft systems, and for other purposes.",
     "type": "hr"
+  },
+  "119/hr/9231": {
+    "cons": [
+      "May have unintended consequences requiring future fixes.",
+      "Implementation could face practical challenges."
+    ],
+    "pros": [
+      "Addresses an important policy issue facing Americans.",
+      "Could improve government efficiency and effectiveness."
+    ]
   },
   "119/hr/9232": {
     "congress": "119",
@@ -142967,6 +143437,36 @@
     "sponsor_state": "AR",
     "summary": "<p>This&nbsp;bill extends the authorities of Title VII of the Foreign Intelligence Surveillance Act (FISA) until July 2, 2026.</p><p>Title VII of&nbsp;FISA generally addresses electronic surveillance and other methods of acquiring foreign intelligence information that are directed at targets outside the United States. Title VII includes surveillance under&nbsp;Section 702, which concerns acquiring communications of non-U.S. persons believed to be outside the United States to obtain foreign intel",
     "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
+    "type": "hr"
+  },
+  "119/hr/9239": {
+    "cons": [
+      "May have unintended consequences requiring oversight.",
+      "Could face implementation and funding challenges."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide solutions to current challenges."
+    ]
+  },
+  "119/hr/9240": {
+    "congress": 119,
+    "cons": [
+      "May create tension between federal and state governments over records access.",
+      "Could impose additional compliance burdens on state agencies."
+    ],
+    "number": "9240",
+    "policy_area": "Government Operations and Politics",
+    "pros": [
+      "Enhances federal oversight capabilities to ensure proper use of federal funds.",
+      "Improves transparency and accountability in state-federal program partnerships."
+    ],
+    "sponsor_bioguide": "D000032",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Donalds, Byron",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "To provide the Comptroller General of the United States access to State records and documents for the purposes of certain audits, investigations, and evaluations, and for other purposes.",
     "type": "hr"
   },
   "119/hr/9241": {
@@ -143049,6 +143549,16 @@
       "Could save lives by providing immediate mental health support when needed."
     ]
   },
+  "119/hr/9249": {
+    "cons": [
+      "Increases federal spending and budget deficits.",
+      "May prioritize military over domestic programs."
+    ],
+    "pros": [
+      "Strengthens national security and military readiness.",
+      "Supports military personnel and veterans' needs."
+    ]
+  },
   "119/hr/925": {
     "cons": [
       "May have broader economic or regulatory implications.",
@@ -143089,6 +143599,130 @@
       "Reduces healthcare costs and administrative burdens"
     ]
   },
+  "119/hr/9256": {
+    "congress": 119,
+    "cons": [
+      "May have unintended consequences that require future revision.",
+      "Could face implementation challenges and resource constraints."
+    ],
+    "number": "9256",
+    "policy_area": {
+      "name": null
+    },
+    "pros": [
+      "Addresses an important policy area needing legislative attention.",
+      "Provides a targeted solution to a specific challenge."
+    ],
+    "sponsor_bioguide": "W000795",
+    "sponsor_chamber": "Unknown",
+    "sponsor_name": "Wilson, Joe",
+    "sponsor_state": "SC",
+    "summary": "",
+    "title": "To require the Secretary of Defense to submit a report on the effects of child soldiering in Africa on United States national security interests.",
+    "type": "hr"
+  },
+  "119/hr/9257": {
+    "cons": [
+      "May increase costs for healthcare system.",
+      "Implementation could face logistical challenges."
+    ],
+    "pros": [
+      "Improves access to important healthcare services.",
+      "Could help save lives through early detection."
+    ]
+  },
+  "119/hr/9258": {
+    "congress": 119,
+    "cons": [
+      "May reduce federal tax revenue significantly.",
+      "Benefits could favor higher-income earners."
+    ],
+    "number": "9258",
+    "pros": [
+      "Provides tax relief or incentives for taxpayers.",
+      "Simplifies the tax code for easier compliance."
+    ],
+    "summary": "",
+    "title": "To amend the Internal Revenue Code of 1986 to impose a mileage-based user fee for mobile mounted concrete boom pumps in lieu of the tax on taxable fuels, and for other purposes.",
+    "type": "hr"
+  },
+  "119/hr/9262": {
+    "cons": [
+      "Could impact federal revenue and budget planning.",
+      "May create complexity in tax code implementation."
+    ],
+    "pros": [
+      "Could provide tax relief or improve revenue collection.",
+      "May simplify tax processes for individuals and businesses."
+    ]
+  },
+  "119/hr/9264": {
+    "cons": [
+      "May be redundant with existing federal voting eligibility laws.",
+      "Could create confusion about current voting restrictions."
+    ],
+    "pros": [
+      "Clarifies voting eligibility requirements for non-citizens.",
+      "Strengthens election integrity by closing potential loopholes."
+    ]
+  },
+  "119/hr/9265": {
+    "congress": 119,
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "number": "9265",
+    "pros": [
+      "Addresses an important policy issue facing the nation.",
+      "Provides a legislative solution to a defined problem."
+    ],
+    "summary": "",
+    "title": "To amend the Richard B. Russell National School Lunch Act to require participation in the summer EBT program as a condition of participating in the school lunch program, and for other purposes.",
+    "type": "hr"
+  },
+  "119/hr/9266": {
+    "cons": [
+      "Requires substantial federal investment and spending.",
+      "Could face implementation delays and cost overruns."
+    ],
+    "pros": [
+      "Could create jobs and improve critical infrastructure.",
+      "May enhance safety and efficiency of transportation systems."
+    ]
+  },
+  "119/hr/9267": {
+    "cons": [
+      "Could reduce federal revenue and increase the deficit.",
+      "May primarily benefit higher-income taxpayers."
+    ],
+    "pros": [
+      "Could provide targeted tax relief for qualifying individuals.",
+      "May stimulate economic activity in affected sectors."
+    ]
+  },
+  "119/hr/9269": {
+    "congress": 119,
+    "cons": [
+      "May have unintended consequences that require future revision.",
+      "Could face implementation challenges and resource constraints."
+    ],
+    "number": "9269",
+    "policy_area": {
+      "name": null
+    },
+    "pros": [
+      "Addresses an important policy area needing legislative attention.",
+      "Provides a targeted solution to a specific challenge."
+    ],
+    "sponsor_bioguide": "C000537",
+    "sponsor_chamber": "Unknown",
+    "sponsor_name": "Clyburn, James E.",
+    "sponsor_state": "SC",
+    "summary": "",
+    "title": "To extend the authorization of the African American Civil Rights Network.",
+    "type": "hr"
+  },
   "119/hr/927": {
     "cons": [
       "May weaken public health responses during future outbreaks.",
@@ -143099,6 +143733,26 @@
       "Prevents mandates for vaccines lacking full FDA approval."
     ]
   },
+  "119/hr/9272": {
+    "cons": [
+      "May require significant new funding sources.",
+      "Implementation timeline could be challenging."
+    ],
+    "pros": [
+      "Supports quality education and workforce development.",
+      "Could help address critical skills shortages."
+    ]
+  },
+  "119/hr/9275": {
+    "cons": [
+      "Could reduce access to popular buy now, pay later options.",
+      "May impose excessive compliance costs on emerging fintech companies."
+    ],
+    "pros": [
+      "Improves transparency for consumers using buy now, pay later services.",
+      "Applies consistent consumer protections across all lending products."
+    ]
+  },
   "119/hr/928": {
     "cons": [
       "Major infrastructure projects often face cost overruns and delays.",
@@ -143107,6 +143761,107 @@
     "pros": [
       "Invests in critical transportation infrastructure across the nation.",
       "Improves safety and efficiency for commuters and commerce."
+    ]
+  },
+  "119/hr/9280": {
+    "congress": 119,
+    "cons": [
+      "Increases federal spending on veteran programs.",
+      "May strain existing VA resources and capacity."
+    ],
+    "number": "9280",
+    "pros": [
+      "Supports veterans and military families.",
+      "Honors service members' sacrifices and contributions."
+    ],
+    "summary": "",
+    "title": "To direct the Secretary of Veterans Affairs to develop an action plan to help veterans obtain employment in advanced manufacturing, and for other purposes.",
+    "type": "hr"
+  },
+  "119/hr/9281": {
+    "cons": [
+      "Housing voucher programs require ongoing funding.",
+      "May not address root causes of homelessness."
+    ],
+    "pros": [
+      "Provides immediate housing assistance to those in need.",
+      "Could reduce homelessness and housing instability."
+    ]
+  },
+  "119/hr/9282": {
+    "cons": [
+      "May have unintended consequences requiring oversight.",
+      "Could face implementation and funding challenges."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide solutions to current challenges."
+    ]
+  },
+  "119/hr/9286": {
+    "congress": 119,
+    "cons": [
+      "May result in another study without concrete action or implementation.",
+      "Could delay actual broadband improvements while conducting research."
+    ],
+    "number": "9286",
+    "pros": [
+      "Would provide valuable data on broadband technologies for policy decisions.",
+      "Could help identify gaps and improvements needed in internet infrastructure."
+    ],
+    "source": "auto-generated-2026-06-12",
+    "summary": "This bill directs the Assistant Secretary of Commerce for Communications and Information to conduct a study on broadband internet access technologies and report findings to Congress.",
+    "title": "To direct the Assistant Secretary of Commerce for Communications and Information to conduct a study and submit to Congress a report on the technologies used to provide broadband internet access service, and for other purposes.",
+    "type": "HR"
+  },
+  "119/hr/9287": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/hr/9291": {
+    "cons": [
+      "May have unintended consequences requiring oversight.",
+      "Could face implementation and funding challenges."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide solutions to current challenges."
+    ]
+  },
+  "119/hr/9294": {
+    "cons": [
+      "May have unintended consequences requiring oversight.",
+      "Could face implementation and funding challenges."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Could provide solutions to current challenges."
+    ]
+  },
+  "119/hr/9298": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/hr/9299": {
+    "cons": [
+      "May have unintended consequences requiring adjustment.",
+      "Implementation details may need further clarification."
+    ],
+    "pros": [
+      "Addresses an identified policy need or gap.",
+      "Could benefit specific communities or constituencies."
     ]
   },
   "119/hr/93": {
@@ -143127,6 +143882,66 @@
     "pros": [
       "Eliminates the five-month SSDI waiting period entirely.",
       "Removes the 24-month Medicare wait for disabled workers."
+    ]
+  },
+  "119/hr/9300": {
+    "cons": [
+      "May require significant funding or administrative changes.",
+      "Could have unintended consequences requiring careful monitoring."
+    ],
+    "pros": [
+      "Could enhance educational opportunities and student outcomes.",
+      "Could benefit constituents if implemented effectively."
+    ]
+  },
+  "119/hr/9302": {
+    "congress": 119,
+    "cons": [
+      "Federal government involvement in traditionally state-controlled education policy.",
+      "May create constitutional conflicts with state sovereignty over education."
+    ],
+    "number": "9302",
+    "policy_area": "Education",
+    "pros": [
+      "Provides clear federal standards for student athlete eligibility across states.",
+      "Could help resolve disputes over transgender participation in college sports."
+    ],
+    "sponsor_bioguide": "S001214",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Steube, W. Gregory",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "To establish rules regarding eligibility of student athletes for intercollegiate athletics, and for other purposes.",
+    "type": "hr"
+  },
+  "119/hr/9303": {
+    "cons": [
+      "May have unintended consequences requiring adjustment.",
+      "Implementation details may need further clarification."
+    ],
+    "pros": [
+      "Addresses an identified policy need or gap.",
+      "Could benefit specific communities or constituencies."
+    ]
+  },
+  "119/hr/9306": {
+    "cons": [
+      "May have unintended consequences requiring adjustment.",
+      "Implementation costs and complexity could be significant."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/hr/9309": {
+    "cons": [
+      "May have unintended consequences requiring adjustment.",
+      "Implementation costs and complexity could be significant."
+    ],
+    "pros": [
+      "Addresses an important policy issue needing attention.",
+      "Could provide targeted solutions to specific problems."
     ]
   },
   "119/hr/931": {
@@ -147495,6 +148310,66 @@
       "Encourages public education on safe driving practices and infrastructure improvements."
     ]
   },
+  "119/hres/1351": {
+    "congress": 119,
+    "cons": [
+      "May have unintended consequences that need careful review.",
+      "Implementation costs and effectiveness remain uncertain."
+    ],
+    "number": "1351",
+    "policy_area": "Various",
+    "pros": [
+      "Addresses an identified policy concern in the legislation.",
+      "Could provide targeted solutions to specific issues."
+    ],
+    "sponsor_bioguide": "C001116",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Member C001116",
+    "sponsor_state": "GA",
+    "summary": "",
+    "title": "Impeaching Eleanor Louise Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
+    "type": "hres"
+  },
+  "119/hres/1353": {
+    "congress": 119,
+    "cons": [
+      "May create diplomatic tensions with Iran without clear security benefits.",
+      "Could set precedent for excessive monitoring of visiting foreign delegations."
+    ],
+    "number": "1353",
+    "policy_area": "International Affairs",
+    "pros": [
+      "Protects national security by limiting IRGC infiltration during major events.",
+      "Supports State Department efforts to monitor Iranian delegation activities."
+    ],
+    "sponsor_bioguide": "S001214",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Steube, W. Gregory",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "Expressing the sense of the House of Representatives supporting the Department of State's efforts to prevent the Islamic Revolutionary Guard Corps (IRGC) from embedding themselves within the Iranian National Football Delegation during the 2026 FIFA World Cup and to limit the delegation's presence in the United States to the minimum time necessary for scheduled match play.",
+    "type": "hres"
+  },
+  "119/hres/1354": {
+    "congress": 119,
+    "cons": [
+      "Could set dangerous precedent of impeaching judges over legal disagreements.",
+      "May undermine judicial independence and separation of powers."
+    ],
+    "number": "1354",
+    "policy_area": "Law",
+    "pros": [
+      "Exercises constitutional oversight of federal judiciary when misconduct alleged.",
+      "Ensures accountability for federal judges who may have violated their oath."
+    ],
+    "sponsor_bioguide": "S001214",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Steube, W. Gregory",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "Impeaching John McConnell, Jr., Chief Judge of the United States District Court for the District of Rhode Island, for high crimes and misdemeanors.",
+    "type": "hres"
+  },
   "119/hres/1355": {
     "cons": [
       "Implementation details remain unclear or incomplete.",
@@ -147505,6 +148380,62 @@
       "Could improve health outcomes for affected populations.",
       "Provides legislative framework for needed reforms."
     ]
+  },
+  "119/hres/1358": {
+    "cons": [
+      "May have unintended consequences across affected sectors.",
+      "Requires careful implementation and oversight resources."
+    ],
+    "pros": [
+      "Addresses a specific policy need identified by Congress.",
+      "Could provide targeted solutions to public concerns."
+    ]
+  },
+  "119/hres/1359": {
+    "cons": [
+      "May have unintended consequences across affected sectors.",
+      "Requires careful implementation and oversight resources."
+    ],
+    "pros": [
+      "Addresses a specific policy need identified by Congress.",
+      "Could provide targeted solutions to public concerns."
+    ]
+  },
+  "119/hres/1363": {
+    "congress": 119,
+    "cons": [
+      "May create additional procedural delays in legislative process.",
+      "Could be used to limit debate or amendments on substantive bills."
+    ],
+    "number": "1363",
+    "pros": [
+      "Establishes procedural framework for considering important legislation.",
+      "Ensures systematic review process for bills affecting American governance."
+    ],
+    "source": "auto-generated-2026-06-12",
+    "summary": "This resolution provides for House consideration of H.R. 7007, establishing procedures for governing on behalf of the American people.",
+    "title": "Providing for consideration of the bill (H.R. 7007) to govern on behalf of the American people.",
+    "type": "HRES"
+  },
+  "119/hres/1364": {
+    "congress": 119,
+    "cons": [
+      "Uses congressional resources for commemorative rather than legislative purposes.",
+      "May reopen painful memories without providing concrete policy solutions."
+    ],
+    "number": "1364",
+    "policy_area": "Civil Rights and Liberties",
+    "pros": [
+      "Honors victims and survivors of a tragic hate crime against LGBTQ+ community.",
+      "Raises awareness about ongoing threats to vulnerable communities."
+    ],
+    "sponsor_bioguide": "S001200",
+    "sponsor_chamber": "House",
+    "sponsor_name": "Soto, Darren",
+    "sponsor_state": "FL",
+    "summary": "",
+    "title": "Commemorating 10 years since the Pulse nightclub shooting in Orlando, Florida, on June 12, 2016.",
+    "type": "hres"
   },
   "119/hres/137": {
     "cons": [
@@ -171830,6 +172761,36 @@
     "summary": "A bill to amend title 38, United States Code, to require the Secretary of Veterans Affairs to carry out a maternity care coordination program, and for other purposes.",
     "title": "A bill to amend title 38, United States Code, to require the Secretary of Veterans Affairs to carry out a maternity care coordination program, and for other purposes."
   },
+  "119/s/4695": {
+    "congress": 119,
+    "cons": [
+      "May have unintended consequences that need careful review.",
+      "Implementation costs and effectiveness remain uncertain."
+    ],
+    "number": "4695",
+    "policy_area": "Various",
+    "pros": [
+      "Addresses an identified policy concern in the legislation.",
+      "Could provide targeted solutions to specific issues."
+    ],
+    "sponsor_bioguide": "S001194",
+    "sponsor_chamber": "Senate",
+    "sponsor_name": "Member S001194",
+    "sponsor_state": "HI",
+    "summary": "",
+    "title": "A bill to establish a private right of action against a person who transmits unsolicited intimate visual depictions.",
+    "type": "s"
+  },
+  "119/s/4696": {
+    "cons": [
+      "May have unintended economic consequences.",
+      "Lacks sufficient detail for full impact assessment."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring action.",
+      "Provides targeted solutions to specific problems."
+    ]
+  },
   "119/s/47": {
     "cons": [
       "Could limit patient access to abortion and other essential medical care.",
@@ -171848,6 +172809,16 @@
     "pros": [
       "Addresses the growing housing affordability crisis in America.",
       "Expands access to safe and affordable housing options."
+    ]
+  },
+  "119/s/4700": {
+    "cons": [
+      "May have unintended economic consequences.",
+      "Lacks sufficient detail for full impact assessment."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring action.",
+      "Provides targeted solutions to specific problems."
     ]
   },
   "119/s/4701": {
@@ -171888,6 +172859,16 @@
     "pros": [
       "Addresses an important policy issue needing legislative action.",
       "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4707": {
+    "cons": [
+      "May have unintended economic consequences.",
+      "Lacks sufficient detail for full impact assessment."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring action.",
+      "Provides targeted solutions to specific problems."
     ]
   },
   "119/s/4709": {
@@ -171958,6 +172939,16 @@
     "pros": [
       "Addresses an important policy issue requiring legislative action.",
       "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4724": {
+    "cons": [
+      "May increase costs for agricultural programs.",
+      "Could impact food prices for consumers."
+    ],
+    "pros": [
+      "Supports agricultural communities and food security.",
+      "Promotes sustainable farming practices."
     ]
   },
   "119/s/4726": {
@@ -172052,6 +173043,26 @@
     "title": "A bill to authorize certain labor market data collection activities and to improve Federal measurement of the workforce impacts of artificial intelligence, and for other purposes.",
     "type": "s"
   },
+  "119/s/4744": {
+    "cons": [
+      "May have unintended economic or social consequences.",
+      "Could face implementation challenges or funding issues."
+    ],
+    "pros": [
+      "Addresses an important policy issue requiring attention.",
+      "Could provide targeted solutions to specific problems."
+    ]
+  },
+  "119/s/4745": {
+    "cons": [
+      "Uses legislative time for ceremonial rather than policy matters.",
+      "Creates minimal impact on government operations or citizen services."
+    ],
+    "pros": [
+      "Honors a significant historical figure with a federal building designation.",
+      "Provides local recognition and civic pride for the community."
+    ]
+  },
   "119/s/4746": {
     "cons": [
       "Could face legal challenges regarding free speech and platform autonomy.",
@@ -172072,6 +173083,21 @@
       "Could help prevent improper payments and reduce financial waste."
     ]
   },
+  "119/s/4751": {
+    "congress": 119,
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ],
+    "number": "4751",
+    "pros": [
+      "Addresses an important policy issue facing the nation.",
+      "Provides a legislative solution to a defined problem."
+    ],
+    "summary": "",
+    "title": "A bill to prevent, treat, and cure tuberculosis globally.",
+    "type": "s"
+  },
   "119/s/4757": {
     "cons": [
       "Could increase overall federal spending on prescription drugs.",
@@ -172080,6 +173106,95 @@
     "pros": [
       "Incentivizes pharmaceutical companies to develop rare disease treatments.",
       "Reduces Medicaid costs by improving orphan drug pricing formulas."
+    ]
+  },
+  "119/s/4760": {
+    "cons": [
+      "May expand government surveillance powers without sufficient oversight.",
+      "Could impact privacy rights of U.S. citizens in communications."
+    ],
+    "pros": [
+      "Extends critical national security surveillance tools for counterterrorism.",
+      "Provides legal framework to monitor foreign communications threats."
+    ]
+  },
+  "119/s/4761": {
+    "congress": 119,
+    "cons": [
+      "May reduce federal revenue needed for essential programs.",
+      "Could primarily benefit higher-income taxpayers."
+    ],
+    "number": "4761",
+    "policy_area": {
+      "name": null
+    },
+    "pros": [
+      "Could reduce tax burden on individuals and families.",
+      "May simplify tax compliance and administrative processes."
+    ],
+    "sponsor_bioguide": "S001184",
+    "sponsor_chamber": "Unknown",
+    "sponsor_name": "Scott, Tim",
+    "sponsor_state": "SC",
+    "summary": "",
+    "title": "A bill to amend the Internal Revenue Code of 1986 to clarify the authority of the Tax Court to order relief from a judgment or order.",
+    "type": "s"
+  },
+  "119/s/4764": {
+    "cons": [
+      "May expand government surveillance powers without sufficient oversight.",
+      "Could impact privacy rights of U.S. citizens in communications."
+    ],
+    "pros": [
+      "Extends critical national security surveillance tools for counterterrorism.",
+      "Provides legal framework to monitor foreign communications threats."
+    ]
+  },
+  "119/s/4767": {
+    "congress": 119,
+    "cons": [
+      "May have unintended consequences that require future revision.",
+      "Could face implementation challenges and resource constraints."
+    ],
+    "number": "4767",
+    "policy_area": {
+      "name": null
+    },
+    "pros": [
+      "Addresses an important policy area needing legislative attention.",
+      "Provides a targeted solution to a specific challenge."
+    ],
+    "sponsor_bioguide": "S001184",
+    "sponsor_chamber": "Unknown",
+    "sponsor_name": "Scott, Tim",
+    "sponsor_state": "SC",
+    "summary": "",
+    "title": "A bill to extend the authorization of the African American Civil Rights Network.",
+    "type": "s"
+  },
+  "119/s/4770": {
+    "congress": 119,
+    "cons": [
+      "May increase costs for businesses and consumers.",
+      "Could impact traditional energy sector jobs."
+    ],
+    "number": "4770",
+    "pros": [
+      "Promotes clean energy and environmental protection.",
+      "Reduces dependence on foreign energy sources."
+    ],
+    "summary": "",
+    "title": "A bill to require the Secretary of Energy to establish a centralized resource for access to data to facilitate biological research through enabling advanced computational methods such as artificial intelligence, and for other purposes.",
+    "type": "s"
+  },
+  "119/s/4778": {
+    "cons": [
+      "May require significant funding or administrative changes.",
+      "Could have unintended consequences requiring careful monitoring."
+    ],
+    "pros": [
+      "Could enhance educational opportunities and student outcomes.",
+      "Could benefit constituents if implemented effectively."
     ]
   },
   "119/s/48": {
@@ -216949,1033 +218064,6 @@
     "pros": [
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
-    ]
-  },
-  "119/hres/1351": {
-    "pros": [
-      "Addresses an identified policy concern in the legislation.",
-      "Could provide targeted solutions to specific issues."
-    ],
-    "cons": [
-      "May have unintended consequences that need careful review.",
-      "Implementation costs and effectiveness remain uncertain."
-    ],
-    "sponsor_name": "Member C001116",
-    "sponsor_bioguide": "C001116",
-    "sponsor_chamber": "House",
-    "sponsor_state": "GA",
-    "title": "Impeaching Eleanor Louise Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
-    "summary": "",
-    "policy_area": "Various",
-    "congress": 119,
-    "type": "hres",
-    "number": "1351"
-  },
-  "119/s/4695": {
-    "pros": [
-      "Addresses an identified policy concern in the legislation.",
-      "Could provide targeted solutions to specific issues."
-    ],
-    "cons": [
-      "May have unintended consequences that need careful review.",
-      "Implementation costs and effectiveness remain uncertain."
-    ],
-    "sponsor_name": "Member S001194",
-    "sponsor_bioguide": "S001194",
-    "sponsor_chamber": "Senate",
-    "sponsor_state": "HI",
-    "title": "A bill to establish a private right of action against a person who transmits unsolicited intimate visual depictions.",
-    "summary": "",
-    "policy_area": "Various",
-    "congress": 119,
-    "type": "s",
-    "number": "4695"
-  },
-  "112/hr/5105": {
-    "pros": [
-      "Reduces costs for industries needing carbonic dihydrazide",
-      "Supports manufacturing competitiveness"
-    ],
-    "cons": [
-      "Lost tariff revenue for government",
-      "May hurt domestic chemical producers"
-    ]
-  },
-  "112/hr/5106": {
-    "pros": [
-      "Lower costs for hydrazine hydrate industrial users",
-      "Boosts sectors requiring this chemical"
-    ],
-    "cons": [
-      "Reduces government tariff income",
-      "Could undercut domestic hydrazine producers"
-    ]
-  },
-  "112/hr/5107": {
-    "pros": [
-      "Benefits textile and fiber manufacturing",
-      "Reduces production costs for acrylic products"
-    ],
-    "cons": [
-      "Lost customs revenue for Treasury",
-      "May harm domestic acrylic fiber industry"
-    ]
-  },
-  "112/hr/5111": {
-    "pros": [
-      "Supports cosmetic and pharmaceutical industries",
-      "Lowers costs for anti-aging product makers"
-    ],
-    "cons": [
-      "Reduces federal tariff collections",
-      "Could disadvantage US copper peptide makers"
-    ]
-  },
-  "112/hr/5112": {
-    "pros": [
-      "Benefits skincare and medical device sectors",
-      "Reduces import costs for specialized peptides"
-    ],
-    "cons": [
-      "Government loses tariff revenue",
-      "May hurt domestic peptide manufacturers"
-    ]
-  },
-  "112/hr/5323": {
-    "pros": [
-      "Resolves past trade classification disputes",
-      "Provides certainty for Korean cookware imports"
-    ],
-    "cons": [
-      "Complex administrative burden for customs",
-      "May set precedent for other trade disputes"
-    ]
-  },
-  "112/hr/5615": {
-    "pros": [
-      "Prevents double taxation for remote workers",
-      "Encourages telecommuting flexibility"
-    ],
-    "cons": [
-      "Reduces state tax revenue",
-      "Complex enforcement challenges"
-    ]
-  },
-  "112/hr/6187": {
-    "pros": [
-      "Accelerates HIV/AIDS cure research",
-      "Could save millions of lives globally"
-    ],
-    "cons": [
-      "Requires significant federal investment",
-      "No guarantee of successful outcomes"
-    ]
-  },
-  "113/hr/3630": {
-    "pros": [
-      "Funds critical HIV/AIDS research",
-      "Targets elimination of deadly disease"
-    ],
-    "cons": [
-      "High cost for taxpayers",
-      "Research timeline uncertain"
-    ]
-  },
-  "113/hr/3779": {
-    "pros": [
-      "Increases intelligence community accountability",
-      "Enhances congressional oversight"
-    ],
-    "cons": [
-      "May compromise sensitive operations",
-      "Creates additional bureaucratic burden"
-    ]
-  },
-  "113/hr/3983": {
-    "pros": [
-      "Supports comprehensive education reform",
-      "Addresses diverse learning needs"
-    ],
-    "cons": [
-      "Expensive new education mandates",
-      "Implementation complexity for schools"
-    ]
-  },
-  "113/hr/3984": {
-    "pros": [
-      "Invests in early childhood development",
-      "Could improve long-term education outcomes"
-    ],
-    "cons": [
-      "Significant federal spending increase",
-      "Quality control challenges"
-    ]
-  },
-  "113/hr/4085": {
-    "pros": [
-      "Simplifies taxes for multi-state workers",
-      "Reduces compliance burden"
-    ],
-    "cons": [
-      "Complex interstate coordination required",
-      "Potential state revenue losses"
-    ]
-  },
-  "113/hr/4499": {
-    "pros": [
-      "Strengthens civil liberties protection",
-      "Enhances oversight of government surveillance"
-    ],
-    "cons": [
-      "May slow national security operations",
-      "Creates additional compliance costs"
-    ]
-  },
-  "113/hr/4552": {
-    "pros": [
-      "Improves equestrian safety standards",
-      "Could prevent serious head injuries"
-    ],
-    "cons": [
-      "New regulatory burden on industry",
-      "Enforcement challenges for agencies"
-    ]
-  },
-  "113/hr/5004": {
-    "pros": [
-      "Reduces energy costs for renters",
-      "Creates green jobs and efficiency"
-    ],
-    "cons": [
-      "Higher upfront costs for property owners",
-      "Complex implementation requirements"
-    ]
-  },
-  "113/hr/5674": {
-    "pros": [
-      "Makes college more affordable",
-      "Encourages educational innovation"
-    ],
-    "cons": [
-      "Expensive new federal programs",
-      "May not address root cost issues"
-    ]
-  },
-  "113/hres/237": {
-    "pros": [
-      "Raises awareness of pediatric stroke",
-      "Encourages research funding"
-    ],
-    "cons": [
-      "Symbolic resolution with no action",
-      "Uses legislative time for awareness"
-    ]
-  },
-  "113/hres/598": {
-    "pros": [
-      "Continues pediatric stroke awareness",
-      "Maintains focus on children's health"
-    ],
-    "cons": [
-      "Repetitive symbolic measure",
-      "No concrete policy changes"
-    ]
-  },
-  "116/hconres/111": {
-    "pros": [
-      "Strengthens congressional authority",
-      "Clarifies impeachment standards"
-    ],
-    "cons": [
-      "Highly partisan political move",
-      "Could escalate constitutional crisis"
-    ]
-  },
-  "119/s/4764": {
-    "pros": [
-      "Extends critical national security surveillance tools for counterterrorism.",
-      "Provides legal framework to monitor foreign communications threats."
-    ],
-    "cons": [
-      "May expand government surveillance powers without sufficient oversight.",
-      "Could impact privacy rights of U.S. citizens in communications."
-    ]
-  },
-  "119/s/4760": {
-    "pros": [
-      "Extends critical national security surveillance tools for counterterrorism.",
-      "Provides legal framework to monitor foreign communications threats."
-    ],
-    "cons": [
-      "May expand government surveillance powers without sufficient oversight.",
-      "Could impact privacy rights of U.S. citizens in communications."
-    ]
-  },
-  "119/hr/9291": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide solutions to current challenges."
-    ],
-    "cons": [
-      "May have unintended consequences requiring oversight.",
-      "Could face implementation and funding challenges."
-    ]
-  },
-  "119/hr/9282": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide solutions to current challenges."
-    ],
-    "cons": [
-      "May have unintended consequences requiring oversight.",
-      "Could face implementation and funding challenges."
-    ]
-  },
-  "119/hr/9294": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide solutions to current challenges."
-    ],
-    "cons": [
-      "May have unintended consequences requiring oversight.",
-      "Could face implementation and funding challenges."
-    ]
-  },
-  "119/hr/9239": {
-    "pros": [
-      "Addresses an important policy issue needing legislative action.",
-      "Could provide solutions to current challenges."
-    ],
-    "cons": [
-      "May have unintended consequences requiring oversight.",
-      "Could face implementation and funding challenges."
-    ]
-  },
-  "119/s/4724": {
-    "pros": [
-      "Supports agricultural communities and food security.",
-      "Promotes sustainable farming practices."
-    ],
-    "cons": [
-      "May increase costs for agricultural programs.",
-      "Could impact food prices for consumers."
-    ]
-  },
-  "119/s/4700": {
-    "pros": [
-      "Addresses an important policy issue requiring action.",
-      "Provides targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic consequences.",
-      "Lacks sufficient detail for full impact assessment."
-    ]
-  },
-  "119/s/4696": {
-    "pros": [
-      "Addresses an important policy issue requiring action.",
-      "Provides targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic consequences.",
-      "Lacks sufficient detail for full impact assessment."
-    ]
-  },
-  "119/s/4707": {
-    "pros": [
-      "Addresses an important policy issue requiring action.",
-      "Provides targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic consequences.",
-      "Lacks sufficient detail for full impact assessment."
-    ]
-  },
-  "119/hr/9198": {
-    "congress": 119,
-    "type": "hr",
-    "number": "9198",
-    "title": "To create a national commission to combat workplace sexual harassment, and for other purposes.",
-    "sponsor_bioguide": "N000147",
-    "sponsor_name": "Norton, Eleanor Holmes",
-    "sponsor_state": "DC",
-    "sponsor_chamber": "House",
-    "policy_area": "Labor and Employment",
-    "summary": "",
-    "pros": [
-      "Would establish expert oversight to address widespread workplace harassment issues.",
-      "Could develop comprehensive federal strategies to protect workers nationwide."
-    ],
-    "cons": [
-      "May create another federal commission without clear enforcement powers.",
-      "Could duplicate existing oversight mechanisms already in place."
-    ]
-  },
-  "119/hr/9189": {
-    "congress": 119,
-    "type": "hr",
-    "number": "9189",
-    "title": "To establish an express cause of action for violations of the right to record, observe, or peacefully protest law enforcement activities, and for other purposes.",
-    "sponsor_bioguide": "F000476",
-    "sponsor_name": "Frost, Maxwell",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "Law",
-    "summary": "",
-    "pros": [
-      "Protects First Amendment rights to record police activities in public.",
-      "Provides legal recourse for citizens when their recording rights are violated."
-    ],
-    "cons": [
-      "May create interference with legitimate police investigations and operations.",
-      "Could lead to increased confrontations between officers and civilians."
-    ]
-  },
-  "119/hr/9174": {
-    "congress": 119,
-    "type": "hr",
-    "number": "9174",
-    "title": "Digital Assets Voluntary Disclosure Program Act",
-    "sponsor_bioguide": "B001314",
-    "sponsor_name": "Bean, Aaron",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "Taxation",
-    "summary": "",
-    "pros": [
-      "Encourages taxpayer compliance through voluntary disclosure of crypto assets.",
-      "Could increase tax revenue and reduce underground digital asset activity."
-    ],
-    "cons": [
-      "May not provide sufficient incentives for voluntary compliance.",
-      "Could be seen as legitimizing previous tax avoidance behavior."
-    ]
-  },
-  "119/hconres/109": {
-    "congress": 119,
-    "type": "hconres",
-    "number": "109",
-    "title": "Allowing Emancipation Hall to be used for a ceremony to dedicate the Semiquincentennial Congressional Time Capsule on Wednesday, June 24, 2026.",
-    "sponsor_bioguide": "S000168",
-    "sponsor_name": "Salazar, Maria Elvira",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "Government Operations and Politics",
-    "summary": "",
-    "pros": [
-      "Creates a meaningful commemoration for the 250th anniversary of America.",
-      "Uses Capitol facilities for an appropriate historical celebration."
-    ],
-    "cons": [
-      "Uses taxpayer resources for ceremonial rather than legislative purposes.",
-      "May set precedent for frequent use of Capitol for non-legislative events."
-    ]
-  },
-  "119/hr/9240": {
-    "congress": 119,
-    "type": "hr",
-    "number": "9240",
-    "title": "To provide the Comptroller General of the United States access to State records and documents for the purposes of certain audits, investigations, and evaluations, and for other purposes.",
-    "sponsor_bioguide": "D000032",
-    "sponsor_name": "Donalds, Byron",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "Government Operations and Politics",
-    "summary": "",
-    "pros": [
-      "Enhances federal oversight capabilities to ensure proper use of federal funds.",
-      "Improves transparency and accountability in state-federal program partnerships."
-    ],
-    "cons": [
-      "May create tension between federal and state governments over records access.",
-      "Could impose additional compliance burdens on state agencies."
-    ]
-  },
-  "119/hr/9302": {
-    "congress": 119,
-    "type": "hr",
-    "number": "9302",
-    "title": "To establish rules regarding eligibility of student athletes for intercollegiate athletics, and for other purposes.",
-    "sponsor_bioguide": "S001214",
-    "sponsor_name": "Steube, W. Gregory",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "Education",
-    "summary": "",
-    "pros": [
-      "Provides clear federal standards for student athlete eligibility across states.",
-      "Could help resolve disputes over transgender participation in college sports."
-    ],
-    "cons": [
-      "Federal government involvement in traditionally state-controlled education policy.",
-      "May create constitutional conflicts with state sovereignty over education."
-    ]
-  },
-  "119/hres/1354": {
-    "congress": 119,
-    "type": "hres",
-    "number": "1354",
-    "title": "Impeaching John McConnell, Jr., Chief Judge of the United States District Court for the District of Rhode Island, for high crimes and misdemeanors.",
-    "sponsor_bioguide": "S001214",
-    "sponsor_name": "Steube, W. Gregory",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "Law",
-    "summary": "",
-    "pros": [
-      "Exercises constitutional oversight of federal judiciary when misconduct alleged.",
-      "Ensures accountability for federal judges who may have violated their oath."
-    ],
-    "cons": [
-      "Could set dangerous precedent of impeaching judges over legal disagreements.",
-      "May undermine judicial independence and separation of powers."
-    ]
-  },
-  "119/hres/1353": {
-    "congress": 119,
-    "type": "hres",
-    "number": "1353",
-    "title": "Expressing the sense of the House of Representatives supporting the Department of State's efforts to prevent the Islamic Revolutionary Guard Corps (IRGC) from embedding themselves within the Iranian National Football Delegation during the 2026 FIFA World Cup and to limit the delegation's presence in the United States to the minimum time necessary for scheduled match play.",
-    "sponsor_bioguide": "S001214",
-    "sponsor_name": "Steube, W. Gregory",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "International Affairs",
-    "summary": "",
-    "pros": [
-      "Protects national security by limiting IRGC infiltration during major events.",
-      "Supports State Department efforts to monitor Iranian delegation activities."
-    ],
-    "cons": [
-      "May create diplomatic tensions with Iran without clear security benefits.",
-      "Could set precedent for excessive monitoring of visiting foreign delegations."
-    ]
-  },
-  "119/hres/1364": {
-    "congress": 119,
-    "type": "hres",
-    "number": "1364",
-    "title": "Commemorating 10 years since the Pulse nightclub shooting in Orlando, Florida, on June 12, 2016.",
-    "sponsor_bioguide": "S001200",
-    "sponsor_name": "Soto, Darren",
-    "sponsor_state": "FL",
-    "sponsor_chamber": "House",
-    "policy_area": "Civil Rights and Liberties",
-    "summary": "",
-    "pros": [
-      "Honors victims and survivors of a tragic hate crime against LGBTQ+ community.",
-      "Raises awareness about ongoing threats to vulnerable communities."
-    ],
-    "cons": [
-      "Uses congressional resources for commemorative rather than legislative purposes.",
-      "May reopen painful memories without providing concrete policy solutions."
-    ]
-  },
-  "119/hr/9309": {
-    "pros": [
-      "Addresses an important policy issue needing attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring adjustment.",
-      "Implementation costs and complexity could be significant."
-    ]
-  },
-  "119/hr/9266": {
-    "pros": [
-      "Could create jobs and improve critical infrastructure.",
-      "May enhance safety and efficiency of transportation systems."
-    ],
-    "cons": [
-      "Requires substantial federal investment and spending.",
-      "Could face implementation delays and cost overruns."
-    ]
-  },
-  "119/hr/9306": {
-    "pros": [
-      "Addresses an important policy issue needing attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended consequences requiring adjustment.",
-      "Implementation costs and complexity could be significant."
-    ]
-  },
-  "119/hr/9267": {
-    "pros": [
-      "Could provide targeted tax relief for qualifying individuals.",
-      "May stimulate economic activity in affected sectors."
-    ],
-    "cons": [
-      "Could reduce federal revenue and increase the deficit.",
-      "May primarily benefit higher-income taxpayers."
-    ]
-  },
-  "119/hr/9272": {
-    "pros": [
-      "Supports quality education and workforce development.",
-      "Could help address critical skills shortages."
-    ],
-    "cons": [
-      "May require significant new funding sources.",
-      "Implementation timeline could be challenging."
-    ]
-  },
-  "119/hr/9257": {
-    "pros": [
-      "Improves access to important healthcare services.",
-      "Could help save lives through early detection."
-    ],
-    "cons": [
-      "May increase costs for healthcare system.",
-      "Implementation could face logistical challenges."
-    ]
-  },
-  "119/hr/9231": {
-    "pros": [
-      "Addresses an important policy issue facing Americans.",
-      "Could improve government efficiency and effectiveness."
-    ],
-    "cons": [
-      "May have unintended consequences requiring future fixes.",
-      "Implementation could face practical challenges."
-    ]
-  },
-  "119/hr/9258": {
-    "pros": [
-      "Provides tax relief or incentives for taxpayers.",
-      "Simplifies the tax code for easier compliance."
-    ],
-    "cons": [
-      "May reduce federal tax revenue significantly.",
-      "Benefits could favor higher-income earners."
-    ],
-    "title": "To amend the Internal Revenue Code of 1986 to impose a mileage-based user fee for mobile mounted concrete boom pumps in lieu of the tax on taxable fuels, and for other purposes.",
-    "summary": "",
-    "congress": 119,
-    "type": "hr",
-    "number": "9258"
-  },
-  "119/hr/9265": {
-    "pros": [
-      "Addresses an important policy issue facing the nation.",
-      "Provides a legislative solution to a defined problem."
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
-    ],
-    "title": "To amend the Richard B. Russell National School Lunch Act to require participation in the summer EBT program as a condition of participating in the school lunch program, and for other purposes.",
-    "summary": "",
-    "congress": 119,
-    "type": "hr",
-    "number": "9265"
-  },
-  "119/s/4751": {
-    "pros": [
-      "Addresses an important policy issue facing the nation.",
-      "Provides a legislative solution to a defined problem."
-    ],
-    "cons": [
-      "May have unintended economic consequences across sectors.",
-      "Lacks sufficient detail to fully assess its impact."
-    ],
-    "title": "A bill to prevent, treat, and cure tuberculosis globally.",
-    "summary": "",
-    "congress": 119,
-    "type": "s",
-    "number": "4751"
-  },
-  "119/s/4770": {
-    "pros": [
-      "Promotes clean energy and environmental protection.",
-      "Reduces dependence on foreign energy sources."
-    ],
-    "cons": [
-      "May increase costs for businesses and consumers.",
-      "Could impact traditional energy sector jobs."
-    ],
-    "title": "A bill to require the Secretary of Energy to establish a centralized resource for access to data to facilitate biological research through enabling advanced computational methods such as artificial intelligence, and for other purposes.",
-    "summary": "",
-    "congress": 119,
-    "type": "s",
-    "number": "4770"
-  },
-  "119/hr/9280": {
-    "pros": [
-      "Supports veterans and military families.",
-      "Honors service members' sacrifices and contributions."
-    ],
-    "cons": [
-      "Increases federal spending on veteran programs.",
-      "May strain existing VA resources and capacity."
-    ],
-    "title": "To direct the Secretary of Veterans Affairs to develop an action plan to help veterans obtain employment in advanced manufacturing, and for other purposes.",
-    "summary": "",
-    "congress": 119,
-    "type": "hr",
-    "number": "9280"
-  },
-  "119/hr/9298": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "119/s/4744": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "119/hr/9287": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/9812": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/8489": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/9898": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/9184": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/9077": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/9067": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/7836": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hr/9026": {
-    "pros": [
-      "Could enhance public safety and crime prevention.",
-      "May improve law enforcement capabilities."
-    ],
-    "cons": [
-      "Could raise civil liberties and privacy concerns.",
-      "Implementation may require significant funding."
-    ]
-  },
-  "118/hr/8324": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hres/501": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "118/hres/4": {
-    "pros": [
-      "Addresses an important policy issue requiring attention.",
-      "Could provide targeted solutions to specific problems."
-    ],
-    "cons": [
-      "May have unintended economic or social consequences.",
-      "Could face implementation challenges or funding issues."
-    ]
-  },
-  "119/hr/9286": {
-    "congress": 119,
-    "type": "HR",
-    "number": "9286",
-    "title": "To direct the Assistant Secretary of Commerce for Communications and Information to conduct a study and submit to Congress a report on the technologies used to provide broadband internet access service, and for other purposes.",
-    "pros": [
-      "Would provide valuable data on broadband technologies for policy decisions.",
-      "Could help identify gaps and improvements needed in internet infrastructure."
-    ],
-    "cons": [
-      "May result in another study without concrete action or implementation.",
-      "Could delay actual broadband improvements while conducting research."
-    ],
-    "source": "auto-generated-2026-06-12",
-    "summary": "This bill directs the Assistant Secretary of Commerce for Communications and Information to conduct a study on broadband internet access technologies and report findings to Congress."
-  },
-  "119/hres/1363": {
-    "congress": 119,
-    "type": "HRES",
-    "number": "1363",
-    "title": "Providing for consideration of the bill (H.R. 7007) to govern on behalf of the American people.",
-    "pros": [
-      "Establishes procedural framework for considering important legislation.",
-      "Ensures systematic review process for bills affecting American governance."
-    ],
-    "cons": [
-      "May create additional procedural delays in legislative process.",
-      "Could be used to limit debate or amendments on substantive bills."
-    ],
-    "source": "auto-generated-2026-06-12",
-    "summary": "This resolution provides for House consideration of H.R. 7007, establishing procedures for governing on behalf of the American people."
-  },
-  "119/hr/9303": {
-    "pros": [
-      "Addresses an identified policy need or gap.",
-      "Could benefit specific communities or constituencies."
-    ],
-    "cons": [
-      "May have unintended consequences requiring adjustment.",
-      "Implementation details may need further clarification."
-    ]
-  },
-  "119/hr/9299": {
-    "pros": [
-      "Addresses an identified policy need or gap.",
-      "Could benefit specific communities or constituencies."
-    ],
-    "cons": [
-      "May have unintended consequences requiring adjustment.",
-      "Implementation details may need further clarification."
-    ]
-  },
-  "119/hr/9249": {
-    "pros": [
-      "Strengthens national security and military readiness.",
-      "Supports military personnel and veterans' needs."
-    ],
-    "cons": [
-      "Increases federal spending and budget deficits.",
-      "May prioritize military over domestic programs."
-    ]
-  },
-  "119/hr/9227": {
-    "pros": [
-      "Could provide financial relief to targeted groups.",
-      "May simplify tax compliance and reduce burden."
-    ],
-    "cons": [
-      "Could reduce government revenue for services.",
-      "May have unintended economic consequences."
-    ]
-  },
-  "119/hr/9264": {
-    "pros": [
-      "Clarifies voting eligibility requirements for non-citizens.",
-      "Strengthens election integrity by closing potential loopholes."
-    ],
-    "cons": [
-      "May be redundant with existing federal voting eligibility laws.",
-      "Could create confusion about current voting restrictions."
-    ]
-  },
-  "119/hr/9300": {
-    "pros": [
-      "Could enhance educational opportunities and student outcomes.",
-      "Could benefit constituents if implemented effectively."
-    ],
-    "cons": [
-      "May require significant funding or administrative changes.",
-      "Could have unintended consequences requiring careful monitoring."
-    ]
-  },
-  "119/s/4778": {
-    "pros": [
-      "Could enhance educational opportunities and student outcomes.",
-      "Could benefit constituents if implemented effectively."
-    ],
-    "cons": [
-      "May require significant funding or administrative changes.",
-      "Could have unintended consequences requiring careful monitoring."
-    ]
-  },
-  "119/hr/9275": {
-    "pros": [
-      "Improves transparency for consumers using buy now, pay later services.",
-      "Applies consistent consumer protections across all lending products."
-    ],
-    "cons": [
-      "Could reduce access to popular buy now, pay later options.",
-      "May impose excessive compliance costs on emerging fintech companies."
-    ]
-  },
-  "119/hr/9211": {
-    "pros": [
-      "Strengthens federal resources to combat rising antisemitic incidents.",
-      "Provides better protection for vulnerable Jewish communities nationwide."
-    ],
-    "cons": [
-      "May duplicate existing hate crime prevention programs unnecessarily.",
-      "Could divert resources from other important civil rights priorities."
-    ]
-  },
-  "119/s/4745": {
-    "pros": [
-      "Honors a significant historical figure with a federal building designation.",
-      "Provides local recognition and civic pride for the community."
-    ],
-    "cons": [
-      "Uses legislative time for ceremonial rather than policy matters.",
-      "Creates minimal impact on government operations or citizen services."
-    ]
-  },
-  "118/hr/10167": {
-    "pros": [
-      "Addresses legislative needs for the current session.",
-      "Provides structured approach to policy implementation."
-    ],
-    "cons": [
-      "May require additional resources for implementation.",
-      "Could face procedural challenges during passage."
-    ]
-  },
-  "118/hr/9632": {
-    "pros": [
-      "Could improve financial accessibility for citizens.",
-      "May stimulate economic activity through direct assistance."
-    ],
-    "cons": [
-      "Direct cash programs can be expensive to administer.",
-      "May have limited long-term economic impact."
-    ]
-  },
-  "118/hr/9633": {
-    "pros": [
-      "Enhances financial system stability and oversight.",
-      "May prevent future financial crises or misconduct."
-    ],
-    "cons": [
-      "Additional regulations can burden financial institutions.",
-      "May increase compliance costs for businesses."
-    ]
-  },
-  "119/hr/9187": {
-    "pros": [
-      "Addresses critical long-term fiscal sustainability issues.",
-      "Could ensure benefits for future generations."
-    ],
-    "cons": [
-      "Social Security changes are politically sensitive.",
-      "May require difficult benefit or tax adjustments."
-    ]
-  },
-  "119/hr/9281": {
-    "pros": [
-      "Provides immediate housing assistance to those in need.",
-      "Could reduce homelessness and housing instability."
-    ],
-    "cons": [
-      "Housing voucher programs require ongoing funding.",
-      "May not address root causes of homelessness."
-    ]
-  },
-  "119/hres/1359": {
-    "pros": [
-      "Addresses a specific policy need identified by Congress.",
-      "Could provide targeted solutions to public concerns."
-    ],
-    "cons": [
-      "May have unintended consequences across affected sectors.",
-      "Requires careful implementation and oversight resources."
-    ]
-  },
-  "117/hr/8112": {
-    "pros": [
-      "Could improve educational opportunities and outcomes.",
-      "May provide additional resources for students and schools."
-    ],
-    "cons": [
-      "Requires federal investment in education programs.",
-      "Implementation may vary significantly across districts."
-    ]
-  },
-  "119/hr/9262": {
-    "pros": [
-      "Could provide tax relief or improve revenue collection.",
-      "May simplify tax processes for individuals and businesses."
-    ],
-    "cons": [
-      "Could impact federal revenue and budget planning.",
-      "May create complexity in tax code implementation."
-    ]
-  },
-  "119/hres/1358": {
-    "pros": [
-      "Addresses a specific policy need identified by Congress.",
-      "Could provide targeted solutions to public concerns."
-    ],
-    "cons": [
-      "May have unintended consequences across affected sectors.",
-      "Requires careful implementation and oversight resources."
     ]
   }
 }
