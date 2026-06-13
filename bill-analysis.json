@@ -217827,5 +217827,15 @@
       "Could reduce government revenue for services.",
       "May have unintended economic consequences."
     ]
+  },
+  "119/hr/9264": {
+    "pros": [
+      "Clarifies voting eligibility requirements for non-citizens.",
+      "Strengthens election integrity by closing potential loopholes."
+    ],
+    "cons": [
+      "May be redundant with existing federal voting eligibility laws.",
+      "Could create confusion about current voting restrictions."
+    ]
   }
 }
