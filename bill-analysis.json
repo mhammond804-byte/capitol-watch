@@ -218065,5 +218065,95 @@
       "Honors individuals or groups for their contributions.",
       "Provides official recognition through congressional action."
     ]
+  },
+  "119/hr/9215": {
+    "pros": [
+      "Strengthens national security and defense capabilities.",
+      "Protects American interests at home and abroad."
+    ],
+    "cons": [
+      "Increases military spending and budget deficits.",
+      "May escalate tensions or conflicts abroad."
+    ]
+  },
+  "119/hr/9307": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/9219": {
+    "pros": [
+      "Modernizes aging infrastructure and transportation networks.",
+      "Creates jobs and stimulates economic activity."
+    ],
+    "cons": [
+      "Large spending increases without guaranteed efficiency.",
+      "Projects may face cost overruns and lengthy delays."
+    ]
+  },
+  "119/hr/9216": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/9254": {
+    "pros": [
+      "Reduces tax burden on individuals and businesses.",
+      "Provides targeted incentives for economic growth."
+    ],
+    "cons": [
+      "Reduces federal revenue and increases the deficit.",
+      "Benefits may flow disproportionately to higher earners."
+    ]
+  },
+  "119/hr/9230": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/9276": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hres/1350": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/9308": {
+    "pros": [
+      "Reduces tax burden on individuals and businesses.",
+      "Provides targeted incentives for economic growth."
+    ],
+    "cons": [
+      "Reduces federal revenue and increases the deficit.",
+      "Benefits may flow disproportionately to higher earners."
+    ]
   }
 }
