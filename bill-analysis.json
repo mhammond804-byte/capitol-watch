@@ -217937,5 +217937,45 @@
       "Housing voucher programs require ongoing funding.",
       "May not address root causes of homelessness."
     ]
+  },
+  "119/hres/1359": {
+    "pros": [
+      "Addresses a specific policy need identified by Congress.",
+      "Could provide targeted solutions to public concerns."
+    ],
+    "cons": [
+      "May have unintended consequences across affected sectors.",
+      "Requires careful implementation and oversight resources."
+    ]
+  },
+  "117/hr/8112": {
+    "pros": [
+      "Could improve educational opportunities and outcomes.",
+      "May provide additional resources for students and schools."
+    ],
+    "cons": [
+      "Requires federal investment in education programs.",
+      "Implementation may vary significantly across districts."
+    ]
+  },
+  "119/hr/9262": {
+    "pros": [
+      "Could provide tax relief or improve revenue collection.",
+      "May simplify tax processes for individuals and businesses."
+    ],
+    "cons": [
+      "Could impact federal revenue and budget planning.",
+      "May create complexity in tax code implementation."
+    ]
+  },
+  "119/hres/1358": {
+    "pros": [
+      "Addresses a specific policy need identified by Congress.",
+      "Could provide targeted solutions to public concerns."
+    ],
+    "cons": [
+      "May have unintended consequences across affected sectors.",
+      "Requires careful implementation and oversight resources."
+    ]
   }
 }
