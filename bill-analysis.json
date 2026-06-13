@@ -217887,5 +217887,55 @@
       "Uses legislative time for ceremonial rather than policy matters.",
       "Creates minimal impact on government operations or citizen services."
     ]
+  },
+  "118/hr/10167": {
+    "pros": [
+      "Addresses legislative needs for the current session.",
+      "Provides structured approach to policy implementation."
+    ],
+    "cons": [
+      "May require additional resources for implementation.",
+      "Could face procedural challenges during passage."
+    ]
+  },
+  "118/hr/9632": {
+    "pros": [
+      "Could improve financial accessibility for citizens.",
+      "May stimulate economic activity through direct assistance."
+    ],
+    "cons": [
+      "Direct cash programs can be expensive to administer.",
+      "May have limited long-term economic impact."
+    ]
+  },
+  "118/hr/9633": {
+    "pros": [
+      "Enhances financial system stability and oversight.",
+      "May prevent future financial crises or misconduct."
+    ],
+    "cons": [
+      "Additional regulations can burden financial institutions.",
+      "May increase compliance costs for businesses."
+    ]
+  },
+  "119/hr/9187": {
+    "pros": [
+      "Addresses critical long-term fiscal sustainability issues.",
+      "Could ensure benefits for future generations."
+    ],
+    "cons": [
+      "Social Security changes are politically sensitive.",
+      "May require difficult benefit or tax adjustments."
+    ]
+  },
+  "119/hr/9281": {
+    "pros": [
+      "Provides immediate housing assistance to those in need.",
+      "Could reduce homelessness and housing instability."
+    ],
+    "cons": [
+      "Housing voucher programs require ongoing funding.",
+      "May not address root causes of homelessness."
+    ]
   }
 }
