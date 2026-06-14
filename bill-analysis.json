@@ -218935,5 +218935,45 @@
       "May have unintended economic consequences across sectors.",
       "Lacks sufficient detail to fully assess its impact."
     ]
+  },
+  "119/hjres/196": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/9268": {
+    "pros": [
+      "Promotes innovation in technology and digital infrastructure.",
+      "Strengthens cybersecurity and protects consumer data."
+    ],
+    "cons": [
+      "Government regulation may slow technological progress.",
+      "Compliance costs could burden smaller companies."
+    ]
+  },
+  "119/hr/9237": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/9214": {
+    "pros": [
+      "Protects and strengthens retirement security for seniors.",
+      "Ensures the long-term solvency of Social Security."
+    ],
+    "cons": [
+      "May require tax increases or benefit reductions.",
+      "Changes to entitlements are politically difficult."
+    ]
   }
 }
