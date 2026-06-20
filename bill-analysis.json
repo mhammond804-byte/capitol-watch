@@ -220575,5 +220575,95 @@
       "Increases federal nutrition assistance spending.",
       "Could create program integrity concerns."
     ]
+  },
+  "119/hr/9175": {
+    "pros": [
+      "Provides clear tax rules for cryptocurrency mining and staking income.",
+      "Reduces regulatory uncertainty for digital asset businesses and investors."
+    ],
+    "cons": [
+      "Could reduce federal tax revenue from crypto transactions.",
+      "May favor established miners over smaller individual participants."
+    ]
+  },
+  "119/hr/9222": {
+    "pros": [
+      "Bans insider stock trading by the President and Members of Congress.",
+      "Overturns Citizens United to restrict corporate political spending."
+    ],
+    "cons": [
+      "Omnibus approach makes passage unlikely as individual reforms.",
+      "Supreme Court term limits would require a constitutional amendment."
+    ]
+  },
+  "119/hr/9263": {
+    "pros": [
+      "Increases federal investment to expand affordable housing construction.",
+      "Addresses housing supply shortages driving up home prices nationwide."
+    ],
+    "cons": [
+      "Could increase federal spending without addressing local zoning barriers.",
+      "May not effectively target the most cost-burdened housing markets."
+    ]
+  },
+  "119/hr/9295": {
+    "pros": [
+      "Limits excessive legal fees taxpayers pay in federal agency cases.",
+      "Encourages more efficient agency adjudication and dispute resolution."
+    ],
+    "cons": [
+      "May limit access to legal representation in complex agency hearings.",
+      "Cap could disadvantage individuals against well-funded government counsel."
+    ]
+  },
+  "119/hr/9327": {
+    "pros": [
+      "Adopts shelter dogs to train as support animals for CBP personnel.",
+      "Expands mental health support for border enforcement staff at low cost."
+    ],
+    "cons": [
+      "Pilot program costs may grow without proven effectiveness metrics.",
+      "Diverts shelter resources that could go to other adoption programs."
+    ]
+  },
+  "119/hr/9332": {
+    "pros": [
+      "Improves accuracy of electricity demand predictions for grid reliability.",
+      "Helps prevent blackouts by anticipating peak energy usage better."
+    ],
+    "cons": [
+      "May impose new data reporting requirements on utility companies.",
+      "Forecast improvements could increase regulatory compliance costs."
+    ]
+  },
+  "119/hres/1368": {
+    "pros": [
+      "Recognizes the cultural and historical contributions of Black musicians.",
+      "Raises awareness of African American musical heritage nationwide."
+    ],
+    "cons": [
+      "Non-binding resolution does not create any direct policy change.",
+      "Symbolic gestures may substitute for substantive equity legislation."
+    ]
+  },
+  "119/s/4798": {
+    "pros": [
+      "Requires government to sell its private company equity stakes.",
+      "Uses proceeds to directly reduce the national debt."
+    ],
+    "cons": [
+      "Fire sale of government equity could lose taxpayer value.",
+      "Some equity stakes serve strategic policy goals beyond investment return."
+    ]
+  },
+  "119/s/4835": {
+    "pros": [
+      "Streamlines the export control licensing process for businesses.",
+      "Enhances national security by improving license oversight efficiency."
+    ],
+    "cons": [
+      "Could weaken export restrictions on sensitive dual-use technologies.",
+      "May reduce congressional oversight of arms export decisions."
+    ]
   }
 }
