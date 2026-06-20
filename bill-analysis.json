@@ -220805,5 +220805,205 @@
       "May increase costs for mortgage lenders.",
       "Could reduce availability of home equity loans."
     ]
+  },
+  "119/hr/1427": {
+    "pros": [
+      "May improve budget efficiency and fiscal responsibility.",
+      "Expands access to affordable healthcare for Americans."
+    ],
+    "cons": [
+      "Could increase national debt or deficit spending.",
+      "May increase healthcare costs or government bureaucracy."
+    ]
+  },
+  "119/hr/1425": {
+    "pros": [
+      "May improve budget efficiency and fiscal responsibility.",
+      "Strengthens consumer protections in financial services."
+    ],
+    "cons": [
+      "Could increase national debt or deficit spending.",
+      "Increased regulation may reduce access to credit."
+    ]
+  },
+  "119/hr/9297": {
+    "pros": [
+      "Addresses an important policy area requiring legislation.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "May have unintended consequences for affected stakeholders.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hr/10032": {
+    "pros": [
+      "Addresses an important policy area requiring legislation.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "May have unintended consequences for affected stakeholders.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hres/1516": {
+    "pros": [
+      "Provides needed updates to current federal law.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "Needs further debate to understand full implications.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hres/1491": {
+    "pros": [
+      "Provides needed updates to current federal law.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "Needs further debate to understand full implications.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hr/9408": {
+    "pros": [
+      "Addresses an important policy area requiring legislation.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "May have unintended consequences for affected stakeholders.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hres/1390": {
+    "pros": [
+      "Provides needed updates to current federal law.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "Needs further debate to understand full implications.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hr/8555": {
+    "pros": [
+      "Addresses an important policy area requiring legislation.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "May have unintended consequences for affected stakeholders.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hr/8328": {
+    "pros": [
+      "Invests in education and workforce development.",
+      "Provides needed updates to current federal law."
+    ],
+    "cons": [
+      "Federal education mandates may limit local control.",
+      "Needs further debate to understand full implications."
+    ]
+  },
+  "118/hr/7389": {
+    "pros": [
+      "Expands access to affordable healthcare for Americans.",
+      "Promotes technological innovation and competitiveness."
+    ],
+    "cons": [
+      "May increase healthcare costs or government bureaucracy.",
+      "May raise privacy concerns with new data systems."
+    ]
+  },
+  "118/hres/983": {
+    "pros": [
+      "Provides needed updates to current federal law.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "Needs further debate to understand full implications.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hr/6713": {
+    "pros": [
+      "Promotes technological innovation and competitiveness.",
+      "Enhances public safety and law enforcement resources."
+    ],
+    "cons": [
+      "May raise privacy concerns with new data systems.",
+      "Could raise concerns about civil liberties and due process."
+    ]
+  },
+  "118/hr/6312": {
+    "pros": [
+      "Addresses an important policy area requiring legislation.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "May have unintended consequences for affected stakeholders.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hres/689": {
+    "pros": [
+      "Provides needed updates to current federal law.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "Needs further debate to understand full implications.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "118/hr/5047": {
+    "pros": [
+      "Enhances public safety and law enforcement resources.",
+      "Provides needed updates to current federal law."
+    ],
+    "cons": [
+      "Could raise concerns about civil liberties and due process.",
+      "Needs further debate to understand full implications."
+    ]
+  },
+  "118/hr/3443": {
+    "pros": [
+      "Expands access to affordable healthcare for Americans.",
+      "Provides needed updates to current federal law."
+    ],
+    "cons": [
+      "May increase healthcare costs or government bureaucracy.",
+      "Needs further debate to understand full implications."
+    ]
+  },
+  "118/hres/275": {
+    "pros": [
+      "Strengthens American trade and economic competitiveness.",
+      "Provides needed updates to current federal law."
+    ],
+    "cons": [
+      "Trade adjustments could disrupt domestic industries.",
+      "Needs further debate to understand full implications."
+    ]
+  },
+  "118/hres/59": {
+    "pros": [
+      "Provides needed updates to current federal law.",
+      "Brings attention to a previously unaddressed issue."
+    ],
+    "cons": [
+      "Needs further debate to understand full implications.",
+      "Could duplicate existing programs or authorities."
+    ]
+  },
+  "117/hres/1510": {
+    "pros": [
+      "Strengthens national security and military readiness.",
+      "Provides needed updates to current federal law."
+    ],
+    "cons": [
+      "Increases defense spending at expense of domestic programs.",
+      "Needs further debate to understand full implications."
+    ]
   }
 }
