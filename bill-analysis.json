@@ -219775,5 +219775,205 @@
       "Could escalate tensions and risk broader conflict.",
       "Commits the U.S. to costly long-term military aid commitments."
     ]
+  },
+  "119/s/4781": {
+    "pros": [
+      "Expands the Export-Import Bank mission to support domestic exports.",
+      "Helps American businesses compete internationally with better financing."
+    ],
+    "cons": [
+      "Exposes taxpayers to risk from foreign loan defaults.",
+      "May expand government involvement in private sector lending."
+    ]
+  },
+  "119/s/4791": {
+    "pros": [
+      "Reduces government spending by abolishing a federal fund.",
+      "Eliminates potential for misuse of government resources."
+    ],
+    "cons": [
+      "May remove a tool designed to counter foreign influence operations.",
+      "Could weaken protections against adversarial weaponization efforts."
+    ]
+  },
+  "119/s/4796": {
+    "pros": [
+      "Discourages excessive corporate stock buybacks with higher taxes.",
+      "Generates federal revenue to fund other government programs."
+    ],
+    "cons": [
+      "May reduce shareholder returns and investment incentives.",
+      "Could hurt retirement accounts that rely on stock value growth."
+    ]
+  },
+  "119/sres/771": {
+    "pros": [
+      "Provides necessary procedural guidance for congressional operations.",
+      "Ensures orderly conduct of legislative business."
+    ],
+    "cons": [
+      "Is a procedural matter with no substantive policy impact.",
+      "Uses floor time that could address more pressing legislative issues."
+    ]
+  },
+  "119/hres/135": {
+    "pros": [
+      "Reaffirms U.S. commitment to NATO and collective defense principles.",
+      "Sends a strong signal of solidarity to allied nations."
+    ],
+    "cons": [
+      "Is a non-binding resolution with no force of law.",
+      "Does not address burden-sharing disagreements among NATO members."
+    ]
+  },
+  "119/hres/219": {
+    "pros": [
+      "Recognizes fellowship programs that train future diplomats.",
+      "Supports diversity and expertise in the U.S. Foreign Service."
+    ],
+    "cons": [
+      "Is a ceremonial recognition with no binding policy changes.",
+      "Spends legislative time on resolutions rather than substantive legislation."
+    ]
+  },
+  "119/hres/255": {
+    "pros": [
+      "Seeks transparency from the executive branch on foreign policy.",
+      "Exercises congressional oversight authority over the State Department."
+    ],
+    "cons": [
+      "May be denied if the President invokes executive privilege.",
+      "Could strain relations between Congress and the executive branch."
+    ]
+  },
+  "119/hjres/73": {
+    "pros": [
+      "Provides congressional review of a declared national emergency.",
+      "Ensures presidential emergency powers remain subject to oversight."
+    ],
+    "cons": [
+      "May limit the President's ability to respond to genuine threats.",
+      "Could create uncertainty in foreign policy during ongoing negotiations."
+    ]
+  },
+  "119/hr/1263": {
+    "pros": [
+      "Strengthens strategic partnerships with Quad nations in the Indo-Pacific.",
+      "Enhances diplomatic and security cooperation with Australia and Japan."
+    ],
+    "cons": [
+      "May escalate tensions with China in the Indo-Pacific region.",
+      "Could commit the U.S. to costly multilateral defense obligations."
+    ]
+  },
+  "119/hr/3405": {
+    "pros": [
+      "Ensures transparency regarding property transfers involving foreign leaders.",
+      "Strengthens congressional oversight of executive branch transactions."
+    ],
+    "cons": [
+      "May be challenged as infringing on executive authority over foreign affairs.",
+      "Could complicate diplomatic relations with Qatar."
+    ]
+  },
+  "119/hres/462": {
+    "pros": [
+      "Establishes a structured process for debating a national emergency resolution.",
+      "Ensures orderly consideration of important congressional oversight measures."
+    ],
+    "cons": [
+      "Is a procedural rule with no direct policy impact on its own.",
+      "May limit amendments and restrict full floor debate."
+    ]
+  },
+  "119/hr/475": {
+    "pros": [
+      "Penalizes foreign actors who endanger nuclear facility safety.",
+      "Protects global nuclear security and nonproliferation efforts."
+    ],
+    "cons": [
+      "May escalate tensions with nations operating vulnerable nuclear plants.",
+      "Could be difficult to enforce without international cooperation."
+    ]
+  },
+  "119/hjres/91": {
+    "pros": [
+      "Provides congressional review of a second declared national emergency.",
+      "Reinforces legislative branch oversight of emergency executive powers."
+    ],
+    "cons": [
+      "May limit presidential flexibility in trade policy negotiations.",
+      "Could create legal uncertainty if multiple emergency declarations overlap."
+    ]
+  },
+  "119/hr/2643": {
+    "pros": [
+      "Exposes ties between criminal gangs and Haitian political leaders.",
+      "Supports accountability and transparency in U.S. foreign assistance."
+    ],
+    "cons": [
+      "May strain diplomatic relations with the Haitian government.",
+      "Could put U.S. personnel in Haiti at greater security risk."
+    ]
+  },
+  "119/hr/1488": {
+    "pros": [
+      "Repeals outdated authorizations for military force in Iraq.",
+      "Reasserts congressional authority over military engagement decisions."
+    ],
+    "cons": [
+      "May reduce the President's flexibility in responding to Middle East crises.",
+      "Could be seen as weakening U.S. commitment to regional stability."
+    ]
+  },
+  "119/hres/391": {
+    "pros": [
+      "Sets rules for debate on a national emergency disapproval resolution.",
+      "Ensures the House can vote on limiting presidential emergency powers."
+    ],
+    "cons": [
+      "Is a procedural measure that does not directly address the underlying issue.",
+      "May restrict representatives ability to offer alternative proposals."
+    ]
+  },
+  "119/hjres/72": {
+    "pros": [
+      "Allows Congress to disapprove of a presidential emergency declaration.",
+      "Reasserts congressional authority under the National Emergencies Act."
+    ],
+    "cons": [
+      "May hamper the executive branch response to complex international challenges.",
+      "Could set a precedent for challenging future emergency declarations."
+    ]
+  },
+  "119/hr/3357": {
+    "pros": [
+      "Increases transparency in multi-class stock structures for investors.",
+      "Helps shareholders make informed decisions about corporate governance."
+    ],
+    "cons": [
+      "May impose additional compliance costs on publicly traded companies.",
+      "Could reduce flexibility for founders to maintain control of their companies."
+    ]
+  },
+  "119/hr/1939": {
+    "pros": [
+      "Imposes sanctions on actors fueling violence in Sudan.",
+      "Supports accountability for human rights abuses in the conflict."
+    ],
+    "cons": [
+      "May have limited impact without broader international cooperation.",
+      "Could worsen humanitarian conditions by restricting aid flows."
+    ]
+  },
+  "119/hjres/97": {
+    "pros": [
+      "Exercises congressional oversight over foreign military sales.",
+      "Prevents weapons transfers to potentially destabilized regions."
+    ],
+    "cons": [
+      "May strain the strategic partnership with the United Arab Emirates.",
+      "Could reduce U.S. influence in Middle East defense relationships."
+    ]
   }
 }
