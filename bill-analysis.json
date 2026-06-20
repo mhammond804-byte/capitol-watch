@@ -219175,5 +219175,205 @@
       "May have unintended economic consequences across sectors.",
       "Lacks sufficient detail to fully assess its impact."
     ]
+  },
+  "119/hconres/28": {
+    "pros": [
+      "Ensures overseas servicemembers votes are counted and honored.",
+      "Protects military and their families right to vote from abroad."
+    ],
+    "cons": [
+      "Could create administrative burdens for election officials processing ballots.",
+      "May duplicate existing federal protections for military absentee voting."
+    ]
+  },
+  "119/hr/1083": {
+    "pros": [
+      "Supports military readiness by enabling land sales for conservation.",
+      "Provides tax incentives for environmental protection near military bases."
+    ],
+    "cons": [
+      "May reduce federal tax revenue from land sale transactions.",
+      "Could benefit private landowners more than military readiness goals."
+    ]
+  },
+  "119/hr/1336": {
+    "pros": [
+      "Expands support and benefits for those who have served in uniform.",
+      "Improves access to healthcare and services for veterans and families."
+    ],
+    "cons": [
+      "May increase long-term federal obligations for veteran benefits.",
+      "Could impose additional administrative burdens on the VA system."
+    ]
+  },
+  "119/hr/1409": {
+    "pros": [
+      "Invests in education and skills training for American students.",
+      "Expands opportunities for academic achievement and career readiness."
+    ],
+    "cons": [
+      "May increase federal spending on education programs without proven results.",
+      "Could expand federal involvement in local education decision-making."
+    ]
+  },
+  "119/hr/1465": {
+    "pros": [
+      "Reduces unnecessary federal bureaucratic requirements.",
+      "Provides flexibility in how federal programs are implemented."
+    ],
+    "cons": [
+      "Could weaken important safeguards or oversight protections.",
+      "May create inconsistencies in how federal rules are applied."
+    ]
+  },
+  "119/hr/1491": {
+    "pros": [
+      "Provides tax relief that puts more money back into peoples pockets.",
+      "Simplifies the tax code and reduces compliance burdens on families."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the national deficit.",
+      "Could primarily benefit higher-income taxpayers over lower-income ones."
+    ]
+  },
+  "119/hr/1492": {
+    "pros": [
+      "Promotes competition between brand and generic drug manufacturers.",
+      "Could lower prescription drug costs for patients and insurers."
+    ],
+    "cons": [
+      "May reduce incentives for developing new small-molecule drugs.",
+      "Could face legal challenges from pharmaceutical industry groups."
+    ]
+  },
+  "119/hr/1625": {
+    "pros": [
+      "Supports economic stability in Haiti through continued trade preferences.",
+      "Strengthens U.S. diplomatic ties with Caribbean nations and partners."
+    ],
+    "cons": [
+      "May disadvantage domestic producers competing with duty-free Haitian imports.",
+      "Could be exploited for transshipment of goods from other countries."
+    ]
+  },
+  "119/hr/1885": {
+    "pros": [
+      "Addresses an important policy issue that affects American communities.",
+      "Provides a legislative framework for addressing a specific concern."
+    ],
+    "cons": [
+      "May require further refinement and amendments to be fully effective.",
+      "Could have unintended economic or regulatory consequences."
+    ]
+  },
+  "119/hr/2070": {
+    "pros": [
+      "Protects Second Amendment rights of military families stationed abroad.",
+      "Ensures servicemembers do not lose gun rights due to relocation."
+    ],
+    "cons": [
+      "Could complicate existing firearms regulations across state lines.",
+      "May face challenges reconciling federal law with host nation rules overseas."
+    ]
+  },
+  "119/hr/2079": {
+    "pros": [
+      "Improves access to quality healthcare services for more Americans.",
+      "Addresses cost and coverage gaps in the current healthcare system."
+    ],
+    "cons": [
+      "Could increase federal healthcare spending and insurance premiums.",
+      "May create additional regulatory burdens on healthcare providers."
+    ]
+  },
+  "119/hr/2122": {
+    "pros": [
+      "Boosts domestic production of cement, concrete, and asphalt materials.",
+      "Strengthens American manufacturing competitiveness in construction materials."
+    ],
+    "cons": [
+      "May increase costs for construction projects that rely on imports.",
+      "Could face WTO challenges as a protectionist trade measure."
+    ]
+  },
+  "119/hr/2217": {
+    "pros": [
+      "Honors individuals and events important to American history and culture.",
+      "Provides recognition for contributions to the nation and communities."
+    ],
+    "cons": [
+      "Does not address substantive policy issues facing the country.",
+      "Spends legislative time on naming measures rather than policy action."
+    ]
+  },
+  "119/hr/2382": {
+    "pros": [
+      "Improves access to quality healthcare services for more Americans.",
+      "Addresses cost and coverage gaps in the current healthcare system."
+    ],
+    "cons": [
+      "Could increase federal healthcare spending and insurance premiums.",
+      "May create additional regulatory burdens on healthcare providers."
+    ]
+  },
+  "119/hr/2679": {
+    "pros": [
+      "Promotes cleaner energy sources and reduces environmental impact.",
+      "Encourages innovation in energy technology and efficiency."
+    ],
+    "cons": [
+      "Could increase energy costs for consumers and businesses.",
+      "May impose regulatory burdens on traditional energy industries."
+    ]
+  },
+  "119/hr/2886": {
+    "pros": [
+      "Addresses an important policy issue that affects American communities.",
+      "Provides a legislative framework for addressing a specific concern."
+    ],
+    "cons": [
+      "May require further refinement and amendments to be fully effective.",
+      "Could have unintended economic or regulatory consequences."
+    ]
+  },
+  "119/hr/2980": {
+    "pros": [
+      "Invests in education and skills training for American students.",
+      "Expands opportunities for academic achievement and career readiness."
+    ],
+    "cons": [
+      "May increase federal spending on education programs without proven results.",
+      "Could expand federal involvement in local education decision-making."
+    ]
+  },
+  "119/hr/3010": {
+    "pros": [
+      "Provides tax relief that puts more money back into peoples pockets.",
+      "Simplifies the tax code and reduces compliance burdens on families."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the national deficit.",
+      "Could primarily benefit higher-income taxpayers over lower-income ones."
+    ]
+  },
+  "119/hr/3518": {
+    "pros": [
+      "Addresses funding accountability for graduate medical education programs.",
+      "Encourages responsible use of federal financial aid dollars."
+    ],
+    "cons": [
+      "Could reduce access to medical education for some qualified students.",
+      "May exacerbate physician shortages in underserved areas."
+    ]
+  },
+  "119/hr/3886": {
+    "pros": [
+      "Expands support and benefits for those who have served in uniform.",
+      "Improves access to healthcare and services for veterans and families."
+    ],
+    "cons": [
+      "May increase long-term federal obligations for veteran benefits.",
+      "Could impose additional administrative burdens on the VA system."
+    ]
   }
 }
