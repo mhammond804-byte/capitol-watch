@@ -220175,5 +220175,205 @@
       "Could increase military commitments in the Pacific theater.",
       "May divert foreign aid resources from other priority regions."
     ]
+  },
+  "119/hjres/82": {
+    "pros": [
+      "Provides congressional oversight over District of Columbia legislation.",
+      "Ensures consistency between local DC laws and federal policy goals."
+    ],
+    "cons": [
+      "Undermines local self-governance for District of Columbia residents.",
+      "Interferes with DC's authority to regulate its own insurance market."
+    ]
+  },
+  "119/hr/1010": {
+    "pros": [
+      "Addresses the crisis of missing and murdered Indigenous people.",
+      "Strengthens federal law enforcement accountability on tribal lands."
+    ],
+    "cons": [
+      "May increase reporting burdens on federal law enforcement agencies.",
+      "Does not guarantee additional funding for investigations."
+    ]
+  },
+  "119/hr/1038": {
+    "pros": [
+      "Provides more accurate inflation data for rural American consumers.",
+      "Helps policymakers understand cost-of-living differences in rural areas."
+    ],
+    "cons": [
+      "Increases costs for the Bureau of Labor Statistics to produce new data.",
+      "May not significantly change existing policy if data is underused."
+    ]
+  },
+  "119/hr/1067": {
+    "pros": [
+      "Provides tax relief for families and businesses to boost the economy.",
+      "Simplifies the tax code and reduces compliance burdens."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the national deficit.",
+      "Could disproportionately benefit higher-income taxpayers."
+    ]
+  },
+  "119/hr/1100": {
+    "pros": [
+      "Helps prevent illegal drug manufacturing by regulating tableting machines.",
+      "Provides law enforcement tools to track equipment used in pill production."
+    ],
+    "cons": [
+      "Imposes new regulations on legitimate pharmaceutical equipment businesses.",
+      "Could be difficult to enforce effectively across all distribution channels."
+    ]
+  },
+  "119/hr/1121": {
+    "pros": [
+      "Protects government data and systems from foreign AI surveillance threats.",
+      "Reduces national security risks from using foreign-developed AI software."
+    ],
+    "cons": [
+      "Could limit government access to innovative AI tools and technologies.",
+      "May be difficult to enforce across all executive branch agencies."
+    ]
+  },
+  "119/hr/1144": {
+    "pros": [
+      "Continues critical federal programs combating human trafficking.",
+      "Protects vulnerable populations from exploitation and abuse."
+    ],
+    "cons": [
+      "Increases federal spending on anti-trafficking programs and grants.",
+      "May not address root causes that make individuals vulnerable to trafficking."
+    ]
+  },
+  "119/hr/1145": {
+    "pros": [
+      "Holds government efficiency advisors accountable for their actions.",
+      "Ensures legal liability for claims arising from government reform efforts."
+    ],
+    "cons": [
+      "Could discourage qualified experts from serving as government advisors.",
+      "May create legal uncertainty for the Department of Government Efficiency."
+    ]
+  },
+  "119/hr/1148": {
+    "pros": [
+      "Provides critical relief to communities recovering from natural disasters.",
+      "Strengthens disaster preparedness and resilience for future emergencies."
+    ],
+    "cons": [
+      "Increases federal spending on disaster response and recovery programs.",
+      "May create long-term dependency on federal disaster assistance."
+    ]
+  },
+  "119/hr/1149": {
+    "pros": [
+      "Protects consumers by requiring advance notice of electricity rate increases.",
+      "Promotes transparency and accountability from utility companies."
+    ],
+    "cons": [
+      "Adds regulatory requirements on electric utilities across the country.",
+      "Could slow down necessary rate adjustments in emergency situations."
+    ]
+  },
+  "119/hr/1178": {
+    "pros": [
+      "Improves access to healthcare services and reduces patient costs.",
+      "Strengthens protections for patients and healthcare consumers."
+    ],
+    "cons": [
+      "May increase federal healthcare spending and insurance premiums.",
+      "Could add regulatory complexity to the healthcare system."
+    ]
+  },
+  "119/hr/1218": {
+    "pros": [
+      "Protects individuals from the harms of non-consensual intimate image sharing.",
+      "Provides legal recourse for victims of online harassment and exploitation."
+    ],
+    "cons": [
+      "Could raise First Amendment concerns about free speech restrictions.",
+      "May be difficult to enforce across different online platforms and jurisdictions."
+    ]
+  },
+  "119/hr/1219": {
+    "pros": [
+      "Improves access to healthcare services and reduces patient costs.",
+      "Strengthens protections for patients and healthcare consumers."
+    ],
+    "cons": [
+      "May increase federal healthcare spending and insurance premiums.",
+      "Could add regulatory complexity to the healthcare system."
+    ]
+  },
+  "119/hr/1322": {
+    "pros": [
+      "Settles long-standing water rights claims of New Mexico Pueblo communities.",
+      "Provides certainty for water management in the Rio San Jos\u00e9 watershed."
+    ],
+    "cons": [
+      "Increases federal costs associated with water rights settlement implementation.",
+      "Could affect non-Pueblo water users in the same stream system."
+    ]
+  },
+  "119/hr/1323": {
+    "pros": [
+      "Settles water rights claims for Ohkay Owingeh in the Rio Chama system.",
+      "Restores critical bosque habitat along Pueblo lands in New Mexico."
+    ],
+    "cons": [
+      "Increases federal spending on water settlement implementation and restoration.",
+      "Could create complex water management challenges with other Rio Chama users."
+    ]
+  },
+  "119/hr/1324": {
+    "pros": [
+      "Resolves Navajo Nation water rights claims in the Rio San Jos\u00e9 basin.",
+      "Provides tribal communities with reliable water access and legal certainty."
+    ],
+    "cons": [
+      "Increases federal costs for water rights settlement implementation.",
+      "Could affect existing water allocations for non-Navajo users in the basin."
+    ]
+  },
+  "119/hr/1358": {
+    "pros": [
+      "Improves access to healthcare services and reduces patient costs.",
+      "Strengthens protections for patients and healthcare consumers."
+    ],
+    "cons": [
+      "May increase federal healthcare spending and insurance premiums.",
+      "Could add regulatory complexity to the healthcare system."
+    ]
+  },
+  "119/hr/1380": {
+    "pros": [
+      "Strengthens competition oversight in the meat and poultry industries.",
+      "Protects farmers and ranchers from unfair practices by large processors."
+    ],
+    "cons": [
+      "Creates a new federal office that increases government spending.",
+      "Could add regulatory burdens on small and mid-size meat processors."
+    ]
+  },
+  "119/hr/1411": {
+    "pros": [
+      "Helps veterans access food assistance benefits during transition.",
+      "Reduces food insecurity among recently separated service members."
+    ],
+    "cons": [
+      "May increase administrative costs for the Transition Assistance Program.",
+      "Does not guarantee that eligible veterans will actually enroll in food programs."
+    ]
+  },
+  "119/hr/1412": {
+    "pros": [
+      "Protects the environment and promotes clean energy development.",
+      "Addresses climate change by reducing greenhouse gas emissions."
+    ],
+    "cons": [
+      "Could increase energy costs for businesses and consumers.",
+      "May impose new regulations that slow economic growth."
+    ]
   }
 }
