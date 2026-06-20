@@ -219975,5 +219975,205 @@
       "May strain the strategic partnership with the United Arab Emirates.",
       "Could reduce U.S. influence in Middle East defense relationships."
     ]
+  },
+  "119/s/1608": {
+    "pros": [
+      "Recognizes small businesses that hire and support older American workers.",
+      "Encourages employment of experienced workers through SBA recognition."
+    ],
+    "cons": [
+      "Adds a new federal award program without guaranteed effectiveness.",
+      "Does not address broader barriers facing older workers in hiring."
+    ]
+  },
+  "119/s/1871": {
+    "pros": [
+      "Enhances border security through modern technology integration.",
+      "Improves efficiency of DHS operations at ports of entry."
+    ],
+    "cons": [
+      "May increase spending on unproven or experimental border technologies.",
+      "Could raise privacy concerns around surveillance and data collection."
+    ]
+  },
+  "119/s/1018": {
+    "pros": [
+      "Protects rural water systems from cyberattacks and ransomware threats.",
+      "Provides cybersecurity expertise to small communities lacking resources."
+    ],
+    "cons": [
+      "May increase government surveillance capabilities on critical infrastructure.",
+      "Could impose new cybersecurity compliance costs on rural utilities."
+    ]
+  },
+  "119/s/118": {
+    "pros": [
+      "Addresses an important policy area requiring legislative action.",
+      "Provides a framework for addressing identified national needs."
+    ],
+    "cons": [
+      "May increase federal spending without clear revenue sources.",
+      "Could have unintended consequences in related policy areas."
+    ]
+  },
+  "119/s/1019": {
+    "pros": [
+      "Helps rural water systems prepare for natural disasters and emergencies.",
+      "Protects drinking water quality during crisis situations."
+    ],
+    "cons": [
+      "Increases federal spending on rural infrastructure preparedness programs.",
+      "May create overlapping programs with existing emergency management agencies."
+    ]
+  },
+  "119/s/632": {
+    "pros": [
+      "Addresses healthcare shortages in Native American communities.",
+      "Improves recruitment of healthcare professionals for Indian Health Service."
+    ],
+    "cons": [
+      "Increases federal spending on Indian Health Service programs.",
+      "May not address broader systemic issues in tribal healthcare delivery."
+    ]
+  },
+  "119/s/633": {
+    "pros": [
+      "Addresses an important policy area requiring legislative action.",
+      "Provides a framework for addressing identified national needs."
+    ],
+    "cons": [
+      "May increase federal spending without clear revenue sources.",
+      "Could have unintended consequences in related policy areas."
+    ]
+  },
+  "119/s/2619": {
+    "pros": [
+      "Invests in critical infrastructure to improve safety and mobility.",
+      "Creates jobs through transportation and infrastructure projects."
+    ],
+    "cons": [
+      "Increases federal spending and may add to the national debt.",
+      "Could impose new costs on state and local transportation agencies."
+    ]
+  },
+  "119/s/2773": {
+    "pros": [
+      "Provides tax relief for families and businesses to stimulate the economy.",
+      "Simplifies the tax code by reducing complexity and loopholes."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the budget deficit.",
+      "Could disproportionately benefit higher-income taxpayers."
+    ]
+  },
+  "119/s/2618": {
+    "pros": [
+      "Supports American farmers and agricultural communities across the country.",
+      "Strengthens the rural economy and food supply chain."
+    ],
+    "cons": [
+      "May increase federal spending on agricultural subsidies and programs.",
+      "Could create market distortions through government intervention."
+    ]
+  },
+  "119/s/911": {
+    "pros": [
+      "Strengthens public safety by enhancing law enforcement capabilities.",
+      "Provides prosecutors and investigators with better tools to fight crime."
+    ],
+    "cons": [
+      "May erode civil liberties or due process protections.",
+      "Could lead to increased incarceration rates and criminal justice costs."
+    ]
+  },
+  "119/s/1979": {
+    "pros": [
+      "Provides tax relief for families and businesses to stimulate the economy.",
+      "Simplifies the tax code by reducing complexity and loopholes."
+    ],
+    "cons": [
+      "May reduce federal revenue and increase the budget deficit.",
+      "Could disproportionately benefit higher-income taxpayers."
+    ]
+  },
+  "119/s/1965": {
+    "pros": [
+      "Provides a pathway to legal status for qualifying immigrants.",
+      "Addresses workforce needs by reforming the immigration system."
+    ],
+    "cons": [
+      "May increase competition for jobs and public services.",
+      "Could raise national security and border enforcement concerns."
+    ]
+  },
+  "119/s/546": {
+    "pros": [
+      "Honors treaty obligations and supports tribal sovereignty and self-determination.",
+      "Invests in essential services for Native American communities."
+    ],
+    "cons": [
+      "May increase federal spending on tribal programs and services.",
+      "Could create jurisdictional conflicts between tribal and state authorities."
+    ]
+  },
+  "119/s/1644": {
+    "pros": [
+      "Improves benefits and support services for veterans and service members.",
+      "Honors the service and sacrifice of those who serve the nation."
+    ],
+    "cons": [
+      "May increase federal spending on veterans benefits and programs.",
+      "Could overlap with existing services without improving outcomes."
+    ]
+  },
+  "119/sres/144": {
+    "pros": [
+      "Addresses an important policy area requiring legislative action.",
+      "Provides a framework for addressing identified national needs."
+    ],
+    "cons": [
+      "May increase federal spending without clear revenue sources.",
+      "Could have unintended consequences in related policy areas."
+    ]
+  },
+  "119/s/2839": {
+    "pros": [
+      "Secures domestic supply chains for critical minerals and materials.",
+      "Reduces reliance on foreign sources for strategic resources."
+    ],
+    "cons": [
+      "May increase environmental impacts from expanded mining operations.",
+      "Could lead to conflicts over public land use and conservation."
+    ]
+  },
+  "119/s/1643": {
+    "pros": [
+      "Expands access to affordable healthcare services for Americans.",
+      "Improves health outcomes through better coverage and care coordination."
+    ],
+    "cons": [
+      "Increases federal healthcare spending and program costs.",
+      "May add regulatory complexity to the healthcare system."
+    ]
+  },
+  "119/s/2429": {
+    "pros": [
+      "Gives consumer protection regulators stronger tools against scams.",
+      "Helps protect Americans from financial fraud and deceptive practices."
+    ],
+    "cons": [
+      "May impose additional compliance costs on legitimate financial businesses.",
+      "Could expand government enforcement power without due process safeguards."
+    ]
+  },
+  "119/s/1740": {
+    "pros": [
+      "Strengthens diplomatic and economic ties with Pacific Island nations.",
+      "Counteracts growing Chinese influence in the strategically vital region."
+    ],
+    "cons": [
+      "Could increase military commitments in the Pacific theater.",
+      "May divert foreign aid resources from other priority regions."
+    ]
   }
 }
