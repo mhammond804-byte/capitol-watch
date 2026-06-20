@@ -219575,5 +219575,205 @@
       "Large spending increases without guaranteed efficiency.",
       "Projects may face cost overruns and lengthy delays."
     ]
+  },
+  "119/s/923": {
+    "pros": [
+      "Honors Harriet Tubman's legacy of courage and freedom.",
+      "Educates the public about an important American hero."
+    ],
+    "cons": [
+      "Is a symbolic measure with no binding policy impact.",
+      "Spends legislative time on a naming measure rather than policy."
+    ]
+  },
+  "119/s/151": {
+    "pros": [
+      "Reduces costs for businesses by suspending tariffs on key imports.",
+      "Lowers prices for consumers on affected imported goods."
+    ],
+    "cons": [
+      "May reduce revenue for the federal government from tariff collections.",
+      "Could disadvantage domestic producers competing with cheaper imports."
+    ]
+  },
+  "119/sres/91": {
+    "pros": [
+      "Supports Ukraine's sovereignty against Russian aggression.",
+      "Holds Russia accountable for violations of international law."
+    ],
+    "cons": [
+      "Could escalate tensions and risk broader conflict.",
+      "Commits the U.S. to costly long-term military aid commitments."
+    ]
+  },
+  "119/sres/100": {
+    "pros": [
+      "Strengthens U.S. foreign policy and international partnerships.",
+      "Promotes human rights and democracy around the world."
+    ],
+    "cons": [
+      "Could strain diplomatic relations with other countries.",
+      "May commit the U.S. to costly international obligations."
+    ]
+  },
+  "119/s/885": {
+    "pros": [
+      "Increases access to affordable housing for low-income families.",
+      "Strengthens consumer protections for renters and homebuyers."
+    ],
+    "cons": [
+      "Could add costs for landlords and property developers.",
+      "May increase federal spending on housing assistance programs."
+    ]
+  },
+  "119/s/202": {
+    "pros": [
+      "Protects workers' rights and improves workplace conditions.",
+      "Helps create jobs and strengthen the American workforce."
+    ],
+    "cons": [
+      "Could increase costs for employers and small businesses.",
+      "May reduce flexibility in hiring and workforce management."
+    ]
+  },
+  "119/s/2204": {
+    "pros": [
+      "Strengthens U.S. foreign policy and international partnerships.",
+      "Promotes human rights and democracy around the world."
+    ],
+    "cons": [
+      "Could strain diplomatic relations with other countries.",
+      "May commit the U.S. to costly international obligations."
+    ]
+  },
+  "119/s/2185": {
+    "pros": [
+      "Protects the environment and promotes clean energy development.",
+      "Helps reduce emissions and combat climate change."
+    ],
+    "cons": [
+      "Could increase energy costs for businesses and consumers.",
+      "May impose regulatory burdens on energy producers."
+    ]
+  },
+  "119/s/2184": {
+    "pros": [
+      "Honors the victims of the Srebrenica genocide.",
+      "Reaffirms U.S. commitment to preventing future genocides."
+    ],
+    "cons": [
+      "Is a symbolic resolution without binding policy impact.",
+      "Could be seen as taking sides in regional political disputes."
+    ]
+  },
+  "119/sres/339": {
+    "pros": [
+      "Condemns human rights abuses by the Venezuelan regime.",
+      "Supports democratic restoration in Venezuela."
+    ],
+    "cons": [
+      "May have limited practical effect without international coordination.",
+      "Could escalate diplomatic tensions with Venezuela."
+    ]
+  },
+  "119/s/1765": {
+    "pros": [
+      "Protects the environment and promotes clean energy development.",
+      "Helps reduce emissions and combat climate change."
+    ],
+    "cons": [
+      "Could increase energy costs for businesses and consumers.",
+      "May impose regulatory burdens on energy producers."
+    ]
+  },
+  "119/s/1029": {
+    "pros": [
+      "Supports American farmers and strengthens the agricultural economy.",
+      "Helps ensure a stable and safe food supply for the nation."
+    ],
+    "cons": [
+      "May provide subsidies that distort free market pricing.",
+      "Could increase federal spending on farm programs."
+    ]
+  },
+  "119/s/1093": {
+    "pros": [
+      "Helps small businesses grow in rural communities nationwide.",
+      "Reduces barriers for rural entrepreneurs to access capital."
+    ],
+    "cons": [
+      "May not reach the smallest or most vulnerable businesses.",
+      "Could add complexity to existing small business programs."
+    ]
+  },
+  "119/s/2193": {
+    "pros": [
+      "Improves access to affordable child care for military families.",
+      "Strengthens support systems for active-duty service members."
+    ],
+    "cons": [
+      "Increases federal spending on military family support programs.",
+      "May not address underlying shortages in child care availability."
+    ]
+  },
+  "119/s/2133": {
+    "pros": [
+      "Addresses human rights concerns in Syria.",
+      "Holds the Syrian government accountable for its actions."
+    ],
+    "cons": [
+      "Removing sanctions could weaken leverage over the Syrian regime.",
+      "May have unintended consequences for regional stability."
+    ]
+  },
+  "119/sres/291": {
+    "pros": [
+      "Strengthens U.S. foreign policy and international partnerships.",
+      "Promotes human rights and democracy around the world."
+    ],
+    "cons": [
+      "Could strain diplomatic relations with other countries.",
+      "May commit the U.S. to costly international obligations."
+    ]
+  },
+  "119/s/2122": {
+    "pros": [
+      "Protects the right to trial by jury for all citizens.",
+      "Ensures fair access to the legal system."
+    ],
+    "cons": [
+      "Could increase costs for court administration.",
+      "May add complexity to jury selection procedures."
+    ]
+  },
+  "119/s/1854": {
+    "pros": [
+      "Increases transparency around corruption and criminal collusion.",
+      "Strengthens U.S. efforts to combat illicit financial flows."
+    ],
+    "cons": [
+      "Could complicate diplomatic relations with partner nations.",
+      "May impose reporting burdens on federal agencies."
+    ]
+  },
+  "119/s/1397": {
+    "pros": [
+      "Promotes innovation in technology and digital infrastructure.",
+      "Strengthens cybersecurity and protects consumer data."
+    ],
+    "cons": [
+      "Government regulation may slow technological progress.",
+      "Compliance costs could burden smaller companies."
+    ]
+  },
+  "119/s/2592": {
+    "pros": [
+      "Supports Ukraine's sovereignty against Russian aggression.",
+      "Holds Russia accountable for violations of international law."
+    ],
+    "cons": [
+      "Could escalate tensions and risk broader conflict.",
+      "Commits the U.S. to costly long-term military aid commitments."
+    ]
   }
 }
