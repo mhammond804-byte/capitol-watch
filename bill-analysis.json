@@ -220665,5 +220665,145 @@
       "Could weaken export restrictions on sensitive dual-use technologies.",
       "May reduce congressional oversight of arms export decisions."
     ]
+  },
+  "119/hjres/195": {
+    "pros": [
+      "Allows Congress to check executive branch rules.",
+      "Preserves legislative authority over regulations."
+    ],
+    "cons": [
+      "May overturn carefully crafted agency regulations.",
+      "Creates uncertainty for businesses and industries."
+    ]
+  },
+  "119/hr/9270": {
+    "pros": [
+      "Strengthens border security and immigration enforcement.",
+      "Protects vulnerable children crossing the border."
+    ],
+    "cons": [
+      "May overwhelm already strained immigration courts.",
+      "Could separate families seeking asylum."
+    ]
+  },
+  "119/hr/9337": {
+    "pros": [
+      "Expands clean, renewable hydropower generation.",
+      "Streamlines energy project approval timelines."
+    ],
+    "cons": [
+      "May weaken environmental review requirements.",
+      "Could impact river ecosystems and wildlife."
+    ]
+  },
+  "119/hr/9342": {
+    "pros": [
+      "Modernizes government publishing and record-keeping.",
+      "Improves public access to government documents."
+    ],
+    "cons": [
+      "May require additional funding for upgrades.",
+      "Implementation could face bureaucratic delays."
+    ]
+  },
+  "119/s/4732": {
+    "pros": [
+      "Provides emergency response for wildfire disasters.",
+      "Protects public health from wildfire smoke."
+    ],
+    "cons": [
+      "May create new federal emergency bureaucracy.",
+      "Could overlap with existing disaster programs."
+    ]
+  },
+  "119/s/4735": {
+    "pros": [
+      "Lowers energy costs for American families and businesses.",
+      "Increases domestic energy production and independence."
+    ],
+    "cons": [
+      "May weaken environmental pollution regulations.",
+      "Could reduce incentives for renewable energy investment."
+    ]
+  },
+  "119/s/4738": {
+    "pros": [
+      "Increases oversight of surveillance programs.",
+      "Protects civil liberties and privacy rights."
+    ],
+    "cons": [
+      "May hinder intelligence gathering capabilities.",
+      "Could slow counterterrorism investigations."
+    ]
+  },
+  "119/s/4739": {
+    "pros": [
+      "Increases oversight of surveillance programs.",
+      "Protects civil liberties and privacy rights."
+    ],
+    "cons": [
+      "May hinder intelligence gathering capabilities.",
+      "Could slow counterterrorism investigations."
+    ]
+  },
+  "119/s/4740": {
+    "pros": [
+      "Increases oversight of surveillance programs.",
+      "Protects civil liberties and privacy rights."
+    ],
+    "cons": [
+      "May hinder intelligence gathering capabilities.",
+      "Could slow counterterrorism investigations."
+    ]
+  },
+  "119/s/4772": {
+    "pros": [
+      "Preserves local control over utility decisions.",
+      "Prevents state overreach on energy policy."
+    ],
+    "cons": [
+      "May limit state environmental protection efforts.",
+      "Could create patchwork of different local rules."
+    ]
+  },
+  "119/s/4773": {
+    "pros": [
+      "Provides housing assistance for vulnerable families.",
+      "Helps reduce homelessness across communities."
+    ],
+    "cons": [
+      "Increases federal spending on rental programs.",
+      "May not address root causes of homelessness."
+    ]
+  },
+  "119/s/4774": {
+    "pros": [
+      "Protects election integrity from AI misinformation.",
+      "Helps voters identify authentic campaign materials."
+    ],
+    "cons": [
+      "Could restrict free political speech online.",
+      "Enforcement may be difficult across platforms."
+    ]
+  },
+  "119/s/4803": {
+    "pros": [
+      "Expands consumer protections for homeowners.",
+      "Increases transparency in mortgage lending."
+    ],
+    "cons": [
+      "May increase costs for mortgage lenders.",
+      "Could reduce availability of home equity loans."
+    ]
+  },
+  "119/s/4804": {
+    "pros": [
+      "Expands consumer protections for homeowners.",
+      "Increases transparency in mortgage lending."
+    ],
+    "cons": [
+      "May increase costs for mortgage lenders.",
+      "Could reduce availability of home equity loans."
+    ]
   }
 }
