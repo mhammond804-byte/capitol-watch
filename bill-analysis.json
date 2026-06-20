@@ -220375,5 +220375,205 @@
       "Could increase energy costs for businesses and consumers.",
       "May impose new regulations that slow economic growth."
     ]
+  },
+  "119/s/666": {
+    "pros": [
+      "Supports mental health for first responders.",
+      "Addresses critical wellness gaps in public safety."
+    ],
+    "cons": [
+      "May increase federal spending on wellness programs.",
+      "Could create unfunded state mandates."
+    ]
+  },
+  "119/s/1789": {
+    "pros": [
+      "Improves nutrition training for health professionals.",
+      "Promotes better health outcomes through education."
+    ],
+    "cons": [
+      "May increase federal education spending.",
+      "Could duplicate existing programs."
+    ]
+  },
+  "119/s/2472": {
+    "pros": [
+      "Prevents PFAS contamination from military bases.",
+      "Protects drinking water near DOD facilities."
+    ],
+    "cons": [
+      "May impose costly cleanup requirements on DOD.",
+      "Could face implementation delays."
+    ]
+  },
+  "119/s/2103": {
+    "pros": [
+      "Increases access to healthy food in underserved areas.",
+      "Supports local grocery retailers and farmers."
+    ],
+    "cons": [
+      "May require ongoing federal subsidy funding.",
+      "Could have limited impact in rural areas."
+    ]
+  },
+  "119/s/3460": {
+    "pros": [
+      "Holds polluters accountable for PFAS contamination.",
+      "Protects communities from toxic chemical exposure."
+    ],
+    "cons": [
+      "Could increase litigation and regulatory costs.",
+      "May face legal challenges from industry."
+    ]
+  },
+  "119/s/3337": {
+    "pros": [
+      "Supports programs and services for older adults.",
+      "Addresses needs of the growing elderly population."
+    ],
+    "cons": [
+      "May increase entitlement program costs.",
+      "Could face long-term funding sustainability issues."
+    ]
+  },
+  "119/s/3457": {
+    "pros": [
+      "Sets strong clean water standards for PFAS.",
+      "Protects public health from toxic chemicals."
+    ],
+    "cons": [
+      "May increase costs for water utilities.",
+      "Could face industry opposition."
+    ]
+  },
+  "119/s/3396": {
+    "pros": [
+      "Extends labor protections to domestic workers.",
+      "Improves working conditions for millions of workers."
+    ],
+    "cons": [
+      "Could increase costs for household employers.",
+      "May face enforcement challenges."
+    ]
+  },
+  "119/s/739": {
+    "pros": [
+      "Ensures continued healthcare for 9/11 responders.",
+      "Honors the commitment to World Trade Center survivors."
+    ],
+    "cons": [
+      "Increases federal health program spending.",
+      "Could set precedent for future disaster health costs."
+    ]
+  },
+  "119/s/2825": {
+    "pros": [
+      "Expands access to healthcare for more Americans.",
+      "Promotes innovation in healthcare delivery."
+    ],
+    "cons": [
+      "May increase overall healthcare spending.",
+      "Could add complexity to insurance systems."
+    ]
+  },
+  "119/s/389": {
+    "pros": [
+      "Sets safety standards for lithium-ion batteries.",
+      "Reduces fire risk from consumer electronics."
+    ],
+    "cons": [
+      "May increase costs for battery manufacturers.",
+      "Could slow innovation in battery technology."
+    ]
+  },
+  "119/s/3279": {
+    "pros": [
+      "Helps children in foster care find permanent families.",
+      "Reduces barriers to adoption and family unity."
+    ],
+    "cons": [
+      "May increase state child welfare costs.",
+      "Could face implementation challenges."
+    ]
+  },
+  "119/s/584": {
+    "pros": [
+      "Provides tax relief for surviving family members.",
+      "Eases financial burden during difficult times."
+    ],
+    "cons": [
+      "May reduce federal tax revenue.",
+      "Could benefit limited taxpayer groups."
+    ]
+  },
+  "119/s/2166": {
+    "pros": [
+      "Invests in early childhood education programs.",
+      "Supports school readiness for low-income children."
+    ],
+    "cons": [
+      "Increases federal education spending.",
+      "Could create funding gaps for other programs."
+    ]
+  },
+  "119/s/2792": {
+    "pros": [
+      "Reduces food insecurity for vulnerable Americans.",
+      "Strengthens the nutritional safety net."
+    ],
+    "cons": [
+      "Increases federal nutrition assistance costs.",
+      "Could face administrative efficiency issues."
+    ]
+  },
+  "119/s/2823": {
+    "pros": [
+      "Supports paid family and medical leave.",
+      "Helps workers balance work and family obligations."
+    ],
+    "cons": [
+      "May impose costs on small businesses.",
+      "Could reduce workforce flexibility."
+    ]
+  },
+  "119/s/2299": {
+    "pros": [
+      "Invests in resilient public transportation systems.",
+      "Protects transit from climate and disaster risks."
+    ],
+    "cons": [
+      "Requires significant federal infrastructure funding.",
+      "Could lead to project cost overruns."
+    ]
+  },
+  "119/s/1518": {
+    "pros": [
+      "Preserves and promotes important historical sites.",
+      "Honors American heritage and history."
+    ],
+    "cons": [
+      "Uses federal funds for non-essential purposes.",
+      "Could set precedent for further renamings."
+    ]
+  },
+  "119/s/3882": {
+    "pros": [
+      "Expands access to legal services for low-income.",
+      "Promotes equal justice under the law."
+    ],
+    "cons": [
+      "Increases federal spending on legal aid.",
+      "Could face political opposition to funding."
+    ]
+  },
+  "119/s/2512": {
+    "pros": [
+      "Expands SNAP eligibility to more low-income families.",
+      "Reduces food insecurity for vulnerable Americans."
+    ],
+    "cons": [
+      "Increases federal nutrition assistance spending.",
+      "Could create program integrity concerns."
+    ]
   }
 }
