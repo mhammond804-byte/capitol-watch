@@ -218975,5 +218975,205 @@
       "May require tax increases or benefit reductions.",
       "Changes to entitlements are politically difficult."
     ]
+  },
+  "119/hjres/62": {
+    "pros": [
+      "Protects natural resources and public health.",
+      "Promotes clean energy and environmental sustainability."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ]
+  },
+  "119/hr/1514": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/1590": {
+    "pros": [
+      "Promotes innovation in technology and digital infrastructure.",
+      "Strengthens cybersecurity and protects consumer data."
+    ],
+    "cons": [
+      "Government regulation may slow technological progress.",
+      "Compliance costs could burden smaller companies."
+    ]
+  },
+  "119/hr/2293": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/2668": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/2669": {
+    "pros": [
+      "Reduces tax burden on individuals and businesses.",
+      "Provides targeted incentives for economic growth."
+    ],
+    "cons": [
+      "Reduces federal revenue and increases the deficit.",
+      "Benefits may flow disproportionately to higher earners."
+    ]
+  },
+  "119/hr/2816": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/3621": {
+    "pros": [
+      "Expands access to affordable healthcare services.",
+      "Protects patients and improves health outcomes."
+    ],
+    "cons": [
+      "Increases government involvement in healthcare decisions.",
+      "May raise costs for taxpayers and healthcare providers."
+    ]
+  },
+  "119/hr/4010": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/4631": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/5132": {
+    "pros": [
+      "Expands access to affordable healthcare services.",
+      "Protects patients and improves health outcomes."
+    ],
+    "cons": [
+      "Increases government involvement in healthcare decisions.",
+      "May raise costs for taxpayers and healthcare providers."
+    ]
+  },
+  "119/hr/915": {
+    "pros": [
+      "Supports small businesses and job creation.",
+      "Reduces regulatory burden on employers."
+    ],
+    "cons": [
+      "May reduce worker protections and benefits.",
+      "Could increase the federal deficit without guaranteed jobs."
+    ]
+  },
+  "119/hr/9329": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hres/129": {
+    "pros": [
+      "Reduces tax burden on individuals and businesses.",
+      "Provides targeted incentives for economic growth."
+    ],
+    "cons": [
+      "Reduces federal revenue and increases the deficit.",
+      "Benefits may flow disproportionately to higher earners."
+    ]
+  },
+  "119/hres/1367": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hres/345": {
+    "pros": [
+      "Protects natural resources and public health.",
+      "Promotes clean energy and environmental sustainability."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ]
+  },
+  "119/s/1046": {
+    "pros": [
+      "Reduces tax burden on individuals and businesses.",
+      "Provides targeted incentives for economic growth."
+    ],
+    "cons": [
+      "Reduces federal revenue and increases the deficit.",
+      "Benefits may flow disproportionately to higher earners."
+    ]
+  },
+  "119/s/1078": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/s/1080": {
+    "pros": [
+      "Invests in education and workforce development.",
+      "Expands opportunities for students and teachers."
+    ],
+    "cons": [
+      "Increases federal control over local education decisions.",
+      "Creates new programs without proven effectiveness."
+    ]
+  },
+  "119/s/1099": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
   }
 }
