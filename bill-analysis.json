@@ -221005,5 +221005,35 @@
       "Increases defense spending at expense of domestic programs.",
       "Needs further debate to understand full implications."
     ]
+  },
+  "119/s/4793": {
+    "pros": [
+      "Strengthens United States foreign policy interests.",
+      "Promotes stability and security in strategic regions."
+    ],
+    "cons": [
+      "Could escalate tensions with foreign governments.",
+      "May commit US resources to overseas engagements."
+    ]
+  },
+  "119/hr/9328": {
+    "pros": [
+      "Supports military readiness and national security.",
+      "Enhances benefits and protections for service members."
+    ],
+    "cons": [
+      "Adds to the growing defense budget obligations.",
+      "May duplicate existing programs and benefits."
+    ]
+  },
+  "119/hr/9361": {
+    "pros": [
+      "Enhances public safety and law enforcement capabilities.",
+      "Provides stronger penalties for serious criminal offenses."
+    ],
+    "cons": [
+      "May increase federal prison populations and costs.",
+      "Could raise civil liberties concerns about due process."
+    ]
   }
 }
