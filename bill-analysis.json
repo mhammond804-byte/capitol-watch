@@ -219375,5 +219375,205 @@
       "May increase long-term federal obligations for veteran benefits.",
       "Could impose additional administrative burdens on the VA system."
     ]
+  },
+  "119/hr/325": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/466": {
+    "pros": [
+      "Promotes clean energy and environmental sustainability.",
+      "Reduces dependence on foreign energy sources."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ]
+  },
+  "119/hr/618": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/972": {
+    "pros": [
+      "Protects natural resources and public health.",
+      "Promotes clean energy and environmental sustainability."
+    ],
+    "cons": [
+      "May impose costly regulations on businesses and industry.",
+      "Federal mandates can preempt state-level innovation."
+    ]
+  },
+  "119/hr/1066": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/1191": {
+    "pros": [
+      "Supports American farmers and rural communities.",
+      "Ensures food security and agricultural sustainability."
+    ],
+    "cons": [
+      "Subsidies may distort agricultural markets.",
+      "Benefits often concentrate among large agribusinesses."
+    ]
+  },
+  "119/hr/1314": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/1440": {
+    "pros": [
+      "Reduces tax burden on individuals and businesses.",
+      "Provides targeted incentives for economic growth."
+    ],
+    "cons": [
+      "Reduces federal revenue and increases the deficit.",
+      "Benefits may flow disproportionately to higher earners."
+    ]
+  },
+  "119/hr/1508": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/1699": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/2553": {
+    "pros": [
+      "Expands access to affordable healthcare services.",
+      "Protects patients and improves health outcomes."
+    ],
+    "cons": [
+      "Increases government involvement in healthcare decisions.",
+      "May raise costs for taxpayers and healthcare providers."
+    ]
+  },
+  "119/hr/2554": {
+    "pros": [
+      "Expands access to affordable healthcare services.",
+      "Protects patients and improves health outcomes."
+    ],
+    "cons": [
+      "Increases government involvement in healthcare decisions.",
+      "May raise costs for taxpayers and healthcare providers."
+    ]
+  },
+  "119/hr/3214": {
+    "pros": [
+      "Expands access to affordable housing options.",
+      "Helps families achieve homeownership and stability."
+    ],
+    "cons": [
+      "Increases federal spending on housing assistance programs.",
+      "Market interventions may distort local housing prices."
+    ]
+  },
+  "119/hr/3215": {
+    "pros": [
+      "Expands access to affordable housing options.",
+      "Helps families achieve homeownership and stability."
+    ],
+    "cons": [
+      "Increases federal spending on housing assistance programs.",
+      "Market interventions may distort local housing prices."
+    ]
+  },
+  "119/hr/3216": {
+    "pros": [
+      "Expands access to affordable housing options.",
+      "Helps families achieve homeownership and stability."
+    ],
+    "cons": [
+      "Increases federal spending on housing assistance programs.",
+      "Market interventions may distort local housing prices."
+    ]
+  },
+  "119/hr/3590": {
+    "pros": [
+      "Invests in education and workforce development.",
+      "Expands opportunities for students and teachers."
+    ],
+    "cons": [
+      "Increases federal control over local education decisions.",
+      "Creates new programs without proven effectiveness."
+    ]
+  },
+  "119/hr/9310": {
+    "pros": [
+      "Strengthens national security and military readiness.",
+      "Supports American service members and veterans."
+    ],
+    "cons": [
+      "Significant increase in defense spending.",
+      "May escalate international tensions unnecessarily."
+    ]
+  },
+  "119/hr/9311": {
+    "pros": [
+      "Addresses an important policy issue needing legislative action.",
+      "Provides a targeted solution to a specific problem."
+    ],
+    "cons": [
+      "May have unintended economic consequences across sectors.",
+      "Lacks sufficient detail to fully assess its impact."
+    ]
+  },
+  "119/hr/9352": {
+    "pros": [
+      "Promotes innovation in technology and digital infrastructure.",
+      "Strengthens cybersecurity and protects consumer data."
+    ],
+    "cons": [
+      "Government regulation may slow technological progress.",
+      "Compliance costs could burden smaller companies."
+    ]
+  },
+  "119/hr/9373": {
+    "pros": [
+      "Improves transportation safety and efficiency.",
+      "Invests in roads, bridges, and transit systems."
+    ],
+    "cons": [
+      "Large spending increases without guaranteed efficiency.",
+      "Projects may face cost overruns and lengthy delays."
+    ]
   }
 }
