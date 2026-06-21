@@ -152,25 +152,26 @@ app.get('/api/state/:code', apiLimiter, async (req, res) => {
     return res.status(400).json({ error: 'Invalid state code' });
   }
   try {
-    const [houseData, senateData] = await Promise.all([
-      congressFetch(`/member/${code}?congress=119&chamber=House&limit=60`),
-      congressFetch(`/member/${code}?congress=119&chamber=Senate&limit=10`)
-    ]);
+    // Single API call — chamber filter is unreliable, get all members for the state
+    const data = await congressFetch(`/member/${code}?congress=119&limit=60`);
 
     function filterCurrent(members, targetChamber) {
       return (members || []).filter(m => {
         const terms = m.terms?.item;
         if (!terms || terms.length === 0) return false;
         const lastTerm = terms[terms.length - 1];
-        // Already queried congress=119 so any returned member is current;
-        // endYear from congress.gov lags behind for active congresses
+        const startYear = parseInt(lastTerm.startYear) || 0;
+        // Current members have terms starting 2019+ (116th-119th congresses)
+        // Former members show startYear in 1970s-1990s
+        const isCurrent = startYear >= 2019;
         const matchesChamber = lastTerm.chamber && lastTerm.chamber.toLowerCase().includes(targetChamber.toLowerCase());
-        return matchesChamber;
+        return isCurrent && matchesChamber;
       });
     }
 
-    const house = filterCurrent(houseData?.members, 'House');
-    const senate = filterCurrent(senateData?.members, 'Senate');
+    const allMembers = data?.members || [];
+    const house = filterCurrent(allMembers, 'House');
+    const senate = filterCurrent(allMembers, 'Senate');
 
     res.json({ state: code, house, senate });
   } catch (e) {
