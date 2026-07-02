@@ -343,6 +343,22 @@
     .member-info h3 { font-size: 15px; font-weight: 700; line-height: 1.3; letter-spacing: -0.2px; }
     .member-detail { color: var(--text-secondary); font-size: 13px; line-height: 1.5; margin-top: 6px; }
 
+/* Stock trades section */
+.trades-section { margin-top: 28px; padding: 24px; background: var(--bg-card); border-radius: var(--radius-md); border: 1px solid var(--border); }
+.trades-section h3 { font-size: 15px; font-weight: 700; margin-bottom: 6px; display: flex; align-items: center; gap: 8px; }
+.trades-section .subtitle { color: var(--text-muted); font-size: 12px; margin-bottom: 16px; }
+.trade-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 10px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
+.trade-row:last-child { border-bottom: none; }
+.trade-ticker { font-weight: 700; color: var(--gold); min-width: 60px; }
+.trade-asset { flex: 1; color: var(--text); }
+.trade-type { font-weight: 600; }
+.trade-type.BUY { color: var(--green); }
+.trade-type.SELL { color: var(--red); }
+.trade-amount { color: var(--text-secondary); font-size: 12px; }
+.trade-date { color: var(--text-muted); font-size: 11px; min-width: 80px; text-align: right; }
+.trades-loading { color: var(--text-muted); font-size: 13px; padding: 12px 0; }
+.trades-empty { color: var(--text-muted); font-size: 13px; padding: 12px 0; }
+
     /* ── PARTY BADGE ── */
     .party-badge {
       font-size: 11px; padding: 3px 9px; border-radius: 20px;
@@ -615,7 +631,7 @@
     <span class="footer-dots">·</span>
     Nonpartisan &amp; free
     <span class="footer-dots">·</span>
-    <a href="mailto:mhammond8808@tampamulti.com" style="color:var(--text-muted)">Contact</a>
+    <a href="mailto:mhammond880@tampamulti.com" style="color:var(--text-muted)">Contact</a>
   </div>
   <div class="footer-signup">
     <h4>📬 Stay informed</h4>
@@ -886,6 +902,12 @@ function renderMemberDetail(data) {
           ${terms.length > 0 ? `<div class="terms-served">${terms.length} term${terms.length !== 1 ? 's' : ''} served</div>` : ''}
         </div>
       </div>
+      <div class="trades-section" id="tradesSection">
+        <h3>📈 What is ${first} ${last} investing?</h3>
+        <div class="subtitle">Stock transactions disclosed under the STOCK Act</div>
+        <div class="trades-loading" id="tradesLoading">Loading trades...</div>
+        <div id="tradesList"></div>
+      </div>
       <div class="detail-body">
         <div class="section-title" style="margin-top:0">Sponsored Legislation <span class="count">(${sponsored.length})</span></div>`;
 
@@ -902,6 +924,7 @@ function renderMemberDetail(data) {
   content.innerHTML = html;
   setTimeout(() => { analyzeAllBillCards(); loadAllVoteCounts(); }, 400);
   loadRecentBillsIntoSection();
+  loadMemberTrades('${first} ${last}');
 }
 
 // ===== BILL CARDS =====
@@ -1650,6 +1673,35 @@ fetch('/api/state/FL').then(r => r.json()).then(data => {
   document.getElementById('homeDefault').style.display = 'none';
   container.style.display = 'block';
 });
+
+async function loadMemberTrades(name) {
+  const tradesList = document.getElementById('tradesList');
+  const loading = document.getElementById('tradesLoading');
+  if (!tradesList || !loading) return;
+  try {
+    const res = await fetch(`/api/trades/${encodeURIComponent(name)}`);
+    const data = await res.json();
+    loading.style.display = 'none';
+    if (!data.trades || data.trades.length === 0) {
+      tradesList.innerHTML = '<div class="trades-empty">No stock trades found for this member.</div>';
+      return;
+    }
+    tradesList.innerHTML = data.trades.map(t => {
+      const isBuy = t.type.includes('Purchase') || t.type.includes('Buy') || t.type === 'BUY';
+      const isSell = t.type.includes('Sale') || t.type.includes('Sell') || t.type === 'SELL';
+      return `<div class="trade-row">
+        <span class="trade-ticker">${t.ticker}</span>
+        <span class="trade-asset">${t.asset}</span>
+        <span class="trade-type ${isBuy ? 'BUY' : isSell ? 'SELL' : ''}">${isBuy ? '🟢 BUY' : isSell ? '🔴 SELL' : t.type}</span>
+        <span class="trade-amount">${t.amount}</span>
+        <span class="trade-date">${t.date}</span>
+      </div>`;
+    }).join('');
+  } catch(e) {
+    loading.style.display = 'none';
+    tradesList.innerHTML = '<div class="trades-empty">Could not load trade data.</div>';
+  }
+}
 
 // ===== HASH ROUTING =====
 function handleHashRoute() {

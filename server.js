@@ -145,6 +145,64 @@ app.get('/api/states', apiLimiter, (req, res) => {
   })));
 });
 
+// Cache for filers list
+let filersCache = null;
+let filersCacheTime = 0;
+const FILERS_URL = 'https://raw.githubusercontent.com/kadoa-org/congress-trading-monitor/main/public/data/filers.json';
+const FILER_BASE = 'https://raw.githubusercontent.com/kadoa-org/congress-trading-monitor/main/public/data/filer/';
+
+// GET /api/trades/:name — stock trades for a member of Congress
+app.get('/api/trades/:name', apiLimiter, async (req, res) => {
+  const query = decodeURIComponent(req.params.name).toLowerCase().trim();
+  if (!query) return res.json({ trades: [], error: null });
+
+  try {
+    // Refresh filers list hourly
+    if (!filersCache || Date.now() - filersCacheTime > 3600000) {
+      filersCache = await new Promise((resolve, reject) => {
+        https.get(FILERS_URL, { headers: { 'User-Agent': 'CapitolWatch/1.0' } }, (r) => {
+          let d = '';
+          r.on('data', c => d += c);
+          r.on('end', () => { try { resolve(JSON.parse(d)); } catch(e) { reject(e); } });
+        }).on('error', reject);
+      });
+      filersCacheTime = Date.now();
+    }
+
+    // Find matching filer
+    const words = query.split(/\s+/).filter(w => w.length > 1);
+    const filer = filersCache.find(f => {
+      const full = (f.full_name || '').toLowerCase();
+      return words.every(w => full.includes(w));
+    });
+
+    if (!filer) return res.json({ trades: [], error: null });
+
+    // Fetch their trades
+    const trades = await new Promise((resolve, reject) => {
+      https.get(FILER_BASE + filer.id + '.json', { headers: { 'User-Agent': 'CapitolWatch/1.0' } }, (r) => {
+        let d = '';
+        r.on('data', c => d += c);
+        r.on('end', () => { try { resolve(JSON.parse(d)); } catch(e) { resolve({ transactions: [] }); } });
+      }).on('error', () => resolve({ transactions: [] }));
+    });
+
+    const txns = (trades.transactions || []).slice(0, 20).map(t => ({
+      ticker: t.ticker || 'N/A',
+      asset: t.asset_name || t.asset_description || 'Unknown',
+      type: t.transaction_type || '?',
+      date: (t.transaction_date || '').substring(0, 10),
+      amount: t.amount_range_label || `$${(t.amount_range_low || 0).toLocaleString()} - $${(t.amount_range_high || 0).toLocaleString()}`,
+      owner: ({SP:'Spouse',CH:'Child',SJ:'Joint',self:'Self',O:'Other'})[t.owner] || 'Self',
+      filing_date: (t.filing_date || '').substring(0, 10)
+    }));
+
+    res.json({ trades: txns, error: null });
+  } catch(e) {
+    res.json({ trades: [], error: e.message });
+  }
+});
+
 // GET /api/state/:code — House + Senate members for a state (current members only)
 app.get('/api/state/:code', apiLimiter, async (req, res) => {
   const code = req.params.code.toUpperCase().replace(/[^A-Z]/g, '');
